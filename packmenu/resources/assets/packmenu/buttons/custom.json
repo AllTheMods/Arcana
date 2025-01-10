@@ -1,0 +1,14 @@
+{
+    "x": 2,
+    "y": 48,
+    "width": 98,
+    "height": 20,
+    "action": {
+        "type": "packmenu:open_url",
+        "url": "https://www.akliz.net/atmgravitas"
+    },
+    "text": {
+        "key": "Get A Server",
+        "x_offset": 0
+    }
+}

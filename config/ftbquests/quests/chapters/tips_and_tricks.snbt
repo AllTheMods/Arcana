@@ -1,0 +1,503 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "tips_and_tricks"
+	group: ""
+	icon: {
+		id: "minecraft:recovery_compass"
+	}
+	id: "1BE666F01EFFC00D"
+	images: [{
+		height: 3.0d
+		image: "atm:textures/questpics/tips_and_tricks.png"
+		rotation: 0.0d
+		width: 12.0d
+		x: 0.0d
+		y: -2.0d
+	}]
+	order_index: 3
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "722978AC0C1B2649"
+			rewards: [
+				{
+					id: "145F9B3A17676EAA"
+					item: {
+						count: 1
+						id: "pipez:fluid_pipe"
+					}
+					type: "item"
+				}
+				{
+					id: "1159FE6CDF262C46"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "6855AE257D62AA37"
+				item: { count: 1, id: "cookingforblockheads:sink" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "7EC8814940C4C3D7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6BCF264E89365C5D"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "105CF4B42684C297"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "30C938C85BED7956"
+				item: { count: 1, id: "shrink:shrinking_device" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			id: "378C95C18798D413"
+			rewards: [
+				{
+					count: 2
+					id: "40BCE4D56FE98018"
+					item: {
+						count: 1
+						id: "toolbelt:pouch"
+					}
+					type: "item"
+				}
+				{
+					id: "4E495FC797AED7A4"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "7FD9A02EA29669F6"
+				item: { count: 1, id: "toolbelt:belt" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"722978AC0C1B2649"
+				"7EC8814940C4C3D7"
+				"378C95C18798D413"
+				"3B4BF42C55C8BBBF"
+				"637981B64BBE0D92"
+				"0E9CE6241CDBC420"
+				"32ECD93A8F2FAB8F"
+				"47043AF7D1FABC43"
+				"51538F4DCE24E3E7"
+				"6E17595887A051C2"
+			]
+			hide_dependency_lines: true
+			id: "0F8F37D7E12078F5"
+			rewards: [{
+				id: "4B75B944FD221D3F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			size: 1.25d
+			tasks: [{
+				id: "42DA8E971B27ACED"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "0C856BBB1679A7DD"
+			rewards: [{
+				id: "5FA6EA3609ABF6BE"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "3DC008A578A93CCF"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "70B6C9409AE69284"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "262AC9191FD415A3"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "727954DC34582543"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "58E3131A3EA2661E"
+				item: { components: { "ftbfiltersystem:filter": "or(item(naturescompass:naturescompass)item(explorerscompass:explorerscompass))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "0790D3BB481162A6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F7684F76C15123A"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "79453E57C95043BD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "6038387EA35404CD"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(crafting_on_a_stick))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "28E60192912BEBAD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7CCFFBC576CC4D3E"
+					table_id: 487623848494439020L
+					type: "loot"
+				}
+				{
+					id: "00E8AD05DE1012D8"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "157C28027F8EEFFE"
+				item: { components: { "easy_villagers:villager": { } }, count: 1, id: "easy_villagers:villager" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			id: "7A514E27E1A7FE32"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6D44B1DE7B009082"
+					table_id: 487623848494439020L
+					type: "loot"
+				}
+				{
+					id: "44FE2E9B40EF0EE1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "47A1F59A538E3C4B"
+				item: { components: { "ftbfiltersystem:filter": "or(item(buildinggadgets2:gadget_building)item(buildinggadgets2:gadget_exchanging)item(buildinggadgets2:gadget_copy_paste)item(buildinggadgets2:gadget_cut_paste)item(buildinggadgets2:gadget_destruction))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			id: "5EE945A1185E8336"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3650502ECF1ACC45"
+					table_id: 487623848494439020L
+					type: "loot"
+				}
+				{
+					id: "43F516E0BB34B39A"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "3B1F1A7CAC8B7BC7"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(functionalstorage:drawer)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			id: "0152938EE5651409"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [
+				{
+					id: "4AEB792F6A939B3A"
+					type: "checkmark"
+				}
+				{
+					id: "6A965CD027BF762F"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "utilitarian:white_trapped_soliciting_carpet"
+			}
+			id: "219AA017149C36E2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "127E7D75FED16CC1"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "5D49D26FB7E63F55"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "0D5203048B6E068C"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(the_bumblezone:bee_queen/dedicated_trade_tags/modded/utilitarian_trapped_soliciting_carpets)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			id: "3B4BF42C55C8BBBF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "50ADC1136A3A00BD"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "1E63E6B512FFCFD2"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "091A3EB6AB0FF2D5"
+				item: { count: 1, id: "simplemagnets:basicmagnet" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			id: "32ECD93A8F2FAB8F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E4447BBFFFE970F"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "12BED4D8DA2BCE0A"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "2EA9242315E51EDA"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:wood" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			id: "51538F4DCE24E3E7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5A5A4DD01955CC6D"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "608E5E2EB389DDA0"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "6A1E21A5F5AE29A8"
+				item: { count: 1, id: "multipiston:multipistonblock" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			id: "0E9CE6241CDBC420"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6CDEC4584B2F8285"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "51AF28BA3AAE9725"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "29447742E3F8B090"
+				item: { count: 1, id: "rangedpumps:pump" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "47043AF7D1FABC43"
+			rewards: [
+				{
+					count: 3
+					id: "680C6093F4B4E150"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D6D1881953027DC"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "5BA3AF7836CA9E14"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "279AB1DAAFD60C52"
+				item: { count: 1, id: "disenchanting_table:disenchanting_table" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			id: "637981B64BBE0D92"
+			rewards: [
+				{
+					id: "346B64D599131B3F"
+					item: {
+						components: {
+							"mekanism:energy": {
+								energy_containers: [L;4000000L]
+							}
+						}
+						count: 1
+						id: "mekanism:basic_energy_cube"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "30658ECCE91B8F84"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "68E88ABAFD1D5807"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "1DFE7CC129B8B13A"
+				item: { count: 1, id: "charginggadgets:charging_station" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["28E60192912BEBAD"]
+			hide_until_deps_complete: true
+			id: "6E17595887A051C2"
+			min_width: 300
+			rewards: [
+				{
+					count: 2
+					id: "41BC2E08BA4E2BC7"
+					item: {
+						components: {
+							"easy_villagers:villager": { }
+						}
+						count: 1
+						id: "easy_villagers:villager"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D882840678CDAD4"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "54539646780D2270"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "6E44925E265DC7E2"
+				item: { components: { "ftbfiltersystem:filter": "or(item(modern_industrialization:forge_hammer)item(ae2:charger)item(actuallyadditions:coffee_machine)item(ars_nouveau:arcane_core)item(biomeswevegone:foragers_table)item(railcraft:manual_rolling_machine)item(railcraft:powered_rolling_machine)item(immersiveengineering:craftingtable)item(immersiveengineering:workbench)item(immersiveengineering:circuit_table)item(immersiveengineering:turntable)item(minecraft:white_banner)item(pneumaticcraft:charging_station)item(sawmill:sawmill)item_tag(productivebees:advanced_beehives))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+	]
+}
