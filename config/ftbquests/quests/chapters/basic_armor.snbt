@@ -22,7 +22,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_trims.png"
 			rotation: 0.0d
 			width: 9.982142857142858d
-			x: 15.0d
+			x: -4.0d
 			y: 6.0d
 		}
 		{
@@ -30,7 +30,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_colors.png"
 			rotation: 0.0d
 			width: 9.5d
-			x: -4.0d
+			x: 15.5d
 			y: 6.0d
 		}
 		{
@@ -38,7 +38,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_7.png"
 			rotation: 0.0d
 			width: 0.8059701492537313d
-			x: -10.5d
+			x: -8.0d
 			y: -7.5d
 		}
 		{
@@ -47,7 +47,7 @@
 			rotation: 0.0d
 			width: 1.4029850746268657d
 			x: 0.5d
-			y: -10.5d
+			y: -9.5d
 		}
 		{
 			height: 1.0d
@@ -62,7 +62,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_24.png"
 			rotation: 0.0d
 			width: 1.4029850746268657d
-			x: 12.5d
+			x: 10.5d
 			y: -8.5d
 		}
 		{
@@ -70,7 +70,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_32.png"
 			rotation: 0.0d
 			width: 1.4029850746268657d
-			x: 17.5d
+			x: 13.0d
 			y: -8.5d
 		}
 		{
@@ -78,7 +78,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_40.png"
 			rotation: 0.0d
 			width: 2.0d
-			x: 20.5d
+			x: 15.3d
 			y: -8.5d
 		}
 		{
@@ -86,7 +86,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -11.5d
+			x: -9.0d
 			y: -7.5d
 		}
 		{
@@ -95,7 +95,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -0.5d
-			y: -10.5d
+			y: -9.5d
 		}
 		{
 			height: 1.0d
@@ -110,7 +110,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 11.5d
+			x: 9.5d
 			y: -8.5d
 		}
 		{
@@ -118,7 +118,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 16.5d
+			x: 12.0d
 			y: -8.5d
 		}
 		{
@@ -126,7 +126,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 19.25d
+			x: 14.5d
 			y: -8.5d
 		}
 		{
@@ -134,7 +134,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_11.png"
 			rotation: 0.0d
 			width: 1.3880597014925373d
-			x: -6.5d
+			x: -5.0d
 			y: -7.5d
 		}
 		{
@@ -142,7 +142,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -7.5d
+			x: -6.0d
 			y: -7.5d
 		}
 		{
@@ -268,7 +268,7 @@
 					type: "item"
 				}
 			]
-			x: -11.0d
+			x: -8.5d
 			y: -6.0d
 		}
 		{
@@ -302,7 +302,7 @@
 					type: "item"
 				}
 			]
-			x: -5.0d
+			x: -3.5d
 			y: -6.0d
 		}
 		{
@@ -336,7 +336,7 @@
 					type: "item"
 				}
 			]
-			x: -7.0d
+			x: -5.5d
 			y: -6.0d
 		}
 		{
@@ -468,7 +468,7 @@
 					type: "item"
 				}
 			]
-			x: 12.0d
+			x: 10.0d
 			y: -6.0d
 		}
 		{
@@ -501,7 +501,7 @@
 					type: "item"
 				}
 			]
-			x: 17.0d
+			x: 12.5d
 			y: -6.0d
 		}
 		{
@@ -534,7 +534,7 @@
 					type: "item"
 				}
 			]
-			x: 20.0d
+			x: 15.0d
 			y: -6.0d
 		}
 		{
@@ -567,7 +567,7 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
+			x: 10.5d
 			y: -7.5d
 		}
 		{
@@ -600,7 +600,7 @@
 					type: "item"
 				}
 			]
-			x: 11.5d
+			x: 9.5d
 			y: -7.5d
 		}
 		{
@@ -633,7 +633,7 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
+			x: 13.0d
 			y: -7.5d
 		}
 		{
@@ -666,7 +666,7 @@
 					type: "item"
 				}
 			]
-			x: 16.5d
+			x: 12.0d
 			y: -7.5d
 		}
 		{
@@ -699,7 +699,7 @@
 					type: "item"
 				}
 			]
-			x: 20.5d
+			x: 15.5d
 			y: -7.5d
 		}
 		{
@@ -732,41 +732,8 @@
 					type: "item"
 				}
 			]
-			x: 19.5d
-			y: -7.5d
-		}
-		{
-			id: "3416DB9F58D8AA2C"
-			optional: true
-			rewards: [{
-				id: "52F86E32FB5B4D9A"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			tasks: [
-				{
-					id: "5C3D57C3DC6389D6"
-					item: { count: 1, id: "aquaculture:neptunium_helmet" }
-					type: "item"
-				}
-				{
-					id: "36A182140F11F8DA"
-					item: { count: 1, id: "aquaculture:neptunium_chestplate" }
-					type: "item"
-				}
-				{
-					id: "447F6633FCB0F52F"
-					item: { count: 1, id: "aquaculture:neptunium_leggings" }
-					type: "item"
-				}
-				{
-					id: "37A54B1EAC7AC3EC"
-					item: { count: 1, id: "aquaculture:neptunium_boots" }
-					type: "item"
-				}
-			]
 			x: 14.5d
-			y: -6.5d
+			y: -7.5d
 		}
 		{
 			id: "79D3055DE0EEA6B0"
@@ -963,7 +930,7 @@
 					type: "item"
 				}
 			]
-			x: -7.0d
+			x: -5.5d
 			y: -4.5d
 		}
 		{
@@ -997,7 +964,7 @@
 				}
 			]
 			x: -0.5d
-			y: -9.5d
+			y: -4.5d
 		}
 		{
 			id: "0E2515424291BB59"
@@ -1062,7 +1029,7 @@
 					type: "item"
 				}
 			]
-			x: 11.5d
+			x: 9.5d
 			y: -4.5d
 		}
 		{
@@ -1195,40 +1162,7 @@
 				}
 			]
 			x: 0.0d
-			y: -2.5d
-		}
-		{
-			id: "50B127137AA9E660"
-			optional: true
-			rewards: [{
-				id: "732895E499080E61"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [
-				{
-					id: "2ACCBA73F15785AE"
-					item: { count: 1, id: "everythingcopper:copper_helmet" }
-					type: "item"
-				}
-				{
-					id: "140EC910C2EAD46F"
-					item: { count: 1, id: "everythingcopper:copper_chestplate" }
-					type: "item"
-				}
-				{
-					id: "6EB023B3AEF61518"
-					item: { count: 1, id: "everythingcopper:copper_leggings" }
-					type: "item"
-				}
-				{
-					id: "5EE73B206A8A3021"
-					item: { count: 1, id: "everythingcopper:copper_boots" }
-					type: "item"
-				}
-			]
-			x: -3.5d
-			y: -6.0d
+			y: -3.5d
 		}
 		{
 			id: "24A7B2902E7430A1"
@@ -1261,7 +1195,7 @@
 				}
 			]
 			x: 0.5d
-			y: -9.5d
+			y: -4.5d
 		}
 		{
 			id: "654F5C84114A31A1"
@@ -1561,568 +1495,6 @@
 			y: -7.5d
 		}
 		{
-			id: "10AA2B20D86747F7"
-			optional: true
-			rewards: [{
-				id: "48ED09009D69EF9D"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [
-				{
-					id: "429ABBB335060B56"
-					item: { count: 1, id: "justdirethings:ferricore_helmet" }
-					type: "item"
-				}
-				{
-					id: "4E440D58176EF222"
-					item: { count: 1, id: "justdirethings:ferricore_chestplate" }
-					type: "item"
-				}
-				{
-					id: "7744445D4789FA18"
-					item: { count: 1, id: "justdirethings:ferricore_leggings" }
-					type: "item"
-				}
-				{
-					id: "647165407914811B"
-					item: { count: 1, id: "justdirethings:ferricore_boots" }
-					type: "item"
-				}
-			]
-			x: 0.5d
-			y: -4.5d
-		}
-		{
-			id: "1A8440C0048EEB02"
-			optional: true
-			rewards: [{
-				id: "5B06D1CF3D21210D"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [
-				{
-					id: "27BB1E6E9B5FCE51"
-					item: { count: 1, id: "justdirethings:blazegold_helmet" }
-					type: "item"
-				}
-				{
-					id: "7A55423154C9934C"
-					item: { count: 1, id: "justdirethings:blazegold_chestplate" }
-					type: "item"
-				}
-				{
-					id: "22DC02662BE956B9"
-					item: { count: 1, id: "justdirethings:blazegold_leggings" }
-					type: "item"
-				}
-				{
-					id: "33CF932F65042258"
-					item: { count: 1, id: "justdirethings:blazegold_boots" }
-					type: "item"
-				}
-			]
-			x: -0.5d
-			y: -4.5d
-		}
-		{
-			id: "7B500E0577BDFF8F"
-			optional: true
-			rewards: [{
-				id: "3E098447CDFFED2D"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "436D86DBBB5AAABE"
-					item: { count: 1, id: "mekanismtools:bronze_helmet" }
-					type: "item"
-				}
-				{
-					id: "6D9FECCEE43C2CB0"
-					item: { count: 1, id: "mekanismtools:bronze_chestplate" }
-					type: "item"
-				}
-				{
-					id: "5C73824CCD316E64"
-					item: { count: 1, id: "mekanismtools:bronze_leggings" }
-					type: "item"
-				}
-				{
-					id: "595619646691B1BE"
-					item: { count: 1, id: "mekanismtools:bronze_boots" }
-					type: "item"
-				}
-			]
-			x: 4.0d
-			y: -5.5d
-		}
-		{
-			id: "65A529C8238E89F1"
-			optional: true
-			rewards: [{
-				id: "007605B69AE469F4"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			tasks: [
-				{
-					id: "4B0B4C53DEB8A376"
-					item: { count: 1, id: "mekanismtools:lapis_lazuli_helmet" }
-					type: "item"
-				}
-				{
-					id: "2F9748321AFC6681"
-					item: { count: 1, id: "mekanismtools:lapis_lazuli_chestplate" }
-					type: "item"
-				}
-				{
-					id: "66BB9F4D1615A4B9"
-					item: { count: 1, id: "mekanismtools:lapis_lazuli_leggings" }
-					type: "item"
-				}
-				{
-					id: "501A405AAD40748E"
-					item: { count: 1, id: "mekanismtools:lapis_lazuli_boots" }
-					type: "item"
-				}
-			]
-			x: -9.5d
-			y: -6.0d
-		}
-		{
-			id: "71C552678A0F649F"
-			optional: true
-			rewards: [{
-				id: "17FF8F329CEA32E7"
-				type: "xp_levels"
-				xp_levels: 4
-			}]
-			tasks: [
-				{
-					id: "1839646B0B81353C"
-					item: { count: 1, id: "mekanismtools:osmium_helmet" }
-					type: "item"
-				}
-				{
-					id: "1AFBFF15FD296C70"
-					item: { count: 1, id: "mekanismtools:osmium_chestplate" }
-					type: "item"
-				}
-				{
-					id: "29C039C02578FEB2"
-					item: { count: 1, id: "mekanismtools:osmium_leggings" }
-					type: "item"
-				}
-				{
-					id: "62F1B71ACCB69230"
-					item: { count: 1, id: "mekanismtools:osmium_boots" }
-					type: "item"
-				}
-			]
-			x: 9.5d
-			y: -5.5d
-		}
-		{
-			id: "5865951E4F81C91F"
-			optional: true
-			rewards: [{
-				id: "2A865F025EBDE00E"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "65F5575F68CF4171"
-					item: { count: 1, id: "mekanismtools:refined_glowstone_helmet" }
-					type: "item"
-				}
-				{
-					id: "041FD3677DD4276E"
-					item: { count: 1, id: "mekanismtools:refined_glowstone_chestplate" }
-					type: "item"
-				}
-				{
-					id: "69E870991EFFE815"
-					item: { count: 1, id: "mekanismtools:refined_glowstone_leggings" }
-					type: "item"
-				}
-				{
-					id: "0219E38BCBC6C616"
-					item: { count: 1, id: "mekanismtools:refined_glowstone_boots" }
-					type: "item"
-				}
-			]
-			x: 6.0d
-			y: -2.5d
-		}
-		{
-			id: "7FABB77A60E7962C"
-			optional: true
-			rewards: [{
-				id: "1B3545231F7B9EF5"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			tasks: [
-				{
-					id: "75711D82EFA04346"
-					item: { count: 1, id: "mekanismtools:refined_obsidian_helmet" }
-					type: "item"
-				}
-				{
-					id: "4CA3255601BE7255"
-					item: { count: 1, id: "mekanismtools:refined_obsidian_chestplate" }
-					type: "item"
-				}
-				{
-					id: "307DFA9A7C916D7B"
-					item: { count: 1, id: "mekanismtools:refined_obsidian_leggings" }
-					type: "item"
-				}
-				{
-					id: "6C59F1DC9176C105"
-					item: { count: 1, id: "mekanismtools:refined_obsidian_boots" }
-					type: "item"
-				}
-			]
-			x: 15.5d
-			y: -6.5d
-		}
-		{
-			id: "3ABE7074E500494D"
-			optional: true
-			rewards: [{
-				id: "00764DBB880597CD"
-				type: "xp_levels"
-				xp_levels: 4
-			}]
-			tasks: [
-				{
-					id: "2F8DB1CE194868CA"
-					item: { count: 1, id: "mekanismtools:steel_helmet" }
-					type: "item"
-				}
-				{
-					id: "5B7E367FC534CFEB"
-					item: { count: 1, id: "mekanismtools:steel_chestplate" }
-					type: "item"
-				}
-				{
-					id: "0A4AB0F3F8E5CA97"
-					item: { count: 1, id: "mekanismtools:steel_leggings" }
-					type: "item"
-				}
-				{
-					id: "4B182CB9719780A1"
-					item: { count: 1, id: "mekanismtools:steel_boots" }
-					type: "item"
-				}
-			]
-			x: 8.0d
-			y: -7.5d
-		}
-		{
-			id: "3403D7502F7BC897"
-			optional: true
-			rewards: [{
-				id: "324ADE86F3B1C9DA"
-				type: "xp_levels"
-				xp_levels: 100
-			}]
-			size: 1.5d
-			tasks: [
-				{
-					id: "2EE6EF6F3016B050"
-					item: { count: 1, id: "modern_industrialization:quantum_helmet" }
-					type: "item"
-				}
-				{
-					id: "6693F8A2AE3002CE"
-					item: { count: 1, id: "modern_industrialization:quantum_chestplate" }
-					type: "item"
-				}
-				{
-					id: "5AC9B88DE39494F1"
-					item: { count: 1, id: "modern_industrialization:quantum_leggings" }
-					type: "item"
-				}
-				{
-					id: "41E743C112F4A0E3"
-					item: { count: 1, id: "modern_industrialization:quantum_boots" }
-					type: "item"
-				}
-			]
-			x: 24.0d
-			y: -6.0d
-		}
-		{
-			id: "13517D17E6BF015F"
-			optional: true
-			rewards: [{
-				id: "06B3BF837BE057D7"
-				type: "xp_levels"
-				xp_levels: 4
-			}]
-			tasks: [
-				{
-					id: "7A5BBA1D6A79CB59"
-					item: { count: 1, id: "mysticalagriculture:inferium_helmet" }
-					type: "item"
-				}
-				{
-					id: "1E6EFB4C151206F8"
-					item: { count: 1, id: "mysticalagriculture:inferium_chestplate" }
-					type: "item"
-				}
-				{
-					id: "55752364700F6852"
-					item: { count: 1, id: "mysticalagriculture:inferium_leggings" }
-					type: "item"
-				}
-				{
-					id: "0B5E2A236E49931A"
-					item: { count: 1, id: "mysticalagriculture:inferium_boots" }
-					type: "item"
-				}
-			]
-			x: 9.5d
-			y: -6.5d
-		}
-		{
-			id: "52B61FB01D7C12A4"
-			optional: true
-			rewards: [{
-				id: "36AD1914953921C3"
-				type: "xp_levels"
-				xp_levels: 4
-			}]
-			tasks: [
-				{
-					id: "0A2F167A592A03FF"
-					item: { count: 1, id: "mysticalagriculture:prudentium_helmet" }
-					type: "item"
-				}
-				{
-					id: "455EEB95203AB2C1"
-					item: { count: 1, id: "mysticalagriculture:prudentium_chestplate" }
-					type: "item"
-				}
-				{
-					id: "1816E845DFB00FB2"
-					item: { count: 1, id: "mysticalagriculture:prudentium_leggings" }
-					type: "item"
-				}
-				{
-					id: "070788ED4A385CD1"
-					item: { count: 1, id: "mysticalagriculture:prudentium_boots" }
-					type: "item"
-				}
-			]
-			x: 10.5d
-			y: -6.0d
-		}
-		{
-			id: "2A4FE9644F3B9DC1"
-			optional: true
-			rewards: [{
-				id: "38792235C0B19983"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			tasks: [
-				{
-					id: "3FAA14639818B283"
-					item: { count: 1, id: "mysticalagriculture:tertium_helmet" }
-					type: "item"
-				}
-				{
-					id: "3DA810FD85216C14"
-					item: { count: 1, id: "mysticalagriculture:tertium_chestplate" }
-					type: "item"
-				}
-				{
-					id: "52A86202A4632CE2"
-					item: { count: 1, id: "mysticalagriculture:tertium_leggings" }
-					type: "item"
-				}
-				{
-					id: "683E8599462F64EF"
-					item: { count: 1, id: "mysticalagriculture:tertium_boots" }
-					type: "item"
-				}
-			]
-			x: 13.5d
-			y: -6.5d
-		}
-		{
-			id: "1D27EE427ECFD6CE"
-			optional: true
-			rewards: [{
-				id: "3AD1450F6E5CB2F5"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			tasks: [
-				{
-					id: "265F4E8E38DF5F51"
-					item: { count: 1, id: "mysticalagriculture:imperium_helmet" }
-					type: "item"
-				}
-				{
-					id: "430E26841A51369D"
-					item: { count: 1, id: "mysticalagriculture:imperium_chestplate" }
-					type: "item"
-				}
-				{
-					id: "0781B36B78C4D3AF"
-					item: { count: 1, id: "mysticalagriculture:imperium_leggings" }
-					type: "item"
-				}
-				{
-					id: "251DF4A14A8ABE99"
-					item: { count: 1, id: "mysticalagriculture:imperium_boots" }
-					type: "item"
-				}
-			]
-			x: 14.0d
-			y: -5.5d
-		}
-		{
-			id: "5064D5F99E2C69C8"
-			optional: true
-			rewards: [{
-				id: "380CA604F26FFE13"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			tasks: [
-				{
-					id: "3077436311A21FAC"
-					item: { count: 1, id: "mysticalagriculture:supremium_helmet" }
-					type: "item"
-				}
-				{
-					id: "07C88671CD328819"
-					item: { count: 1, id: "mysticalagriculture:supremium_chestplate" }
-					type: "item"
-				}
-				{
-					id: "3668A4099BA73F59"
-					item: { count: 1, id: "mysticalagriculture:supremium_leggings" }
-					type: "item"
-				}
-				{
-					id: "17633E850CE9123B"
-					item: { count: 1, id: "mysticalagriculture:supremium_boots" }
-					type: "item"
-				}
-			]
-			x: 15.0d
-			y: -5.5d
-		}
-		{
-			id: "4A9CB8778D37049F"
-			optional: true
-			rewards: [{
-				id: "0BC4D1F9C0EC1D8B"
-				type: "xp_levels"
-				xp_levels: 10
-			}]
-			tasks: [
-				{
-					id: "3278FDF6FE5CB147"
-					item: { count: 1, id: "mysticalagriculture:awakened_supremium_helmet" }
-					type: "item"
-				}
-				{
-					id: "0655305833BE4784"
-					item: { count: 1, id: "mysticalagriculture:awakened_supremium_chestplate" }
-					type: "item"
-				}
-				{
-					id: "371874FEFCA1DEBF"
-					item: { count: 1, id: "mysticalagriculture:awakened_supremium_leggings" }
-					type: "item"
-				}
-				{
-					id: "5D625B465A9A369C"
-					item: { count: 1, id: "mysticalagriculture:awakened_supremium_boots" }
-					type: "item"
-				}
-			]
-			x: 18.5d
-			y: -6.0d
-		}
-		{
-			id: "6ED2CDD01659FD10"
-			optional: true
-			rewards: [{
-				id: "4FF3A339551E94A7"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [
-				{
-					id: "10B65DF825ACC0E7"
-					item: { count: 1, id: "pneumaticcraft:compressed_iron_helmet" }
-					type: "item"
-				}
-				{
-					id: "576227D79B7D383D"
-					item: { count: 1, id: "pneumaticcraft:compressed_iron_chestplate" }
-					type: "item"
-				}
-				{
-					id: "1F8EDC8EC7DE17E0"
-					item: { count: 1, id: "pneumaticcraft:compressed_iron_leggings" }
-					type: "item"
-				}
-				{
-					id: "4671FA2855861C13"
-					item: { count: 1, id: "pneumaticcraft:compressed_iron_boots" }
-					type: "item"
-				}
-			]
-			x: -0.5d
-			y: -3.5d
-		}
-		{
-			id: "21B96130EA516B82"
-			optional: true
-			rewards: [{
-				id: "4F662D05711FE1AF"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [
-				{
-					id: "4465B6869AE17E55"
-					item: { count: 1, id: "pneumaticcraft:pneumatic_helmet" }
-					type: "item"
-				}
-				{
-					id: "2B43CB444C83837B"
-					item: { count: 1, id: "pneumaticcraft:pneumatic_chestplate" }
-					type: "item"
-				}
-				{
-					id: "04B22B466FEC9D56"
-					item: { count: 1, id: "pneumaticcraft:pneumatic_leggings" }
-					type: "item"
-				}
-				{
-					id: "69BF0D085629B116"
-					item: { count: 1, id: "pneumaticcraft:pneumatic_boots" }
-					type: "item"
-				}
-			]
-			x: 0.5d
-			y: -3.5d
-		}
-		{
 			id: "1EBF234015B26F15"
 			optional: true
 			rewards: [{
@@ -2218,7 +1590,7 @@
 					type: "item"
 				}
 			]
-			x: -8.5d
+			x: -7.0d
 			y: -5.5d
 		}
 		{
@@ -2251,7 +1623,7 @@
 					type: "item"
 				}
 			]
-			x: -8.5d
+			x: -7.0d
 			y: -6.5d
 		}
 		{
@@ -2318,7 +1690,7 @@
 				}
 			]
 			x: 4.0d
-			y: -6.5d
+			y: -6.0d
 		}
 		{
 			id: "2C387BFA6EE6FDB7"
@@ -2351,7 +1723,7 @@
 				}
 			]
 			x: 8.0d
-			y: -8.5d
+			y: -7.5d
 		}
 		{
 			id: "338BD467EBE6EE1F"
@@ -3237,40 +2609,6 @@
 			y: 4.75d
 		}
 		{
-			id: "1C27C74722A19FC1"
-			optional: true
-			rewards: [{
-				id: "6E5F0AC6B137FDC9"
-				type: "xp_levels"
-				xp_levels: 30
-			}]
-			size: 1.5d
-			tasks: [
-				{
-					id: "5E5BB51E9BFAECA7"
-					item: { count: 1, id: "mekanism:mekasuit_helmet" }
-					type: "item"
-				}
-				{
-					id: "65CB753515B752BB"
-					item: { count: 1, id: "mekanism:mekasuit_bodyarmor" }
-					type: "item"
-				}
-				{
-					id: "4900B2531D78CCE1"
-					item: { count: 1, id: "mekanism:mekasuit_pants" }
-					type: "item"
-				}
-				{
-					id: "0D8A0F6AAACD4490"
-					item: { count: 1, id: "mekanism:mekasuit_boots" }
-					type: "item"
-				}
-			]
-			x: 22.0d
-			y: -6.75d
-		}
-		{
 			id: "7F11ABFB2E21B7E4"
 			rewards: [{
 				count: 4
@@ -3438,7 +2776,7 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
+			x: 10.5d
 			y: -4.5d
 		}
 		{
@@ -3506,40 +2844,6 @@
 			]
 			x: 8.0d
 			y: -3.5d
-		}
-		{
-			id: "34D14B807A2DAC0F"
-			optional: true
-			rewards: [{
-				id: "0ECF71F2441B23CC"
-				type: "xp_levels"
-				xp_levels: 30
-			}]
-			size: 1.5d
-			tasks: [
-				{
-					id: "727964D51499ECB2"
-					item: { count: 1, id: "advanced_ae:quantum_helmet" }
-					type: "item"
-				}
-				{
-					id: "0900CB4ED4965457"
-					item: { count: 1, id: "advanced_ae:quantum_chestplate" }
-					type: "item"
-				}
-				{
-					id: "1189063326965BEE"
-					item: { count: 1, id: "advanced_ae:quantum_leggings" }
-					type: "item"
-				}
-				{
-					id: "22BC32353519A498"
-					item: { count: 1, id: "advanced_ae:quantum_boots" }
-					type: "item"
-				}
-			]
-			x: 22.0d
-			y: -5.25d
 		}
 		{
 			id: "055CCAE237DF3EEF"

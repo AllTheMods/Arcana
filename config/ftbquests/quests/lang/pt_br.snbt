@@ -13,7 +13,6 @@
 	chapter.193F91842D2ED7D9.title: "Industrial Foregoing"
 	chapter.1B175B2C955D8395.title: "Todo o modio"
 	chapter.1B8E80D09BFBD0C0.title: "Eidolon: Repraised"
-	chapter.1BE666F01EFFC00D.title: "Dicas e truques"
 	chapter.1D42B373285DEF81.title: "Silent Gear"
 	chapter.1DB294A8F8686321.title: "Armazenamento Básico"
 	chapter.220BE62A7F8EA359.title: "Módulo Ponto Zero"
@@ -56,7 +55,6 @@
 	chapter_group.1DA67E79B40AB130.title: "GregTech®"
 	chapter_group.2084F3F6FB861C5B.title: "Linha de missão principal"
 	chapter_group.22FB35B0FEF1343D.title: "Ferramentas e armas"
-	chapter_group.2B51AC12041E3F89.title: "Tecnologia"
 	chapter_group.6614EE2378B8AFB9.title: "Recursos"
 	chapter_group.752CDE464613A1ED.title: "Exploração"
 	quest.0012EC5DDAEB7D5B.quest_desc: ["Este multibloco pode não ser usado em tantas quantidades quanto as outras estruturas multibloco, mas provará seu valor, eu prometo!"]
@@ -436,7 +434,7 @@
 	quest.04E2D539E33B7B0F.quest_subtitle: "O Combinador Químico"
 	quest.050AAD831C0AE375.title: "Carne Rejuvenescida"
 	quest.0515422E36E4E9A3.quest_desc: ["Concede invisibilidade ao se esgueirar."]
-	quest.051E0C85E7B71CE0.quest_desc: ["Presumo que você esteja minerando, certo? Afinal, é MINEcraft.\\n\\nVocê encontrará muitos minérios novos que podem confundi-lo, mas você pode se limitar aos materiais básicos para começar!\\n\\nO cobre é abundante e tem muitos usos para coisas como &aOre Hammers&r ou &eDrawer Upgrades&r, então certifique-se de pegar bastante!\\n\\nO ferro é provavelmente um dos minérios mais importantes que você desejará obter sempre que encontrá-lo. O mundo do MC modificado funciona praticamente no Iron."]
+	quest.051E0C85E7B71CE0.quest_desc: ["Presumo que você esteja minerando, certo? Afinal, é MINEcraft.\n\nVocê encontrará muitos minérios novos que podem confundi-lo, mas você pode se limitar aos materiais básicos para começar!\n\nO cobre é abundante e tem muitos usos para coisas como &aOre Hammers&r ou &eDrawer Upgrades&r, então certifique-se de pegar bastante!\n\nO ferro é provavelmente um dos minérios mais importantes que você desejará obter sempre que encontrá-lo. O mundo do MC modificado funciona praticamente no Iron."]
 	quest.051E0C85E7B71CE0.title: "A Era do &9Metal&r"
 	quest.054D2D3C20C2D32F.quest_desc: [
 		"Você fez isso!"
@@ -455,7 +453,7 @@
 	]
 	quest.05618FE80F2E0372.title: "&9O Cristal de Infusão&r"
 	quest.0583862ED0114442.quest_subtitle: "&f4&r &4Dano&r"
-	quest.05850541675B2493.quest_desc: ["Significa. \\n\\nVocê criou a ATM Star, isso significa que você terminou o modpack!\\n\\nO que vai ser agora?"]
+	quest.05850541675B2493.quest_desc: ["Significa. \n\nVocê criou a ATM Star, isso significa que você terminou o modpack!\n\nO que vai ser agora?"]
 	quest.05850541675B2493.quest_subtitle: "Isso significa que você venceu?"
 	quest.05A845C811A9A4A0.quest_desc: [
 		"Embora os &bManaweave Robes&r não ofereçam a maior proteção geral, o bônus do conjunto é muito poderoso!"
@@ -544,13 +542,6 @@
 		"Para se tornar um Spirit Hunter, você precisa primeiro criar o &dVengeance Focus&r. Isso é usado para &aFreeze Spirits&r no lugar, então você coloca uma &9Box of Eternal Closure&r perto do Spirit. Isso sugará o Espírito para uso posterior."
 	]
 	quest.066438B01655D866.title: "Capturando &dSpirits&r"
-	quest.0682DC1F2417DAEB.quest_desc: [
-		"Functional Storage é um mod para armazenar pilhas dos mesmos itens. "
-		""
-		"Isso é útil para itens como Cobblestone, Dirt, etc."
-	]
-	quest.0682DC1F2417DAEB.quest_subtitle: "Gavetas de armazenamento parente distante"
-	quest.0682DC1F2417DAEB.title: "Armazenamento Funcional"
 	quest.068728DE3B9B13C3.quest_desc: [
 		"O &dSupercritical Phase Shifter&r (SPS, abreviadamente) é outra estrutura multibloco usada para infundir polônio com grandes quantidades de energia para criar gás &dAntimatter&r, que pode ser cristalizado em pellets."
 		""
@@ -608,14 +599,6 @@
 		"Todos os veios de minério GT foram movidos para a Dimensão de Mineração de todas as outras dimensões"
 	]
 	quest.072FA02152FBC5B1.title: "Minérios de camada do mundo superior"
-	quest.072FBEB0F6F1BC48.quest_desc: [
-		"Usado para vincular gavetas a um controlador e para vincular gavetas Ender. "
-		""
-		"Para vincular gavetas ao controlador, clique com o botão direito no bloco do controlador para iniciar a configuração. Clicar com o botão direito em Gavetas irá adicioná-los à rede. "
-		""
-		"Segurar a ferramenta mostrará quais gavetas estão conectadas ao controlador."
-	]
-	quest.072FBEB0F6F1BC48.title: "Ferramenta de vinculação"
 	quest.0737D64B0CCAE334.quest_desc: ["Ter um método otimizado para elaborá-los, que leva um tempo mínimo, irá beneficiá-lo à medida que avança."]
 	quest.0737D64B0CCAE334.quest_subtitle: "Invólucros de fusão... Novamente"
 	quest.0752E680F9DE4039.quest_desc: [
@@ -815,7 +798,6 @@
 	quest.0A3F4D7A15E61B43.quest_subtitle: "Casco de Teseu"
 	quest.0A6378C7455E45B1.quest_desc: ["Se você quiser o Mini Portal de Saída (Final), você precisará de algumas partes do Dragão e um Núcleo de Teletransporte Infundido Dracônico. Para conseguir isso, você precisará infundir um Núcleo de Teletransporte com Max &aEterna&r, entre &c45%%-50%% Quanta&r e Max &5Arcana&r. Um exemplo que você pode usar para infundir o núcleo seria &17 Echoing Sculkshelves&r e &d3 Draconic Endshelves&r. Em seguida, pegue seu Núcleo de Teletransporte Dracônico, um Ovo de Dragão (espero que você tenha peças sobressalentes), 3 Cristais Finais e 4 Poços de Fogo de Pedra Final. Em seguida, BOOM Mini (Fim) Sai do Portal."]
 	quest.0A6378C7455E45B1.title: "Portal de saída em miniatura"
-	quest.0A64D0937A5F7513.title: "Vara de Pesca Dourada"
 	quest.0A70CC1A0F4F1CD1.quest_subtitle: "Incomum"
 	quest.0A70CC1A0F4F1CD1.title: "&2Tecido Desgastado&r"
 	quest.0A848E0B9F485B2C.quest_desc: ["Com 16 deles em seu alto-forno elétrico, você pode preparar receitas de até c4500 Kelvin! Isso é 4.227 Celsius ou 7.640 Fahrenheit!"]
@@ -1127,8 +1109,6 @@
 	]
 	quest.0E4C711E77497984.quest_subtitle: "Claro que é Gears."
 	quest.0E51D6BB2BC756B6.quest_subtitle: "Contém no máximo 150 mil LP"
-	quest.0E5AE195158CF344.quest_subtitle: "Atualização de armazenamento x32"
-	quest.0E5AE195158CF344.title: "&5Atualização Netherite&r"
 	quest.0E603F1FE596DB2A.quest_desc: [
 		"Os transistores são verdadeiramente uma maravilha moderna e permitiram que a era eletrônica crescesse"
 		""
@@ -1158,7 +1138,7 @@
 		""
 		"Uma vez selecionado com o Ritual Diviner, clique com o botão direito em uma Master Ritual Stone até que a estrutura esteja completa. Você precisará de um monte de Pedras Rituais para realizar esses rituais. Assim que a estrutura estiver totalmente construída, você pode clicar com o botão direito na Pedra do Ritual Mestre com um Cristal de Ativação Fraco para ativá-la."
 	]
-	quest.0E8647B8EB4AAC41.title: "Slime Rosa \\\\&Carne Líquida"
+	quest.0E8647B8EB4AAC41.title: "Slime Rosa &Carne Líquida"
 	quest.0E9DE6293DF611E1.quest_desc: [
 		"Quer fazer o Overworld parecer mais com a Floresta do Crepúsculo?"
 		""
@@ -1417,7 +1397,7 @@
 	quest.117241986C99E475.title: "Abelhas Redstone"
 	quest.1178E4123E8818E2.quest_desc: ["Tempestade de areia em uma garrafa é um item que você usa para obter um efeito especial. Ele vai para o slot Belt e quando você pressiona o X padrão você se transforma em uma tempestade de areia. É apenas para movimento, pois você pode voar um pouco, não causa dano nem reflete, apenas movimento. Ele não nega o dano de queda, embora tenha muito cuidado ao sair dele."]
 	quest.1178E4123E8818E2.title: "Garrafa O' Tempestade de Areia"
-	quest.1187F9D4F4E0D254.quest_desc: ["A Chave Inglesa é uma ferramenta que pode fazer duas coisas: \\n-> Girar blocos \\n-> Quebrar tampas de armazenamento refinadas.\\n\\nBasta deslizar e clicar com o botão direito ao usar a Chave Inglesa."]
+	quest.1187F9D4F4E0D254.quest_desc: ["A Chave Inglesa é uma ferramenta que pode fazer duas coisas: \n-> Girar blocos \n-> Quebrar tampas de armazenamento refinadas.\n\nBasta deslizar e clicar com o botão direito ao usar a Chave Inglesa."]
 	quest.1187F9D4F4E0D254.quest_subtitle: "Você me gira"
 	quest.1187F9D4F4E0D254.title: "Chave inglesa"
 	quest.1194FF35ADAA9957.quest_desc: [
@@ -1881,7 +1861,6 @@
 	quest.16A6C47E35F3B9D0.title: "&3Combustível Físsil&r"
 	quest.16B44F78707E148E.quest_desc: ["Embora não seja necessário, o IV Macerator lhe dará um aumento de velocidade no processamento de Sheldonite, já que esta linha de processamento pode ser bastante &n&l&2TimeConsuming.&r&r&r"]
 	quest.16B44F78707E148E.quest_subtitle: "Ei, Macerador, Yaaah!"
-	quest.16D0F1E3CEB60ABF.title: "Vara de pesca de ferro"
 	quest.16E4EA08B647E8E0.quest_desc: ["Não importa o caminho que você seguiu para o seu armazenamento digital, um deles é necessário para tornar o &6Star&r!"]
 	quest.16E4EA08B647E8E0.title: "Terminais sem fio"
 	quest.1710B3D05215A71E.quest_desc: [
@@ -1986,9 +1965,6 @@
 		""
 		"Este é um ritual que você precisará completar usando um &9Ritual Brazier&r."
 	]
-	quest.17DC77F7F8C68AE6.quest_desc: ["Uma maneira de destruir itens, líquidos e energia indesejados."]
-	quest.17DC77F7F8C68AE6.quest_subtitle: "Livrar-se do excesso"
-	quest.17DC77F7F8C68AE6.title: "Latas de lixo"
 	quest.17F3AC15ADCFB175.quest_subtitle: "Mate 5 Endermen"
 	quest.17F3AC15ADCFB175.title: "&l&9The End Bounty:&r&e Endermen"
 	quest.17FCF0E1AA82E296.quest_desc: [
@@ -2154,15 +2130,6 @@
 	quest.19E0397F810D8787.quest_subtitle: "Somente os mortos-vivos transmitem essas vibrações. Mortos."
 	quest.1A000021C07943C4.quest_desc: ["Pegue aquele vapor que você estava fazendo e transforme-o em UE!"]
 	quest.1A000021C07943C4.quest_subtitle: "Sem energia, sem problemas"
-	quest.1A4B1CA7EC15348E.quest_desc: [
-		"Baús que funcionam em todas as dimensões. "
-		""
-		"Pode ser codificado por cores para segurança! (Clique com o botão direito no bloco com o corante desejado). "
-		""
-		"*Observação: se outra pessoa usar sua combinação de cores, ela poderá obter o conteúdo!"
-	]
-	quest.1A4B1CA7EC15348E.quest_subtitle: "Gaveta Dimensional... se preferir."
-	quest.1A4B1CA7EC15348E.title: "Gavetas Ender!"
 	quest.1A507E77BF750F60.quest_desc: ["A Mesa de Salvamento pode finalmente obter materiais e pó de pedras preciosas sem usar bigornas. Você pode reciclar ferramentas e armaduras com afixos para obter seus materiais. E quebrar a armadura do cavalo por algum motivo."]
 	quest.1A507E77BF750F60.title: "Mesa de Salvamento"
 	quest.1A73520CB284217F.quest_desc: [
@@ -2263,8 +2230,6 @@
 		"Este é um componente importante de elaboração em muitas receitas do Mekanismo."
 	]
 	quest.1B6DDF50D00CBB31.title: "Aço"
-	quest.1B72E95569B07E18.quest_subtitle: "Atualização de armazenamento x24"
-	quest.1B72E95569B07E18.title: "&bAtualização Diamante&r"
 	quest.1BA3D15FFE7DBE59.quest_desc: [
 		"Bem-vindo ao &bIndustrial Foregoing&r, um dos principais recursos deste mod, é o &fLatex.&r É usado para criar estruturas de máquinas, necessárias para fazer... bem... máquinas e atualizações."
 		""
@@ -2396,8 +2361,6 @@
 	quest.1DBC5E74958A62E6.quest_subtitle: "Duplique e passe para a próxima pessoa"
 	quest.1DBF5A76DCDF5E49.quest_desc: ["Você precisará de um pouco de Ruridit. Passifique suas linhas para manter um suprimento constante."]
 	quest.1DBF5A76DCDF5E49.quest_subtitle: "Eu tenho um mau pressentimento sobre isso."
-	quest.1DCAA0310AA55F1C.quest_desc: ["Mas ele geralmente fecha às 5, então quem se importa."]
-	quest.1DCAA0310AA55F1C.title: "O começo de um pescador"
 	quest.1DCFC67A8E3DCA2C.quest_desc: ["Semelhante ao Alchemy Catalyst, quando colocado sob uma Mana Pool, o &9Conjuration Catalyst&r desbloqueia a capacidade de usar receitas de conjuração."]
 	quest.1DDA5ADA11DF868F.quest_desc: ["Agora podemos atualizar nossos níveis de estruturas multibloco! EBF's, VF's, Crackers, LFD e muito mais! Eles podem processar mais rápido e processar materiais da camada &dLuV &r! Vamos!"]
 	quest.1DDA5ADA11DF868F.quest_subtitle: "Escotilha de energia LuV finalmente!"
@@ -2473,8 +2436,6 @@
 	quest.1E9B2D814F50A265.quest_desc: ["O &n&5Encased Fan&r é usado para puxar/empurrar itens e entidades se você girá-lo. A seta mostrará a direção para a qual está voltada e a direção de rotação determinará se ela empurra ou puxa."]
 	quest.1E9BD4B74DAEA9FC.quest_desc: ["Para atrair abelhas para este ninho, você precisará de frutas estouradas em vez de guloseimas de mel."]
 	quest.1E9BD4B74DAEA9FC.quest_subtitle: "Iscas em Ender Bees quando colocadas no End"
-	quest.1EBD5E4410A6DF34.quest_subtitle: "Alimente uma abelha fantasmagórica com uma adaga de Soulium!"
-	quest.1EBD5E4410A6DF34.title: "Abelha Soulium"
 	quest.1EF7664F5D8C5FF1.quest_desc: [
 		"Para criar um &dPortal para Alfheim&r, comece com o quadro. Precisaremos usar 8 blocos Livingwood, 3 blocos Glimmering Livingwood e um &9Elven Gateway Core&r para criar a moldura."
 		""
@@ -3153,9 +3114,6 @@
 	quest.272CB4EDED35C47B.quest_desc: ["Não importa o caminho que você seguiu para o seu armazenamento digital, um deles é necessário para tornar o &6Star&r!"]
 	quest.272CB4EDED35C47B.title: "Grande armazenamento digital"
 	quest.273DC98BA2785BD6.quest_desc: ["Dois deles podem elevar seus multiblocos até IV!"]
-	quest.2746575C929B6C50.quest_desc: ["Crie você mesmo uma gaveta 1x1. Este item contém uma tonelada de pilhas de 1 item."]
-	quest.2746575C929B6C50.quest_subtitle: "Pilhas em pilhas"
-	quest.2746575C929B6C50.title: "Minha primeira gaveta"
 	quest.277464BE6F96C082.quest_desc: [
 		"Paralelizar hachuras será extremamente importante, especialmente avançando com grandes estruturas multibloco!"
 		""
@@ -3431,13 +3389,6 @@
 		"{image:atm:textures/questpics/mek/sps_complete.png width:300 height:250 align:1}"
 	]
 	quest.2B3F2F470E06BC40.title: "Construa o SPS!"
-	quest.2B422B7E0CE3590D.quest_desc: [
-		"Este item pode converter itens colocados dentro de seus formatos de pepita ou bloco. "
-		""
-		"Por exemplo: Um Lingote de Ferro colocado aqui permitirá que você retire 9 pepitas ou, se mais ferro for colocado, irá convertê-lo em Blocos de Ferro."
-	]
-	quest.2B422B7E0CE3590D.quest_subtitle: "Converter automaticamente em blocos."
-	quest.2B422B7E0CE3590D.title: "Gaveta compactadora"
 	quest.2B539F4F290DC4CF.title: "Transmissor Nitro Player"
 	quest.2B5733BDAF83B2D4.title: "Veio de Quartzito"
 	quest.2B6AE772B72E6DD3.quest_desc: ["Você pode evitar cair na solução de bactérias. Você provavelmente sobreviverá, supondo que não tenha nenhum corte aberto..."]
@@ -3757,7 +3708,7 @@
 		"São estruturas pré-construídas que servem como mini-base na galáxia. Casa longe de casa é uma espécie de coisa."
 	]
 	quest.3017721842588919.title: "Estações Espaciais"
-	quest.3027584AA6138E6D.title: "Inserção \\\\&Extração de Transportador"
+	quest.3027584AA6138E6D.title: "Inserção &Extração de Transportador"
 	quest.3029E1E133B91ED8.quest_desc: ["O &n&5Drill&r quebrará qualquer bloco à sua frente. Se tiver um inventário conectado, os itens serão armazenados nele."]
 	quest.303A3AFA49DAC64F.quest_desc: [
 		"Agora podemos trazer um novo nível de potência para nossos Multiblocks!"
@@ -4011,8 +3962,6 @@
 	quest.3320ADFD7DC4CA00.quest_subtitle: "Aumenta a capacidade de RF e aumenta ligeiramente a transferência de RF"
 	quest.3339445194568D77.title: "&2Ferramentas e armas Prudentium&r"
 	quest.333D2A9F20B2E738.title: "Veia de Enxofre"
-	quest.33422FBDAE11AE82.quest_subtitle: "Alimente uma Abelha Espacial com uma Pérola Fluix!"
-	quest.33422FBDAE11AE82.title: "Abelha Fluix"
 	quest.33590A79C5C554C8.quest_desc: [
 		"Você deve ter notado que 4A de LV (32 EU/t/A) seria 128 EU/t"
 		""
@@ -4047,7 +3996,7 @@
 	quest.3384308C78D86059.title: "Sementes de Frango"
 	quest.33882172DA8021F6.quest_subtitle: "Mantém o inventário do jogador empilhado a partir dos itens da mochila."
 	quest.33882172DA8021F6.title: "Atualização de recarga"
-	quest.339DF320DDCAD98B.title: "Item \\\\&Transporte de Fluidos"
+	quest.339DF320DDCAD98B.title: "Item &Transporte de Fluidos"
 	quest.33A0E06FE5CFD8F3.quest_desc: [
 		"A &9Centrífuga&r é usada para processar favos de abelhas em itens úteis e mel! Embora você possa definitivamente usar uma &9Centrifuge&r normal no início, obter uma &6Powered Centrifuge&r logo depois é uma obrigação. Esta é uma centrífuga mais rápida que fica sem energia!"
 		""
@@ -4281,7 +4230,7 @@
 		"Esta é a próxima atualização para nossa jornada Blood Magic."
 	]
 	quest.3762F8137BFD5A74.quest_desc: ["O &aCracker&r não fornece petróleo, mas permite processar os subprodutos com mais eficiência!"]
-	quest.378BF828DC931F0C.quest_desc: ["Pessoalmente, odeio ter que correr até um quarteirão só para fazer artesanato. É aí que entra o &2Crafting Stick&r!\\n\\nEste item funciona como uma &aMesa de Artesanato Portátil&r!\\n\\nDica: Você também pode colocar isso no slot &aCurios&r e definir um &bKeybind&r para abri-lo!"]
+	quest.378BF828DC931F0C.quest_desc: ["Pessoalmente, odeio ter que correr até um quarteirão só para fazer artesanato. É aí que entra o &2Crafting Stick&r!\n\nEste item funciona como uma &aMesa de Artesanato Portátil&r!\n\nDica: Você também pode colocar isso no slot &aCurios&r e definir um &bKeybind&r para abri-lo!"]
 	quest.378BF828DC931F0C.title: "Artesanato, mas no palito"
 	quest.378C95C18798D413.quest_desc: [
 		"Uma maneira rápida de alternar entre ferramentas. "
@@ -4428,7 +4377,7 @@
 		""
 		"Esta é uma boa maneira de obter uma quantidade razoável de &2Berílio&r, bem como outros recursos que são úteis e usados ​​em outras receitas, como o Dióxido de Nitrogênio."
 	]
-	quest.3A8BF9BE08F54513.quest_subtitle: "\\\"Pelo martelo de Grabthar...!\\\""
+	quest.3A8BF9BE08F54513.quest_subtitle: "\"Pelo martelo de Grabthar...!\""
 	quest.3A9B90A453C933C4.quest_desc: [
 		"Bem-vindo ao &cBlood Magic&f!"
 		""
@@ -4494,8 +4443,6 @@
 	]
 	quest.3B560B2ECE331CAF.quest_desc: ["Esta é uma tampa de pilar de nível 3 para a estrutura do Starlight Charger."]
 	quest.3B560B2ECE331CAF.title: "Tampa do Pilar do Carregador Starlight Tier 3"
-	quest.3B570B3DB5F6D2CB.quest_subtitle: "Atualização de armazenamento x16"
-	quest.3B570B3DB5F6D2CB.title: "&eAtualização Gold&r"
 	quest.3B6F1BD64C0C570F.quest_desc: ["Assim como o gerador de vento, isso irá gerar muita energia sem precisar fornecer nenhum recurso. O uníco problema aqui é que precisa estar de dia."]
 	quest.3B6F1BD64C0C570F.title: "Energia Solar"
 	quest.3B81800EE6E77EF2.quest_desc: [
@@ -4657,7 +4604,6 @@
 		"Nota: A tabela pode extrair itens de inventários próximos."
 	]
 	quest.3D4D88B8BE881351.quest_subtitle: "Atualizando Feitiços"
-	quest.3D5852E6D0ADF651.title: "Armazenamento Dimensional"
 	quest.3D59BC5C2F5A073C.quest_desc: [
 		"O motor é um componente base muito importante para o resto dos componentes e tampas da máquina UV."
 		""
@@ -5534,8 +5480,6 @@
 	quest.48576E17428906E7.quest_desc: ["Fazer Antimatéria é sempre um desafio. Linhas de processo, tempo de processamento e potência. Isso marcará um daqueles itens que não serão mais uma preocupação."]
 	quest.48576E17428906E7.quest_subtitle: "Produtos Químicos Criativos"
 	quest.485AFAE5BBEF2FC7.title: "Animais"
-	quest.485D5664A17E16DF.quest_subtitle: "Atualização de armazenamento x8"
-	quest.485D5664A17E16DF.title: "&6Atualização de cobre&r"
 	quest.48600733998CA349.quest_desc: [
 		"Esta máquina transformará lingotes em sua forma fluida"
 		""
@@ -6219,12 +6163,6 @@
 		"Depois de usar alguns deles em uma multidão, partículas brancas aparecerão ao redor deles. Mate-os e você adquirirá Vontade Demoníaca."
 	]
 	quest.506D48AD9FB2E89D.title: "Coletando Vontade Demoníaca"
-	quest.508A8366219175FE.quest_desc: [
-		"A Ferramenta de Configuração serve para trancar gavetas para que eles se lembrem do item que contém. "
-		""
-		"Isso é útil sempre que você configura um sistema para puxar e empurrar gavetas. A gaveta trancada não substituirá o item que estava trancado nela!"
-	]
-	quest.508A8366219175FE.title: "Ferramenta de configuração"
 	quest.50A28E1946047A6E.quest_desc: [
 		"A fruta Tau pode ser obtida em baús de saque dentro do Reino Oculto. Você precisará disso para atualizar ainda mais seu Altar!"
 		""
@@ -6240,7 +6178,6 @@
 	quest.50C9CB8FB16E453D.title: "&bBurning Arena&r: Casa do &bIgnis&r"
 	quest.50EEDDDE129D2742.quest_desc: ["&4Hellshelves&r são a sua introdução ao &cQuanta&r, eles fornecem &c3%% Quanta&r e &a1.5 Eterna&r. Melhor que as prateleiras normais, certo? Você precisará de pelo menos 6 deles para a próxima etapa."]
 	quest.50EEDDDE129D2742.title: "&4Infernos&r"
-	quest.511562EA5811306B.title: "Vara de Pesca Diamante"
 	quest.51162B9185A45BB1.quest_desc: [
 		"Este arco pode ser inscrito com um feitiço usando uma Mesa do Escriba."
 		""
@@ -6590,11 +6527,11 @@
 	]
 	quest.5520FCC832251168.quest_subtitle: "Revestimento de estrelas"
 	quest.5523A71F1688EA88.quest_desc: [
-		"Forbidden \\\\&\\\\ Arcanus adiciona novas maneiras de obter melhores armaduras, encantamentos e muito mais!"
+		"Forbidden & Arcanus adiciona novas maneiras de obter melhores armaduras, encantamentos e muito mais!"
 		""
 		"Este mod com tema mágico tem animações incríveis, bem como alguns itens poderosos, como o &6Eternal Stella&r."
 	]
-	quest.5523A71F1688EA88.title: "Bem-vindo ao &5Forbidden \\\\&\\\\ Arcanus!"
+	quest.5523A71F1688EA88.title: "Bem-vindo ao &5Forbidden & Arcanus!"
 	quest.55328778D7078E24.title: "Idade de Média Tensão"
 	quest.553DD7CBD4351A71.title: "&bFerramentas Vibranium&r"
 	quest.554389C781241743.title: "Veia de molibdênio"
@@ -6609,8 +6546,6 @@
 	quest.5563BD4934297522.title: "Abelha Esmeralda"
 	quest.55820773BDD5319D.quest_desc: ["Bem-vindo ao &aIndustrial Foregoing&f!"]
 	quest.55820773BDD5319D.title: "Antecedentes Industriais"
-	quest.55882C10292B6A3D.quest_subtitle: "Alimente uma Abelha Cristalina com um Bloco de Prosperidade!"
-	quest.55882C10292B6A3D.title: "ProsperiBee"
 	quest.559DB570A9152259.quest_desc: ["Tenho a sensação de que vamos precisar MUITO disso..."]
 	quest.559DB570A9152259.quest_subtitle: "Tem Ródio?"
 	quest.55A9EB63F4964FCF.quest_subtitle: "&f7&r &4Dano&r"
@@ -6918,7 +6853,7 @@
 	quest.5962DC39E5874FB9.quest_subtitle: "Lápis + Esquelético"
 	quest.5962DC39E5874FB9.title: "Abelha corante"
 	quest.5963FBEB78A79668.quest_desc: [
-		"Cria \\\"Prensagens\\\" usando Casts."
+		"Cria \"Prensagens\" usando Casts."
 		""
 		"Pense em placas, engrenagens, etc."
 	]
@@ -6952,7 +6887,6 @@
 	quest.5A0305BB1F8EA932.quest_desc: ["Se você quiser um bom equipamento, precisará de afixos de apoteose, e tudo começa com uma joia."]
 	quest.5A0305BB1F8EA932.title: "Equipamento de Apoteose"
 	quest.5A17C762CDB680B5.title: "Sementes de Cobre"
-	quest.5A1DCD6C7F712A78.title: "Vara de Pesca Netúnio"
 	quest.5A23107C363A209E.quest_desc: ["Faz vários materiais Nether."]
 	quest.5A23107C363A209E.title: "Previsão Final Generalizada"
 	quest.5A3FF46A2B275049.quest_desc: ["Estamos no limite da tecnologia e agora precisamos utilizar os Crystal Chips para fazer alguns novos processadores!!"]
@@ -8536,7 +8470,7 @@
 	quest.6EDAB29FBD3C60A3.quest_desc: [
 		"Este bioma foi introduzido na Atualização Selvagem! "
 		""
-		"Tenha cuidado! Você pode acidentalmente convocar um novo amigo. \\n"
+		"Tenha cuidado! Você pode acidentalmente convocar um novo amigo. \n"
 		"P.S. - Ele não é amigável."
 	]
 	quest.6EDAB29FBD3C60A3.title: "&6Visite o &dDeep Dark&r!"
@@ -8621,13 +8555,6 @@
 		"{image:atm:textures/questpics/bees/bottler.png width:100 height:150 align:1}"
 	]
 	quest.6F978C4D561F35EC.quest_subtitle: "Querida, eu esmaguei as abelhas"
-	quest.6FBAE89EE782DABA.quest_desc: [
-		"Quando colocado e conectado com a &aLinking Tool&r a outras gavetas, este bloco atua como um 'Hub'. "
-		""
-		"Se você clicar duas vezes com o botão direito, todos os itens dentro da 'Rede' das gavetas de armazenamento serão retirados do seu inventário."
-	]
-	quest.6FBAE89EE782DABA.quest_subtitle: "O cérebro das gavetas."
-	quest.6FBAE89EE782DABA.title: "Controlador de armazenamento"
 	quest.6FBE0BF8A7ADBB26.quest_desc: [
 		"Para atualizar o &2Mana Spreader&r, você pode anexar &9Mana Lenses&r na frente do Spreader. No entanto, a Lente de Mana mais básica não faz nada."
 		""
@@ -9330,7 +9257,7 @@
 		"A Matriz de Foco Laser é colocada no centro de uma face do Reator de Fusão. Construiremos os Lasers a seguir."
 	]
 	quest.79757F66DF263FA0.title: "Raios Laser Malditos"
-	quest.7975C7145572C438.quest_desc: ["Quer você seja um jogador modded experiente ou um novato completo em MC, todo mundo precisa fazer uma &2Picareta de Madeira&r.\\n\\nPicaretas permitem quebrar a maioria dos blocos de pedra e metal. Este de madeira não vai durar muito, então certifique-se de reunir alguns &3Cobblestone&r com ele!"]
+	quest.7975C7145572C438.quest_desc: ["Quer você seja um jogador modded experiente ou um novato completo em MC, todo mundo precisa fazer uma &2Picareta de Madeira&r.\n\nPicaretas permitem quebrar a maioria dos blocos de pedra e metal. Este de madeira não vai durar muito, então certifique-se de reunir alguns &3Cobblestone&r com ele!"]
 	quest.7975C7145572C438.title: "Nossa primeira escolha"
 	quest.7985FD6195CF45FD.quest_desc: [
 		"&cEnergium Dust&r dentro de uma autoclave &6HV&r formará uma &bEnergium Battery&r"
@@ -9448,7 +9375,7 @@
 		""
 		"Para fazer isso, precisaremos de um único pedaço de Redstone, um Pistão, um bloco de areia ou cascalho e um Observador."
 		""
-		"Em uma das faces, queremos colocar um Adaptador Lógico, pular um bloco acima dele e colocar outro Adaptador. Defina o adaptador superior como &9\\\"Activation\\\"&r e o adaptador inferior como &c\\\"Damage Critical\\\"&r."
+		"Em uma das faces, queremos colocar um Adaptador Lógico, pular um bloco acima dele e colocar outro Adaptador. Defina o adaptador superior como &9\"Activation\"&r e o adaptador inferior como &c\"Damage Critical\"&r."
 		""
 		"Em seguida, na frente e abaixo do adaptador inferior, coloque qualquer bloco de construção e cole um pedaço de Redstone nele saindo do adaptador. Em seguida, colocaremos um pistão voltado para cima na frente daquele Redstone e, em seguida, colocaremos nosso pedaço de areia ou cascalho nesse pistão."
 		""
@@ -9486,8 +9413,6 @@
 		"Nesta série de missões, as flores com a forma de &cSquare&r são flores geradoras, enquanto as flores com a forma de &9Circle&r são flores funcionais. Você também pode descobrir o que cada flor faz usando o &aLexica Botania&r."
 	]
 	quest.7B3FAF5CA4DD217C.title: "Flora Funcional e Geradora"
-	quest.7B40A9DAA119DE59.quest_subtitle: "Cuco Cristalino + Neon"
-	quest.7B40A9DAA119DE59.title: "Abelha Menril"
 	quest.7B4A687EB505C2FF.quest_desc: [
 		"O &9Carminite Builder&r, quando alimentado com um sinal redstone, irá gerar bloqueios temporários na direção de onde o sinal veio."
 		""
@@ -9670,7 +9595,7 @@
 	]
 	quest.7D12B3ECC3E3AC7B.title: "Energia sem fio"
 	quest.7D3648FF86B0EB85.title: "Lâmina de Liga"
-	quest.7D38BC3DB3406F51.quest_desc: ["Com nossa Picareta de Madeira, a pedra não deve ser um problema para quebrar!\\n\\n&3Cobblestone&r desbloqueia a próxima parte da progressão ao usá-lo para criar uma fornalha para fundir nossos minérios.\\n\\nVocê também vai querer atualizar sua picareta para pedra para extrair minérios melhores, como &bIron&r!"]
+	quest.7D38BC3DB3406F51.quest_desc: ["Com nossa Picareta de Madeira, a pedra não deve ser um problema para quebrar!\n\n&3Cobblestone&r desbloqueia a próxima parte da progressão ao usá-lo para criar uma fornalha para fundir nossos minérios.\n\nVocê também vai querer atualizar sua picareta para pedra para extrair minérios melhores, como &bIron&r!"]
 	quest.7D38BC3DB3406F51.title: "Idade da Pedra"
 	quest.7D43016926E77150.title: "&9Armadura Imperium&r"
 	quest.7D49A41E4D63A596.quest_subtitle: "Reduz o uso do catalisador"

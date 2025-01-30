@@ -66,14 +66,6 @@
 		}
 		{
 			height: 1.0d
-			image: "aquaculture:item/message_in_a_bottle"
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.0d
-			y: 1.0d
-		}
-		{
-			height: 1.0d
 			image: "minecraft:textures/item/cooked_chicken.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -87,14 +79,6 @@
 			width: 1.0d
 			x: 4.5d
 			y: -1.0d
-		}
-		{
-			height: 2.0d
-			image: "aquaculture:textures/item/catfish.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: -4.0d
-			y: 4.0d
 		}
 		{
 			height: 3.0d
@@ -723,119 +707,6 @@
 			}]
 			x: 0.0d
 			y: 9.0d
-		}
-		{
-			id: "1DCAA0310AA55F1C"
-			rewards: [{
-				id: "7BB398F5B3A25045"
-				type: "xp"
-				xp: 10
-			}]
-			shape: "diamond"
-			size: 1.25d
-			tasks: [{
-				id: "5CB4746CCB2E2363"
-				item: { count: 1, id: "minecraft:fishing_rod" }
-				type: "item"
-			}]
-			x: -1.57d
-			y: 4.0d
-		}
-		{
-			dependencies: ["1DCAA0310AA55F1C"]
-			id: "16D0F1E3CEB60ABF"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1AD805EF5C994DC3"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-				{
-					id: "74838CE200710384"
-					type: "xp"
-					xp: 25
-				}
-			]
-			tasks: [{
-				id: "13E86D23DA98D8E9"
-				item: { count: 1, id: "aquaculture:iron_fishing_rod" }
-				type: "item"
-			}]
-			x: -2.5d
-			y: 5.0d
-		}
-		{
-			dependencies: ["16D0F1E3CEB60ABF"]
-			id: "0A64D0937A5F7513"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0F864C7AA00CC8A9"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-				{
-					id: "09F6E87A831DE09C"
-					type: "xp"
-					xp: 50
-				}
-			]
-			tasks: [{
-				id: "144B351F77F0B08F"
-				item: { count: 1, id: "aquaculture:gold_fishing_rod" }
-				type: "item"
-			}]
-			x: -3.5d
-			y: 6.0d
-		}
-		{
-			dependencies: ["0A64D0937A5F7513"]
-			id: "511562EA5811306B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7DF9A8B80872B680"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-				{
-					id: "05FD1A2F08E58F60"
-					type: "xp"
-					xp: 100
-				}
-			]
-			tasks: [{
-				id: "3FECA1F49F588499"
-				item: { count: 1, id: "aquaculture:diamond_fishing_rod" }
-				type: "item"
-			}]
-			x: -5.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["511562EA5811306B"]
-			id: "5A1DCD6C7F712A78"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5A0D21935AEB18B1"
-					table_id: 4196188979167302596L
-					type: "random"
-				}
-				{
-					id: "06BF09294ED115BC"
-					type: "xp"
-					xp: 250
-				}
-			]
-			tasks: [{
-				id: "31B52EAD7F931F31"
-				item: { count: 1, id: "aquaculture:neptunium_fishing_rod" }
-				type: "item"
-			}]
-			x: -6.5d
-			y: 6.0d
 		}
 		{
 			dependencies: [

@@ -1274,102 +1274,6 @@
 			y: -1.5d
 		}
 		{
-			dependencies: ["2B05A29C62676EB2"]
-			hide_until_deps_complete: true
-			id: "2BD077EFE77B8EBB"
-			rewards: [
-				{
-					id: "77E0CEC4CDA40F08"
-					type: "xp_levels"
-					xp_levels: 2
-				}
-				{
-					id: "5706AC6072D005A3"
-					item: {
-						count: 1
-						id: "minecraft:trident"
-					}
-					type: "item"
-				}
-			]
-			tasks: [
-				{
-					entity: "minecraft:husk"
-					id: "27BA6318EA2571EF"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "minecraft:drowned"
-					id: "44529CBD7ED7502A"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "variantsandventures:gelid"
-					id: "3938CDF8DF2C1766"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "variantsandventures:thicket"
-					id: "3D59A3B7F940F8D0"
-					type: "kill"
-					value: 1L
-				}
-			]
-			x: -7.0d
-			y: -1.0d
-		}
-		{
-			dependencies: ["42822B1E8A53D051"]
-			hide_until_deps_complete: true
-			id: "6827836C8E675A94"
-			rewards: [
-				{
-					id: "493BA884720B18CF"
-					type: "xp_levels"
-					xp_levels: 2
-				}
-				{
-					id: "4DBB5B2919BC0D99"
-					item: {
-						count: 1
-						id: "mysticalagriculture:inferium_bow"
-					}
-					type: "item"
-				}
-			]
-			tasks: [
-				{
-					entity: "minecraft:stray"
-					id: "2270A75156F454C2"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "minecraft:bogged"
-					id: "70FE879E07048556"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "variantsandventures:murk"
-					id: "1F2F14A414E02FF8"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "variantsandventures:verdant"
-					id: "6E0C2317F20C947C"
-					type: "kill"
-					value: 1L
-				}
-			]
-			x: -5.0d
-			y: -1.0d
-		}
-		{
 			dependencies: ["77FC692AC94D2EEF"]
 			hide_until_deps_complete: true
 			id: "1F31EBF49079F9D3"
@@ -1393,14 +1297,6 @@
 					item: {
 						count: 1
 						id: "minecraft:gunpowder"
-					}
-					type: "item"
-				}
-				{
-					id: "2F6DD85FD4E5944E"
-					item: {
-						count: 1
-						id: "biomeswevegone:mini_cactus"
 					}
 					type: "item"
 				}
@@ -1832,9 +1728,9 @@
 		{
 			icon: {
 				components: {
-					"hostilenetworks:data_model": "hostilenetworks:tangled_hatred"
+					"ftbquests:icon": "atm:textures/questpics/eternal/starlight_hatred.png"
 				}
-				id: "hostilenetworks:data_model"
+				id: "ftbquests:custom_icon"
 			}
 			id: "2001998045ABC04C"
 			rewards: [

@@ -298,27 +298,6 @@
 								}
 								{
 									components: {
-										"akashictome:defined_mod": "actuallyadditions"
-									}
-									count: 1
-									id: "actuallyadditions:booklet"
-								}
-								{
-									components: {
-										"akashictome:defined_mod": "ae2"
-									}
-									count: 1
-									id: "ae2:guide"
-								}
-								{
-									components: {
-										"akashictome:defined_mod": "modern_industrialization"
-									}
-									count: 1
-									id: "modern_industrialization:guidebook"
-								}
-								{
-									components: {
 										"akashictome:defined_mod": "modonomicon"
 										"akashictome:is_morphed": 1b
 										"akashictome:og_display_name": "{\"translate\":\"book.theurgy.the_hermetica.name\"}"
@@ -327,13 +306,6 @@
 									}
 									count: 1
 									id: "modonomicon:modonomicon"
-								}
-								{
-									components: {
-										"akashictome:defined_mod": "rftoolsbase"
-									}
-									count: 1
-									id: "rftoolsbase:manual"
 								}
 								{
 									components: {

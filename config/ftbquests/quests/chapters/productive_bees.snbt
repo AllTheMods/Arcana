@@ -41,7 +41,7 @@
 			y: 8.9d
 		}
 	]
-	order_index: 4
+	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -506,7 +506,7 @@
 			dependencies: ["131EC039435B8878"]
 			hide_dependency_lines: true
 			icon: {
-				id: "regions_unexplored:ash"
+				id: "eternal_starlight:ashen_snowball"
 			}
 			id: "37367101B3DAA70F"
 			rewards: [{
@@ -1713,7 +1713,7 @@
 			dependencies: ["131EC039435B8878"]
 			hide_dependency_lines: true
 			icon: {
-				id: "regions_unexplored:maple_leaf_pile"
+				id: "minecraft:oak_leaves"
 			}
 			id: "6BEE3578BD2C713C"
 			rewards: [{
@@ -1732,7 +1732,7 @@
 			dependencies: ["131EC039435B8878"]
 			hide_dependency_lines: true
 			icon: {
-				id: "luminax:red_block"
+				id: "minecraft:light_blue_wool"
 			}
 			id: "683B58B699D4D381"
 			rewards: [{
@@ -2141,27 +2141,6 @@
 			dependencies: ["17419401147B5C02"]
 			hide_dependency_lines: true
 			icon: {
-				id: "integrateddynamics:crystalized_menril_chunk"
-			}
-			id: "7B40A9DAA119DE59"
-			rewards: [{
-				id: "1FD5CBE1FB0136F8"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "2127300009B87B98"
-				item: { components: { "productivebees:bee_type": "productivebees:menril" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: 5.0d
-			y: 23.0d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			icon: {
 				id: "alltheores:nickel_ingot"
 			}
 			id: "4FE7F45C72EF5DC1"
@@ -2237,7 +2216,7 @@
 			dependencies: ["17419401147B5C02"]
 			hide_dependency_lines: true
 			icon: {
-				id: "quarryplus:quarry"
+				id: "minecraft:stone"
 			}
 			id: "6E093D16B12E12B3"
 			rewards: [{
@@ -2508,7 +2487,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 17.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -2529,7 +2508,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: 17.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -2545,7 +2524,7 @@
 				item: { count: 1, id: "minecraft:hopper" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 5.0d
 			y: 22.5d
 		}
 		{
@@ -2567,7 +2546,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 17.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -2594,28 +2573,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: 18.5d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			icon: {
-				id: "ae2:fluix_crystal"
-			}
-			id: "33422FBDAE11AE82"
-			rewards: [{
-				id: "24B5A6BA1F9F31BB"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "61136A10D8F7D8C8"
-				item: { components: { "productivebees:bee_type": "productivebees:fluix" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: 4.0d
-			y: 21.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -2636,7 +2594,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: 19.5d
+			y: 20.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -2653,7 +2611,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 22.5d
+			y: 22.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -2674,28 +2632,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 18.5d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			icon: {
-				id: "mysticalagriculture:prosperity_shard"
-			}
-			id: "55882C10292B6A3D"
-			rewards: [{
-				id: "677634D163F8DDDB"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "5CFB7A3119C24CF3"
-				item: { components: { "productivebees:bee_type": "productivebees:prosperity" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: 5.0d
-			y: 20.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -2716,7 +2653,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: 20.5d
+			y: 21.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -2743,7 +2680,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 19.5d
+			y: 20.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -2770,28 +2707,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 20.5d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			icon: {
-				id: "mysticalagriculture:soulium_ingot"
-			}
-			id: "1EBD5E4410A6DF34"
-			rewards: [{
-				id: "7DA224232096A3B0"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "05B2096DAF6C608E"
-				item: { components: { "productivebees:bee_type": "productivebees:soulium" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: 5.0d
-			y: 19.0d
+			y: 21.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -2812,7 +2728,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: 21.5d
+			y: 22.0d
 		}
 		{
 			dependencies: ["131EC039435B8878"]

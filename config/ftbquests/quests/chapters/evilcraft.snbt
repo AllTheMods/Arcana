@@ -154,22 +154,6 @@
 			y: 3.0d
 		}
 		{
-			height: 1.0d
-			image: "enderio:textures/gui/icons/weather_thunder.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -0.5d
-			y: -4.0d
-		}
-		{
-			height: 1.0d
-			image: "enderio:textures/gui/icons/weather_rain.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.5d
-			y: -4.0d
-		}
-		{
 			height: 0.3d
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d

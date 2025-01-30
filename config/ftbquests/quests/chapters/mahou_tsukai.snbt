@@ -158,7 +158,7 @@
 			y: -3.5d
 		}
 	]
-	order_index: 3
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -271,8 +271,11 @@
 					count: 9
 					id: "02340AC7D3461843"
 					item: {
+						components: {
+							"ftbquests:missing_item": "mob_grinding_utils:dreadful_dirt"
+						}
 						count: 1
-						id: "mob_grinding_utils:dreadful_dirt"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -630,8 +633,11 @@
 				{
 					id: "5D3951C458EB1B00"
 					item: {
+						components: {
+							"ftbquests:missing_item": "reliquary:pedestals/passive/red_passive_pedestal"
+						}
 						count: 1
-						id: "reliquary:pedestals/passive/red_passive_pedestal"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -868,8 +874,11 @@
 				count: 9
 				id: "6B765B1257BF468B"
 				item: {
+					components: {
+						"ftbquests:missing_item": "mob_grinding_utils:delightful_dirt"
+					}
 					count: 1
-					id: "mob_grinding_utils:delightful_dirt"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
