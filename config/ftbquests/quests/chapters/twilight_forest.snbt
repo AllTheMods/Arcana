@@ -7,24 +7,14 @@
 		id: "twilightforest:moonworm_queen"
 	}
 	id: "7732CF7AAA63DB3A"
-	images: [
-		{
-			height: 1.0d
-			image: "supplementaries:textures/map/decorations/twilight_portal.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.5d
-			y: 0.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/twilight_forest_title.png"
-			rotation: 0.0d
-			width: 12.5d
-			x: 5.0d
-			y: -5.0d
-		}
-	]
+	images: [{
+		height: 2.0d
+		image: "atm:textures/questpics/twilight_forest_title.png"
+		rotation: 0.0d
+		width: 12.5d
+		x: 5.0d
+		y: -5.0d
+	}]
 	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]

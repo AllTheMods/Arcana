@@ -235,8 +235,11 @@
 			rewards: [{
 				id: "4BB724E0CCCAF4E3"
 				item: {
+					components: {
+						"ftbquests:missing_item": "utilitarian:angel_block"
+					}
 					count: 1
-					id: "utilitarian:angel_block"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -959,14 +962,13 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "1ED8A8ED80F350B2"
-				table_id: 299590067093682297L
 				type: "random"
 			}]
 			shape: "hexagon"
 			size: 1.3d
 			tasks: [{
 				id: "71B0C7E635F8D8A9"
-				item: { count: 1, id: "powah:energizing_orb" }
+				item: { components: { "ftbquests:missing_item": "powah:energizing_orb" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 24.0d
@@ -977,8 +979,11 @@
 			rewards: [{
 				id: "7CFB61ED4E0E752C"
 				item: {
+					components: {
+						"ftbquests:missing_item": "industrialforegoing:mob_slaughter_factory"
+					}
 					count: 1
-					id: "industrialforegoing:mob_slaughter_factory"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -986,7 +991,7 @@
 			size: 1.3d
 			tasks: [{
 				id: "0E8AB6991100AE12"
-				item: { count: 1, id: "industrialforegoing:dissolution_chamber" }
+				item: { components: { "ftbquests:missing_item": "industrialforegoing:dissolution_chamber" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 20.5d

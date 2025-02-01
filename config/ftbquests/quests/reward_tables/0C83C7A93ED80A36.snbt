@@ -1,10 +1,11 @@
 {
 	id: "0C83C7A93ED80A36"
 	loot_size: 1
-	order_index: 41
+	order_index: 13
 	rewards: [
 		{
 			count: 4
+			id: "5644E1370D0EE850"
 			item: {
 				count: 1
 				id: "naturesaura:gold_fiber"
@@ -14,6 +15,7 @@
 		}
 		{
 			count: 2
+			id: "59D80073828B7B42"
 			item: {
 				count: 1
 				id: "naturesaura:gold_leaf"
@@ -23,6 +25,7 @@
 		}
 		{
 			count: 4
+			id: "3D1C6FDE8C88B43E"
 			item: {
 				count: 1
 				id: "naturesaura:gold_powder"
@@ -30,9 +33,17 @@
 			random_bonus: 4
 			weight: 1.5f
 		}
-		{ item: { count: 1, id: "naturesaura:ancient_sapling" }, weight: 0.75f }
+		{
+			id: "0E213C9038F01A1E"
+			item: {
+				count: 1
+				id: "naturesaura:ancient_sapling"
+			}
+			weight: 0.75f
+		}
 		{
 			count: 2
+			id: "4DDCA3E4D55E79CE"
 			item: {
 				count: 1
 				id: "naturesaura:infused_stone"
@@ -42,6 +53,7 @@
 		}
 		{
 			count: 2
+			id: "5DEB02D7035FD453"
 			item: {
 				count: 1
 				id: "naturesaura:aura_bloom"
@@ -51,6 +63,7 @@
 		}
 		{
 			count: 2
+			id: "4DD2EFD793A31110"
 			item: {
 				count: 1
 				id: "naturesaura:aura_cactus"
@@ -60,6 +73,7 @@
 		}
 		{
 			count: 2
+			id: "2D2FCA3A1B3904DE"
 			item: {
 				count: 1
 				id: "naturesaura:warped_aura_mushroom"
@@ -69,6 +83,7 @@
 		}
 		{
 			count: 2
+			id: "7AB35BF3655CBDD2"
 			item: {
 				count: 1
 				id: "naturesaura:crimson_aura_mushroom"
@@ -78,6 +93,7 @@
 		}
 		{
 			count: 2
+			id: "2E1451BD7FDD4E18"
 			item: {
 				count: 1
 				id: "naturesaura:aura_mushroom"
@@ -87,6 +103,7 @@
 		}
 		{
 			count: 2
+			id: "45F847A8FF537552"
 			item: {
 				count: 1
 				id: "naturesaura:bottle_two_the_rebottling"
@@ -96,6 +113,7 @@
 		}
 		{
 			count: 2
+			id: "71710986775BF5A4"
 			item: {
 				count: 1
 				id: "naturesaura:end_flower"
@@ -103,11 +121,48 @@
 			random_bonus: 1
 			weight: 1.5f
 		}
-		{ item: { components: { "naturesaura:aura_bottle_data": { aura_type: "naturesaura:overworld" } }, count: 1, id: "naturesaura:aura_bottle" }, random_bonus: 1 }
-		{ item: { components: { "naturesaura:aura_bottle_data": { aura_type: "naturesaura:nether" } }, count: 1, id: "naturesaura:aura_bottle" }, random_bonus: 1 }
-		{ item: { components: { "naturesaura:aura_bottle_data": { aura_type: "naturesaura:end" } }, count: 1, id: "naturesaura:aura_bottle" }, random_bonus: 1 }
+		{
+			id: "4C78502D0B9B3D83"
+			item: {
+				components: {
+					"naturesaura:aura_bottle_data": {
+						aura_type: "naturesaura:overworld"
+					}
+				}
+				count: 1
+				id: "naturesaura:aura_bottle"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "0AF8CFF6EAC25747"
+			item: {
+				components: {
+					"naturesaura:aura_bottle_data": {
+						aura_type: "naturesaura:nether"
+					}
+				}
+				count: 1
+				id: "naturesaura:aura_bottle"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "40BACBA50E0F4CF9"
+			item: {
+				components: {
+					"naturesaura:aura_bottle_data": {
+						aura_type: "naturesaura:end"
+					}
+				}
+				count: 1
+				id: "naturesaura:aura_bottle"
+			}
+			random_bonus: 1
+		}
 		{
 			count: 2
+			id: "7F0DBDA25D53AF28"
 			item: {
 				count: 1
 				id: "naturesaura:farming_stencil"
@@ -116,6 +171,7 @@
 		}
 		{
 			count: 3
+			id: "1FF84856868C08DB"
 			item: {
 				count: 1
 				id: "naturesaura:ancient_log"
@@ -124,6 +180,7 @@
 		}
 		{
 			count: 2
+			id: "760AFE60756AEF30"
 			item: {
 				count: 1
 				id: "naturesaura:ancient_stick"
@@ -132,6 +189,7 @@
 		}
 		{
 			count: 2
+			id: "64B0F2E9591DF900"
 			item: {
 				count: 1
 				id: "naturesaura:gold_brick"
@@ -139,6 +197,13 @@
 			random_bonus: 2
 			weight: 0.75f
 		}
-		{ item: { count: 1, id: "naturesaura:ender_crate" }, weight: 0.5f }
+		{
+			id: "2C1B866C057D9C69"
+			item: {
+				count: 1
+				id: "naturesaura:ender_crate"
+			}
+			weight: 0.5f
+		}
 	]
 }

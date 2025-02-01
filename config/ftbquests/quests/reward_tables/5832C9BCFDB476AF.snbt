@@ -1,12 +1,33 @@
 {
 	id: "5832C9BCFDB476AF"
 	loot_size: 1
-	order_index: 27
+	order_index: 7
 	rewards: [
-		{ count: 3, item: { count: 1, id: "ars_nouveau:source_gem" } }
-		{ count: 5, item: { count: 1, id: "ars_nouveau:source_berry_pie" } }
-		{ count: 5, item: { count: 1, id: "ars_nouveau:source_berry_roll" } }
-		{ item: { count: 1, id: "ars_nouveau:source_jar" } }
+		{
+			count: 3
+			id: "541793BA92B5AE48"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_gem"
+			}
+		}
+		{
+			count: 5
+			id: "001CAC23CD1B808F"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_berry_pie"
+			}
+		}
+		{
+			count: 5
+			id: "78CF8F2FE6104CA5"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_berry_roll"
+			}
+		}
+		{ id: "600D87EE0905A384", item: { count: 1, id: "ars_nouveau:source_jar" } }
 	]
 	use_title: true
 }

@@ -579,7 +579,10 @@
 		}
 		{
 			icon: {
-				id: "modern_industrialization:copper_ring"
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:copper_ring"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "0B0BDC37185AF9EC"
 			rewards: [
@@ -2737,8 +2740,11 @@
 				count: 3
 				id: "4B64997D81D9EB84"
 				item: {
+					components: {
+						"ftbquests:missing_item": "mysticalagriculture:dye_essence"
+					}
 					count: 1
-					id: "mysticalagriculture:dye_essence"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]

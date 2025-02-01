@@ -13,7 +13,6 @@
 	chapter.193F91842D2ED7D9.title: "Industrial Foregoing"
 	chapter.1B175B2C955D8395.title: "Allthemodium"
 	chapter.1B8E80D09BFBD0C0.title: "Eidolon: Repraised"
-	chapter.1BE666F01EFFC00D.title: "ヒントとコツ"
 	chapter.1D42B373285DEF81.title: "Silent Gear"
 	chapter.1DB294A8F8686321.title: "基本的なストレージ"
 	chapter.220BE62A7F8EA359.title: "ゼロポイントモジュール"
@@ -33,7 +32,6 @@
 	chapter.435C9D14D471D326.title: "蒸気時代"
 	chapter.44E9C52B25D280CB.title: "Mahou Tsukai"
 	chapter.489F28A71282B3E7.title: "超高電圧"
-	chapter.4B9D26E0087CD163.title: "基本的なツール"
 	chapter.4C507C004144BFEE.title: "Occultism"
 	chapter.560EF4C38DEACA03.title: "マイルストーン"
 	chapter.574AC3A76DC03364.title: "中電圧"
@@ -55,7 +53,6 @@
 	chapter_group.1DA67E79B40AB130.title: "GregTech™"
 	chapter_group.2084F3F6FB861C5B.title: "メインクエストライン"
 	chapter_group.22FB35B0FEF1343D.title: "ツールと防具"
-	chapter_group.2B51AC12041E3F89.title: "テクノロジー"
 	chapter_group.6614EE2378B8AFB9.title: "リソース"
 	chapter_group.752CDE464613A1ED.title: "探検"
 	quest.0012EC5DDAEB7D5B.quest_desc: ["このマルチブロックは他のマルチブロック構造ほど多くは使用されませんが、その価値を証明します、約束します！"]
@@ -67,7 +64,7 @@
 	quest.001C4388146BD377.quest_desc: [
 		"ブルースカイでは、4つのボスを倒し、いくつかのダンジョンを探索します。"
 		""
-		"ランダムな\\\"トンネル\\\"を見つけることができ、それがダンジョンの部屋につながります。これはアーマードフロストスピリットをスポーンさせます。いくつか集めてソウルを手に入れましょう！"
+		"ランダムな\"トンネル\"を見つけることができ、それがダンジョンの部屋につながります。これはアーマードフロストスピリットをスポーンさせます。いくつか集めてソウルを手に入れましょう！"
 		""
 		"{image:atm:textures/questpics/blueskies/blueskies_everbright_structuredungeon.png width:150 height:125 align:1}"
 	]
@@ -454,7 +451,7 @@
 		"しかし、まだ終わりではありません...これが最後のプロセッサーかもしれませんが、これからがさらに楽しくなります！"
 	]
 	quest.054D2D3C20C2D32F.quest_subtitle: "大成功！！！"
-	quest.05618FE80F2E0372.quest_desc: ["&9Infusion Crystal&rはより高いティアの&dEssences&rにアップグレードするために使われます。\\n\\nまず、&2Inferium&rを使って最初のティアのクリスタルを作る必要があります。このクリスタルは4つのInferiumと組み合わせることで&ePrudentium&rを作ることができます。これが次のティアのクリスタルを作るために使われ、次のティアのエッセンスを作ることができます。\\n\\n最終的には、全てのティアに対応し、壊れないInfusion Crystalを作ることができるようになります！"]
+	quest.05618FE80F2E0372.quest_desc: ["&9Infusion Crystal&rはより高いティアの&dEssences&rにアップグレードするために使われます。\n\nまず、&2Inferium&rを使って最初のティアのクリスタルを作る必要があります。このクリスタルは4つのInferiumと組み合わせることで&ePrudentium&rを作ることができます。これが次のティアのクリスタルを作るために使われ、次のティアのエッセンスを作ることができます。\n\n最終的には、全てのティアに対応し、壊れないInfusion Crystalを作ることができるようになります！"]
 	quest.05618FE80F2E0372.title: "インフュージョン・クリスタル"
 	quest.0583862ED0114442.quest_subtitle: "&f4&r &4ダメージ&r"
 	quest.05A845C811A9A4A0.quest_desc: [
@@ -544,13 +541,6 @@
 		"スピリットハンターになるには、まず&dヴェンジェンスフォーカス&rを作成する必要があります。これを使用してスピリットを&d凍結&rし、その近くに&9永遠の閉鎖ボックス&rを置くと、スピリットが吸い込まれて後で使用できるようになります。"
 	]
 	quest.066438B01655D866.title: "&dスピリット&rの捕獲"
-	quest.0682DC1F2417DAEB.quest_desc: [
-		"Functional Storageは、同じアイテムのスタックを保存するためのMODです。 "
-		""
-		"これは、丸石や土などのアイテムに便利です。"
-	]
-	quest.0682DC1F2417DAEB.quest_subtitle: "ストレージドロワーの親戚"
-	quest.0682DC1F2417DAEB.title: "機能的なストレージ"
 	quest.068728DE3B9B13C3.quest_desc: [
 		"&d超臨界位相シフター&r（SPSと略されます）は、ポロニウムに大量の電力を注入して&d反物質&rガスを生成するために使用される別のマルチブロック構造です。これはペレットに結晶化することができます。"
 		""
@@ -608,14 +598,6 @@
 		"すべてのGT鉱脈は他のディメンションからマイニングディメンションに移動されました"
 	]
 	quest.072FA02152FBC5B1.title: "オーバーワールド層の鉱石"
-	quest.072FBEB0F6F1BC48.quest_desc: [
-		"ドロワーをコントローラーにリンクし、エンダードロワーを接続するために使用されます。 "
-		""
-		"ドロワーをコントローラーにリンクするには、コントローラーブロックを右クリックして設定を開始します。ドロワーを右クリックすると、ネットワークに追加されます。 "
-		""
-		"ツールを持っていると、コントローラーに接続されているドロワーが表示されます。"
-	]
-	quest.072FBEB0F6F1BC48.title: "リンキングツール"
 	quest.0737D64B0CCAE334.quest_desc: ["最小限の時間でこれらを作る最適化された方法を持っていると、前進するにつれて利益を得るでしょう。"]
 	quest.0737D64B0CCAE334.quest_subtitle: "またフュージョンケーシング"
 	quest.0752E680F9DE4039.quest_desc: [
@@ -815,7 +797,6 @@
 	quest.0A3F4D7A15E61B43.quest_subtitle: "テセウスのハル"
 	quest.0A6378C7455E45B1.quest_desc: ["ミニ（エンド）エグジットポータルを作りたいなら、ドラゴンのパーツとドラコニックインフューズドテレポーテーションコアが必要です。これを作るには、テレポーテーションコアを最大の &aEterna&r、&c45%%-50%% Quanta&r、そして最大の &5Arcana&rで 注入する必要があります。例えば、 &17 Echoing Sculkshelves&rと &d3 Draconic Endshelves&rを使うと良いでしょう。次に、ドラコニックテレポーテーションコア、ドラゴンエッグ（予備があると良いですね）、3つの End Crystals、そして4つの End Stone Fire Pits を用意します。これで、ミニ（エンド）エグジットポータルが完成します。"]
 	quest.0A6378C7455E45B1.title: "ミニチュア出口ポータル"
-	quest.0A64D0937A5F7513.title: "金の釣り竿"
 	quest.0A70CC1A0F4F1CD1.quest_subtitle: "珍しい"
 	quest.0A70CC1A0F4F1CD1.title: "&2古びた布&r"
 	quest.0A848E0B9F485B2C.quest_desc: ["&eエレクトリックブラストファーネス&rにこれを16個装備すると、&c4500ケルビン&rまでのレシピを調理できます！ それは4227セルシウスまたは7640ファーレンハイトです！"]
@@ -1128,8 +1109,6 @@
 	]
 	quest.0E4C711E77497984.quest_subtitle: "もちろんギアです。"
 	quest.0E51D6BB2BC756B6.quest_subtitle: "最大150k LPを保持"
-	quest.0E5AE195158CF344.quest_subtitle: "x32 ストレージアップグレード"
-	quest.0E5AE195158CF344.title: "&5ネザライトアップグレード&r"
 	quest.0E603F1FE596DB2A.quest_desc: [
 		"トランジスタは本当に現代の驚異であり、電子時代を爆発的に拡大させました"
 		""
@@ -1159,7 +1138,7 @@
 		""
 		"リチュアルディバイナーで選択した後、マスターリチュアルストーンを右クリックして構造が完成するまで続けます。これらのリチュアルを実行するためには多くのリチュアルストーンが必要です。構造が完全に建てられたら、弱い活性化クリスタルでマスターリチュアルストーンを右クリックしてそれを活性化します。"
 	]
-	quest.0E8647B8EB4AAC41.title: "ピンクスライム\\\\&リキッドミート"
+	quest.0E8647B8EB4AAC41.title: "ピンクスライム&リキッドミート"
 	quest.0E9DE6293DF611E1.quest_desc: [
 		"オーバーワールドを黄昏の森のように感じさせたいですか？"
 		""
@@ -1507,7 +1486,7 @@
 	quest.12282CBB658F1132.title: "Apotheosisのチャームを壊れないようにする"
 	quest.123807F4BBE75120.quest_desc: ["16384kストレージディスクは、圧巻の16,384,000アイテムを保存できます！"]
 	quest.123807F4BBE75120.title: "&b16384kストレージパーツ&r"
-	quest.124BDAF91DA74910.quest_desc: ["魔法が好きなら、このMODで遊ぶのが好きになるでしょう！\\n\\nこのアイテムを作るには、MOD内の構造物を冒険して&dルーンストーン&rを見つける必要があります。\\n\\nまた、ネザーに行って&5古代の騎士&rを倒し、彼らのシンダーエッセンスを手に入れる必要があります。これは&dアップグレードオーブ&rを作るために使用されます。他の必要なアイテムは、オーバーワールドでの採掘や戦利品のチェストから見つけることができます。"]
+	quest.124BDAF91DA74910.quest_desc: ["魔法が好きなら、このMODで遊ぶのが好きになるでしょう！\n\nこのアイテムを作るには、MOD内の構造物を冒険して&dルーンストーン&rを見つける必要があります。\n\nまた、ネザーに行って&5古代の騎士&rを倒し、彼らのシンダーエッセンスを手に入れる必要があります。これは&dアップグレードオーブ&rを作るために使用されます。他の必要なアイテムは、オーバーワールドでの採掘や戦利品のチェストから見つけることができます。"]
 	quest.124BDAF91DA74910.title: "&dIron's Spells n' Spellbooks&r"
 	quest.124C2A904BF84254.quest_desc: [
 		"ポリ塩化ビニルを &e液体ソリディファイヤー&r でシートにしてください"
@@ -1875,7 +1854,6 @@
 	quest.16A6C47E35F3B9D0.title: "&3核燃料&r"
 	quest.16B44F78707E148E.quest_desc: ["必須ではありませんが、IV マセレーターはシェルドナイトの処理速度を向上させます。この処理ラインはかなり&n&l&2時間がかかる&2です。&r&r&r"]
 	quest.16B44F78707E148E.quest_subtitle: "ねえ、マセレーター、ヤー！"
-	quest.16D0F1E3CEB60ABF.title: "鉄の釣り竿"
 	quest.16E4EA08B647E8E0.quest_desc: ["デジタルストレージのための道を選んだ場合でも、&6スター&rを作るためにはこれが必要です！"]
 	quest.16E4EA08B647E8E0.title: "ワイヤレスターミナル"
 	quest.1710B3D05215A71E.quest_desc: [
@@ -1980,9 +1958,6 @@
 		""
 		"これは、&9リチュアルブレイジャー&rを使用して完了する必要がある儀式です。"
 	]
-	quest.17DC77F7F8C68AE6.quest_desc: ["不要なアイテム、液体、電力を破壊する方法。"]
-	quest.17DC77F7F8C68AE6.quest_subtitle: "余分なものを処分しよう"
-	quest.17DC77F7F8C68AE6.title: "ゴミ箱"
 	quest.17F3AC15ADCFB175.quest_subtitle: "エンダーマンを5体倒す"
 	quest.17F3AC15ADCFB175.title: "&l&9エンドの賞金首:&r&e エンダーマン"
 	quest.17FCF0E1AA82E296.quest_desc: [
@@ -2146,15 +2121,6 @@
 	quest.19E0397F810D8787.quest_subtitle: "これらのバイブはアンデッドからのみ。"
 	quest.1A000021C07943C4.quest_desc: ["作っていた蒸気を取って、それをEUに変換しましょう！"]
 	quest.1A000021C07943C4.quest_subtitle: "電力がなくても問題ありません"
-	quest.1A4B1CA7EC15348E.quest_desc: [
-		"ディメンションを超えて機能するチェスト。 "
-		""
-		"セキュリティのために色分けが可能です！（望む染料でブロックを右クリックしてください）。 "
-		""
-		"*注意: 他の誰かがあなたの色の組み合わせを使用すると、内容物を取得できます！"
-	]
-	quest.1A4B1CA7EC15348E.quest_subtitle: "ディメンショナルドロワー...と言ってもいいかな。"
-	quest.1A4B1CA7EC15348E.title: "エンダードロワーズ！"
 	quest.1A507E77BF750F60.quest_desc: ["Salvaging Tableを使えば、金床を使わずに素材やGem Dustを手に入れることができます。アフィックス付きのツールや防具をリサイクルして素材を得ることができます。また、なぜか馬の防具も分解できます。"]
 	quest.1A507E77BF750F60.title: "サルベージテーブル"
 	quest.1A73520CB284217F.quest_desc: [
@@ -2255,8 +2221,6 @@
 		"これはメカニズムの多くのレシピで主要なクラフティングコンポーネントです。"
 	]
 	quest.1B6DDF50D00CBB31.title: "スチール"
-	quest.1B72E95569B07E18.quest_subtitle: "x24 ストレージアップグレード"
-	quest.1B72E95569B07E18.title: "&bダイヤモンドアップグレード&r"
 	quest.1BA3D15FFE7DBE59.quest_desc: [
 		"&bインダストリアルフォーゴーイング&rへようこそ、このMODの主要なリソースの一つは&fラテックス&rです。それはマシンフレームを作るために使用され、それは...まあ...マシンやアップグレードを作るために必要です。"
 		""
@@ -2316,7 +2280,7 @@
 		""
 		"経験値を得るために使用することも、エターナルステラを作るために使用することもできます。"
 	]
-	quest.1CC4F8570A7A99EB.quest_desc: ["&dEssence&rはMystical Agricultureでの栽培の基本です。\\n\\n&eInferium Essence&rは全てのエッセンスの基礎となります。これは採掘やモブを倒すことで手に入れるか、種を作って育てることで得られます！\\n\\nより高品質なエッセンスを作るには、&9Infusion Crystal&rを作る必要があります。"]
+	quest.1CC4F8570A7A99EB.quest_desc: ["&dEssence&rはMystical Agricultureでの栽培の基本です。\n\n&eInferium Essence&rは全てのエッセンスの基礎となります。これは採掘やモブを倒すことで手に入れるか、種を作って育てることで得られます！\n\nより高品質なエッセンスを作るには、&9Infusion Crystal&rを作る必要があります。"]
 	quest.1CC4F8570A7A99EB.quest_subtitle: "&bティア 1&r"
 	quest.1CC4F8570A7A99EB.title: "インフェリウム・エッセンス"
 	quest.1CD2C6AFD788C35E.quest_subtitle: "バックパック内のアイテムを2x2レシピで圧縮"
@@ -2382,8 +2346,6 @@
 	quest.1DBC5E74958A62E6.quest_subtitle: "倍にして次の人に渡す"
 	quest.1DBF5A76DCDF5E49.quest_desc: ["かなりの量のルリディットが必要になります。ラインをパッシブにして、安定した供給を維持してください。"]
 	quest.1DBF5A76DCDF5E49.quest_subtitle: "何だか嫌な予感がする。"
-	quest.1DCAA0310AA55F1C.quest_desc: ["彼はいつも5時に閉店するので、気にしないでください。"]
-	quest.1DCAA0310AA55F1C.title: "釣り師の始まり"
 	quest.1DCFC67A8E3DCA2C.quest_desc: ["錬金術触媒と同様に、マナプールの下に置くと、&9召喚触媒&rが召喚レシピを使用する能力を解除します。"]
 	quest.1DDA5ADA11DF868F.quest_desc: ["これでマルチブロック構造のティアをアップグレードできます！EBF、VF、クラッカー、LFDなどが、より速く処理でき、&dLuV&rティアの材料を処理できるようになります！さあ、行きましょう！"]
 	quest.1DDA5ADA11DF868F.quest_subtitle: "ついにLuVエネルギーハッチ！"
@@ -2459,8 +2421,6 @@
 	quest.1E9B2D814F50A265.quest_desc: ["&n&5エンケースドファン&rは、回転させることでアイテムやエンティティを引っ張ったり押したりするのに使用されます。矢印が向いている方向と回転方向が、押すか引くかを決定します。"]
 	quest.1E9BD4B74DAEA9FC.quest_desc: ["このネストにミツバチを引き寄せるためには、ハニートリートの代わりにポップドコーラスフルーツが必要です。"]
 	quest.1E9BD4B74DAEA9FC.quest_subtitle: "エンドに設置するとエンダーミツバチを引き寄せる"
-	quest.1EBD5E4410A6DF34.quest_subtitle: "ゴーストリーミツバチにソウリウムダガーを与える！"
-	quest.1EBD5E4410A6DF34.title: "ソウリウムミツバチ"
 	quest.1EF7664F5D8C5FF1.quest_desc: [
 		"&dアルフヘイムへのポータル&rを作成するには、フレームから始めます。フレームを作るには、8つのリビングウッドブロック、3つのグリマリングリビングウッドブロック、そして&9エルフゲートウェイコア&rが必要です。"
 		""
@@ -2526,7 +2486,7 @@
 		"注: ボスは敗北時にアークをドロップします。これはインベントリの特別なタブに装備できます。合計で4つのアークがあります。"
 	]
 	quest.1F82DBE75059C139.title: "&9スターターダンジョン"
-	quest.1F88C697817A7680.quest_desc: ["金のリンゴよりも優れた、美味しいスナックです！\\n\\n高いティアほど空腹と満腹度が増し、さらに多くのバフが得られます。"]
+	quest.1F88C697817A7680.quest_desc: ["金のリンゴよりも優れた、美味しいスナックです！\n\n高いティアほど空腹と満腹度が増し、さらに多くのバフが得られます。"]
 	quest.1F88C697817A7680.title: "インフェリウム・アップル"
 	quest.1F8BC2A4CF055038.quest_subtitle: "再利用可能なエンダーパール"
 	quest.1F92F7314DF3C3E2.quest_desc: [
@@ -2907,10 +2867,10 @@
 		""
 		"この章では、これらをさらに使用して強力なマルチブロック&aリアクター&rを作成し、電力を生成および貯蔵するための高度な方法を使用します。これにより、&dアンチマター・ペレット&rも作成され、&6ATMスター&rやパック内の最強のツールや武器の製造にも使用されます。"
 	]
-	quest.24174700F7FB771C.quest_subtitle: "&cメカニズム章からのクエスト\\\"高度なメカニズム\\\"の完了が必要です&r"
+	quest.24174700F7FB771C.quest_subtitle: "&cメカニズム章からのクエスト\"高度なメカニズム\"の完了が必要です&r"
 	quest.24261D6C5C5A6CB4.quest_desc: ["このドラゴンの卵はクールな装飾品です。それだけです。"]
 	quest.2435B6D970F48DF8.quest_desc: [
-		"悪魔の友達が欲しいですか？&dOccultism&rがそれを叶えてくれます！\\n\\nこの悪魔的な旅では、新しい友達を召喚して、スターを作るために必要な強力なアイテムを手伝ってもらいましょう。"
+		"悪魔の友達が欲しいですか？&dOccultism&rがそれを叶えてくれます！\n\nこの悪魔的な旅では、新しい友達を召喚して、スターを作るために必要な強力なアイテムを手伝ってもらいましょう。"
 		""
 		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"4C507C004144BFEE\"}, \"text\": \"Click here to check out the Occultism questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 	]
@@ -3133,9 +3093,6 @@
 	quest.272CB4EDED35C47B.quest_desc: ["デジタルストレージのための道を選んだ場合でも、&6スター&rを作るためにはこれが必要です！"]
 	quest.272CB4EDED35C47B.title: "大容量デジタル記憶装置"
 	quest.273DC98BA2785BD6.quest_desc: ["これを2つ使えば、マルチブロックをIVティアにアップグレードできるよ！"]
-	quest.2746575C929B6C50.quest_desc: ["1x1のドロワーを自分で作りましょう。このアイテムは1つのアイテムの多くのスタックを保持できます。"]
-	quest.2746575C929B6C50.quest_subtitle: "積み重ねの極み"
-	quest.2746575C929B6C50.title: "私の最初の引き出し"
 	quest.277464BE6F96C082.quest_desc: [
 		"並列ハッチは、特に大規模なマルチブロック構造物を進めるにあたって非常に重要になります！"
 		""
@@ -3353,7 +3310,7 @@
 	quest.2A5004EB99AE4F96.title: "そのフルーツを食べるのはやめて！"
 	quest.2A54256CA9A23BB3.quest_subtitle: "潤滑油を作るのに役立ちます"
 	quest.2A54256CA9A23BB3.title: "トーク鉱脈"
-	quest.2A7E3F2CD335EAD0.quest_desc: ["&aEssence Gear&rを作る旅を始めるには、まずInferium Armorを作る必要があります。\\n\\nこの装備はエッセンスと同じように、より高いティアにアップグレードできます。また、&9Augment&rを&bTinkering Table&rで行うこともできます！"]
+	quest.2A7E3F2CD335EAD0.quest_desc: ["&aEssence Gear&rを作る旅を始めるには、まずInferium Armorを作る必要があります。\n\nこの装備はエッセンスと同じように、より高いティアにアップグレードできます。また、&9Augment&rを&bTinkering Table&rで行うこともできます！"]
 	quest.2A7E3F2CD335EAD0.title: "エッセンスの装備"
 	quest.2AB457E29360E3B8.quest_desc: [
 		"作ったばかりのそのダストを電気高炉に入れて、熱いシリコンを手に入れましょう！"
@@ -3407,13 +3364,6 @@
 		"{image:atm:textures/questpics/mek/sps_complete.png width:300 height:250 align:1}"
 	]
 	quest.2B3F2F470E06BC40.title: "SPSを構築する！"
-	quest.2B422B7E0CE3590D.quest_desc: [
-		"このアイテムは、内部に置かれたアイテムをそのナゲットまたはブロック形式に変換することができます。 "
-		""
-		"例えば、これに鉄インゴットを置くと、9つのナゲットを引き出すことができ、またはもっと鉄が置かれると、それを鉄ブロックに変換します。"
-	]
-	quest.2B422B7E0CE3590D.quest_subtitle: "自動でブロックに変換"
-	quest.2B422B7E0CE3590D.title: "コンパクティングドロワー"
 	quest.2B539F4F290DC4CF.title: "ニトロプレイヤートランスミッター"
 	quest.2B5733BDAF83B2D4.title: "石英岩鉱脈"
 	quest.2B6AE772B72E6DD3.quest_desc: ["バクテリアソリューションに落ちないように注意してください。おそらく生き残れますが、傷がなければの話です..."]
@@ -3985,8 +3935,6 @@
 	quest.3320ADFD7DC4CA00.quest_subtitle: "RF容量を増加させ、RF転送をわずかに増加させる"
 	quest.3339445194568D77.title: "プルデンティウムのツールと武器"
 	quest.333D2A9F20B2E738.title: "硫黄鉱脈"
-	quest.33422FBDAE11AE82.quest_subtitle: "スペーシャルミツバチにフルイックスパールを与える！"
-	quest.33422FBDAE11AE82.title: "フルイックスミツバチ"
 	quest.33590A79C5C554C8.quest_desc: [
 		"4AのLV（32 EU/t/A）は128 EU/tになることに気付いたかもしれません"
 		""
@@ -4021,7 +3969,7 @@
 	quest.3384308C78D86059.title: "鶏の種"
 	quest.33882172DA8021F6.quest_subtitle: "バックパックのアイテムでインベントリを補充"
 	quest.33882172DA8021F6.title: "リフィルアップグレード"
-	quest.339DF320DDCAD98B.title: "アイテム\\\\&液体トランスポート"
+	quest.339DF320DDCAD98B.title: "アイテム&液体トランスポート"
 	quest.33A0E06FE5CFD8F3.quest_desc: [
 		"&9遠心分離機&rは、ミツバチからのハニカム（蜂の巣）を有用なアイテムやハチミツに加工するために使用されます！最初は通常の&9遠心分離機&rを使用することができますが、その後すぐに&6パワード遠心分離機&rを入手することが必須です。これは電力を使用するより速い遠心分離機です！"
 		""
@@ -4036,7 +3984,7 @@
 	quest.33B1D3FD4C0B5514.title: "&e古代の残骸&r"
 	quest.33B8FDDBE3E95108.quest_desc: ["液体をインゴットに加工するだけですが、UVティアにいる今、速くてパワフルにできます！"]
 	quest.33B8FDDBE3E95108.quest_subtitle: "ダームシュタチウムにインゴットがありますか？"
-	quest.33D23C65E7274A8F.quest_desc: ["Supremium Essenceを覚醒させるには、新しいAltarと4つの新しいPedestals、そして&cEssence Vessel&rと呼ばれる新しいタイプのPedestalを作る必要があります。\\n\\nEssence Vesselsには、火、水、土、空気の基本エレメントエッセンスが必要です。"]
+	quest.33D23C65E7274A8F.quest_desc: ["Supremium Essenceを覚醒させるには、新しいAltarと4つの新しいPedestals、そして&cEssence Vessel&rと呼ばれる新しいタイプのPedestalを作る必要があります。\n\nEssence Vesselsには、火、水、土、空気の基本エレメントエッセンスが必要です。"]
 	quest.33D23C65E7274A8F.title: "&d覚醒&r"
 	quest.33DAA602B385A55D.quest_desc: ["非常に熱いインゴットですね！これを処理するには、あなたの&aEBF&rに&bニクロムコイルブロック&rが必要です！"]
 	quest.33E3574096820D99.quest_desc: [
@@ -4404,7 +4352,7 @@
 		""
 		"これは&2ベリリウム&rを得る良い方法であり、窒素二酸化物のような他の有用なリソースも得られ、他のレシピにも使われます。"
 	]
-	quest.3A8BF9BE08F54513.quest_subtitle: "\\\"グラブサーのハンマーにかけて...！\\\""
+	quest.3A8BF9BE08F54513.quest_subtitle: "\"グラブサーのハンマーにかけて...！\""
 	quest.3A9B90A453C933C4.quest_desc: [
 		"&cブラッドマジック&fへようこそ！"
 		""
@@ -4470,8 +4418,6 @@
 	]
 	quest.3B560B2ECE331CAF.quest_desc: ["これはスターライトチャージャー構造のためのティア3ピラーキャップです。"]
 	quest.3B560B2ECE331CAF.title: "スターライトチャージャーピラーキャップ ティア3"
-	quest.3B570B3DB5F6D2CB.quest_subtitle: "x16 ストレージアップグレード"
-	quest.3B570B3DB5F6D2CB.title: "&eゴールドアップグレード&r"
 	quest.3B81800EE6E77EF2.quest_desc: [
 		"フィッション・リアクターは&3フィッシブル・フューエル&rを必要とします。今JEIでフィッシブル・フューエルを検索すると、それを作るために必要なすべてのもので圧倒されるかもしれません。大丈夫です、一歩ずつ進みましょう。"
 		""
@@ -4631,7 +4577,6 @@
 		"注意: テーブルは近くのインベントリからアイテムを引き出すことができます。"
 	]
 	quest.3D4D88B8BE881351.quest_subtitle: "スペルのアップグレード"
-	quest.3D5852E6D0ADF651.title: "ディメンショナルストレージ"
 	quest.3D59BC5C2F5A073C.quest_desc: [
 		"モーターはUVマシンコンポーネントとカバーの残りの部分にとって非常に重要な基本コンポーネントです。"
 		""
@@ -5490,7 +5435,7 @@
 		"バケツはブルースカイの水中モブを拾うことができます。"
 	]
 	quest.47EFF4429010E26C.title: "ヴェンチウムツール"
-	quest.4821419D44F8083F.quest_desc: ["&9Growth Accelerators&rは、農地の真下に置くことで種の成長速度をわずかに上げます。各ティアには成長を加速できるブロックの範囲があり、Inferiumは最も低いティアで12ブロックです。\\n\\n注意: 全てのティアのGrowth Acceleratorsは同じ成長速度を提供します。しかし、高いティアは範囲が広がるため、1つの植物の下により多くのAcceleratorsを積み重ねることができます。どのティアを使っても、Growth Acceleratorがその最大範囲内に置かれていれば問題ありません。"]
+	quest.4821419D44F8083F.quest_desc: ["&9Growth Accelerators&rは、農地の真下に置くことで種の成長速度をわずかに上げます。各ティアには成長を加速できるブロックの範囲があり、Inferiumは最も低いティアで12ブロックです。\n\n注意: 全てのティアのGrowth Acceleratorsは同じ成長速度を提供します。しかし、高いティアは範囲が広がるため、1つの植物の下により多くのAcceleratorsを積み重ねることができます。どのティアを使っても、Growth Acceleratorがその最大範囲内に置かれていれば問題ありません。"]
 	quest.4821419D44F8083F.title: "成長の加速"
 	quest.482190A9DBE834BE.quest_desc: ["Apotheosisのソケットに慣れていない人には、ソケットは混乱しやすくてイライラするかもしれません。武器や防具にはジェムを使うためのソケットが必要です。でも、ソケットがない場合はどうするの？その時はSigil of Socketingが必要です！アイテムとSigilを鍛冶台で組み合わせると、最大3つのソケットを追加できます。"]
 	quest.482190A9DBE834BE.title: "&5ソケットのシジル&r"
@@ -5504,8 +5449,6 @@
 	quest.48576E17428906E7.quest_desc: ["反物質を作るのは常に挑戦です。プロセスライン、処理時間、そして電力。これで心配事の一つがなくなります。"]
 	quest.48576E17428906E7.quest_subtitle: "クリエイティブ化学"
 	quest.485AFAE5BBEF2FC7.title: "動物"
-	quest.485D5664A17E16DF.quest_subtitle: "x8 ストレージアップグレード"
-	quest.485D5664A17E16DF.title: "&6銅アップグレード&r"
 	quest.48600733998CA349.quest_desc: [
 		"このマシンはインゴットをその流体形態に変換します"
 		""
@@ -5894,7 +5837,7 @@
 		"鉄以上のティアのツルハシがあれば、&cRedstone&rを採掘することができます。"
 		""
 		"レッドストーンは多くの技術MODへの入り口であり、電力を作成したり、派手なガジェットを作ることが始まります。"
-		"\\nこれは有れば有るほど良いです！"
+		"\nこれは有れば有るほど良いです！"
 	]
 	quest.4DE1158931F84F22.title: "&cレッドストーン&r"
 	quest.4DE719FC2E4C69AB.quest_desc: [
@@ -6044,7 +5987,7 @@
 		""
 		"どのアプローチを取るにしても、レシピを実行するために必要な&aプログラム回路&rを忘れずにね"
 	]
-	quest.4EF5DE3FBA2A7AE3.quest_desc: ["Inferium Essenceから始めて、インゴットを作り、Essenceの&9Tools&rや&9Armor&rを作ることができます。\\n\\nEssenceのツールはより高いティアにアップグレードでき、Armorと同様に&5Augmented&rを&3Tinkering Table&rで行うことができます。"]
+	quest.4EF5DE3FBA2A7AE3.quest_desc: ["Inferium Essenceから始めて、インゴットを作り、Essenceの&9Tools&rや&9Armor&rを作ることができます。\n\nEssenceのツールはより高いティアにアップグレードでき、Armorと同様に&5Augmented&rを&3Tinkering Table&rで行うことができます。"]
 	quest.4EF5DE3FBA2A7AE3.title: "エッセンスのツールと武器"
 	quest.4F086B3CF27D5C1A.quest_desc: [
 		"GTのエネルギーはエネルギーユニット（EU）で測定されます"
@@ -6179,12 +6122,6 @@
 		"これを数回モブに使用すると、白い粒子が周囲に現れます。それを倒すと、デモニックウィルを獲得できます。"
 	]
 	quest.506D48AD9FB2E89D.title: "デモニックウィルの収集"
-	quest.508A8366219175FE.quest_desc: [
-		"コンフィグレーションツールは、ドロワーが中にあるアイテムを記憶するようにロックするために使用されます。 "
-		""
-		"これは、ドロワーから引き出しやプッシュを設定するシステムを構築する際に便利です。ロックされたドロワーは、ロックされたアイテムを置き換えません！"
-	]
-	quest.508A8366219175FE.title: "コンフィグレーションツール"
 	quest.50A28E1946047A6E.quest_desc: [
 		"タウフルーツは隠された領域内の戦利品チェストから入手できます。祭壇をさらにアップグレードするためには、これが必要です！"
 		""
@@ -6200,7 +6137,6 @@
 	quest.50C9CB8FB16E453D.title: "&b燃えるアリーナ&r: &bイグニス&rのおうち"
 	quest.50EEDDDE129D2742.quest_desc: ["&4Hellshelves&r は &cQuanta&r の入門です。&c3%% Quanta&r と &a1.5 Eterna&r を提供します。普通の本棚より良いですよね？次のステップには少なくとも 6 つ必要です。"]
 	quest.50EEDDDE129D2742.title: "&4ヘルシェルフ&r"
-	quest.511562EA5811306B.title: "ダイヤモンドの釣り竿"
 	quest.51162B9185A45BB1.quest_desc: [
 		"この弓は、スクライブのテーブルを使用してスペルを記述することができます。"
 		""
@@ -6353,7 +6289,7 @@
 	quest.52B22C07818981D0.title: "コンスタンタンミツバチ"
 	quest.52CDB46F6CBF007B.title: "シャベルの設計図"
 	quest.52E59FCB39D66BCF.quest_desc: [
-		"\\\"パッシブパワー\\\"の最良の選択肢の1つである&9サーマルジェネレーター&rは、&c熱源&rの上に配置され、安定した水の供給を受けるとFEを生成します。"
+		"\"パッシブパワー\"の最良の選択肢の1つである&9サーマルジェネレーター&rは、&c熱源&rの上に配置され、安定した水の供給を受けるとFEを生成します。"
 		""
 		"現在、この上に配置できるブロックは3つあります：最低の熱を生産するマグマブロック、少し良い溶岩ソースブロック、または最も多くの熱を提供する&cブレイジングクリスタルのブロック&rです。"
 	]
@@ -6487,7 +6423,7 @@
 	]
 	quest.54BEC01D84237DBC.quest_desc: ["少量の水素と塩素を &eケミカルリアクター&r で一緒に反応させると、HClができます"]
 	quest.54D3D6806C1F33F3.quest_subtitle: "&f5&r &4ダメージ&r"
-	quest.54D6F7F8FE859729.quest_desc: ["&bProsperity Shards&rはMystical Agricultureのいくつかのレシピで主要なクラフト素材として使われます。例えば、種やインゴットなどです。\\n\\nこれらは採掘で見つけることができます！"]
+	quest.54D6F7F8FE859729.quest_desc: ["&bProsperity Shards&rはMystical Agricultureのいくつかのレシピで主要なクラフト素材として使われます。例えば、種やインゴットなどです。\n\nこれらは採掘で見つけることができます！"]
 	quest.54D6F7F8FE859729.title: "プロスペリティ・シャード"
 	quest.54D72C234EA76054.title: "空気の種"
 	quest.54D8B9CB3F98040F.quest_desc: [
@@ -6546,11 +6482,11 @@
 	]
 	quest.5520FCC832251168.quest_subtitle: "スターのプレーティング"
 	quest.5523A71F1688EA88.quest_desc: [
-		"Forbidden \\\\&\\\\ Arcanusは、より良いアーマーやエンチャント、その他を手に入れる新しい方法を追加します！"
+		"Forbidden & Arcanusは、より良いアーマーやエンチャント、その他を手に入れる新しい方法を追加します！"
 		""
 		"この魔法テーマのMODには素晴らしいアニメーションがあり、&6エターナルステラ&rのような過剰なアイテムもあります。"
 	]
-	quest.5523A71F1688EA88.title: "&5Forbidden \\\\&\\\\ Arcanusへようこそ！"
+	quest.5523A71F1688EA88.title: "&5Forbidden & Arcanusへようこそ！"
 	quest.55328778D7078E24.title: "中電圧時代"
 	quest.553DD7CBD4351A71.title: "&bヴィブラニウムのツール&r"
 	quest.554389C781241743.title: "モリブデン鉱脈"
@@ -6565,8 +6501,6 @@
 	quest.5563BD4934297522.title: "エメラルドミツバチ"
 	quest.55820773BDD5319D.quest_desc: ["&aインダストリアルフォーゴーイング&fへようこそ！"]
 	quest.55820773BDD5319D.title: "インダストリアルフォーゴーイング"
-	quest.55882C10292B6A3D.quest_subtitle: "クリスタリンミツバチにプロスペリティブロックを与える！"
-	quest.55882C10292B6A3D.title: "プロスペリミツバチ"
 	quest.559DB570A9152259.quest_desc: ["これがたくさん必要になると感じています..."]
 	quest.559DB570A9152259.quest_subtitle: "ロジウムを手に入れましたか？"
 	quest.55A9EB63F4964FCF.quest_subtitle: "&f7&r &4ダメージ&r"
@@ -6904,7 +6838,6 @@
 	quest.5A0305BB1F8EA932.quest_desc: ["良い装備が欲しいなら、Apotheosisのアフィックスが必要だよ。その始まりはジェムからだ。"]
 	quest.5A0305BB1F8EA932.title: "Apotheosis装備"
 	quest.5A17C762CDB680B5.title: "カッパー シード"
-	quest.5A1DCD6C7F712A78.title: "ネプチュニウムの釣り竿"
 	quest.5A23107C363A209E.quest_desc: ["様々なエンド素材を作成します。"]
 	quest.5A23107C363A209E.title: "エンドの一般予測"
 	quest.5A3FF46A2B275049.quest_desc: ["技術の最先端に立ち、新しいプロセッサを作るためにクリスタルチップを使用する必要があります！"]
@@ -7540,7 +7473,7 @@
 		"これを行うには、&6Promise of Tenacity: Tier 1&rを作成する必要があります。一般的に、これはマシンのストレージ容量を増やすだけです。血のインフューザーの場合、これによりより多くのレシピが解除されます！"
 	]
 	quest.62CE0FFAF6352287.title: "&aマシンをアップグレードする&r"
-	quest.62D04566426DD979.quest_desc: ["&aWatering Can&rは作物の成長速度を上げるために使われます。高いティアほど効果範囲が広がります。使い方は、水を右クリックして満たし、作物の近くで右クリックを押し続けて水をやります。\\n\\nヒント: 水やり缶を持って空をシフト右クリックすると、自動水やりが有効になります。"]
+	quest.62D04566426DD979.quest_desc: ["&aWatering Can&rは作物の成長速度を上げるために使われます。高いティアほど効果範囲が広がります。使い方は、水を右クリックして満たし、作物の近くで右クリックを押し続けて水をやります。\n\nヒント: 水やり缶を持って空をシフト右クリックすると、自動水やりが有効になります。"]
 	quest.62D04566426DD979.title: "ウォータリング・カン"
 	quest.62E7B8817D22678F.quest_desc: [
 		"そうです、もう一つの&e化学反応器&rのレシピです"
@@ -8037,7 +7970,7 @@
 	quest.68DD99B788216006.quest_desc: ["ミシカルアフィックスは最高のステータスを持っているから、ミシカル武器を目指そう。手に入れるのは大変だけど、頑張ってね！"]
 	quest.68DD99B788216006.title: "最高の中の最高"
 	quest.68F03C08B1AE45FF.quest_desc: [
-		"&2Industrial Foregoing&rは、 MOD旅全体をサポートするMODです。\\n\\n大量のプラスチックを作り、ピンクスライムのためのモブファームを作り、さらには世界を終わらせる核兵器まで作ります。スターを作るために必要なものを手に入れるための手助けが必要ですか？"
+		"&2Industrial Foregoing&rは、 MOD旅全体をサポートするMODです。\n\n大量のプラスチックを作り、ピンクスライムのためのモブファームを作り、さらには世界を終わらせる核兵器まで作ります。スターを作るために必要なものを手に入れるための手助けが必要ですか？"
 		""
 		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\"}, \"text\": \"Click here to start the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 	]
@@ -8163,7 +8096,7 @@
 	quest.6A393C7A24899E3E.title: "素材グレーダー"
 	quest.6A497B063CF32A5C.quest_desc: ["ピグリッチの心は、その名の通りピグリッチによってドロップされます。スポナーからスポーンできるモブの数を増やすために使用できます。スポーンされるモブはランダムで、ピグリッチの心によって最大数が決まります。ハート1つにつき1増減し、最大で8までです。"]
 	quest.6A497B063CF32A5C.title: "スポーン数"
-	quest.6A4C49AE72E98727.quest_desc: ["&9Tinkering Table&rは&aEssence Gear&rを&dAugments&rでアップグレードするために使われます。\\n\\nAugmentsはInfusion Altarを使って作ることができます。エッセンスと同じように、Augmentsにもティアがあります！"]
+	quest.6A4C49AE72E98727.quest_desc: ["&9Tinkering Table&rは&aEssence Gear&rを&dAugments&rでアップグレードするために使われます。\n\nAugmentsはInfusion Altarを使って作ることができます。エッセンスと同じように、Augmentsにもティアがあります！"]
 	quest.6A4C49AE72E98727.title: "チンクリング"
 	quest.6A54E73E212BB1AF.quest_desc: [
 		"&6硫黄ガス&r は &aオイル蒸留&r から &7リファイナリーガス&r に変換できます"
@@ -8357,7 +8290,7 @@
 	]
 	quest.6D6E07564D8FDD8D.quest_subtitle: "カスタマイズ可能なリアクター！"
 	quest.6D6E07564D8FDD8D.title: "エクストリームリアクター"
-	quest.6D750A38944E9B68.quest_desc: ["&9Infusion Altar&rはこのモッドで&aSeeds&rを作るための基本的な装置です。Altar自体と8つのPedestalsを作る必要があります。\\n\\nまずAltarを置くと、Pedestalsを置く場所が表示されます。種をクラフトするには、各Pedestalに必要な素材を置き、Altarにレッドストーン信号を送ります。"]
+	quest.6D750A38944E9B68.quest_desc: ["&9Infusion Altar&rはこのモッドで&aSeeds&rを作るための基本的な装置です。Altar自体と8つのPedestalsを作る必要があります。\n\nまずAltarを置くと、Pedestalsを置く場所が表示されます。種をクラフトするには、各Pedestalに必要な素材を置き、Altarにレッドストーン信号を送ります。"]
 	quest.6D750A38944E9B68.title: "インフュージョン・アルター"
 	quest.6D81DF90E9C2C049.quest_desc: ["18のフィルタースロットを持ち、２倍速く動作します。"]
 	quest.6D81DF90E9C2C049.title: "エリート デストラクター"
@@ -8562,13 +8495,6 @@
 		"{image:atm:textures/questpics/bees/bottler.png width:100 height:150 align:1}"
 	]
 	quest.6F978C4D561F35EC.quest_subtitle: "ハニー、ミツバチを潰したよ"
-	quest.6FBAE89EE782DABA.quest_desc: [
-		"設置され、&aリンキングツール&rで他のドロワーに接続されると、このブロックは「ハブ」として機能します。 "
-		""
-		"これをダブル右クリックすると、ストレージドロワーズ「ネットワーク」内のすべてのアイテムがあなたのインベントリから引き出されます。"
-	]
-	quest.6FBAE89EE782DABA.quest_subtitle: "ドロワーの頭脳"
-	quest.6FBAE89EE782DABA.title: "ストレージコントローラー"
 	quest.6FBE0BF8A7ADBB26.quest_desc: [
 		"&2マナスプレッダー&rをアップグレードするには、スプレッダーの前面に&9マナレンズ&rを取り付けます。ただし、最も基本的なマナレンズは何の効果もありません。"
 		""
@@ -8955,7 +8881,7 @@
 		"これらを受動的に生産する方法を考えるかもしれません。"
 	]
 	quest.754229E1F1D2DA8A.quest_subtitle: "窓側の席がいいです"
-	quest.75560045ED084900.quest_desc: ["ほとんどの種は簡単に作れますが、&9Mob Seeds&rを作るにはネザーに行って&8Soulium&rを手に入れる必要があります。\\n\\n見つけた石や鉱石を使って、&3Soulium Dagger&rと&3Soul Jars&rを作ります。ダガーを使ってモブを倒すことで、その&bsouls&rを集めることができ、これをInfusion Altarで使って対応するモブの種を作ります。\\n\\nまた、&3Soul Extractor&rにジャーを挿入し、モブアイテムを使ってジャーを満たすこともできます。例えば、腐った肉を追加するとゾンビの魂の一部が得られます。"]
+	quest.75560045ED084900.quest_desc: ["ほとんどの種は簡単に作れますが、&9Mob Seeds&rを作るにはネザーに行って&8Soulium&rを手に入れる必要があります。\n\n見つけた石や鉱石を使って、&3Soulium Dagger&rと&3Soul Jars&rを作ります。ダガーを使ってモブを倒すことで、その&bsouls&rを集めることができ、これをInfusion Altarで使って対応するモブの種を作ります。\n\nまた、&3Soul Extractor&rにジャーを挿入し、モブアイテムを使ってジャーを満たすこともできます。例えば、腐った肉を追加するとゾンビの魂の一部が得られます。"]
 	quest.75560045ED084900.title: "モブの種を作成"
 	quest.757E1521D84AC5C8.quest_desc: [
 		"血液は、試験管をクラフトしてミスティカルダガーでモブを殺すことによって収集されます。"
@@ -9384,7 +9310,7 @@
 		""
 		"これを行うには、レッドストーン1個、ピストン1個、砂または砂利のブロック1個、オブザーバー1個が必要です。"
 		""
-		"ある面にロジック・アダプターを置き、その上にブロックを1つスキップしてからもう1つのアダプターを置きます。上のアダプターを&9\\\"アクティベーション\\\"&rに、下のアダプターを&c\\\"ダメージ・クリティカル\\\"&rに設定します。"
+		"ある面にロジック・アダプターを置き、その上にブロックを1つスキップしてからもう1つのアダプターを置きます。上のアダプターを&9\"アクティベーション\"&rに、下のアダプターを&c\"ダメージ・クリティカル\"&rに設定します。"
 		""
 		"次に、下のアダプターの前と下に任意の建築ブロックを置き、その上にレッドストーンを置きます。そのレッドストーンの前にピストンを上向きに置き、そのピストンの上に砂または砂利を置きます。"
 		""
@@ -9422,8 +9348,6 @@
 		"このクエストラインでは、クエストの形が&c四角&rの花は生成する花であり、形が&9円&rの花は機能的な花です。また、&aレキシカ・ボタニア&rを使用して、各花が何をするかも確認できます。"
 	]
 	quest.7B3FAF5CA4DD217C.title: "機能的で生成する花"
-	quest.7B40A9DAA119DE59.quest_subtitle: "クリスタリン + ネオンカッコー"
-	quest.7B40A9DAA119DE59.title: "メンリルミツバチ"
 	quest.7B4A687EB505C2FF.quest_desc: [
 		"&9カーミナイトビルダー&rは、レッドストーン信号で動力を供給されると、信号が来た方向に一時的なブロックを生成します。"
 		""
@@ -9684,7 +9608,7 @@
 	]
 	quest.7DF972754C48E22B.quest_desc: ["今やマルチブロックを持っているので、「Distinct Buses」を設定し、それぞれに特定の型やプログラムされた回路を設定できます！これでオールインワンのマシンが完成です！"]
 	quest.7DF972754C48E22B.quest_subtitle: "押し出しで材料を節約"
-	quest.7DFF18CFEB0B8DBE.quest_desc: ["&aInferium&rをできるだけ早く育て始めましょう！\\n\\nInferiumの種を育てるために必須ではありませんが、&eEssence Farmland&rを作ることで種の成長速度を上げることができます。ただし、特定の種は特定の農地でしか育てられないことがあります。"]
+	quest.7DFF18CFEB0B8DBE.quest_desc: ["&aInferium&rをできるだけ早く育て始めましょう！\n\nInferiumの種を育てるために必須ではありませんが、&eEssence Farmland&rを作ることで種の成長速度を上げることができます。ただし、特定の種は特定の農地でしか育てられないことがあります。"]
 	quest.7DFF18CFEB0B8DBE.title: "インフェリウムの栽培"
 	quest.7E07C5A6FA6B6B1F.quest_desc: [
 		"完全に機能する&aリプロセッサー&rを構築したら、電力、水、&9シアナイト&rをポンプで送り込み、&dブルートニウム&rを生成できます。"

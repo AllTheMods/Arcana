@@ -11,7 +11,6 @@
 	chapter.18A429E7F56AF5A9.title: "Tableau des primes"
 	chapter.193F91842D2ED7D9.title: "Industrial Foregoing"
 	chapter.1B175B2C955D8395.title: "Allthemodium"
-	chapter.1BE666F01EFFC00D.title: "Astuces et Conseils"
 	chapter.1D42B373285DEF81.title: "Silent Gear"
 	chapter.1DB294A8F8686321.title: "Stockage de base"
 	chapter.220BE62A7F8EA359.title: "Enchantement d'Apotheosis"
@@ -46,7 +45,6 @@
 	chapter_group.1DA67E79B40AB130.title: "GregTech™"
 	chapter_group.2084F3F6FB861C5B.title: "Ligne principale des quêtes"
 	chapter_group.22FB35B0FEF1343D.title: "Outils et Armures"
-	chapter_group.2B51AC12041E3F89.title: "Technologie"
 	chapter_group.6614EE2378B8AFB9.title: "Resources"
 	chapter_group.752CDE464613A1ED.title: "Exploration"
 	quest.001B11C3773022DE.quest_desc: ["La Rectification est une quantité qui fonctionne avec Quanta, elle détermine si les enchantements seront bons ou mauvais. Plus il y a de Rectification, meilleurs sont les enchantements. Probablement nécessaire pour ceux qui veulent de bons équipements."]
@@ -71,7 +69,7 @@
 	quest.0C856BBB1679A7DD.quest_desc: ["Sur cette page, vous trouverez quelques objets utiles et des informations pour vous aider dans votre périple!"]
 	quest.0C856BBB1679A7DD.quest_subtitle: "Et d'autres objets utiles!"
 	quest.0C856BBB1679A7DD.title: "Conseils et Astuces!"
-	quest.0C93D7A607AB8B83.quest_desc: ["Pour revendiquer des chunks, ouvrez votre carte en appuyant sur &6M&r, puis cliquez sur l'icône &aClaim Map&r dans le coin supérieur gauche.\\n\\nPour revendiquer un chunk, cliquez gauche et faites glisser pour revendiquer.\\n\\nPour charger de force un chunk, maintenez la touche Maj/Shift enfoncée et cliquez gauche sur le chunk. Si cela est fait correctement, vous verrez des lignes à travers le chunk."]
+	quest.0C93D7A607AB8B83.quest_desc: ["Pour revendiquer des chunks, ouvrez votre carte en appuyant sur &6M&r, puis cliquez sur l'icône &aClaim Map&r dans le coin supérieur gauche.\n\nPour revendiquer un chunk, cliquez gauche et faites glisser pour revendiquer.\n\nPour charger de force un chunk, maintenez la touche Maj/Shift enfoncée et cliquez gauche sur le chunk. Si cela est fait correctement, vous verrez des lignes à travers le chunk."]
 	quest.0D6D45DBA64E612D.quest_desc: ["Le Retard Maximum de Spawn est le temps qu'il pourrait mettre pour générer des monstres. Tout comme le Minimum, il peut être aussi bas que 100 et aussi haut que 32 767. Chaque Lingot donne 10. Les chiffres sont en ticks de Minecraft, 20 ticks équivalent à 1 seconde. Ainsi, le délai de spawn le plus rapide serait de 5 secondes entre chaque."]
 	quest.0D6D45DBA64E612D.title: "Retard maximum de Spawn"
 	quest.0E02CE4469FCA4C9.quest_desc: ["L'Activation Redstone donne à votre générateur un interrupteur marche/arrêt. Sans alimentation Redstone, il ne produira pas de spawn."]
@@ -79,7 +77,7 @@
 	quest.0E20A9B79D1C6637.title: "Tuer le Gardien des Profondeurs"
 	quest.0EB5B926E1FBAF0E.quest_desc: ["L'enchantement subit quelques modifications avec Apotheosis. Pour le résumer, 15 bibliothèques ne suffiront plus maintenant. De nouvelles bibliothèques ont été introduites, et des fonctionnalités supplémentaires sont désormais disponibles avec les tables d'enchantement. Nous espérons que ces quêtes vous fourniront les informations nécessaires pour une meilleure compréhension."]
 	quest.0EB5B926E1FBAF0E.title: "Enchantement avec Apotheosis"
-	quest.0F55D0B4D5094EDB.quest_desc: ["'En créant de nombreuses lignes de quêtes pour l'ATM7, le Villageois Marchand a pensé que ce serait amusant de me pousser constamment dans l'écran de quête.\\n\\nÉliminez-les. Tous.'\\n\\n- AlfredGG"]
+	quest.0F55D0B4D5094EDB.quest_desc: ["'En créant de nombreuses lignes de quêtes pour l'ATM7, le Villageois Marchand a pensé que ce serait amusant de me pousser constamment dans l'écran de quête.\n\nÉliminez-les. Tous.'\n\n- AlfredGG"]
 	quest.0F55D0B4D5094EDB.quest_subtitle: "'C'est personnel' - AlfredGG"
 	quest.0F55D0B4D5094EDB.title: "Tuer le Villageois Marchand et ses Ennuyeux Lamas"
 	quest.0F77A9AD1F422537.quest_desc: ["La Bibliothèque de l'Enfer Lumineuse est une amélioration de la Bibliothèque de l'Enfer Infusée. Elle augmente également l'Eterna max, mais ce ne sont pas les statistiques que nous recherchons pour l'enchantement. Indubitablement utile pour l'enchantement ordinaire toutefois!"]
@@ -188,7 +186,7 @@
 	quest.37ACDA018D07A4DF.title: "&dOutils en Unobtainium&r"
 	quest.38135FFD9ED64395.title: "Alliage Vibranium-AllTheModium"
 	quest.3A1D07AED2A841E4.title: "&eModule du fourneau automatique"
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10 est un pack 'kitchensink' qui vous permet d'explorer le monde de Minecraft moddé à votre manière!\\n\\nSi vous avez des questions ou des problèmes, n'hésitez pas à rejoindre le discord d'ATM!"]
+	quest.3BC0A50886A3222B.quest_desc: ["ATM10 est un pack 'kitchensink' qui vous permet d'explorer le monde de Minecraft moddé à votre manière!\n\nSi vous avez des questions ou des problèmes, n'hésitez pas à rejoindre le discord d'ATM!"]
 	quest.3BC0A50886A3222B.title: "&dBienvenue dans All The Mods 10!"
 	quest.3C322474D2F2BA99.quest_desc: [
 		"Le Téléporteur est utilisé pour se téléporter vers les 3 nouvelles dimensions ajoutées par le pack ATM."

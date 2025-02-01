@@ -223,7 +223,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "4756A216A6E6860C"
-				item: { count: 1, id: "crafting_on_a_stick:crafting_table" }
+				item: { components: { "ftbquests:missing_item": "crafting_on_a_stick:crafting_table" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -455,8 +455,11 @@
 					count: 3
 					id: "292F484BF4813BC8"
 					item: {
+						components: {
+							"ftbquests:missing_item": "mekanism:ultimate_universal_cable"
+						}
 						count: 1
-						id: "mekanism:ultimate_universal_cable"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -908,7 +911,7 @@
 			}]
 			tasks: [{
 				id: "211A2C594472A9C4"
-				item: { count: 1, id: "mekanismgenerators:wind_generator" }
+				item: { components: { "ftbquests:missing_item": "mekanismgenerators:wind_generator" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 5.0d
@@ -1036,7 +1039,7 @@
 			}]
 			tasks: [{
 				id: "1329EDCB0F482F3D"
-				item: { count: 1, id: "generatorgalore:copper_generator" }
+				item: { components: { "ftbquests:missing_item": "generatorgalore:copper_generator" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.0d

@@ -25,7 +25,7 @@
 			y: 3.0d
 		}
 	]
-	order_index: 4
+	order_index: 3
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -1481,8 +1481,8 @@
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
-				id: "2FEC915DC58F30C4"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(silentgear:repair_kits)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "0EF203AF0BA514F7"
+				item: { components: { "ftbfiltersystem:filter": "or(item(silentgear:very_crude_repair_kit)item(silentgear:crude_repair_kit)item(silentgear:sturdy_repair_kit)item(silentgear:crimson_repair_kit)item(silentgear:azure_repair_kit))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 15.0d
