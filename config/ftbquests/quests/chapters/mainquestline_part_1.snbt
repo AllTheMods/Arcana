@@ -98,22 +98,6 @@
 			y: 10.25d
 		}
 		{
-			height: 1.0d
-			image: "ironfurnaces:block/iron_furnace_front_on"
-			rotation: 0.0d
-			width: 1.0d
-			x: 1.0d
-			y: 6.0d
-		}
-		{
-			height: 1.0d
-			image: "generatorgalore:block/copper_generator_front"
-			rotation: 0.0d
-			width: 1.0d
-			x: 3.0d
-			y: 6.0d
-		}
-		{
 			height: 0.8d
 			image: "minecraft:block/furnace_front_on"
 			rotation: 0.0d
@@ -212,24 +196,6 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["282CE3A088AE5CFB"]
-			id: "378BF828DC931F0C"
-			optional: true
-			rewards: [{
-				id: "78B689AE8463620A"
-				type: "xp"
-				xp: 10
-			}]
-			shape: "hexagon"
-			tasks: [{
-				id: "4756A216A6E6860C"
-				item: { components: { "ftbquests:missing_item": "crafting_on_a_stick:crafting_table" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 1.5d
-		}
-		{
 			dependencies: ["7975C7145572C438"]
 			icon: {
 				id: "minecraft:furnace"
@@ -255,22 +221,6 @@
 			]
 			x: 2.0d
 			y: 4.5d
-		}
-		{
-			dependencies: ["24C9BA6DC32CFAD9"]
-			id: "2AEBE3F28996A6ED"
-			rewards: [{
-				id: "668CE42B421B64D8"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "7C88F80D05E62AC7"
-				item: { components: { "ftbfiltersystem:filter": "or(item(ironfurnaces:iron_furnace)item(ironfurnaces:copper_furnace)item(ironfurnaces:upgrade_iron)item(ironfurnaces:upgrade_copper))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: 7.5d
 		}
 		{
 			dependencies: ["7D38BC3DB3406F51"]
@@ -320,26 +270,6 @@
 			}]
 			x: 8.0d
 			y: 4.5d
-		}
-		{
-			dependencies: ["698A959C9E449592"]
-			hide_dependency_lines: false
-			hide_until_deps_visible: false
-			id: "4DE1158931F84F22"
-			rewards: [{
-				id: "2C46B4017AC5F3AE"
-				type: "xp"
-				xp: 25
-			}]
-			shape: "octagon"
-			tasks: [{
-				count: 4L
-				id: "73F9C130378195B9"
-				item: { count: 1, id: "minecraft:redstone" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: 6.0d
 		}
 		{
 			dependencies: ["698A959C9E449592"]
@@ -446,65 +376,6 @@
 			}]
 			x: 5.5d
 			y: 2.0d
-		}
-		{
-			dependencies: ["4869C413646CC4CC"]
-			id: "672134A1A620EEAB"
-			rewards: [
-				{
-					count: 3
-					id: "292F484BF4813BC8"
-					item: {
-						components: {
-							"ftbquests:missing_item": "mekanism:ultimate_universal_cable"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "33DEE660F8E5A648"
-					type: "xp"
-					xp: 50
-				}
-			]
-			shape: "square"
-			tasks: [{
-				id: "3C95552D03C16F3D"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mekanism:basic_energy_cube)item(powah:energy_cell_starter))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: 9.0d
-		}
-		{
-			dependencies: ["4DE1158931F84F22"]
-			id: "4869C413646CC4CC"
-			rewards: [
-				{
-					count: 3
-					id: "082D932BDF87998A"
-					item: {
-						count: 1
-						id: "minecraft:redstone_block"
-					}
-					type: "item"
-				}
-				{
-					id: "48961510103ECFA9"
-					type: "xp"
-					xp: 50
-				}
-			]
-			shape: "square"
-			tasks: [{
-				id: "1960B985B54B9FBD"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mekanism:basic_universal_cable)item(pipez:energy_pipe)item(powah:energy_cable_basic))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: 7.5d
 		}
 		{
 			dependencies: ["0F3D51FFD2FE8DCB"]
@@ -845,25 +716,6 @@
 			y: 4.5127551020408205d
 		}
 		{
-			dependencies: ["2AEBE3F28996A6ED"]
-			id: "7EC01E7DB045DB05"
-			min_width: 350
-			optional: true
-			rewards: [{
-				id: "535A39E4C6E7F4AD"
-				type: "xp"
-				xp: 10
-			}]
-			shape: "rsquare"
-			tasks: [{
-				id: "3BEA6C6A41D5ABEA"
-				item: { components: { "ftbfiltersystem:filter": "or(item(ironfurnaces:augment_blasting)item(ironfurnaces:augment_smoking)item(ironfurnaces:augment_factory)item(ironfurnaces:augment_generator)item(ironfurnaces:augment_speed)item(ironfurnaces:augment_fuel))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: 9.0d
-		}
-		{
 			dependencies: ["0F3D51FFD2FE8DCB"]
 			hide_until_deps_visible: false
 			icon: {
@@ -899,89 +751,6 @@
 			y: 4.5d
 		}
 		{
-			dependencies: ["346860B8EBC4C28C"]
-			hide_dependent_lines: true
-			id: "2CCAA7C0FEDEB573"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "49C98505A02CF9D9"
-				table_id: 487623848494439020L
-				type: "random"
-			}]
-			tasks: [{
-				id: "211A2C594472A9C4"
-				item: { components: { "ftbquests:missing_item": "mekanismgenerators:wind_generator" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: 9.0d
-		}
-		{
-			dependencies: ["346860B8EBC4C28C"]
-			hide_dependent_lines: true
-			id: "3B6F1BD64C0C570F"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3515325AD65E431E"
-				table_id: 487623848494439020L
-				type: "random"
-			}]
-			tasks: [{
-				id: "2E49798B39BAA192"
-				item: { components: { "ftbfiltersystem:filter": "or(item(powah:solar_panel_basic)item(mekanismgenerators:solar_generator))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: 9.0d
-		}
-		{
-			dependencies: ["72E1C19156633391"]
-			id: "346860B8EBC4C28C"
-			rewards: [
-				{
-					id: "7611CDA3EC2EC2F0"
-					item: {
-						count: 1
-						id: "minecraft:lava_bucket"
-					}
-					type: "item"
-				}
-				{
-					count: 2
-					id: "13AE19C718166401"
-					item: {
-						count: 1
-						id: "minecraft:crying_obsidian"
-					}
-					type: "item"
-				}
-				{
-					count: 6
-					id: "12183564E777E5E0"
-					item: {
-						count: 1
-						id: "minecraft:obsidian"
-					}
-					type: "item"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "67650422D108EDAC"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-			]
-			tasks: [{
-				id: "4DB11C6F180743E9"
-				item: { components: { "ftbfiltersystem:filter": "or(item(powah:magmator_basic)item(powah:magmator_starter)item(generatorgalore:magmatic_generator))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 5.5d
-			y: 7.5d
-		}
-		{
 			dependencies: ["7D38BC3DB3406F51"]
 			icon: {
 				id: "minecraft:coal"
@@ -1003,64 +772,6 @@
 			}]
 			x: 2.0d
 			y: 6.0d
-		}
-		{
-			dependencies: ["051E0C85E7B71CE0"]
-			icon: {
-				id: "minecraft:lava_bucket"
-			}
-			id: "72E1C19156633391"
-			rewards: [{
-				id: "1D78E2179270F54A"
-				item: {
-					count: 1
-					id: "minecraft:iron_ingot"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "2CE553B282962E01"
-				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:bucket)item(mekanism:basic_fluid_tank))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 5.5d
-			y: 6.0d
-		}
-		{
-			dependencies: ["24C9BA6DC32CFAD9"]
-			id: "5792CC9E3AFAB229"
-			rewards: [{
-				id: "476CC994CEBE6742"
-				item: {
-					count: 1
-					id: "minecraft:coal_block"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1329EDCB0F482F3D"
-				item: { components: { "ftbquests:missing_item": "generatorgalore:copper_generator" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 7.5d
-		}
-		{
-			dependencies: ["5792CC9E3AFAB229"]
-			id: "790EC3EDC2DB1FB0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0961A8C338178606"
-				table_id: 487623848494439020L
-				type: "random"
-			}]
-			tasks: [{
-				id: "26CDA4EADF919D5C"
-				item: { components: { "ftbfiltersystem:filter": "or(item(generatorgalore:enchantment_generator)item(generatorgalore:halitosis_generator)item(generatorgalore:netherstar_generator)item(generatorgalore:potion_generator))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 9.0d
 		}
 		{
 			id: "110BF3A2BE85F911"
