@@ -3984,8 +3984,6 @@
 		"{image:atm:textures/questpics/forbidden/forbidden_experience.png width:135 height:100 align:center}"
 	]
 	quest.2ADA491A2485061C.title: "&aExperience"
-	quest.2AEBE3F28996A6ED.quest_desc: ["With our new metals, we can upgrade our Furnace using the mod &aIron Furnaces&r!\n\nIron Furnaces (furnaces from the mod itself, not just the Iron version) allow you to add &aAugments&r to upgrade its speed, change the function of the furnace, and more!\n\nThese furnaces make automation easier by allowing you to auto-pull or push from the sides using the config on the left of the interface."]
-	quest.2AEBE3F28996A6ED.title: "&aFurnace Upgrades&r!"
 	quest.2AECDD9E2DEA708C.quest_subtitle: "Tier: &a2"
 	quest.2AED15E3AC0346FE.quest_desc: [
 		"Below are some &3Upgrades&r you can use early on in this mod. Shift while hovering over an &3Upgrade&r to see what it can be used in, or shift while hovering over something to see what upgrades it can use."
@@ -4184,8 +4182,6 @@
 	quest.2CC82170BCE61940.quest_desc: ["Double check you &l&n&cdon't&r&r&r have the &aEBF&r set to &bProgram 1&r, or else it can start cooking the Silicon dust into ingots"]
 	quest.2CC97CF32D9C017B.quest_desc: ["The &6Allthemodium Metals&r can be used to make extremely fast furnaces!"]
 	quest.2CC97CF32D9C017B.title: "&dFaster Furnaces&r"
-	quest.2CCAA7C0FEDEB573.quest_desc: ["If you are like most this is the power you are after. All you do is place it as high as you can and get free power. "]
-	quest.2CCAA7C0FEDEB573.title: "Wind Power"
 	quest.2CCFEE98FE3B2E97.quest_desc: ["These machines are used to automate block placing/breaking. This is especially useful when automating latex."]
 	quest.2CCFEE98FE3B2E97.title: "Blocks"
 	quest.2CD58FC229BC0C28.quest_desc: ["The Gauntlet of Guard is more of a tool than a weapon, it brings in mobs closer when you hold right click with it. Then you can smack the enemies with it to do a bit of damage."]
@@ -4835,8 +4831,6 @@
 	quest.34592A8F4B661D8D.quest_subtitle: "This Goes Boom Too"
 	quest.3459CAEB59CBD60E.quest_desc: ["&4The Prowler&r is a miniboss guarding the &4Ancient Factory&r. He may look powered down but once you get too close you'll learn that's very wrong. He has 1500 Hearts and has 2 attacks: Shoulder Missiles similar to the WASW and a saw he uses for upclose combat. On death he'll drop Redstone and Iron plus exp. (Tip he's also weak to the EMP attacks)"]
 	quest.3459CAEB59CBD60E.title: "&4The Prowler&r"
-	quest.346860B8EBC4C28C.quest_desc: ["Now that you have all this lava what will you do with it? More early game power! "]
-	quest.346860B8EBC4C28C.title: "Lava Power"
 	quest.346A926E23840EF7.quest_desc: [
 		"The options for ZPM tier cables arent the best when it comes to Amperage loss. "
 		""
@@ -5127,8 +5121,6 @@
 	quest.3762F8137BFD5A74.quest_desc: ["The &aCracker&r doesn't get you oil, but it does allow for processing the byproducts more efficiently! "]
 	quest.378105383747DD48.quest_desc: ["Now this ones complicated. \n\nTo get &8&lReplica&r first have 100 Souls, Damage Exchange, and Immunity Exchange ready. \n\nThen, hold your Strengthened Shield to block an attack, then you'll get &8&lReplica&r!"]
 	quest.378105383747DD48.title: "&8&lReplica"
-	quest.378BF828DC931F0C.quest_desc: ["Personally, I hate having to run to a block just to craft. That's where the &2Crafting Stick&r comes in!\n\nThis item works as a &aPortable Crafting Table&r!\n\nTip: You can also put this in your &aCurios&r slot and set a &bKeybind&r to open it!"]
-	quest.378BF828DC931F0C.title: "Crafting, but on a Stick"
 	quest.378C95C18798D413.quest_desc: ["A quick way to switch between tools.\n\nUpgrade with belt pouches in an anvil to increase capacity."]
 	quest.378C95C18798D413.title: "Tool Belt"
 	quest.3799ACDA92F96FD1.quest_desc: [
@@ -5443,8 +5435,6 @@
 	quest.3B542DC05240242C.quest_subtitle: "&f6 &cAttack Damage"
 	quest.3B560B2ECE331CAF.quest_desc: ["This is a Tier 3 Pillar Cap for the Starlight Charger."]
 	quest.3B560B2ECE331CAF.title: "Tier 3 Starlight Charger Pillar Cap"
-	quest.3B6F1BD64C0C570F.quest_desc: ["Just like wind generation this will give you lots of power without giving it any resources. The only downside here is it has to be daytime. "]
-	quest.3B6F1BD64C0C570F.title: "Solar Power"
 	quest.3B6F723B03C4BF55.quest_desc: ["Digestion (very prude way of processing) is how we change &3Alchemical Niters&r to different forms. \n\nFirst we'll need Purified Gold which can be made from putting Gold, &bAlchemical Salt&r, and &9Water&r into the Disgestion Vat and Shift Right Click to close it like the Fermentation Vat. \n\nThen we can either combine 4 of one &3Alchemical Niter&r with Purified Gold and &dSal Ammoniac&r to get a higher Tier or do the reverse for a lower Tier."]
 	quest.3B6F723B03C4BF55.title: "Digestion Vat"
 	quest.3B7BB08D6AA2E7FE.quest_desc: [
@@ -6735,13 +6725,6 @@
 	]
 	quest.48600733998CA349.quest_subtitle: "Fluids and more"
 	quest.486060882E507CF1.quest_subtitle: "Spawns from a Dirt Nest"
-	quest.4869C413646CC4CC.quest_desc: [
-		"Transferring power out of your generators is probably a good idea, but how can you do it? "
-		""
-		"To start, you can use &cEnergy Pipes&r from the &aPipez&r mod, or you can use the &9Powah&r &cEnergy Cables&r if you have already started using that mod. "
-		""
-		"Or if you want a throwback, this pack has &6EnderIO&r and you can use the &6Energy Conduits&r from it."
-	]
 	quest.486B5A605D79EA10.quest_desc: ["These we can actually farm for! Milk that &cPyromancer&r!"]
 	quest.486B5A605D79EA10.title: "&cFire&r Upgrade Orb"
 	quest.487275B970530E3F.quest_desc: ["An upgrade to our Will storage. This will hold a max of 256 Will."]
@@ -7280,14 +7263,6 @@
 	quest.4DD7F3508B757EF0.quest_desc: ["Insert a block of ruby into your cutter to get nine ruby plates"]
 	quest.4DDFD3BAA86DC342.quest_desc: ["The UHPIC chip once the wafer is broken down into chips by a Cutting machine."]
 	quest.4DDFD3BAA86DC342.quest_subtitle: "Semi-Conductors are Fun!"
-	quest.4DE1158931F84F22.quest_desc: [
-		"Once you have an Iron or better tier Pickaxe, you'll be able to mine &cRedstone&r. "
-		""
-		"Redstone starts your journey into many technical mods, like creating power or making fancy gadgets. "
-		""
-		"This is a resource you will want a lot of!"
-	]
-	quest.4DE1158931F84F22.title: "&cRedstone&r"
 	quest.4DE719FC2E4C69AB.quest_desc: [
 		"Welcome to the Steam Age! Steam machines can process any recipe in JEI up to &e&lUsage: 32 EU/t (LV)&r&r"
 		""
@@ -8254,7 +8229,6 @@
 	quest.577A5FC500E14C05.quest_subtitle: "Lawson Cypress + Oak"
 	quest.5791F3000D18E2C9.quest_desc: ["The &8Wither&r has a tendency to break and blow up Blocks. \n\nMost players do not enjoy this, so the &8Witherproof Bricks&r are just what you are looking for! \n\nThey are just like &8Witherproof Blocks&r, just with a better design!"]
 	quest.5791F3000D18E2C9.title: "&8Witherproof Bricks"
-	quest.5792CC9E3AFAB229.quest_desc: ["We also have the mod called &aGenerators Galore&r! This mod adds unique generators that use coal or other items."]
 	quest.57940981E8DE55D4.quest_desc: ["It's easy to get lost in the &9Twilight Forest&r. In your travels, you'll run into &5Obsidian Pillars&r.\n\nThese pillars will have &8Ravens&r around them. Kill them and they'll drop their feathers, which you can use to create a map for the &9Twilight Forest&r!"]
 	quest.57940981E8DE55D4.title: "&8Raven Feathers"
 	quest.579A41570D610B07.quest_desc: [
@@ -9684,13 +9658,6 @@
 	quest.66FE4552E09B5EFF.title: "&3Elementarium"
 	quest.6718043D0F2D1830.quest_desc: ["DireWolf was asked to make an addition of his Cards to work with &5&lMekanism&r and its... other states of matter. Everything Pressurized Tubes can move, these cards can. Gas, Infuse Types, and Pigments."]
 	quest.6718043D0F2D1830.title: "&5Chemical Card"
-	quest.672134A1A620EEAB.quest_desc: [
-		"There are many ways to store power! "
-		""
-		"&9Powah&r offers great storage using &aEnergy Cells&r that can be upgraded, or you can always go with the multiblock style of &aRFTools&r using &aPowercells&r! The choice is yours. "
-		""
-		"Note: You only have to make one of the items to complete the quest."
-	]
 	quest.67216EC5274F08B9.quest_subtitle: "Used by Shear-perds"
 	quest.672AC964851832EB.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_swamp.png width:100 height:150 align:center}"]
 	quest.672AC964851832EB.title: "&7Swamp Silver&r"
@@ -10951,8 +10918,6 @@
 	quest.72DDA413D73E3235.title: "&3Vibranium Armor"
 	quest.72DEF9BA758BCDC0.quest_desc: ["Once the ritual has started you will notice the Lake being made. It will grow to about a 20x20 block area full of murky water. The Murky Water will not kill you unless you forget to go for air."]
 	quest.72DEF9BA758BCDC0.title: "Mahou Lake"
-	quest.72E1C19156633391.quest_desc: ["Buckets and Tanks are a great early way to move around lava."]
-	quest.72E1C19156633391.title: "Lava Bucket"
 	quest.72E5439299E957A8.quest_desc: [
 		"Use that &eExtractor&r to get your copper in a liquid state"
 		""
@@ -11516,8 +11481,6 @@
 	quest.78ECC28DD4BA9696.title: "Hunting For &dOtherworld&r Materials"
 	quest.78FEDE6FA4845585.quest_desc: ["Some infusions need very very exact amounts of &aEterna&r, &cQuanta&r, or &5Arcana&r to get these you might need one of these shelves. Each lowers the amount of its respective amounts."]
 	quest.78FEDE6FA4845585.title: "&cNegative amounts"
-	quest.790EC3EDC2DB1FB0.quest_desc: ["Like it was mentioned before. This mod adds a ton of fun ways to generate power that require specific builds."]
-	quest.790EC3EDC2DB1FB0.title: "Generators Galore"
 	quest.790F509BAA15A68E.quest_desc: [
 		"Tools can be made of MANY materials, the first of which could be iron!"
 		""
@@ -12070,8 +12033,6 @@
 	quest.7EA6B942D1294ED6.quest_subtitle: "A bigger robot friend."
 	quest.7EAFF64FFE8B5378.quest_subtitle: "Iron + Sweat"
 	quest.7EAFF64FFE8B5378.title: "Zinc Bee"
-	quest.7EC01E7DB045DB05.quest_desc: ["&aAugments&r are Furnace upgrades that can either change or upgrade the function of a Furnace.\n\n - Blasting: Converts the Furnace to only allow for Blasting recipes.\n\n - Smoking: Converts the Furnace to only allow for Smoking recipes.\n\n - Factory: Converts the Furnace to use power instead of fuel, and upgrades it to a factory, allowing it to smelt multiple items at once. This increases depending on the tier of Furnace.\n\n - Speed: Doubles the speed of the furnace at the cost of double the fuel.\n\n - Fuel Efficiency: Doubles the amount of items smelted per fuel, but reduces the speed by 25%"]
-	quest.7EC01E7DB045DB05.title: "Furnace &aAugments"
 	quest.7EC7E12C0880F8F5.quest_subtitle: "Tier: &e5"
 	quest.7EC8814940C4C3D7.quest_desc: ["Use this item to shrink. Helpful for working on automation and also just overall fun."]
 	quest.7EC8814940C4C3D7.quest_subtitle: "Honey I Shrunk Myself"
