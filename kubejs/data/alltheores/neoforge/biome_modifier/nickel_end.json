@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:none",
+  "biomes": "#c:is_end",
+  "features": "alltheores:ore_nickel_placed",
+  "step": "underground_ores"
+}

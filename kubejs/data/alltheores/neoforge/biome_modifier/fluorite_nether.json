@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:none",
+  "biomes": "#c:is_nether",
+  "features": "alltheores:ore_fluorite_placed",
+  "step": "underground_ores"
+}
