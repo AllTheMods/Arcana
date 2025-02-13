@@ -2528,6 +2528,11 @@
 	quest.19B393433FB0C62F.quest_desc: ["The Strider's secret to walking on &cLava&r is within their Legs. So we took their Legs off of them and have you use them instead! \n\nWhen Sneaking you can walk safely ontop of &cLava&r! When you stop Sneaking you will fall into the &cLava&r though. These also allow you to safely walk over Magma blocks and other hot blocks!"]
 	quest.19B393433FB0C62F.quest_subtitle: "Feet"
 	quest.19B393433FB0C62F.title: "&4Strider Shoes&r"
+	quest.19B3B7AB18567088.quest_desc: [
+		"The &cNether Fortress&r is changed quite a bit, thanks to &c&lBetter Fortress&r Mod! \n\nIt is still primarily made of bridges of &4Nether Brick&r, just these come with more danger! \n\nSkeletons, &0Wither Skeletons&r, and &2Zombified Piglin&r might spawn on the bridges. Along with Chests. There will also be small towers above the bridges which will have &0Wither Skeletons&r with Bows on them, and more Loot. \n\nAlong the bridges might be off sections which will have a &cBlaze Spawner&r! We'll need these to kill the &cBlazes&r for their &cRods&r. \n\nThe newest addition to the &cFortress&r is the actual fortress part. It is a huge castle with a ton of Spawners and Chests for even more Loot than what the bridges give. It also has a deep basement, which stems for hundreds of Blocks."
+		"{image:atm:textures/questpics/chap1/chap1_fortress.png width:150 height:100 align:center}"
+	]
+	quest.19B3B7AB18567088.title: "&cNether Fortress"
 	quest.19B70E2F329AED83.title: "LuV Tier"
 	quest.19BA973FECFA3B06.quest_desc: [
 		"There are two main ways to acquire &dRadon Gas&r"
@@ -4682,7 +4687,10 @@
 		"{image:atm:textures/questpics/logistics/meka_conductor.png width:200 height:50 align:center}"
 	]
 	quest.316B513FE568EF57.quest_subtitle: "Heat"
-	quest.317141C52573DFF8.quest_desc: ["Now that you've been to &4&lThe Nether&r you can find &eGlowstone&r, which can be used to make us a &bPortal&r to another Dimension! \n\nFunny enough, the &bPortal&r is also the same shape as a &cNether Portal&r, a rectangle of 10 &eGlowstone&r, the corners aren't necessary. \n\nInstead of &cFire&r starting up the &bPortal&r though, we'll need its opposite, &9Water&r! \n\nWith that, we can enter &b&lThe Aether&r."]
+	quest.317141C52573DFF8.quest_desc: [
+		"Now that you've been to &4&lThe Nether&r you can find &eGlowstone&r, which can be used to make us a &bPortal&r to another Dimension! \n\nFunny enough, the &bPortal&r is also the same shape as a &cNether Portal&r, a rectangle of 10 &eGlowstone&r, the corners aren't necessary. \n\nInstead of &cFire&r starting up the &bPortal&r though, we'll need its opposite, &9Water&r! \n\nWith that, we can enter &b&lThe Aether&r."
+		"{image:atm:textures/questpics/chap1/chap1_aether.png width:100 height:125 align:center}"
+	]
 	quest.317141C52573DFF8.title: "&b&lThe Aether"
 	quest.3178C46D9BD7FA88.quest_desc: ["Make sure to fill these up!"]
 	quest.3178C46D9BD7FA88.title: "2 Nitro Batteries"
@@ -5001,7 +5009,10 @@
 	quest.356102D5B5F3CA1E.quest_desc: ["An Alloy added by &6&lForbidden & Arcanus&r is &5Obsidiansteel&r. \n\nIt's created in the &l&bClibano&r, by combining Raw Iron and &5Obsidian&r. \n\nYou'll need an Artisan Relic in order to actually make the Alloy! \n\nAlso you'll get &6Copper&r as residue, which probably isn't supposed to happen..."]
 	quest.356102D5B5F3CA1E.title: "&5Obsidiansteel&r"
 	quest.356F450F4ADD22D7.title: "2 Dimensional Storage Actuator"
-	quest.358509BDA909F63D.quest_desc: ["This &9Portal&r is closer to the &dEnd Portal&r than &cNether Portal&r. \n\nFirst, dig out a 2x1x2 hole in the ground. Then, place &9Water&r in the hole. Finally, place any sort of &dFlowers&r on each side of the hole. \n\nWith all that set up, toss the &bDiamond&r into the &9Water&r! The &bDiamond&r will be blown up in a &5Lightning Strike&r which activates the &9Portal&r. \n\nYou lose a &aDiamond&r, but you gain the &9&lTwilight Forest&r!"]
+	quest.358509BDA909F63D.quest_desc: [
+		"This &9Portal&r is closer to the &dEnd Portal&r than &cNether Portal&r. \n\nFirst, dig out a 2x1x2 hole in the ground. Then, place &9Water&r in the hole. Finally, place any sort of &dFlowers&r on each side of the hole. \n\nWith all that set up, toss the &bDiamond&r into the &9Water&r! The &bDiamond&r will be blown up in a &5Lightning Strike&r which activates the &9Portal&r. \n\nYou lose a &aDiamond&r, but you gain the &9&lTwilight Forest&r!"
+		"{image:atm:textures/questpics/chap1/chap1_twilight.png width:100 height:100 align:center}"
+	]
 	quest.358509BDA909F63D.title: "&9&lTwilight Forest"
 	quest.358706CA93DC2A9C.quest_desc: ["Cook the dust up in the &aEBF&r and cool it down in the &eChemical Bath&r"]
 	quest.358D4F507521075F.quest_desc: [
@@ -5041,6 +5052,11 @@
 	]
 	quest.35CC898E0E49FE58.quest_subtitle: "The Ultimate Wireless Power Solution"
 	quest.35CC898E0E49FE58.title: "Flux Networks"
+	quest.35D559C661807615.quest_desc: [
+		"&6Bastion Remnants&r is actually a category of structures found in &4&lThe Nether&r! \n\nThere are 4 &6Bastion&r types: Bridges, Hoglin Stables, Housing Units, and Treasure Rooms. All have different layouts and spawns for Chests but Loot and Monsters that spawn are the same. \n\nAll &6Bastions&r are giant structures of &0Blackstone&r and &8Basalt&r. They have &eGold Blocks&r, &eGilded Blackstone&r, and Chests for Loot. They also spawn &cPiglin&r and &cPiglin Brutes&r. \n\n&cPiglins&r are neutral but will attack you if you: attack them, break &eGold &for &eGilded Blackstone&r, open Chests, or don't wear &eGold&r. \n\n&cPiglin Brutes&r will attack on sight though... so might as well kill them all!"
+		"{image:atm:textures/questpics/chap1/chap1_bastion.png width:125 height:100 align:center}"
+	]
+	quest.35D559C661807615.title: "&6Bastion Remnants"
 	quest.35E8F1CC0080E45E.quest_subtitle: "Feed a Diamond Bee a Ruby"
 	quest.35E8F1CC0080E45E.title: "RuBee"
 	quest.35EAB77C195E594E.quest_subtitle: "Feed a Diamond Bee Amethyst"
@@ -6621,7 +6637,10 @@
 		""
 		"Alternatively, you could &eCentrifuge&r &cRuby&r or &9Sapphire&r slurries"
 	]
-	quest.4662619F406FEB1A.quest_desc: ["For a &bDiamond&r, 4 &7Iron Ingots&r, and 4 &eGold Ingots&r we can make our ticket to another Dimension. \n\nMake a &2Portal&r, similar in frame to the &cNether Portal&r, just this time out of 10 &8Stone Bricks&r. Corners are not necessary. \n\nThen, use the Catalyst on one of the &8Stone Bricks&r to light the &2Portal&r to &2&lThe Undergarden&r."]
+	quest.4662619F406FEB1A.quest_desc: [
+		"For a &bDiamond&r, 4 &7Iron Ingots&r, and 4 &eGold Ingots&r we can make our ticket to another Dimension. \n\nMake a &2Portal&r, similar in frame to the &cNether Portal&r, just this time out of 10 &8Stone Bricks&r. Corners are not necessary. \n\nThen, use the Catalyst on one of the &8Stone Bricks&r to light the &2Portal&r to &2&lThe Undergarden&r."
+		"{image:atm:textures/questpics/chap1/chap1_undergarden.png width:100 height:125 align:center}"
+	]
 	quest.4662619F406FEB1A.title: "&2&lThe Undergarden"
 	quest.4664AFCFB5618CEB.quest_desc: ["&bGlacite&r is found in the cold biomes of &5&lEternal Starlight&r!"]
 	quest.4664AFCFB5618CEB.quest_subtitle: "17"
@@ -9007,7 +9026,7 @@
 		""
 		"You can Smelt &cAncient Debris&r to get &cAncient Scraps&r. With 4 &cAncient Scraps&r you can combine them with 4 &eGold Ingots&r and make a &cNetherite Ingot&r! "
 		""
-		"To apply the Ingot to Armor and Tools, you'll need a &cSmithing Template&r. These spawn in Chests in Bastions, which are a Structure in the &4&lThe Nether&r."
+		"To apply the Ingot to Armor and Tools, you'll need a &cSmithing Template&r. These spawn in Chests in &cBastions&r, which are a Structure in the &4&lThe Nether&r."
 	]
 	quest.5E799B92358A8732.title: "Ancient Metals"
 	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
@@ -11695,13 +11714,13 @@
 	]
 	quest.79494986A7957292.title: "&dTeleporting&r &aAround&r"
 	quest.794D6D557DAD64C8.quest_desc: [
-		"&bArcane Crystals&r are used a ton for &6&lForbidden \\& Arcanus&r. They make Items, Blocks, and even Multiblocks! "
+		"&bArcane Crystals&r are used a ton for &6&lForbidden & Arcanus&r. They make Items, Blocks, and even Multiblocks! "
 		""
 		"You'll need an &7Iron Pickaxe&r to Mine, also to even just unlock this Quest so you should have one. "
 		""
 		"These spawn around Y 16 to Y -45."
 	]
-	quest.794D6D557DAD64C8.title: "&6&lForbidden \\& Arcanus"
+	quest.794D6D557DAD64C8.title: "&6&lForbidden & Arcanus"
 	quest.795143471F31A64A.quest_subtitle: "Required for Laser recipes"
 	quest.7953C87C488A2AF7.quest_desc: ["Allows you to fly like Iron Man.\n\nYou can only have one level of these Upgrades in the Boots at a time. Each level will use more pressure than the previous.\n\nUse these upgrades, don't just craft them."]
 	quest.7953C87C488A2AF7.quest_subtitle: "Max: 1"
