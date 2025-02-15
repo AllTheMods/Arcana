@@ -2,7 +2,8 @@
   "mod_priorities": [
     "minecraft",
     "alltheores",
-    "kubejs"
+    "kubejs",
+    "werewolves"
   ],
   "priority_overrides": {},
   "stone_variants": [
