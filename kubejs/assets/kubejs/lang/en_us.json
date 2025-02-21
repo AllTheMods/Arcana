@@ -5,5 +5,5 @@
    "effect.potionsmaster.power_sight": "Force Sight",
    "item.minecraft.potion.effect.dark_gem_sight_potion": "Dark Gem Sight Potion",
    "effect.potionsmaster.dark_gem_sight": "Dark Gem Sight"
-
+   "allthemods.tooltip.block_transform": "%s With %s onto %s results %s"
 }
