@@ -101,7 +101,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["6D09511D64DDC282"]
 			icon: {
 				components: {
 					"patchouli:book": "allthemodium:allthemodium_book"

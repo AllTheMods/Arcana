@@ -32,14 +32,6 @@
 			x: 3.5d
 			y: -1.0d
 		}
-		{
-			height: 0.3d
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.3d
-			x: -8.99d
-			y: 8.9d
-		}
 	]
 	order_index: 2
 	progression_mode: "flexible"

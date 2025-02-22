@@ -2245,17 +2245,17 @@
 			id: "03564837ECB5CC79"
 			rewards: [
 				{
-					id: "539CD49CA1DE31DC"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
 					id: "101241398C854D0E"
 					item: {
 						count: 1
 						id: "occultism:spawn_egg/familiar_dragon"
 					}
 					type: "item"
+				}
+				{
+					id: "187926829331B743"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			size: 1.25d
