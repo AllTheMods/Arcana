@@ -5,8 +5,8 @@ BlockEvents.leftClicked((AllTheMods)=>{
     let blockConversion = {
         "visualworkbench:minecraft/crafting_table": { "minecraft:stick": "minecraft:crafting_table"}
     }
-    let block;
-    if(block = blockConversion[AllTheMods.getBlock()][AllTheMods.getItem().id]) {
+    let block = blockConversion[AllTheMods.getBlock()] ? blockConversion[AllTheMods.getBlock()][AllTheMods.getItem().id] : null;
+    if (block) {
         AllTheMods.getBlock().set(block)
     }
 })
