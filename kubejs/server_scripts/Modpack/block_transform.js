@@ -6,8 +6,10 @@ BlockEvents.leftClicked((AllTheMods)=>{
         "visualworkbench:minecraft/crafting_table": { "minecraft:stick": "minecraft:crafting_table"}
     }
     let block;
-    if(block = blockConversion[AllTheMods.getBlock()][AllTheMods.getItem().id]) {
-        AllTheMods.getBlock().set(block)
+    if (blockConversion[AllTheMods.getBlock()]) {
+        if(block = blockConversion[AllTheMods.getBlock()][AllTheMods.getItem().id]){
+            AllTheMods.getBlock().set(block)
+        }
     }
 })
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMagic - Arcana.
