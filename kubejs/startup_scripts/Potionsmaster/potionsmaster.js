@@ -1,5 +1,5 @@
 // priority 100
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
+// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMagic - Arcana.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 
 global.potions_server = [
@@ -105,8 +105,6 @@ global.potions_server = [
     item: '#c:gems/dark',
     name: 'Dark'
   }
-  
-  
 ]
 
 StartupEvents.registry('item', allthemods => {
@@ -131,5 +129,5 @@ StartupEvents.modifyCreativeTab('potionsmaster:creative_tab', allthemods => {
 
 })
 
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
+// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMagic - Arcana.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
