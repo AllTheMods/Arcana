@@ -3,8 +3,9 @@
     "minecraft",
     "alltheores",
     "kubejs",
-    "werewolves",
-    "datanessence"
+    "datanessence",
+    "primalmagick",
+    "werewolves"
   ],
   "priority_overrides": {},
   "stone_variants": [
