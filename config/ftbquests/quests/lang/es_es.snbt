@@ -1679,7 +1679,6 @@
 		"Note: The Rune will need Source to operate."
 	]
 	quest.151648179684B088.quest_subtitle: "Placeable Spells"
-	quest.151D836C7B0E6FAF.title: "&3Escudo de Vibranio"
 	quest.153F111B4CCC850B.title: "Estela Eterna"
 	quest.15564C11744D6AA0.quest_desc: ["Una vez que hayas obtenido un juego completo de los &eMoldes de Inscriber&r necesarios, es hora de comenzar a hacer algunos &eProcesadores&f. Estos son un ingrediente de fabricación importante utilizado para hacer la gran mayoría de los dispositivos conectados a ME."]
 	quest.15564C11744D6AA0.title: "Procesadores"
@@ -2379,7 +2378,6 @@
 	quest.1F55A483008F74FE.quest_desc: ["Has 4 slots for Constructing."]
 	quest.1F55A483008F74FE.title: "Ultra Constructor"
 	quest.1F58AA51814C7568.quest_desc: ["&n&5Super Glue&r can be used to attach blocks to each other to move them with pistons or other means."]
-	quest.1F6C8117F3CED939.title: "&6Arco de AllTheModium"
 	quest.1F733319E9F4DFE5.quest_desc: ["16x Magnesium Diboride Wire - Qty 8"]
 	quest.1F733319E9F4DFE5.quest_subtitle: "MV Superconductor"
 	quest.1F7591DB6D8EC1E7.title: "&5Manzana de Supremium&r"
@@ -4235,7 +4233,6 @@
 		"The bucket can pick up the underwater mobs in Blue Skies."
 	]
 	quest.47EFF4429010E26C.title: "Ventium Tools"
-	quest.47F734CDD5793F26.title: "&5Ballesta de Unobtainio"
 	quest.4821419D44F8083F.quest_desc: [
 		"&9Growth Accelerators&r very slightly increase the growth speed of a seed when placed directly underneath the farmland. Each tier has a range of how many blocks 'up' it can accelerate, with Inferium being the lowest at 12. "
 		""

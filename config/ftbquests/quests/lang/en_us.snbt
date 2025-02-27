@@ -2097,7 +2097,6 @@
 	quest.151648179684B088.quest_desc: ["Runic Chalk is used to draw permanent Runes on that ground. These runes will cast spells on entities that walk over them. \n\nTo attach a spell to a rune, inscribe a &eSpell Parchment&r using a Scribe's Table.\n\nNote: The Rune will need Source to operate."]
 	quest.151648179684B088.quest_subtitle: "Placeable Spells"
 	quest.15195F456D8AD4C8.quest_desc: ["When Ether touches Water Thioquartz will form. This can happen naturally with random generation or you can make it happen! \n\nThen, you can craft with it to get the Shards which can be used for the Alchemist Gear."]
-	quest.151D836C7B0E6FAF.title: "&3Vibranium Shield"
 	quest.15279CAC2FFE6B35.quest_subtitle: "Tier: &c5"
 	quest.1533D98B3B2A758E.quest_desc: ["Shattered Swords can either be dropped from Lonestar Skeletons or crafted using the dropped Blades. \n\nThe Shattered Sword is used more like a Trident than a Sword, instead of hitting you'll throw it. Then, you can Right Click to bring back the Blade like a Loyalty Trident, and Right Click again to reload it if needed."]
 	quest.15540271BF17C2E4.quest_desc: ["&lWelcome to XyCraft!&r\n\nThis series of mods is mostly dedicated to XyCraft: World and Machines!\nWorld gives us the Gems which can be found while mining."]
@@ -2931,7 +2930,6 @@
 	quest.1F55A483008F74FE.quest_desc: ["Has 4 slots for Constructing."]
 	quest.1F55A483008F74FE.title: "Ultra Constructor"
 	quest.1F58AA51814C7568.quest_desc: ["&n&5Super Glue&r can be used to attach blocks to each other to move them with pistons or other means."]
-	quest.1F6C8117F3CED939.title: "&6Allthemodium Bow"
 	quest.1F733319E9F4DFE5.quest_desc: ["16x Magnesium Diboride Wire - Qty 8"]
 	quest.1F733319E9F4DFE5.quest_subtitle: "MV Superconductor"
 	quest.1F7591DB6D8EC1E7.quest_desc: ["Buffs:\n\n - Absorption II (3:00)\n - Speed II (3:00)\n - Resistance II (3:00)\n - Regeneration II (3:00)\n - Strength II (3:00)\n - Haste II (3:00)"]
@@ -6819,7 +6817,6 @@
 	quest.47D201ED115F6D6D.quest_desc: ["16x Enriched Naquadah Trinium Europium Duranide wire - Qty 8"]
 	quest.47D201ED115F6D6D.quest_subtitle: "UV Superconductor"
 	quest.47EFF4429010E26C.title: "Ventium Tools"
-	quest.47F734CDD5793F26.title: "&5Unobtainium Crossbow"
 	quest.480FA9FE57743B66.quest_subtitle: "&f5 &cAttack Damage"
 	quest.481205F0C9B08200.quest_subtitle: "Teak + Clove"
 	quest.4821419D44F8083F.quest_desc: [
