@@ -34,7 +34,7 @@
 		}
 		{
 			height: 5.0d
-			image: "atm:textures/questpics/mystical_agriculture/infusion_alter.png"
+			image: "atm:textures/questpics/mystical_agriculture/infusion_altar.png"
 			rotation: 0.0d
 			width: 7.5d
 			x: -10.0d
@@ -282,33 +282,24 @@
 				{
 					id: "793BE7D88D964B86"
 					item: {
-						components: {
-							"ftbquests:missing_item": "allthecompressed:allthemodium_block_1x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "allthecompressed:allthemodium_block_1x"
 					}
 					type: "item"
 				}
 				{
 					id: "464183B67BF36E32"
 					item: {
-						components: {
-							"ftbquests:missing_item": "allthecompressed:vibranium_block_1x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "allthecompressed:vibranium_block_1x"
 					}
 					type: "item"
 				}
 				{
 					id: "7BD872F58C1D6D00"
 					item: {
-						components: {
-							"ftbquests:missing_item": "allthecompressed:unobtainium_block_1x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "allthecompressed:unobtainium_block_1x"
 					}
 					type: "item"
 				}
@@ -631,10 +622,10 @@
 					id: "57154693C64ED404"
 					item: {
 						components: {
-							"ftbquests:missing_item": "chipped:smooth_yellow_concrete"
+							"minecraft:custom_name": "\"Allthemodium Block\""
 						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "chipped:smooth_yellow_concrete"
 					}
 					type: "item"
 				}
@@ -642,10 +633,10 @@
 					id: "0EA9DD3E195C7188"
 					item: {
 						components: {
-							"ftbquests:missing_item": "chipped:cyan_concrete_bricks"
+							"minecraft:custom_name": "\"Vibranium Block\""
 						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "chipped:cyan_concrete_bricks"
 					}
 					type: "item"
 				}
@@ -653,10 +644,10 @@
 					id: "03CF07B77F451AB1"
 					item: {
 						components: {
-							"ftbquests:missing_item": "chipped:purple_concrete_panel"
+							"minecraft:custom_name": "\"Unobtainium Block\""
 						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "chipped:purple_concrete_panel"
 					}
 					type: "item"
 				}
@@ -880,7 +871,7 @@
 			size: 2.5d
 			tasks: [{
 				id: "596E2D5A9B67DE72"
-				item: { components: { "ftbquests:missing_item": "mysticalagradditions:creative_essence" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "mysticalagradditions:creative_essence" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -894,39 +885,33 @@
 					id: "293E85AADFC3A39E"
 					item: {
 						components: {
-							"ftbquests:missing_item": "hostilenetworks:prediction"
+							"hostilenetworks:data_model": "hostilenetworks:wither"
 						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "hostilenetworks:prediction"
 					}
 					type: "item"
 				}
 				{
 					id: "31A296F48B8079C1"
 					item: {
-						components: {
-							"ftbquests:missing_item": "allthecompressed:allthemodium_block_1x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "allthecompressed:allthemodium_block_1x"
 					}
 					type: "item"
 				}
 				{
 					id: "2BCCDA4BF4BC5ECD"
 					item: {
-						components: {
-							"ftbquests:missing_item": "allthecompressed:unobtainium_block_1x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "allthecompressed:unobtainium_block_1x"
 					}
 					type: "item"
 				}
 				{
 					id: "5EB9EF611C919F4D"
 					type: "xp_levels"
-					xp_levels: 17
+					xp_levels: 15
 				}
 			]
 			size: 1.0d
@@ -938,9 +923,9 @@
 					type: "item"
 				}
 				{
-					count: 17L
+					count: 15L
 					id: "0DAD392A4942D6A5"
-					item: { components: { "ftbquests:missing_item": "17x allthecompressed:nether_star_block_3x" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "allthecompressed:nether_star_block_3x" }
 					type: "item"
 				}
 			]
@@ -955,11 +940,8 @@
 				{
 					id: "774C3ADCACE6B30D"
 					item: {
-						components: {
-							"ftbquests:missing_item": "pneumaticcraft:micromissiles"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "pneumaticcraft:micromissiles"
 					}
 					type: "item"
 				}
@@ -972,7 +954,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "5CEAEBB4379E764F"
-				item: { components: { "ftbquests:missing_item": "pneumaticcraft:micromissiles" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "pneumaticcraft:micromissiles" }
 				type: "item"
 			}]
 			x: -10.0d
@@ -986,11 +968,8 @@
 				{
 					id: "29E6F3A82DB43EB8"
 					item: {
-						components: {
-							"ftbquests:missing_item": "ae2:inscriber"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "ae2:inscriber"
 					}
 					type: "item"
 				}
@@ -1003,7 +982,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "22B9E008F13DF933"
-				item: { components: { "ftbquests:missing_item": "ae2:quantum_ring" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "ae2:quantum_ring" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -1015,11 +994,6 @@
 			id: "486B5A605D79EA10"
 			rewards: [
 				{
-					id: "5C494FE85EFC0150"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
 					count: 4
 					id: "31C9A7222A1F8D53"
 					item: {
@@ -1027,6 +1001,11 @@
 						id: "irons_spellbooks:fire_rune"
 					}
 					type: "item"
+				}
+				{
+					id: "3CD2EE0A3E930DD9"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			size: 1.25d
@@ -1073,38 +1052,32 @@
 			id: "6D1E8399AD39FFC8"
 			rewards: [
 				{
-					id: "128A582D3D1AA587"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
 					count: 8
 					id: "653A4613D2F1E68F"
 					item: {
-						components: {
-							"ftbquests:missing_item": "justdirethings:time_crystal"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "justdirethings:time_crystal"
 					}
 					type: "item"
 				}
 				{
 					id: "65F7A477B7357A4E"
 					item: {
-						components: {
-							"ftbquests:missing_item": "justdirethings:time_fluid_bucket"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "justdirethings:time_fluid_bucket"
 					}
 					type: "item"
+				}
+				{
+					id: "5A33CB8A834E86A6"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			size: 1.25d
 			tasks: [{
 				id: "5661FBA13AD1D38C"
-				item: { components: { "ftbquests:missing_item": "justdirethings:paradoxmachine" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "justdirethings:paradoxmachine" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -1116,11 +1089,6 @@
 			id: "6877F33323910716"
 			rewards: [
 				{
-					id: "0320B0AE39E9368E"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
 					id: "63AB7C3C5D3EA9E8"
 					item: {
 						count: 1
@@ -1128,11 +1096,16 @@
 					}
 					type: "item"
 				}
+				{
+					id: "6C99B7FA3171941F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			size: 1.25d
 			tasks: [{
 				id: "520BCB874A3E5942"
-				item: { components: { "ftbquests:missing_item": "pocketstorage:psu_4" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "pocketstorage:psu_4" }
 				type: "item"
 			}]
 			x: -12.0d
@@ -1179,7 +1152,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "70D98005AD05BF31"
-				item: { components: { "ftbquests:missing_item": "industrialforegoing:mycelial_explosive" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "industrialforegoing:mycelial_explosive" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -1237,7 +1210,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "34B9EDC0D98175CB"
-				item: { components: { "ftbquests:missing_item": "mysticalagradditions:nether_star_crux" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "mysticalagradditions:nether_star_crux" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -1315,11 +1288,8 @@
 				{
 					id: "39AEB8115BCD86E9"
 					item: {
-						components: {
-							"ftbquests:missing_item": "generatorgalore:netherstar_generator_8x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "generatorgalore:netherstar_generator_8x"
 					}
 					type: "item"
 				}
@@ -1340,7 +1310,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "44DE0C14A2545FEE"
-				item: { components: { "ftbquests:missing_item": "generatorgalore:netherstar_generator_64x" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "generatorgalore:netherstar_generator_64x" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -1352,11 +1322,6 @@
 			id: "7BC616DDB5933479"
 			rewards: [
 				{
-					id: "614B94154AB9697A"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
 					count: 3
 					id: "0B63779F27F3A6D3"
 					item: {
@@ -1365,11 +1330,17 @@
 					}
 					type: "item"
 				}
+				{
+					id: "7EB85603948FBAF0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			size: 1.25d
 			tasks: [{
 				id: "14D445E233DC9A67"
 				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:wither_skull", index: 0, level: 10, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 0b } }, count: 1, id: "irons_spellbooks:scroll" }
+				match_components: "strict"
 				type: "item"
 			}]
 			x: -4.0d
@@ -1387,7 +1358,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "3202C171A1B34654"
-				item: { components: { "ftbquests:missing_item": "mysticalagriculture:witherproof_bricks" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "mysticalagriculture:witherproof_bricks" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -1451,7 +1422,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "1BE9081C3AFE716B"
-				item: { components: { "ftbquests:missing_item": "industrialforegoing:wither_builder" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "industrialforegoing:wither_builder" }
 				type: "item"
 			}]
 			x: 8.0d
@@ -1463,17 +1434,17 @@
 			id: "750B6316267CF574"
 			rewards: [
 				{
-					id: "3C5FAEA19621E894"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
 					id: "62C184C3F2FC522C"
 					item: {
 						count: 1
 						id: "minecraft:wither_skeleton_skull"
 					}
 					type: "item"
+				}
+				{
+					id: "3F3BBEFFA8C9AD39"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			size: 1.25d
@@ -1494,11 +1465,8 @@
 				{
 					id: "6CBE081AC55CF0CF"
 					item: {
-						components: {
-							"ftbquests:missing_item": "generatorgalore:magmatic_generator_8x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "generatorgalore:magmatic_generator_8x"
 					}
 					type: "item"
 				}
@@ -1526,7 +1494,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "2FFF1FAD3E5A2D2A"
-				item: { components: { "ftbquests:missing_item": "generatorgalore:magmatic_generator_64x" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "generatorgalore:magmatic_generator_64x" }
 				type: "item"
 			}]
 			x: 8.0d
@@ -1540,11 +1508,8 @@
 				{
 					id: "5BA7B45280682ADA"
 					item: {
-						components: {
-							"ftbquests:missing_item": "mysticalagriculture:awakened_supremium_fishing_rod"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "mysticalagriculture:awakened_supremium_fishing_rod"
 					}
 					type: "item"
 				}
@@ -1557,7 +1522,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "3E1B3D3DB657C728"
-				item: { components: { "ftbquests:missing_item": "mysticalagriculture:awakened_supremium_ingot_block" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "mysticalagriculture:awakened_supremium_ingot_block" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -1588,7 +1553,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "7693F09361C9A893"
-				item: { components: { "cyclopscore:capacity": 16000 }, count: 1, id: "evilcraft:dark_tank" }
+				item: { components: { "cyclopscore:capacity": 16000, "cyclopscore:fluid_content": { amount: 16000, id: "justdirethings:refined_t4_fluid_source" } }, count: 1, id: "evilcraft:dark_tank" }
 				type: "item"
 			}]
 			x: 10.0d
@@ -1630,11 +1595,8 @@
 				{
 					id: "14B4224E6066F20C"
 					item: {
-						components: {
-							"ftbquests:missing_item": "mysticalagradditions:insanium_coal"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "mysticalagradditions:insanium_coal"
 					}
 					type: "item"
 				}
@@ -1647,7 +1609,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "43A26135F8A4F2FD"
-				item: { components: { "ftbquests:missing_item": "mysticalagradditions:insanium_coal_block" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "mysticalagradditions:insanium_coal_block" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -1662,11 +1624,8 @@
 					count: 4
 					id: "24BD4F1B6E56E248"
 					item: {
-						components: {
-							"ftbquests:missing_item": "modern_industrialization:nuclear_alloy_plate"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "modern_industrialization:nuclear_alloy_plate"
 					}
 					type: "item"
 				}
@@ -1688,7 +1647,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "429C00F887241B15"
-				item: { components: { "ftbquests:missing_item": "modern_industrialization:uranium_fuel_rod_quad" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "modern_industrialization:uranium_fuel_rod_quad" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -1717,7 +1676,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "194A26964952B3BF"
-				item: { components: { "ftbquests:missing_item": "generatorgalore:ender_generator" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "generatorgalore:ender_generator" }
 				type: "item"
 			}]
 			x: 8.0d
@@ -1747,7 +1706,7 @@
 			tasks: [{
 				count: 2L
 				id: "35506B0CD08BC722"
-				item: { components: { "ftbquests:missing_item": "ironfurnaces:million_furnace" }, count: 1, id: "ftbquests:missing_item" }
+				item: { components: { "minecraft:custom_name": "{\"extra\":[{\"color\":\"light_purple\",\"text\":\"R\"},{\"color\":\"red\",\"text\":\"a\"},{\"color\":\"light_purple\",\"text\":\"i\"},{\"color\":\"light_purple\",\"text\":\"n\"},{\"color\":\"aqua\",\"text\":\"b\"},{\"color\":\"green\",\"text\":\"o\"},{\"color\":\"yellow\",\"text\":\"w\"},{\"color\":\"green\",\"text\":\" \"},{\"color\":\"light_purple\",\"text\":\"F\"},{\"color\":\"light_purple\",\"text\":\"u\"},{\"color\":\"red\",\"text\":\"r\"},{\"color\":\"green\",\"text\":\"n\"},{\"color\":\"light_purple\",\"text\":\"a\"},{\"color\":\"green\",\"text\":\"c\"},{\"color\":\"blue\",\"text\":\"e\"}],\"text\":\"\"}" }, count: 1, id: "ironfurnaces:million_furnace" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -1761,11 +1720,8 @@
 				{
 					id: "22DE42681FB61E7B"
 					item: {
-						components: {
-							"ftbquests:missing_item": "bigreactors:insanite_block"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "bigreactors:insanite_block"
 					}
 					type: "item"
 				}
@@ -1778,7 +1734,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "45DCA38B3C6440DF"
-				item: { components: { "ftbquests:missing_item": "bigreactors:insanite_block" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "bigreactors:insanite_block" }
 				type: "item"
 			}]
 			x: 12.0d
@@ -1791,11 +1747,8 @@
 				{
 					id: "4248C919CBF7D348"
 					item: {
-						components: {
-							"ftbquests:missing_item": "allthecompressed:diamond_block_3x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "allthecompressed:diamond_block_3x"
 					}
 					type: "item"
 				}
@@ -1808,7 +1761,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "29E7A33EF7F47BAF"
-				item: { components: { "ftbquests:missing_item": "allthecompressed:diamond_block_4x" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "allthecompressed:diamond_block_4x" }
 				type: "item"
 			}]
 			x: 8.0d
@@ -1821,11 +1774,8 @@
 				{
 					id: "7EF12785DCC18404"
 					item: {
-						components: {
-							"ftbquests:missing_item": "allthecompressed:emerald_block_3x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "allthecompressed:emerald_block_3x"
 					}
 					type: "item"
 				}
@@ -1838,7 +1788,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "09DA484D3744488D"
-				item: { components: { "ftbquests:missing_item": "allthecompressed:emerald_block_4x" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "allthecompressed:emerald_block_4x" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -1852,11 +1802,8 @@
 				{
 					id: "5330F79B9B7EA400"
 					item: {
-						components: {
-							"ftbquests:missing_item": "allthecompressed:end_stone_4x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "allthecompressed:end_stone_4x"
 					}
 					type: "item"
 				}
@@ -1869,7 +1816,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "79B63A2A00FADEB1"
-				item: { components: { "ftbquests:missing_item": "allthecompressed:end_stone_5x" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "allthecompressed:end_stone_5x" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -1967,11 +1914,8 @@
 				{
 					id: "33EDD86266454DA2"
 					item: {
-						components: {
-							"ftbquests:missing_item": "allthecompressed:obsidian_4x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "allthecompressed:obsidian_4x"
 					}
 					type: "item"
 				}
@@ -1984,7 +1928,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "0DF7057F725551AB"
-				item: { components: { "ftbquests:missing_item": "allthecompressed:obsidian_5x" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "allthecompressed:obsidian_5x" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -1997,11 +1941,8 @@
 				{
 					id: "19B66FBE71D1B7FB"
 					item: {
-						components: {
-							"ftbquests:missing_item": "allthecompressed:dirt_5x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "allthecompressed:dirt_5x"
 					}
 					type: "item"
 				}
@@ -2014,7 +1955,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "79CE9AAA4012A11F"
-				item: { components: { "ftbquests:missing_item": "allthecompressed:dirt_6x" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "allthecompressed:dirt_6x" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -2027,11 +1968,8 @@
 				{
 					id: "48CABEE6C3E28472"
 					item: {
-						components: {
-							"ftbquests:missing_item": "allthecompressed:netherrack_5x"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "allthecompressed:netherrack_5x"
 					}
 					type: "item"
 				}
@@ -2044,7 +1982,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "23516979202CB92E"
-				item: { components: { "ftbquests:missing_item": "allthecompressed:netherrack_6x" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "allthecompressed:netherrack_6x" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -2089,11 +2027,6 @@
 			id: "4D135CE350C59120"
 			rewards: [
 				{
-					id: "194DDC7EF5A4DF58"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
 					count: 4
 					id: "60E707B3E6978AC3"
 					item: {
@@ -2101,6 +2034,11 @@
 						id: "productivebees:draconic_chunk"
 					}
 					type: "item"
+				}
+				{
+					id: "4C0FE92A27BC893B"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			size: 1.25d
@@ -2186,11 +2124,8 @@
 					count: 64
 					id: "4221EE1BC1462832"
 					item: {
-						components: {
-							"ftbquests:missing_item": "hostilenetworks:prediction_matrix"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "hostilenetworks:prediction_matrix"
 					}
 					type: "item"
 				}
@@ -2203,7 +2138,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "05C05663B5598183"
-				item: { components: { "ftbquests:missing_item": "hostilenetworks:data_model" }, count: 1, id: "ftbquests:missing_item" }
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:ender_dragon" }, count: 1, id: "hostilenetworks:data_model" }
 				match_components: "fuzzy"
 				type: "item"
 			}]
@@ -2253,7 +2188,7 @@
 					type: "item"
 				}
 				{
-					id: "187926829331B743"
+					id: "350523E96307E8C5"
 					type: "xp_levels"
 					xp_levels: 1
 				}
@@ -2273,18 +2208,18 @@
 			id: "67C76EDD4BCCFF3F"
 			rewards: [
 				{
-					id: "36ECAD7351CC3E3F"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
-					count: 2
 					id: "215F67733D7997FF"
 					item: {
 						count: 1
 						id: "occultism:soul_gem"
 					}
+					random_bonus: 1
 					type: "item"
+				}
+				{
+					id: "00D563ABAC5ECC49"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			size: 1.25d
@@ -2347,7 +2282,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "5F21D5BF403BDCEF"
-				item: { components: { "ftbquests:missing_item": "ironfurnaces:rainbow_coal" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "ironfurnaces:rainbow_coal" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -2362,11 +2297,8 @@
 					count: 10
 					id: "64ABBD97CDE813F5"
 					item: {
-						components: {
-							"ftbquests:missing_item": "pneumaticcraft:advanced_pressure_tube"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "pneumaticcraft:advanced_pressure_tube"
 					}
 					type: "item"
 				}
@@ -2379,7 +2311,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "4456CFC1AAB6CF7F"
-				item: { components: { "ftbquests:missing_item": "pneumaticcraft:aerial_interface" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "pneumaticcraft:aerial_interface" }
 				type: "item"
 			}]
 			x: -10.0d
@@ -2393,11 +2325,8 @@
 				{
 					id: "5709251152A23121"
 					item: {
-						components: {
-							"ftbquests:missing_item": "megacells:cell_component_256m"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "megacells:cell_component_256m"
 					}
 					type: "item"
 				}
@@ -2410,7 +2339,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "24452EB050EE6E9A"
-				item: { components: { "ftbquests:missing_item": "megacells:portable_item_cell_256m" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "megacells:portable_item_cell_256m" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -2422,11 +2351,6 @@
 			id: "45D10F53CA18B8EE"
 			rewards: [
 				{
-					id: "008084DE04E33A04"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
 					count: 4
 					id: "5E5C4E952ED07415"
 					item: {
@@ -2434,6 +2358,11 @@
 						id: "irons_spellbooks:lightning_rune"
 					}
 					type: "item"
+				}
+				{
+					id: "18B8636E4C89D1C5"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			size: 1.25d
@@ -2453,11 +2382,8 @@
 				{
 					id: "7A3701E143758524"
 					item: {
-						components: {
-							"ftbquests:missing_item": "ae2:cell_component_64k"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "ae2:cell_component_64k"
 					}
 					type: "item"
 				}
@@ -2470,7 +2396,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "452C54AB6D1D3753"
-				item: { components: { "ftbquests:missing_item": "ae2:singularity" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "ae2:singularity" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -2485,11 +2411,8 @@
 					count: 3
 					id: "752F07A030329446"
 					item: {
-						components: {
-							"ftbquests:missing_item": "modern_industrialization:tungsten_ingot"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "modern_industrialization:tungsten_ingot"
 					}
 					type: "item"
 				}
@@ -2497,11 +2420,8 @@
 					count: 3
 					id: "7981819BC6841F3F"
 					item: {
-						components: {
-							"ftbquests:missing_item": "modern_industrialization:titanium_ingot"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "modern_industrialization:titanium_ingot"
 					}
 					type: "item"
 				}
@@ -2509,11 +2429,8 @@
 					count: 3
 					id: "3B454BCBB57F70B1"
 					item: {
-						components: {
-							"ftbquests:missing_item": "modern_industrialization:stainless_steel_ingot"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "modern_industrialization:stainless_steel_ingot"
 					}
 					type: "item"
 				}
@@ -2526,7 +2443,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "3628F8EE6C1A4245"
-				item: { components: { "ftbquests:missing_item": "modern_industrialization:blastproof_casing" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "modern_industrialization:blastproof_casing" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -2541,11 +2458,8 @@
 					count: 2
 					id: "26F805492344C137"
 					item: {
-						components: {
-							"ftbquests:missing_item": "mekanism:pellet_antimatter"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "mekanism:pellet_antimatter"
 					}
 					type: "item"
 				}
@@ -2559,7 +2473,7 @@
 			tasks: [{
 				count: 2L
 				id: "0198D38E04586DC3"
-				item: { components: { "ftbquests:missing_item": "mekanism:pellet_antimatter" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "mekanism:pellet_antimatter" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -2661,11 +2575,8 @@
 					count: 3
 					id: "06DBF3B04AE1D184"
 					item: {
-						components: {
-							"ftbquests:missing_item": "modern_industrialization:titanium_ingot"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "modern_industrialization:titanium_ingot"
 					}
 					type: "item"
 				}
@@ -2678,7 +2589,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "6C7194FE34D20212"
-				item: { components: { "ftbquests:missing_item": "modern_industrialization:large_advanced_motor" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "modern_industrialization:large_advanced_motor" }
 				type: "item"
 			}]
 			x: -10.0d
@@ -2692,11 +2603,8 @@
 					count: 2
 					id: "499F4749EDB5BC33"
 					item: {
-						components: {
-							"ftbquests:missing_item": "aeinfinitybooster:infinity_card"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "aeinfinitybooster:infinity_card"
 					}
 					type: "item"
 				}
@@ -2709,7 +2617,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "4FDC57BA1A5CFC0A"
-				item: { components: { "ftbquests:missing_item": "aeinfinitybooster:infinity_card" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "aeinfinitybooster:infinity_card" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -2724,11 +2632,8 @@
 					count: 4
 					id: "68826293F156B1D4"
 					item: {
-						components: {
-							"ftbquests:missing_item": "advanced_ae:shattered_singularity"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "advanced_ae:shattered_singularity"
 					}
 					type: "item"
 				}
@@ -2741,7 +2646,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "1579B8E44F085C26"
-				item: { components: { "ftbquests:missing_item": "advanced_ae:quantum_multi_threader" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "advanced_ae:quantum_multi_threader" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -2755,11 +2660,8 @@
 				{
 					id: "4666A7CE4F3A8ED3"
 					item: {
-						components: {
-							"ftbquests:missing_item": "mekanism:module_gravitational_modulating_unit"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "mekanism:module_gravitational_modulating_unit"
 					}
 					type: "item"
 				}
@@ -2772,7 +2674,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "258A880972C38C57"
-				item: { components: { "ftbquests:missing_item": "mekanism:module_gravitational_modulating_unit" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "mekanism:module_gravitational_modulating_unit" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -2786,11 +2688,8 @@
 				{
 					id: "0E7F9AE38CAA0918"
 					item: {
-						components: {
-							"ftbquests:missing_item": "ae2:wireless_crafting_terminal"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "ae2:wireless_crafting_terminal"
 					}
 					type: "item"
 				}
@@ -2803,7 +2702,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "7CB0D8918F76FC75"
-				item: { components: { "ftbquests:missing_item": "ae2wtlib:wireless_universal_terminal" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "ae2wtlib:wireless_universal_terminal" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -2815,26 +2714,23 @@
 			id: "535525EA4DF4AB59"
 			rewards: [
 				{
-					id: "2B862BFB4931187D"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
 					id: "18D4231C54A48C9E"
 					item: {
-						components: {
-							"ftbquests:missing_item": "powah:nitro_crystal_block"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "powah:nitro_crystal_block"
 					}
 					type: "item"
+				}
+				{
+					id: "4D927E88CF54032C"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			size: 1.25d
 			tasks: [{
 				id: "3F3A36F9683ED1C2"
-				item: { components: { "ftbquests:missing_item": "powah:player_transmitter_nitro" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "powah:player_transmitter_nitro" }
 				type: "item"
 			}]
 			x: -14.0d
@@ -2848,11 +2744,8 @@
 				{
 					id: "3302BA4BC2D4CE69"
 					item: {
-						components: {
-							"ftbquests:missing_item": "mysticalagradditions:insanium_block"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "mysticalagradditions:insanium_block"
 					}
 					type: "item"
 				}
@@ -2866,7 +2759,7 @@
 			tasks: [{
 				count: 4L
 				id: "50358A939AF6EFFD"
-				item: { components: { "ftbquests:missing_item": "mysticalagradditions:insanium_block" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "mysticalagradditions:insanium_block" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -2881,11 +2774,8 @@
 					count: 2
 					id: "6AA0F49C505BFBA9"
 					item: {
-						components: {
-							"ftbquests:missing_item": "mysticalagradditions:insanium_block"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "mysticalagradditions:insanium_block"
 					}
 					type: "item"
 				}
@@ -2899,7 +2789,7 @@
 			tasks: [{
 				count: 4L
 				id: "0890F5FED5BE2221"
-				item: { components: { "ftbquests:missing_item": "mysticalagradditions:insanium_gemstone_block" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "mysticalagradditions:insanium_gemstone_block" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -2914,11 +2804,8 @@
 					count: 4
 					id: "79D053A91F786D28"
 					item: {
-						components: {
-							"ftbquests:missing_item": "mysticalagriculture:inferium_block"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "mysticalagriculture:inferium_block"
 					}
 					type: "item"
 				}
@@ -2931,7 +2818,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "4044AC9B58C2DC35"
-				item: { components: { "ftbquests:missing_item": "mysticalagriculture:master_infusion_crystal" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "mysticalagriculture:master_infusion_crystal" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -3065,10 +2952,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "ae2:charger"
-				}
-				id: "ftbquests:missing_item"
+				id: "ae2:charger"
 			}
 			id: "4485C4ABD57874EB"
 			rewards: [
@@ -3076,11 +2960,8 @@
 					count: 4
 					id: "6398B8057CD662F9"
 					item: {
-						components: {
-							"ftbquests:missing_item": "ae2:charged_certus_quartz_crystal"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "ae2:charged_certus_quartz_crystal"
 					}
 					type: "item"
 				}
@@ -3094,7 +2975,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "67A3B3CB3FB77702"
-				item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_crystal" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "ae2:certus_quartz_crystal" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -3232,10 +3113,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "pneumaticcraft:air_compressor"
-				}
-				id: "ftbquests:missing_item"
+				id: "pneumaticcraft:air_compressor"
 			}
 			id: "3AAB71E9BDFD4C1E"
 			rewards: [
@@ -3243,11 +3121,8 @@
 					count: 3
 					id: "3D51FB3501E2BBD3"
 					item: {
-						components: {
-							"ftbquests:missing_item": "pneumaticcraft:ingot_iron_compressed"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "pneumaticcraft:ingot_iron_compressed"
 					}
 					type: "item"
 				}
@@ -3261,7 +3136,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "4FBF146C9301DEC7"
-				item: { components: { "ftbquests:missing_item": "pneumaticcraft:ingot_iron_compressed" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "pneumaticcraft:ingot_iron_compressed" }
 				type: "item"
 			}]
 			x: -12.0d
@@ -3274,11 +3149,8 @@
 					count: 3
 					id: "2A9011532E27C3D4"
 					item: {
-						components: {
-							"ftbquests:missing_item": "industrialforegoing:dryrubber"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "industrialforegoing:dryrubber"
 					}
 					type: "item"
 				}
@@ -3292,7 +3164,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "1362391602F13810"
-				item: { components: { "ftbquests:missing_item": "industrialforegoing:dryrubber" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "industrialforegoing:dryrubber" }
 				type: "item"
 			}]
 			x: 7.0d
@@ -3300,10 +3172,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "ironfurnaces:iron_furnace"
-				}
-				id: "ftbquests:missing_item"
+				id: "ironfurnaces:iron_furnace"
 			}
 			id: "752DD0BF36B70D88"
 			rewards: [
@@ -3338,11 +3207,8 @@
 				{
 					id: "2AD8F6EAE8EF2A73"
 					item: {
-						components: {
-							"ftbquests:missing_item": "mysticalagriculture:inferium_block"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "mysticalagriculture:inferium_block"
 					}
 					type: "item"
 				}
@@ -3356,7 +3222,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "6AA00AA3ADBA5F34"
-				item: { components: { "ftbquests:missing_item": "mysticalagriculture:inferium_essence" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "mysticalagriculture:inferium_essence" }
 				type: "item"
 			}]
 			x: -10.0d
@@ -3392,10 +3258,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "bigreactors:energizerchargingport_fe"
-				}
-				id: "ftbquests:missing_item"
+				id: "bigreactors:energizerchargingport_fe"
 			}
 			id: "3331EBE1BB4BF64D"
 			rewards: [
@@ -3425,10 +3288,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "mekanism:ultimate_induction_provider"
-				}
-				id: "ftbquests:missing_item"
+				id: "mekanism:ultimate_induction_provider"
 			}
 			id: "372B5BF416CA83A4"
 			rewards: [
@@ -3458,10 +3318,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "powah:capacitor_nitro"
-				}
-				id: "ftbquests:missing_item"
+				id: "powah:capacitor_nitro"
 			}
 			id: "7E4367252A39BE6C"
 			rewards: [
@@ -3469,11 +3326,8 @@
 					count: 16
 					id: "4796F69D08F840AF"
 					item: {
-						components: {
-							"ftbquests:missing_item": "powah:dielectric_paste"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "powah:dielectric_paste"
 					}
 					type: "item"
 				}
@@ -3487,7 +3341,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "76A7B9E9F755A223"
-				item: { components: { "ftbquests:missing_item": "powah:dielectric_paste" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "powah:dielectric_paste" }
 				type: "item"
 			}]
 			x: -18.0d
@@ -3574,10 +3428,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "generatorgalore:copper_generator"
-				}
-				id: "ftbquests:missing_item"
+				id: "generatorgalore:copper_generator"
 			}
 			id: "76C63670624C3C56"
 			rewards: [
@@ -3628,7 +3479,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "64DA1A601744D578"
-				item: { components: { "ftbquests:missing_item": "modern_industrialization:forge_hammer" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "modern_industrialization:forge_hammer" }
 				type: "item"
 			}]
 			x: -12.0d
@@ -3691,10 +3542,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "justdirethings:fuel_canister"
-				}
-				id: "ftbquests:missing_item"
+				id: "justdirethings:fuel_canister"
 			}
 			id: "6A46A9F04D2A0748"
 			rewards: [
@@ -3719,7 +3567,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "72B9AE8136B91BB9"
-				item: { components: { "ftbquests:missing_item": "justdirethings:gooblock_tier1" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "justdirethings:gooblock_tier1" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -3731,11 +3579,8 @@
 				{
 					id: "3487C6C94496EA7D"
 					item: {
-						components: {
-							"ftbquests:missing_item": "hostilenetworks:blank_data_model"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "hostilenetworks:blank_data_model"
 					}
 					type: "item"
 				}
@@ -3749,7 +3594,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "4B103D9A56D58954"
-				item: { components: { "ftbquests:missing_item": "hostilenetworks:blank_data_model" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "hostilenetworks:blank_data_model" }
 				type: "item"
 			}]
 			x: 10.0d
@@ -3836,7 +3681,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "7330E1F4B62A7A99"
-				item: { components: { "ftbquests:missing_item": "pocketstorage:psu_1" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "pocketstorage:psu_1" }
 				type: "item"
 			}]
 			x: -14.0d
@@ -3845,9 +3690,9 @@
 		{
 			icon: {
 				components: {
-					"ftbquests:missing_item": "modular_machinery_reborn:controller"
+					"modular_machinery_reborn:machine": "atm:runic_star_altar"
 				}
-				id: "ftbquests:missing_item"
+				id: "modular_machinery_reborn:controller"
 			}
 			id: "70CCE558E03227AB"
 			rewards: [
@@ -3855,10 +3700,12 @@
 					id: "3C9BDF570AB1D608"
 					item: {
 						components: {
-							"ftbquests:missing_item": "mekanism:ultimate_energy_cube"
+							"mekanism:energy": {
+								energy_containers: [L;256000000L]
+							}
 						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "mekanism:ultimate_energy_cube"
 					}
 					type: "item"
 				}
@@ -3873,7 +3720,7 @@
 			tasks: [
 				{
 					id: "17A89BD6DB6560D7"
-					item: { components: { "ftbquests:missing_item": "modular_machinery_reborn:controller" }, count: 1, id: "ftbquests:missing_item" }
+					item: { components: { "modular_machinery_reborn:machine": "atm:runic_star_altar" }, count: 1, id: "modular_machinery_reborn:controller" }
 					type: "item"
 				}
 				{
@@ -4016,11 +3863,8 @@
 				{
 					id: "46BE52C57972FAD9"
 					item: {
-						components: {
-							"ftbquests:missing_item": "immersiveengineering:manual"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "immersiveengineering:manual"
 					}
 					type: "item"
 				}
@@ -4034,7 +3878,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "00C7C2A55B1F7E9E"
-				item: { components: { "ftbquests:missing_item": "immersiveengineering:hammer" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "immersiveengineering:hammer" }
 				type: "item"
 			}]
 			x: 13.0d
@@ -4079,7 +3923,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "1E0B47C833DF68F7"
-				item: { components: { "ftbquests:missing_item": "immersiveengineering:tesla_coil" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "immersiveengineering:tesla_coil" }
 				type: "item"
 			}]
 			x: 10.0d
@@ -4177,12 +4021,12 @@
 			id: "55BF254B1831359B"
 			rewards: [
 				{
-					count: 2
 					id: "3E433E44D707F9EA"
 					item: {
 						count: 1
 						id: "minecraft:diamond_block"
 					}
+					random_bonus: 1
 					type: "item"
 				}
 				{
@@ -4195,7 +4039,7 @@
 			tasks: [{
 				count: 2L
 				id: "6373147D18B35DCE"
-				item: { components: { "ftbquests:missing_item": "stevescarts:module_galgadorian_drill" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "stevescarts:module_galgadorian_drill" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -4234,10 +4078,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "stevescarts:module_standard_hull"
-				}
-				id: "ftbquests:missing_item"
+				id: "stevescarts:module_standard_hull"
 			}
 			id: "309B0B2898893B4E"
 			rewards: [
@@ -4245,11 +4086,8 @@
 					count: 10
 					id: "435A23A4126CB2B4"
 					item: {
-						components: {
-							"ftbquests:missing_item": "stevescarts:component_stabilized_metal"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "stevescarts:component_stabilized_metal"
 					}
 					type: "item"
 				}
@@ -4263,7 +4101,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "7D87951BDCAF7377"
-				item: { components: { "ftbquests:missing_item": "stevescarts:component_stabilized_metal" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "stevescarts:component_stabilized_metal" }
 				type: "item"
 			}]
 			x: -4.0d
