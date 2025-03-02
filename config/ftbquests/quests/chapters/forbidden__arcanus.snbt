@@ -140,7 +140,7 @@
 			y: 3.0d
 		}
 	]
-	order_index: 3
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -644,6 +644,18 @@
 				"198E9E90CC9606C4"
 			]
 			id: "07BEE6FEC14765DC"
+			rewards: [{
+				count: 16
+				id: "6382ECAF771645DE"
+				item: {
+					components: {
+						"ftbquests:missing_item": "pipez:item_pipe"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "41E6EA289B6E1E0C"
 				item: { count: 1, id: "forbidden_arcanus:ferrognetic_mixture" }
@@ -1330,7 +1342,10 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["6F57BE412A7BE84E"]
+			dependencies: [
+				"6F57BE412A7BE84E"
+				"79C9875A1A494762"
+			]
 			dependency_requirement: "one_completed"
 			id: "5CD0E6F349F2F32D"
 			rewards: [{
@@ -1438,6 +1453,24 @@
 			}]
 			x: 15.5d
 			y: 3.0d
+		}
+		{
+			id: "79C9875A1A494762"
+			rewards: [{
+				id: "53DDDA79FB756C15"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B79080463C860ED"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(the_bumblezone:bee_queen/dedicated_trade_tags/modded/utilitarian_soliciting_carpets))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 1.5d
 		}
 		{
 			icon: {

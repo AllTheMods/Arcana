@@ -1,0 +1,49 @@
+{
+	id: "0D22FDCFDACCD37C"
+	loot_size: 1
+	order_index: 19
+	rewards: [
+		{
+			count: 5
+			id: "57D614E19A793601"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 3
+			id: "6AEBEE0892A3EEED"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{ id: "2A4D88EBFC263BEF", item: { components: { "vampirism:bottle_blood": { blood: 9 } }, count: 1, id: "vampirism:blood_bottle" } }
+		{
+			count: 2
+			id: "73E52182E6222384"
+			item: {
+				count: 1
+				id: "vampirism:human_heart"
+			}
+		}
+		{
+			count: 5
+			id: "4C9F01E073C05CBB"
+			item: {
+				count: 1
+				id: "werewolves:liver"
+			}
+		}
+		{ id: "3DF599DB4C794873", item: { count: 1, id: "vampirism:blood_container" } }
+		{
+			count: 2
+			id: "5D303C058C6B79D6"
+			item: {
+				count: 1
+				id: "vampirism:blood_infused_iron_ingot"
+			}
+		}
+	]
+}

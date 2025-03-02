@@ -1644,8 +1644,8 @@
 				xp_levels: 5
 			}]
 			tasks: [{
-				id: "61A88B746B6D1363"
-				item: { count: 1, id: "allthemodium:raw_allthemodium" }
+				id: "48773A91102FD7CD"
+				item: { components: { "minecraft:potion_contents": { potion: "potionsmaster:allthemodium" } }, count: 1, id: "minecraft:potion" }
 				type: "item"
 			}]
 			x: 20.0d

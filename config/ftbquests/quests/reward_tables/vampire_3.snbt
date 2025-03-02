@@ -1,0 +1,42 @@
+{
+	id: "509855E4C0006CE2"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{
+			count: 3
+			id: "2C925C251442FECE"
+			item: {
+				count: 1
+				id: "minecraft:iron_block"
+			}
+		}
+		{
+			count: 2
+			id: "5C011EECD282FD54"
+			item: {
+				count: 1
+				id: "minecraft:gold_block"
+			}
+		}
+		{
+			count: 20
+			id: "029C1E47C0FA1867"
+			item: {
+				count: 1
+				id: "vampirism:human_heart"
+			}
+		}
+		{ id: "7D3F48CE4DAE6909", item: { components: { "vampirism:blood_container": { fluid: { amount: 12600, id: "vampirism:blood" } } }, count: 1, id: "vampirism:blood_container" } }
+		{ id: "35DB0371495F8A88", item: { count: 1, id: "vampirism:pure_blood_2" } }
+		{ id: "2969380D080E309D", item: { count: 1, id: "vampirism:pure_blood_3" } }
+		{
+			count: 3
+			id: "56DC02B85A0AD6EB"
+			item: {
+				count: 1
+				id: "vampirism:blood_infused_enhanced_iron_ingot"
+			}
+		}
+	]
+}

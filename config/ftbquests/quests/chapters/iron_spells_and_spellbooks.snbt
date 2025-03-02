@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "iron_spells_and_spellbooks"
-	group: "02FE661031A105D8"
+	group: "24B2B83B323159F7"
 	icon: {
 		components: {
 			"irons_spellbooks:spell_container": {
@@ -159,8 +159,16 @@
 			x: -7.5d
 			y: -6.0d
 		}
+		{
+			height: 0.3d
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.3d
+			x: -5.0d
+			y: 6.199999999999999d
+		}
 	]
-	order_index: 4
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{

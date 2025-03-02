@@ -221,6 +221,14 @@
 			y: 2.5d
 		}
 		{
+			height: 0.3d
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.3d
+			x: 7.0d
+			y: 4.4d
+		}
+		{
 			height: 3.0d
 			image: "atm:textures/questpics/occultism/occultism_title.png"
 			rotation: 0.0d
@@ -237,7 +245,7 @@
 			y: 6.5d
 		}
 	]
-	order_index: 6
+	order_index: 4
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
