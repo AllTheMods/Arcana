@@ -218,8 +218,11 @@
 			rewards: [{
 				id: "4BB724E0CCCAF4E3"
 				item: {
+					components: {
+						"ftbquests:missing_item": "utilitarian:angel_block"
+					}
 					count: 1
-					id: "utilitarian:angel_block"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]

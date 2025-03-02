@@ -1,0 +1,57 @@
+{
+	id: "4991A862C0FD5D2A"
+	loot_size: 1
+	order_index: 17
+	rewards: [
+		{
+			count: 5
+			id: "23580284BD8E6F12"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 3
+			id: "1C073D841CC3D6E9"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 2
+			id: "02EA778DA4F776EC"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{
+			count: 5
+			id: "310A02AC38140DC4"
+			item: {
+				count: 1
+				id: "vampirism:vampire_blood_bottle"
+			}
+		}
+		{
+			count: 10
+			id: "722B2D4523EC00D4"
+			item: {
+				count: 1
+				id: "vampirism:vampire_fang"
+			}
+		}
+		{ id: "268D84B691E9648D", item: { count: 1, id: "vampirism:pure_blood_0" } }
+		{ id: "2B46C2C171AA68A7", item: { count: 1, id: "vampirism:holy_water_bottle_enhanced" } }
+		{
+			id: "3C0A93E4D0B786DE"
+			item: {
+				count: 1
+				id: "vampirism:pure_blood_1"
+			}
+			weight: 0.5f
+		}
+	]
+}

@@ -26,6 +26,7 @@
 	chapter.415BA265E2C00859.title: "Getting Started"
 	chapter.4293754F9B2D05F0.title: "&aChapter 2&r: &eAllthemodium"
 	chapter.43BB00A7A7E1042C.title: "Mahou Tsukai"
+	chapter.46FF8D6DA1E7EF81.title: "Vampires"
 	chapter.4791C8461B1B4D5F.title: "Basic Armor"
 	chapter.48410B67C276ED1F.title: "The Bumblezone"
 	chapter.4C507C004144BFEE.title: "Occultism"
@@ -47,13 +48,17 @@
 	chapter.7732CF7AAA63DB3A.title: "The Twilight Forest"
 	chapter.7A72E12C3839D165.title: "Nature's Aura"
 	chapter.7AF827D2D101D343.title: "Artifacts"
-	chapter_group.02FE661031A105D8.title: "Magic"
+	chapter_group.01288DCA74D35E0B.title: "Mystical Monsters"
+	chapter_group.0C9C9B01123A3A54.title: "Magical Machines"
 	chapter_group.15E5B587D291A4AA.title: "Tools and Gear"
 	chapter_group.1AC60211DE7427FC.title: "Storage \\& Logistics"
 	chapter_group.2084F3F6FB861C5B.title: "Main Questline"
 	chapter_group.22FB35B0FEF1343D.title: "Tools and Weapons"
+	chapter_group.24B2B83B323159F7.title: "Spell Casting"
 	chapter_group.295BE417292024EC.title: "Modern Industrialization"
+	chapter_group.556ED01A73626AF5.title: "Spell Casting"
 	chapter_group.5A4775CCD6D26C80.title: "Exploration"
+	chapter_group.5DB9CE6F9A446FB4.title: "Mythical Monsters"
 	chapter_group.6614EE2378B8AFB9.title: "Resources"
 	chapter_group.68BDE5700A9B0002.title: "Tools and Gear"
 	file.0000000000000001.title: "AllTheMods: Arcana"
@@ -92,6 +97,8 @@
 		"But I can give you tips for it!"
 	]
 	quest.0052E5592A6BBEC1.title: "&lBuilding Tips!&r"
+	quest.00589023093A082A.quest_desc: ["&4Enhanced Blood-Infused Iron Ingots&r are Crafted from 3 Iron Ingots and a &4Pure Blood Level 5&r. \\n\\nOnly the best &cBlood&r for the best weapons! \\n\\nI don't know if you can find these in Structures as I couldn't find one."]
+	quest.00589023093A082A.title: "&4Enhanced Blood-Infused Iron"
 	quest.005CC8A3325FE2BD.quest_desc: ["&bFroststeel&r, &7Cloggrum&r, and &eRegalium&r can be Mined for. \n&cUtheric&r and &aForgotten&r you need to kill for. \n\nAny other questions?"]
 	quest.005CC8A3325FE2BD.title: "&2&lUndergarden&r Metals"
 	quest.00611844AFD5C31E.quest_desc: ["While the Inscriber and Charger will natively accept RF/FE, the vast majority of an ME network uses its own dedicated power system called AE.\n\nRF/FE can be converted into the native AE at a ratio of 2:1 RF:AE, either directly through an ME Controller, or through the &bEnergy Acceptor&f, which can instead be connected to any part of the network."]
@@ -425,6 +432,8 @@
 		"Intrinsic Ability:"
 		"- Lava Repair"
 	]
+	quest.040385AE6AB22772.quest_desc: ["Just like Crafting &5Hunter Intel Level 12&r, just more! \\n\\n25 &4Vampire Fangs&r, 2 &4Pure Blood Level 4&r, and the Books."]
+	quest.040385AE6AB22772.title: "Crafting &5Hunter Intel 13"
 	quest.0416C489903BCFFF.title: "Ultimate Voltage Age"
 	quest.041D16DA96BC4253.quest_desc: [
 		"&e&lPollinated Pillars&r are what connect &e&lPollinated Fields&r to the &6&lHive Walls&r. \nThey are a good mix of both! Huge steep walls of &6Honey&r while being layered with &ePollen&r!\n"
@@ -482,6 +491,8 @@
 	quest.04B40BB107F14330.quest_subtitle: "Straight outta Fallout 3 DLC The Pitt"
 	quest.04B40BB107F14330.title: "Meat Shredder"
 	quest.04B6E31120663EB2.quest_subtitle: "Tier: &a2"
+	quest.04B98F4D2B8970B4.quest_desc: ["The &9Enhanced Hunter Outfit&r will grant more Protection than a normal &bHunter Outfit&r. \\n\\nIt is Crafted very close to the normal &bOutfit&r just with Diamonds instead of Leather. \\n\\nYou will need the &2Skill&f: &2Enhanced Armor&r in order to Craft them."]
+	quest.04B98F4D2B8970B4.title: "&9Enhanced Hunter Outfit"
 	quest.04BE9F63E6003475.quest_desc: ["&3LPG&r can be used to make Molten Plastic."]
 	quest.04BE9F63E6003475.quest_subtitle: "The one we need"
 	quest.04BE9F63E6003475.title: "LPG"
@@ -500,6 +511,8 @@
 	quest.04E2D539E33B7B0F.quest_desc: ["This machine combines two gases to create a new gas.\n\nYou'll need this to combine Chlorine with Hydrogen to create Hydrogen Chloride, which is then used in our Chemical Injection Chamber."]
 	quest.04E2D539E33B7B0F.quest_subtitle: "The Chemical Combiner"
 	quest.04E9253AB8F17A07.title: "Removing Echantments"
+	quest.04F580613DAC2C93.quest_desc: ["The &9&lHunter Research Table&r is how we'll Craft &5Hunter Intel&r. \\n\\nIt has 5 Slots starting from Left to Right. \\n\\n1st is for the Book, just a normal &2&lVanilla&r Book. \\n2nd is for &4Vampire Fangs&r! \\n3rd is for &4Pure Blood&r when needed. \\n4th is for our &5Vampire &for &5Hunter Books&r. Both work. \\nLast is our Product Slot, where our &5Hunter Intel&r will go."]
+	quest.04F580613DAC2C93.title: "&9&lHunter Research Table"
 	quest.04F5846E2468E807.quest_desc: ["&b&lMacaw's Doors&r adds all sorts of different Doors and variants of Doors. \nYou want the Birch design but with Spruce Wood? You can have it! \n\nHeck it even has Hospital Doors!"]
 	quest.04F5846E2468E807.title: "&b&lMacaw's Doors"
 	quest.050AAD831C0AE375.title: "Rejuvenated Flesh"
@@ -630,6 +643,8 @@
 	]
 	quest.05D20B506213A449.title: "The &aRotor"
 	quest.05D6CE1B501F59B5.quest_subtitle: "A Star for the component for a Stars Component"
+	quest.05D7DD0C69B4ED50.quest_desc: ["&5Vampire Books&r are Items you can find in Chests within &4Crypts &fand &4Vampire Huts&r. \\n\\nYou can use them to Craft &5Hunter Intel&r which is needed to &2Level up&r! \\n\\nYou can also read them like Book and Quills to learn some lore."]
+	quest.05D7DD0C69B4ED50.title: "&5Vampire Books"
 	quest.05D8C6EF8FCD6250.quest_desc: [
 		"Primogel Goo is the first tier of goo added by JDT and requires basic Overworld materials to craft."
 		""
@@ -655,6 +670,9 @@
 	quest.060233F903FAE63B.quest_desc: ["These plates will be important in creating more &dLuV&r tier machines."]
 	quest.060233F903FAE63B.quest_subtitle: "This is my &dLuV&r language!"
 	quest.060233F903FAE63B.title: "LuV Machine Casing"
+	quest.0603F108129AD370.quest_desc: ["Same as the &210&r, with 35 Structure Points. \\n\\nAnd with 1 &4Pure Blood Level 3&r and 15 &cHuman Hearts&r. \\n\\nAlso same Hearts and Armor Points... looks like we just get Speed this time!"]
+	quest.0603F108129AD370.quest_subtitle: "Lvl 11"
+	quest.0603F108129AD370.title: "Upgrading to &2Level 11"
 	quest.06044B4452A6B720.quest_desc: ["When placed in a Desert biome, the Sand Nest will attract either the Chocolate or Ashy Mining Bee."]
 	quest.06044B4452A6B720.quest_subtitle: "Lures bees in Desert Biomes"
 	quest.06094615950AC062.title: "Other Conveyor Upgrades"
@@ -673,6 +691,8 @@
 	quest.064BBCC379A69748.quest_desc: ["This one is around twice as good as a vanilla furnace, and is more efficient to boot! While it gets outclassed by other furnace mods, for a strictly MI playthrough this furnace is incredibly strong!"]
 	quest.0650996C7818ADB5.quest_desc: ["The Heat Generator has 2 modes to generate power:\n\n&9Passive:&r Surrounding the generator with lava source or flowing blocks creates passive power by creating heat. Place one lava source block on top, and let it flow over the sides. Make sure to connect pipes first!\n\n&9Active:&r Placing combustible materials such as coal or wood into the generator will burn the fuel to create power."]
 	quest.0650996C7818ADB5.quest_subtitle: "Basic Power Gen"
+	quest.0655AAFACB64AD91.quest_desc: ["To get the final &2Levels&r we'll need all 3 Tables around the &9&lHunter Research Table&r. \\n\\n&d&lPotion Table&r, &b&lHunter Weapon Table&r, and the &c&lAlchemical Cauldron&r!"]
+	quest.0655AAFACB64AD91.title: "Three's a crowd"
 	quest.066438B01655D866.quest_desc: ["While their &dEssence&r is useful, we can also capture these Spirits for later use. That sounds evil, doesn't it?\n\nTo become a Spirit Hunter, you'll need to create the &dVengeance Focus&r first. This is used to &aFreeze Spirits&r in place, then you place a &9Box of Eternal Closure&r near the Spirit. This will then suck the Spirit in for later use."]
 	quest.066438B01655D866.title: "Capturing &dSpirits"
 	quest.066F78936C8F943B.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
@@ -691,6 +711,8 @@
 		"To build the SPS, you'll need to make a total of 72 &9SPS Casings&r (60 for the build, 12 to make the ports), 3 &9SPS Ports&r, 122 Reactor Glass, and one other item we'll talk about in the next quest. Let's get the materials first!"
 	]
 	quest.068728DE3B9B13C3.title: "&dSupercritical Phase Shifter"
+	quest.069633BB91BCBA73.quest_desc: ["In order to &2Level up&r we'll first need enough Structure Points to even just open the &4&lAltar of Infusion&r! \\n\\nOnce we have enough we can open the &4&lAltar&r and place in our Items. \\n\\nThe left Slot is for &4Pure Blood&r, middle is for &cHuman Hearts&r, and right is for our &5Vampire Books&r. \\n\\nOnce we have all the Items and it is Night we can Right Click the &4&lAltar&r to start the Ritual. \\n\\nWell know the Ritual is starting when a &4Red Line&r connects to the Pillar Tip to above the &4&lAltar of Infusion&r, it will then blast in your face until your entire screen is &4Red&r! \\n\\nAfter that, Lightning will strike, signifying that the Ritual is complete and you &2Leveled up&r!"]
+	quest.069633BB91BCBA73.title: "&4&lAltar of Infusion"
 	quest.0696B725E840B996.quest_desc: [
 		"For us to take anything in or out of the Fission Reactor, we'll need &aFission Reactor Ports&r. These can be configured to input or output by using the &9Configurator&r. \n\nEvery Fission Reactor &aneeds a minimum of 4 Ports&r:\n\n - 1 Coolant Input\n - 1 Coolant Output\n - 1 Fissile Fuel Input\n - 1 Waste Output\n\nFor this starter build, let's put a port on each side like the image shown below. Make sure to configure them to match the list of inputs and outputs!\n"
 		"{image:atm:textures/questpics/mek/port_example.png width:200 height:200 align:1}"
@@ -710,6 +732,8 @@
 		"Here we will use its liquid form so the Fusion Reactor can form a byproduct for us."
 	]
 	quest.06CD5693FF52270F.quest_subtitle: "Liquid Lanthanum"
+	quest.06D0BC9922D07A42.quest_desc: ["&5Hunter Intel Level 7&r requires the Items needed for &55 &fand &56&r. \\n\\nBook, &5Vampire Book&r, 10 &4Vampire Fangs&f, and &4Pure Blood Level 1&r."]
+	quest.06D0BC9922D07A42.title: "Crafting &5Hunter Intel 7"
 	quest.06D13E319C26C949.quest_desc: [
 		"The Blood Mushroom Bog is home to the giant Blood Mushrooms. \n\nBlood makes me uneasy so I think I'll keep this description short."
 		"{image:atm:textures/questpics/undergarden/undergarden_blood.png width:200 height:100 align:center}"
@@ -811,17 +835,7 @@
 	quest.07AD45DCF9EE3C2E.quest_subtitle: "Upgrading to Factories"
 	quest.07BEB974DF1E5AD3.quest_desc: ["Makes Energy at the same rate as an &aEmerald Generator&r but has a much higher Transfer Rate. Also arguably cheaper as it takes less items but that item is also &5Netherite&r so..."]
 	quest.07BEB974DF1E5AD3.title: "&5Netherite Generator"
-	quest.07BEE6FEC14765DC.quest_desc: [
-		"Pretty simple recipe needing Clay, Iron, Slimeballs, and more... "
-		""
-		"Lodestones are best to loot for, Mods add these in Loot Pools all over &c&lThe Nether&r so don't craft one just find one! "
-		""
-		"Wax is a new Item added by &6&lForbidden \\& Arcanus&r which is a mix of Bottle of Honey and Slimeballs! "
-		""
-		"You can use it on a &6Darkstone Pedestal&r to get &7Magnetized Pedestals&r which work in hand with Hoppers (and Hopper like Items like Pipes). "
-		""
-		"You can also use it with Boots to increase how close Items can be to get dragged into your Inventory!"
-	]
+	quest.07BEE6FEC14765DC.quest_desc: ["Pretty simple recipe needing Clay, Iron, Slimeballs, and more... \n\nLodestones are best to loot for, Mods add these in Loot Pools all over &c&lThe Nether&r so don't craft one just find one! \n\nWax is a new Item added by &6&lForbidden & Arcanus&r which is a mix of Bottle of Honey and Slimeballs! \n\nYou can use it on a &6Darkstone Pedestal&r to get &7Magnetized Pedestals&r which work in hand with Hoppers (and Hopper like Items like Pipes). \n\nYou can also use it with Boots to increase how close Items can be to get dragged into your Inventory!"]
 	quest.07CC809B6482AB09.quest_subtitle: "Tier: &a2"
 	quest.07E750F8184C4362.quest_desc: [
 		"&eChemical React&r Hydrogen with Fluorine Gas to make this"
@@ -835,6 +849,8 @@
 	quest.07FDA46D83F8360D.title: "Teleport Pad"
 	quest.0813CEDCC201216A.quest_subtitle: "Kapok + Old Fustic"
 	quest.08143AD0D63FFD1F.quest_subtitle: "Holds a max of 25k LP"
+	quest.081A4F0549590614.quest_desc: ["Infection is an &aAbility&r we can unlock with the &2Skill&r: &2No longer a Fledging&r. \\n\\nWhen you get close to a Mob, you can use the &aAbility&r to give them &4Sanguinare Vampiris&r. Just like with Players, after the Effect wears out they will become &4Vampiric&r. \\n\\nWhich Mobs can we Infect you ask? \\n\\nVillagers, Pigs, Sheeps, Cows, Goats, Camels, Llamas, Horses, Donkeys, and Mules."]
+	quest.081A4F0549590614.title: "Infection"
 	quest.08245411AFDB63DB.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.0830195863384CF0.quest_desc: ["&bStrata&r is the first and most basic crafted from regular blocks like Stone or Sand or Obsidian. \n\nYou can use 5 &bStrata Salt&r to craft &bMineral Salt&r."]
 	quest.0830195863384CF0.title: "&bStrata Salt"
@@ -892,6 +908,9 @@
 	]
 	quest.08B1A64B01A8A604.title: "&bCapturing &dDemons"
 	quest.08B60D8A25008CCC.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.08C452741395F7B8.quest_desc: ["Finally more Gold and Iron! \\n\\n20 Gold Ingots, 40 Iron Ingots, and the &5Hunter Intel&r."]
+	quest.08C452741395F7B8.quest_subtitle: "Lvl 13"
+	quest.08C452741395F7B8.title: "Getting &2Level 13"
 	quest.08C66BCA3AAE765B.quest_desc: ["This one adds Non-&2&lMinecraft&r Blocks so I'd rather not discuss it."]
 	quest.08C66BCA3AAE765B.title: "&b&lMacaw's Roofs"
 	quest.08C6B7D2DAE87222.quest_subtitle: "Oak + Birch"
@@ -918,10 +937,12 @@
 	quest.0923C941A9696122.quest_desc: ["Incase you have to bring 256 Million Items on an Adventure with you!"]
 	quest.09282E3864752CEE.quest_subtitle: "Tier: &63"
 	quest.092A23FDA5D50812.quest_subtitle: "Tier: &a2"
-	quest.092BB595F75D5536.quest_desc: ["Welcome to &6&lForbidden \\& Arcanus&r! \n\nTo start this Mod we'll need to start Mining underground... deep underground. \n\nLike Y Level 1 and below. "]
-	quest.092BB595F75D5536.title: "&6&lForbidden \\& Arcanus"
+	quest.092BB595F75D5536.quest_desc: ["Welcome to &6&lForbidden & Arcanus&r! \n\nTo start this Mod we'll need to start Mining underground... deep underground. \n\nLike Y Level 1 and below. "]
+	quest.092BB595F75D5536.title: "&6&lForbidden & Arcanus"
 	quest.09408C6DCAC90318.quest_desc: ["This block stores power, and can also be used to charge items."]
 	quest.09408C6DCAC90318.quest_subtitle: "Storing Power"
+	quest.0944EB3F3ECA2452.quest_desc: ["Each &cBlood Bottle&r holds 900mB or 0.9 Buckets. Each sip from a Mob gives 100mB of &cBlood&r! \\n\\nThe &cBlood Bottle's&r Eyes will be &6Orange&r when there is space, and will change to &4Red&r when Full. \\n\\nYou can also Right Click any &cBlood Storage&r with a Glass Bottle to fill it and make a &cBlood Bottle&r. \\n\\nI probably should have said that, you can make &cBlood Containers&r or Machines to hold &cBlood&r by Right Clicking the &cBlood Bottle&r into them. \\n\\nYou can also just Drink &cBlood Bottles&r to fill your &cPoints&r."]
+	quest.0944EB3F3ECA2452.title: "What to do with &cBlood&r!"
 	quest.0947B4ED95B0267E.quest_desc: ["Coats an items and tools.\n\nNetherite makes a great coating material."]
 	quest.0947B4ED95B0267E.quest_subtitle: "Totally not just for Netherite"
 	quest.09485B63483B7A15.quest_desc: [
@@ -1172,6 +1193,8 @@
 	quest.0BE6CE2C264140AD.quest_subtitle: "Tier: &a2"
 	quest.0BFAF1499415DD68.quest_subtitle: "Silver Lime + Cherry"
 	quest.0C096EE635645E43.quest_desc: ["The Crystal Crossbow is a crafted like a Mechanical Crossbow just with Crystals instead of sticks. \n\nIt shoots Arrows and does same damage as a normal Crossbow but this one gives Crystal Infection. Crystal Infection does 1 damage every second with the Crystals that spawn on them! And yes it will kill them."]
+	quest.0C19916C9076F157.quest_desc: ["Technically you don't need to go to an &bOutpost&r to make one but I felt it fits here best! \\n\\nYou'll need to Craft the &6&lAltar of Cleansing&r in order to get one. \\n\\nWhen placed down, it might not seem to do anything. In order to use it we'll need Pure Salt Water. \\n\\nHold Right Click on the &6&lAltar&r while holding Pure Salt Water in order to Bless it. Then, after a painfully long time, we'll have &6Holy Water&r!"]
+	quest.0C19916C9076F157.title: "&6&lAltar of Cleansing"
 	quest.0C1D55AA9CC902BD.quest_desc: [
 		"Valid Upgrades:"
 		"- Lawnmower"
@@ -1208,6 +1231,7 @@
 	]
 	quest.0C7491BA5857AA00.quest_subtitle: "Teak + Jungle"
 	quest.0C78FB6EB275960B.title: "Sheldonite Vein"
+	quest.0C7D96DB3573EF9C.quest_desc: [""]
 	quest.0C7D96DB3573EF9C.quest_subtitle: "&oAbility to create life."
 	quest.0C7D96DB3573EF9C.title: "&5&lCreative Essence"
 	quest.0C8180524757B238.quest_desc: [
@@ -1264,6 +1288,9 @@
 	quest.0CF6D11016BAF3D0.quest_subtitle: "Complex Naquadah"
 	quest.0D01524F249E25D7.quest_subtitle: "Who turned off the lights?"
 	quest.0D01524F249E25D7.title: "&8Dark Xychorium Gems"
+	quest.0D11A727D3E620EE.quest_desc: ["The last Ritual, needing the most Structure Points at 54! \\n\\nWe'll also need 2 &4Pure Blood Level 5&r and 25 &cHuman Hearts&r. Hey, being powerful ain't cheap! \\n\\nAt &2Level 14&r we'll have 20 Hearts and Armor Points. Along with a very high Speed. The best, we &4Vampires&r, can get!"]
+	quest.0D11A727D3E620EE.quest_subtitle: "Lvl 14"
+	quest.0D11A727D3E620EE.title: "Upgrading to &2Level 14"
 	quest.0D19FB62C2C1D9F7.quest_desc: ["Once you've got at least 200 &4Mahou&r you might want to make a Boundary of Life Drain. \n\nFor every Mob that dies in that boundary, you get 10 &4Mahou&r back, but this is a SLOW process."]
 	quest.0D19FB62C2C1D9F7.title: "Boundary of Life Drain"
 	quest.0D1A6B32FEB51FAD.quest_desc: [
@@ -1363,6 +1390,9 @@
 	quest.0DB4226BA23A5C09.quest_subtitle: "Can this supercomputer win at chess?"
 	quest.0DB92C70D04725BE.quest_subtitle: "Duracell Eat your heart out"
 	quest.0DC8B68CDF945348.quest_desc: ["The Router giveth and the Router taketh. \n\nThis Module is helpful for Builders or even Miners! It can be set to send items from its Buffer to your Inventory or take items from your Inventory into its Buffer. \n\nPerfect for Strip-Mining, have it take all the Cobble and Deepslate from your Inventory and put it in a Trash Can."]
+	quest.0DCDFEF8ED62F4F2.quest_desc: ["&2Level 6&r is next and for that we'll need a lot more Structure Points, at 17. \\n\\nThis is also the first Ritual needing &4Pure Blood&r, 1 &4Level 1&r along with 5 &cHuman Hearts&r. \\n\\n&2Level 6&r gives us more Armor Points, up to 14 Armor Points."]
+	quest.0DCDFEF8ED62F4F2.quest_subtitle: "Lvl 6"
+	quest.0DCDFEF8ED62F4F2.title: "Upgrading to &2Level 6&r"
 	quest.0DD389A24F5F8CDD.quest_desc: ["&l&6Aqua Regia&r&r is a mixture of Concentrated Nitric Acid and Hydrochloric Acid, usually one part to three parts, respectively. The Mixture was given its name (literally \"Royal Water\") by alchemists because of its ability to dissovle &l&eGold&r&r."]
 	quest.0DD389A24F5F8CDD.quest_subtitle: "Im a Barbie Girl, In a Barbie world... If you know, you know."
 	quest.0DF4B01CC5B49E4E.quest_desc: ["With this Blueprint, you can make the basic sword! Reliable damage and reliable speed."]
@@ -1480,6 +1510,8 @@
 		""
 		"It removes 1 tick of delay per rune, down to a minimum of 1 operation per tick."
 	]
+	quest.0EE3A629870EF67B.quest_desc: ["&6Alchemical Fire&r is Gunpowder dossed in &6Holy Water&r by an &c&lAlchemical Cauldron&r. \\n\\nThe better the &6Holy Water&r, the more &6Alchemical Fire&r you get. &6Ultimate Holy Water&r gets you 6, &6Enhanced&r gets 5, and &6normal&r gives 4. \\n\\nThankfully we don't need a &2Skill&r for it. \\n\\n&6Alchemical Fire&r works like a Fire Charge, just the Fire won't spread and won't stop burning on its own... \\n\\nThat includes if a Mob touches it, it won't extinguish without Water! \\n\\nWe can use it in a few Recipes like the &6&o&lGolden Crucifix&r, Spitfire Arrows, and Smelting Oil."]
+	quest.0EE3A629870EF67B.title: "&6Alchemical Fire"
 	quest.0EED5D755D2C866A.quest_desc: ["&d&lEnder&r is used for taking all the powers of &dEndermen&r and the &dEnder Dragon&r, and of course using it for ourselves. &dTeleporting&r, &dFireballs&r, and &dDragon's Breath&r are only a few of these! \n\n&d&lEnder's&r Focus Material is the &dEnder Pearls&r. \n\nAnd its &dScrolls&r are &5Purple&r with &dPink&r text."]
 	quest.0EED5D755D2C866A.title: "&d&lEnder"
 	quest.0EF593963F0769F9.quest_desc: ["This will help us to multiply endlessly the Raw Crystal Chip's. Yes, there still a few other processing steps, but the return rate won't be as bad as the initial rate of 10%."]
@@ -1586,6 +1618,8 @@
 	quest.0FA77C28A57E06F1.quest_desc: ["Veiled Mushrooms can only be found in their Bog. \n\nThey have Brown Caps which if there is Air below it, it will spawn Mushroom Veils. Hence the name!"]
 	quest.0FAAE744E156D8EF.quest_desc: ["The &bMycelial Reactor&r consists of all the Mycelial Generators working at the same time, near the reactor block, and it produces a total of &a25MFE/t&r.\n\nAll sounds good, but you need to automate some stuff to get it working, see what each Mycelial Generator consumes to work, and automate it, most things are simple, but others, not that much... &olooking at Disenchanting Mycelial Generator&r.\n\nBut after you get it all automated, you don't need to stop at one, you can make more reactors."]
 	quest.0FAAE744E156D8EF.quest_subtitle: "Mycelial Reactor, huh?"
+	quest.0FAC1CF4749B1A46.quest_desc: ["&5Hunter Books are similar&r and can be used in the same way as &5Vampire Books&r. \\nThese can be found within &bHunter Outposts&r and can be used to &2Level up&r. \\n\\nOr you can read them to learn more lore and how to fight &4Vampires&r!"]
+	quest.0FAC1CF4749B1A46.title: "&5Hunter Books"
 	quest.0FAF274ADA65B26A.quest_desc: ["Portal Fluid is a mysterious green fluid vital in the opertaion of the Advanced Portal Gun.\n\nDropping Portal Fluid Catalyst into Polymorphic Fluid will create Unstable Portal Fluid BUT Unstable Portal Fluid can only exist in the End. Performing Goo Spread with Tier Three goo or higher will convert Unstable Portal Fluid into Portal Fluid."]
 	quest.0FB1FC640471363A.quest_subtitle: "Lapis + Emerald"
 	quest.0FB1FC640471363A.title: "Experience Bee"
@@ -1615,7 +1649,15 @@
 	quest.100ACB5C8A359BF0.title: "Lapis Bee"
 	quest.100ADA8508F6502A.quest_desc: ["A Glass Lens (Red) can also make this, but making glass lenses is an HV recipe"]
 	quest.10162AD188CB3327.quest_subtitle: "Plum + Red Delicious Apple"
+	quest.10278CA70C326F49.quest_desc: ["&5Hunter Intel 8&r and 40 Iron Ingots?!?!?! \\n\\nDang he is getting expensive!"]
+	quest.10278CA70C326F49.quest_subtitle: "Lvl 8"
+	quest.10278CA70C326F49.title: "Getting &2Level 8"
+	quest.1037EBE092D43AFC.quest_desc: ["The earliest &2Skill&r we can use is to make 5 Potions at a time with the &d&lPotion Table&r instead of 3. \\n\\nThen, we can also choose whether to make &2Stronger&r or more Durable Potions! \\n&2Stronger&r allows us to use Redstone to get higher Levels of Potions to do the Effect more. \\n&2Durable&r, ups the time they have for the Potion Effect. \\n\\n&2Master Brewer&r allows us to get the Nausea and Blindness Potions. \\n\\nThe last &2Skill&r gives us both Stronger and Durable Potions! So Resistance 3 for a very long time!"]
+	quest.1037EBE092D43AFC.quest_subtitle: "Faster Stronger"
+	quest.1037EBE092D43AFC.title: "Harder Better"
 	quest.103834774B57D611.quest_desc: ["The Mini End Portal will need quite a few &dEndshelves&r. These are the last tiers of Shelves you'll get from &5&lApotheosis&r. You'll need &dInfused Dragon's Breath&r to craft them. \n\nAfter that you'll just need Eyes of Ender which you'll need to have made them in order to actually get the &dEndshelves&r. \n\nIf you somehow got to &d&lThe End&r and got the Shelves without Eyes of Ender then I'm impressed!"]
+	quest.103DC20C8447E03C.quest_desc: ["&4Pure Blood&r will be an important Crafting Ingrediant for later &2Leveling&r and for other Recipes. \\n\\nIt is dropped by &4&lVampire Barons&r. Its &4Level&r is determined by the &2Baron's Level&r. \\n\\n&2Level 5 &4&lBaron&r will drop &4Level 5 Pure Blood&r, &2Level 1 &4&lBaron&r will drop &4Level 1 Pure Blood&r."]
+	quest.103DC20C8447E03C.title: "&4Pure Blood"
 	quest.104049993CC62E7F.quest_desc: ["The Advanced Item Loader is everything the regular one is but can be used from anywhere near the &6Track&r. Next to, above, next to on the other side. Use the &4Crowbar&r to change its direction."]
 	quest.104049993CC62E7F.title: "Advanced Item Loader"
 	quest.104EBBC08B4733F5.quest_desc: ["The &dSimulation Chamber&r is the main machine within HNN.\n\nWhen given power, it will run simulations based on the &bData Model&r that is placed inside. The power required also depends on the Data Model placed inside, and can be seen within the Model's tooltip. \n\nThe machine also requires at least one &9Prediction Matrix&r to run a simulation.\n\nThe result of the simulation will be output onto the Matrix. Simulations will always produce some kind of &eGeneralized Prediction&r, which can be used in various crafting recipes. They also vary depending on the origin of the mob in the Data Model.\n\nIf the simulation succeeds, you will receive a &dMob Prediction&r based off of the model. The higher the tier of the Data Model used, the higher the success rate is for a simulation."]
@@ -1673,6 +1715,8 @@
 	quest.114D668C691A2BDF.quest_subtitle: "Ashy Mining + Crystalline"
 	quest.114D668C691A2BDF.title: "Iron Bee"
 	quest.115FD5EF8EFBF3FC.title: "Charoite Tools"
+	quest.1169569F6247736B.quest_desc: ["Finisher isn't an &aAbility&r... but I just couldn't ignore it! \\n\\nBy getting the &2Skill&r: &2Finisher&r we get a very powerful perk. \\n\\nUsing either a Heartstriker or Heartseeker we can one-shot any Mob (that's not a &4Vampire&r) that is below 25% Health!"]
+	quest.1169569F6247736B.title: "Finisher"
 	quest.116EA7BB5AD8453E.quest_desc: ["Now this ones complicated. To get Replica first have 100 souls, Damage Exchange, and Immunity Exchange ready. Then, hold your strengthened shield to block an attack, then you'll have Replica."]
 	quest.116EA7BB5AD8453E.title: "Replica"
 	quest.117241986C99E475.quest_desc: ["With the Glowing Bee, breed it with the Chocolate Mining Bee to get a Redstone Bee!"]
@@ -1695,6 +1739,8 @@
 		"This is the lowest tier Laser Source Hatch in Amperage. They run all the way up to 4096A Hatches. Now that's some Power!"
 	]
 	quest.1194FF35ADAA9957.quest_subtitle: "Sharks with Laser beams?"
+	quest.1199D3336A65D81B.quest_desc: ["Of course this being the last &5Hunter Intel&r, it is the most difficult to obtain. \\n\\nWe'll need 25 &4Vampire Fangs&r, a Book, and a &5Vampire Book&r. \\n\\nWe'll also need 2 &4Pure Blood Level 5&r, these are drops from the most difficult &4&lVampire Barons&r!"]
+	quest.1199D3336A65D81B.title: "Crafting &5Hunter Intel 14"
 	quest.119FF09D481F9178.quest_desc: ["What good would a tech mod be without barrels and tanks. They could be useful, but functions the same as other items of the same."]
 	quest.119FF09D481F9178.title: "Tanks and Barrels"
 	quest.11AAA1DCB452DFFC.quest_subtitle: "For"
@@ -1796,6 +1842,8 @@
 		""
 		"Keep your eyes peeled, we'll eventually upgrade this recipe to get the coveted 8 plastic circuit boards at once"
 	]
+	quest.1255528906740DCF.quest_desc: ["Water will Effect most &4Vampires&r with Weakness. It's also supposed to Effect us with Weakness but I can't get it to work... \\n\\nWell in case it does Effect you, get the &2Skill&r: &2Water Resistance&r to prevent that!"]
+	quest.1255528906740DCF.title: "Water Resistance"
 	quest.127D085D6C9DB690.quest_desc: ["Saltpeter can be found anywhere Underground but very common in the Warm Shore Biome. \n\nIt needs a Stone Pickaxe to mine it and when mined it will drop a couple Saltpeter Powder. Yes, Fortune works on it! \n\nThe Powder can be used as a replacement for other Niters."]
 	quest.128A14A3842325FE.quest_subtitle: "Are the Bees still real?"
 	quest.128C5B7A82FF802E.quest_desc: ["The green gemstone &eDiopside&r is a very tough metal that packs a punch, but is on the slower side. This is great for weapons!"]
@@ -1900,6 +1948,9 @@
 	quest.134608BB2B04D96E.title: "Vanilla Storage"
 	quest.1348995F64A94396.quest_desc: ["The &bCrafting Monitor&f displays the overall item being crafted, along with the remaining quantity of that item still being crafted.\n\nBoth the base AE2 monitor and the MEGA monitor function identically, but are provided for aesthetic purposes."]
 	quest.1348995F64A94396.quest_subtitle: "Download more VRAM"
+	quest.1348EE74ADF2239A.quest_desc: ["&cVampire Blood&r is a useful Item for a ton of Recipes and &2Leveling up&r as a &bVampire Hunter&r! \\n\\nTo obtain it, we need to kill a &4Vampire &for &4Advanced Vampire&r with a Stake. \\n\\nThen, we can Right Click a &bVampire Hunter&r to open a dialogue with them. This makes it so we can give them the &cVampire Blood&r to train us to &2Level 2&r!"]
+	quest.1348EE74ADF2239A.quest_subtitle: "Lvl 2"
+	quest.1348EE74ADF2239A.title: "How to &2Level up"
 	quest.134BC365E77C6DB8.quest_desc: [
 		"The &n&5Portable Interface&r works in pairs. You need to have one placed in the world and another one on a moving entity, like a Minecart."
 		""
@@ -1924,6 +1975,9 @@
 	quest.13AFCD3B6F62B986.quest_desc: ["Provides Ice and Snow recipes!"]
 	quest.13AFCD3B6F62B986.quest_subtitle: "Ice, Ice, Baby!"
 	quest.13AFCD3B6F62B986.title: "Ice Upgrade"
+	quest.13B56E1D53B8A93C.quest_desc: ["The last &2Level&r we can get from the &c&lAltar of Inspiration&r needs it entirely full of &cBlood&r, 10,000mB of &cBlood&r! \\n\\n&2Level 4&r will now make the &eSun&r Damage us. 1 Heart every Second we are under &eSunlight&r! On top of everything from before."]
+	quest.13B56E1D53B8A93C.quest_subtitle: "Lvl 4"
+	quest.13B56E1D53B8A93C.title: "Swimming in &cBlood&r for &2Level 4"
 	quest.13BAD4B9C69117C6.quest_desc: [
 		"There are multiple ways to make Raw Carbon Fibers"
 		""
@@ -2090,6 +2144,8 @@
 	quest.15006CF73F8CAB7C.title: "&eCharm of Life II"
 	quest.15007DCAF701B361.quest_desc: ["Charges other pressurizable items in your inventory from the chestplate's storage."]
 	quest.15007DCAF701B361.quest_subtitle: "Max: 6"
+	quest.150F25B6FE8564EE.quest_desc: ["To power the &4&lAltar&r we'll need &7Altar Pillars&r! \\n\\nThese can be placed in a 4 Block radius around the &4&lAltar&r and can be up to 3 &7Pillars&r tall. \\n\\nThere is no minimum of &7Pillars&r I have noticed besides enough to power it. I'm not sure of a Maximum either, I just know it's quite a bit! \\n\\nEach &7Pillar&r can hold a Block, which are placed with Right Click. \\n\\nThey need an Altar Tip on top of them to finish them, plus there can't be any Blocks between them and the &4&lAltar&r."]
+	quest.150F25B6FE8564EE.title: "&7Altar Pillars"
 	quest.150FB369BEFFCBBF.quest_subtitle: "Silver + Tin"
 	quest.150FB369BEFFCBBF.title: "Lumium Bee"
 	quest.1515B32545F51266.quest_desc: ["Allows you to attach power to the Stove."]
@@ -2097,6 +2153,7 @@
 	quest.151648179684B088.quest_desc: ["Runic Chalk is used to draw permanent Runes on that ground. These runes will cast spells on entities that walk over them. \n\nTo attach a spell to a rune, inscribe a &eSpell Parchment&r using a Scribe's Table.\n\nNote: The Rune will need Source to operate."]
 	quest.151648179684B088.quest_subtitle: "Placeable Spells"
 	quest.15195F456D8AD4C8.quest_desc: ["When Ether touches Water Thioquartz will form. This can happen naturally with random generation or you can make it happen! \n\nThen, you can craft with it to get the Shards which can be used for the Alchemist Gear."]
+	quest.151D836C7B0E6FAF.title: "&3Vibranium Shield"
 	quest.15279CAC2FFE6B35.quest_subtitle: "Tier: &c5"
 	quest.1533D98B3B2A758E.quest_desc: ["Shattered Swords can either be dropped from Lonestar Skeletons or crafted using the dropped Blades. \n\nThe Shattered Sword is used more like a Trident than a Sword, instead of hitting you'll throw it. Then, you can Right Click to bring back the Blade like a Loyalty Trident, and Right Click again to reload it if needed."]
 	quest.15540271BF17C2E4.quest_desc: ["&lWelcome to XyCraft!&r\n\nThis series of mods is mostly dedicated to XyCraft: World and Machines!\nWorld gives us the Gems which can be found while mining."]
@@ -2191,6 +2248,8 @@
 	quest.1659A59303C15CC9.quest_desc: ["Barrels work the same as Chests only they can't be combined together into 1. They look cool though."]
 	quest.166971866A9234C7.quest_desc: ["Infusing Iron with Redstone in a Metallurgic Infuser will get you one of these."]
 	quest.166971866A9234C7.quest_subtitle: "The Basic Alloy for Crafting Items"
+	quest.16697E8CC142B48D.quest_desc: ["Just a normal &bCrossbow&r with more Damage! \\n\\nYou'll need the &2Skill&f: &2Enhanced Weapons&r to Craft and use it."]
+	quest.16697E8CC142B48D.title: "&9Enhanced Crossbow"
 	quest.166DF03D93BC11F1.quest_desc: ["The Reforging Table does everything a Simple one does but better, it can do Epic and Mythic Affixes!"]
 	quest.166DF03D93BC11F1.title: "(Better) Reforing Table"
 	quest.167E1474644C9908.quest_desc: ["The Quartz makes whatever the other item does, it does the opposite for the Spawner. With Quartz in your offhand and the other Spawner Modification item in your main it will do the opposite of its role. With Quartz and Blaze Rods instead of increasing Spawn Range it will decrease it. With Quartz and Ghast Tears it'll decrease Max Entities."]
@@ -2263,6 +2322,7 @@
 	quest.1744E700CF742CE2.quest_desc: ["&5The Coralssus&r works as a Guard and Steed for the &5Sunken City&r. They're used with the &5Deeplings&r but he's different so he gets his own quest! They have only 110 Hearts and basic attacks but the &5Deeplings&r with them make it much more dangerous. Its attacks are just smacking and throwing you. When killed it'll drop Crystalized Coral which is needed to make the Abyssal Sacrifice."]
 	quest.1744E700CF742CE2.title: "&5Coralssus&r"
 	quest.174D18D9D732EC10.quest_subtitle: "8 Wet Green Blocks"
+	quest.17542D7633FBF098.quest_desc: [""]
 	quest.17542D7633FBF098.quest_subtitle: "&oToo bad SpongeBob isn't a Star."
 	quest.17542D7633FBF098.title: "&d&lPatrick &aStar&r"
 	quest.1756F81ACFC56C58.quest_subtitle: "Tier: &e5"
@@ -2327,6 +2387,9 @@
 	]
 	quest.17BA6F1E5179DB8C.quest_subtitle: "You'll need these eventually for something"
 	quest.17BA6F1E5179DB8C.title: "All the tools!"
+	quest.17C21707B7CED5F1.quest_desc: ["Once the &cSanguinare Vampiris&r has gone through entirely you will be reborn as a &4Vampire&r! \\n\\nYou will now have increased Speed and even Base Armor Points. \\n\\n&eGarlic&r is now toxic to you, and when you &2Level&r up, the &eSunlight&r will become painful to you. At &2Level 1&r it won't hurt you so you are safe for now. \\n\\nAlso &4Vampires&r will be Friendly and Hunters will be Hostile. Plus the Undead will be Neutral, only attacking if you hit them first. \\n\\nThe most important part of being a &4Vampire&r is &cBlood&r! Your Food Bar has been replaced with &cBlood Points&r. You can replenish them by Holding V while touching a Mob. If your &cBlood&r is full, the new &cBlood&r will be placed in a Bottle."]
+	quest.17C21707B7CED5F1.quest_subtitle: "Lvl 1"
+	quest.17C21707B7CED5F1.title: "Become a &4Vampire&r"
 	quest.17C2C8F64B4AE6EE.quest_desc: [
 		"&2Dwellers&r are the Cows of &2&lUndergarden&r. \nThey are Passive and will drop Leather and Dweller Meat on death. \n\nThank God they can't be milked, I don't want any milk these &2Dwellers&r make."
 		"{image:atm:textures/questpics/undergarden/undergarden_dweller.png width:100 height:100 align:center}"
@@ -2378,6 +2441,8 @@
 		"{image:atm:textures/questpics/eternal/starlight_shore.png width:200 height:100 align:center}"
 	]
 	quest.1815A439BA9879B7.title: "Warm Shore"
+	quest.181B29BA5CCB8302.quest_desc: ["The &cCloaks&r are your replacement for Chestplates! \\n\\nThey come in a few different colors, so pick whichever matches your Eyes best. \\n\\nThey only cover your Back looks-wise, kinda like a Cape!"]
+	quest.181B29BA5CCB8302.title: "&cCloaks"
 	quest.1823CC81D613892B.quest_desc: [
 		"Passive Mobs -> More Pink Slime"
 		"Hostile Mobs -> More Meat"
@@ -2396,7 +2461,7 @@
 	quest.184F98BE0F6710E2.title: "&cTrack Kits&r for using Redstone"
 	quest.185074907753AE77.quest_desc: ["If you are using Routers I hope you have some game knowledge. \n\nJust incase, to void an Item means to delete it. \n\nAny items that come into the Router, will be deleted forever! \n\nRecommend using Filters with this one..."]
 	quest.185DBBDD252CBA0C.quest_desc: [
-		"The &6&lForge&r is the most important Block in &6&lForbidden \\& Arcanus&r! Now that you made the Multiblock you can break the &6&lForge&r block and move it, even though it only works while on the Mutliblock. \n\nYou'll need to fill it with all 4 Essences: &bAureal&r, Souls, &4Blood&r, and &aExperience&r! \n\nThen, put in Relics if necessary. \n\nAfter that, put the center Item in the Recipe, in the middle Slot of the &6&lForge&r, and the outer Items on the &6Pedestals&r."
+		"The &6&lForge&r is the most important Block in &6&lForbidden & Arcanus&r! Now that you made the Multiblock you can break the &6&lForge&r block and move it, even though it only works while on the Mutliblock. \n\nYou'll need to fill it with all 4 Essences: &bAureal&r, Souls, &4Blood&r, and &aExperience&r! \n\nThen, put in Relics if necessary. \n\nAfter that, put the center Item in the Recipe, in the middle Slot of the &6&lForge&r, and the outer Items on the &6Pedestals&r."
 		"{image:atm:textures/questpics/forbidden/forbidden_gui.png width:135 height:100 align:center}"
 		"{image:atm:textures/questpics/forbidden/forbidden_tier3.png width:100 height:100 align:center}"
 	]
@@ -2531,7 +2596,12 @@
 	quest.19A2016B54C6FA34.quest_desc: ["Some Machines in &l&6Theurgy&r need Heat to get started! Except &l&6Theurgy&r is very jealous with how their Machines get Heat, you can only use these two Machines as Heat sources. \n\n(The Machines that use Heat are: Liquefaction Cauldron, Calcination Oven, &cMercury&r Distiller, and Incubator.)"]
 	quest.19A2016B54C6FA34.quest_subtitle: "Man you're Hot!"
 	quest.19A2016B54C6FA34.title: "Man you're Hot!"
+	quest.19A7BB09DE919147.quest_desc: ["&2Vampire Repelling&r is a &2Skill&r we'll need to get in order to Craft the &eGarlic Diffuser Core&r. \\n\\nOnce we have that we can combine &eGarlic&r and Wool to get our &eCore&r! \\n\\nThe Wool Color doesn't change the &eCore&r Color though. \\n\\nNow combine the &eCore&r with Obsidian, Diamond, and Planks. "]
+	quest.19A7BB09DE919147.title: "&eGarlic Diffuser Core"
 	quest.19AAC139177442C1.quest_subtitle: "Tier: &63"
+	quest.19AC185DD3D047DD.quest_desc: ["&2Level 13&r will need the same 44 Structure Points. \\n\\nThis time we'll need 2 &4Pure Blood Level 4&r and 20 &cHearts&r! \\n\\nNow us &4Vampires&r will have 20 whole Hearts and 19 Armor Points. Practically unstoppable!"]
+	quest.19AC185DD3D047DD.quest_subtitle: "Lvl 13"
+	quest.19AC185DD3D047DD.title: "Upgrading to &2Level 13"
 	quest.19B393433FB0C62F.quest_desc: ["The Strider's secret to walking on &cLava&r is within their Legs. So we took their Legs off of them and have you use them instead! \n\nWhen Sneaking you can walk safely ontop of &cLava&r! When you stop Sneaking you will fall into the &cLava&r though. These also allow you to safely walk over Magma blocks and other hot blocks!"]
 	quest.19B393433FB0C62F.quest_subtitle: "Feet"
 	quest.19B393433FB0C62F.title: "&4Strider Shoes&r"
@@ -2741,6 +2811,7 @@
 	quest.1CC627D3FB348C89.title: "Shaper Armor Trim"
 	quest.1CD2C6AFD788C35E.quest_desc: ["Compacts items in the Backpack to their 2x2 recipe."]
 	quest.1CD5ABD827CEB3AE.quest_subtitle: "Brazil Nut + Balsa"
+	quest.1CE7B24E7E62C25B.quest_desc: [""]
 	quest.1CE7B24E7E62C25B.quest_subtitle: "&oThe unknown but yet it is everything we do know."
 	quest.1CE7B24E7E62C25B.title: "&d&lPulsating &8Black Hole"
 	quest.1CF8263756EE8F2A.quest_desc: ["This special &eDust&r is dropped from the Wither and the Ender Dragon when killed by an &dEssence Weapon&r enchanted with &dMystical Enlightenment&r."]
@@ -2766,6 +2837,9 @@
 	quest.1D48298525EEADC9.title: "You're so sweet"
 	quest.1D4973B187284CBB.quest_desc: ["A very peaceful and helpful Item, hold it in your Offhand to use it. When in your Offhand it will fertilize Crops and Saplings. \n\nIt will also heal Tamed Mobs and Players nearby. \n\nAnd will get rid of Poison and Wither from Players and Tamed Mobs. I don't know how your Mobs are getting Withered but we can fix it now! \n\nAfter enough Healing or Fertilizing it will have a 10 Minute cooldown."]
 	quest.1D4973B187284CBB.title: "&aEssence of Life"
+	quest.1D5441F516720758.quest_desc: ["Last time we'll need to visit the &9Vampire Hunter Trainer&r. \\n\\nGive him the fee of 40 Iron and 40 Gold Ingots, and the &5Hunter Intel Level 14&r to get &2Level 14&r."]
+	quest.1D5441F516720758.quest_subtitle: "Lvl 14"
+	quest.1D5441F516720758.title: "Getting &2Level 14"
 	quest.1D56D3B444A4B2D4.quest_desc: ["The Gauntlet of Bulwark acts not as you'd assume. Instead of bringing mobs closer it pushes them away, when holding right click, and gives them Blazing Brand. Then when you release right click you'll do the normal charge. It's made by fusing the Gauntlet of Guard with a Bulwark of Flame in the Mechanical Fusion Anvil."]
 	quest.1D56D3B444A4B2D4.title: "Gauntlet of Bulwark"
 	quest.1D6FAF0E25A0D596.quest_subtitle: "Clove + Allspice"
@@ -2780,6 +2854,8 @@
 	quest.1D720AC88431BD70.quest_desc: ["Breed the Ender Bee with a Lapis Bee to create a Diamond Bee!"]
 	quest.1D720AC88431BD70.quest_subtitle: "Ender + Lapis"
 	quest.1D720AC88431BD70.title: "Diamond Bee"
+	quest.1D758FEA6E8858BC.quest_desc: ["Now we're getting expensive for &5Hunter Intel&r. \\n\\nWe'll need 20 &4Vampire Fangs&r and &4Pure Blood Level 3&r. Those are dropped from &2Level 3 &4&lVampire Baron&r."]
+	quest.1D758FEA6E8858BC.title: "Crafting &5Hunter Intel 10"
 	quest.1D794DE95C9FF6C7.quest_subtitle: "Increase the Speed of Machines"
 	quest.1D86B2E553503E53.quest_desc: ["The Dominion Wand is used for controlling the creatures you might encounter in the world! Each being responds differently to the wand, so make sure to read up in the Worn Notebook!"]
 	quest.1D86B2E553503E53.title: "Summoning Help!"
@@ -2855,6 +2931,8 @@
 	]
 	quest.1E0F92F07FDD162E.quest_desc: ["You will need &bProsperity Seed Bases&r in order to create resource crops."]
 	quest.1E0F92F07FDD162E.quest_subtitle: "I'm all about that (Seed) Base"
+	quest.1E1101F8C520445F.quest_desc: ["Yes you can wear Armor when being a Vampire, but you also gain access to stylish exclusive &cArmor&r! \\n\\nThe &cPants&r replace Leggings, &cBoots&r replace Boots, and the &cCrown&r or &cHat&r replace your Helmet. \\n\\nI can't tell you whether to take the &cCrown&r or &cHat&r, that is all up to you!"]
+	quest.1E1101F8C520445F.title: "&4Vampire Armor"
 	quest.1E13D7CE5A9EFF74.quest_desc: [
 		"Frostfields are one of the cold Biomes in the &2&lUndergarden&r. You can tell it is cold by the massive icesicles, Powdered Snow, and Frozen Deepturf! \n\nAlso here instead of the usual Depthrock underground you will find Shiverstone. \n\nShiverstone acts more like Ice than real Stone. Well atleast when standing on it!"
 		"{image:atm:textures/questpics/undergarden/undergarden_frosty.png width:200 height:100 align:center}"
@@ -2930,6 +3008,7 @@
 	quest.1F55A483008F74FE.quest_desc: ["Has 4 slots for Constructing."]
 	quest.1F55A483008F74FE.title: "Ultra Constructor"
 	quest.1F58AA51814C7568.quest_desc: ["&n&5Super Glue&r can be used to attach blocks to each other to move them with pistons or other means."]
+	quest.1F6C8117F3CED939.title: "&6Allthemodium Bow"
 	quest.1F733319E9F4DFE5.quest_desc: ["16x Magnesium Diboride Wire - Qty 8"]
 	quest.1F733319E9F4DFE5.quest_subtitle: "MV Superconductor"
 	quest.1F7591DB6D8EC1E7.quest_desc: ["Buffs:\n\n - Absorption II (3:00)\n - Speed II (3:00)\n - Resistance II (3:00)\n - Regeneration II (3:00)\n - Strength II (3:00)\n - Haste II (3:00)"]
@@ -2942,6 +3021,8 @@
 	]
 	quest.1F81EA5E45424308.title: "Transferring Power"
 	quest.1F82DBE75059C139.title: "&9The Starter Dungeons"
+	quest.1F84A6D6F1A180FA.quest_desc: ["The &bHunter Outfit of Swiftness&r is similar to the normal Outfit especially in Crafting. \\n\\nThe &bSwiftness Outfit&r has less Protection though, with it being closer to Chainmail Armor than Iron. \\n\\nThey do give you a Speed Boost while being worn! This is something no &2&lVanilla&r Armor does by default."]
+	quest.1F84A6D6F1A180FA.title: "&bSwift Hunter Outfit"
 	quest.1F88C697817A7680.quest_desc: ["Buffs:\n\n - Absorption II (3:00)"]
 	quest.1F88C697817A7680.title: "&aInferium Apple"
 	quest.1F8BC2A4CF055038.quest_subtitle: "A Reusable Ender Pearl"
@@ -2960,6 +3041,8 @@
 	]
 	quest.1FAFDB20F504688E.quest_desc: ["Enchanting gets a few changes with Apotheosis. To summarize it, 15 bookshelves won't be enough now. There's new bookshelves and actions you can do with Enchantment Tables now and hopefully these quests will help you understand."]
 	quest.1FAFDB20F504688E.title: "Apothic Enchanting"
+	quest.1FC0CCDD062BFD30.quest_desc: ["The &e&lImproved Garlic Diffuser&r is an even better &e&lGarlic Diffuser&r! Hence the Improved in the title. \\n\\nIt now works in a 3x3 Chunk Radius instead of just 1 Chunk. \\n\\nIt is still Fueled with &ePurified Garlic&r and has start-up cooldowns. \\n\\nTo make it we'll need the same Recipe but instead of a &eGarlic Diffuser Core&r we'll need an &eImproved Garlic Diffuser Core&r. \\n\\nTo get that, combine an &6Ultimate Holy Water&r with a &eGarlic Diffuser Core&r in an &c&lAlchemical Cauldron&r."]
+	quest.1FC0CCDD062BFD30.title: "&e&lImproved Garlic Diffuser"
 	quest.1FC1588A131B6A4A.quest_desc: ["Just like making the &6&lATM Star&r normally, automating it needs to be within the &6&lRunic Star Altar&r! \n\nCheck out the Quest in Chapter 3 to learn how to build and use it."]
 	quest.1FC1588A131B6A4A.title: "&6&lRunic Star Altar"
 	quest.1FC7ABEAB5018E79.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_redstone.png width:100 height:150 align:center}"]
@@ -3174,15 +3257,19 @@
 	quest.216DA9782EBDFF34.title: "&b&lOccultism"
 	quest.2171DC0B13C4BD43.quest_desc: ["&a&lRoots Classic&r may look small in JEI but I can promise you there's so much to it! \n\nRoots is all about using nature's gifts to make rituals.\n\nTrust me you'll find these items everywhere!"]
 	quest.2171DC0B13C4BD43.title: "&a&lRoots Classic"
+	quest.21734396EF46198C.quest_desc: ["Now that we are getting higher &2Levels&r, we'll need to upgrade our &9&lResearch Table&r! \\n\\nIn order to upgrade it, we'll need to place other &4&lVampirism&r Tables near it. Those being: &b&lHunter Weapon Table&r, &d&lPotion Table&r, &c&lAlchemical Cauldron&r. \\nWhen you &2Level up&r higher you'll need more Tables next to it and no using the same Tables won't help."]
+	quest.21734396EF46198C.title: "Another Table"
 	quest.21770049843DD275.quest_subtitle: "Part 2 of 2"
 	quest.217DB12EA32E1724.quest_desc: ["The &bInfusion Crystal&r is need in order to \"tier up\" seeds. For example if you combine the crystal with 4 Inferium Essence you will get 1 Prudentium Essence.\n\nLater on you will be able to craft an Infusion Crystal that doesn't break."]
 	quest.217DB12EA32E1724.title: "&bInfusion Crystal"
+	quest.217DF3B66A07A8DE.quest_desc: [""]
 	quest.217DF3B66A07A8DE.quest_subtitle: "&oGarden of Eden in just a single Seed."
 	quest.217DF3B66A07A8DE.title: "&3&lDimensional &2Seed"
 	quest.2182492BCC1B33D8.quest_desc: ["When installed in a Hive, it gives a 5% chance for a new baby Bee to be spawned every time honey is delivered.\n\nWhen placed in a Catcher, it only allows the catcher to catch baby Bees.\n\nYou can stack these for a greater chance."]
 	quest.2182492BCC1B33D8.quest_subtitle: "Making Babies"
 	quest.218803812A9C332B.quest_desc: ["In order to get higher Max Enchantments and levels you'll need Infused Hellshelves. To get them you will need &a22.5 Eterna&r and &c30%% Quanta&r. The best way to get that would be 15 normal shelves and &45 Hellshelves&r."]
 	quest.218803812A9C332B.title: "&4Infused Hellshelf&r"
+	quest.2188C52C1F384DE4.quest_desc: [""]
 	quest.2188C52C1F384DE4.quest_subtitle: "&oEver burning fuel (not really)."
 	quest.2188C52C1F384DE4.title: "&c&lPhilospher's Fuel"
 	quest.219932CB19258C16.quest_desc: ["The third tier of storage component, providing &e16384&f bytes of storage."]
@@ -3329,12 +3416,7 @@
 	quest.230463E830D6FFEB.quest_desc: ["Now that we have plastic, the next step is getting some finished PCBs, first make some &3Empty PCBs&r in the Pressure Chamber."]
 	quest.230463E830D6FFEB.quest_subtitle: "The path to PCBs"
 	quest.230582AAFC0A1632.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.230EEE4671B46D0C.quest_desc: [
-		"&9Darkstone&r appears deep underground near Lava Lakes, like at Y Level -54. "
-		""
-		"It is the most used Block for &6&lForbidden \\& Arcanus&r, all Multiblocks will use them for their base. "
-		"Make sure to grab a ton of them!"
-	]
+	quest.230EEE4671B46D0C.quest_desc: ["&9Darkstone&r appears deep underground near Lava Lakes, like at Y Level -54. \n\nIt is the most used Block for &6&lForbidden & Arcanus&r, all Multiblocks will use them for their base. \nMake sure to grab a ton of them!"]
 	quest.230EEE4671B46D0C.title: "&9Darkstone"
 	quest.23254CE8487D2E68.quest_desc: ["The &8Wither Builder&r is one of the greatest Machines you can get from &lIndustrial Foregoing&r, and because of that it's expensive. \n\nFirst you will need the parts that make a &8Wither&r and a drop from the &8Wither&r. \n\nThen, you'll need a &6Supreme Machine Frame&r which you need &bEther Gas&r to make. Guess what you need for &bEther Gas&r? That's right! A &8Wither&r! You'll need a Laser Drill working on a &8Wither&r to get it. \n\n&8Withers&r like to leave and kill things so a Stasis Chamber would make milking them easier! "]
 	quest.23254CE8487D2E68.title: "&8Wither Builder"
@@ -3510,6 +3592,9 @@
 		""
 		"You'll also get &6Diluted Sulfuric Acid&r, which you can &eDistill&r back into full strength Sulfuric Acid"
 	]
+	quest.2487F38985B10375.quest_desc: ["To &2Level up &fto &2Level 11&r we'll need &5Hunter Intel Level 11&r, 20 Iron Ingots, and 10 Gold Ingots... \\n\\nWait why is this one cheaper as well? What's happening!"]
+	quest.2487F38985B10375.quest_subtitle: "Lvl 11"
+	quest.2487F38985B10375.title: "Getting &2Level 11"
 	quest.24888CAD50B32B04.quest_subtitle: "Spawned using a Stone Nest"
 	quest.248AEF5537E48B1A.quest_subtitle: "Tier: &b4"
 	quest.24934231538B6492.quest_desc: [
@@ -3718,8 +3803,13 @@
 	quest.26D306418545A2D6.title: "&dThe End Game Power Source"
 	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r is a Mod that adds a few very helpful Items. \n\nAll for of course, building! \n\nEach requires &cEnergy&r to work and has a Menu which is pulled up by default &lG&r."]
 	quest.26FADB78B04F592B.title: "&l&aBuilding Gadgets&r"
+	quest.26FEFC5389C6C574.quest_desc: ["The next Level is gained the same way, just this time needing 7,000mB of &cBlood&r. Aka 7 &cBuckets of Blood&r or 8 &cBlood Bottles&r. \\n\\nYou will gain more Health and Speed now that you are &2Level 3&r and this is also when you will start gaining &aAbilities&r! \\n\\nCheck out &aEdit Actions&r to see and bind &aAbilities&r. You can find in the same Menu as where you get the &2Skill Tree&r. \\n\\nAlso part of &2Leveling up&r as a &4Vampire&r, you are now even weaker to the &eSun&r. You will now gain Weakness and Nausea from being in &eSunlight&r. It won't kill you, but it will make you wish you were dead!"]
+	quest.26FEFC5389C6C574.quest_subtitle: "Lvl 3"
+	quest.26FEFC5389C6C574.title: "Enough &cBlood&r to &2Level 3"
 	quest.270498437D938DD4.quest_desc: ["By crafting a Super Candle with Royal Jelly and a Potion you will make a Potion Candle! \n\nWhen the Candle is lit it will give the Potion Effect to all nearby."]
 	quest.270498437D938DD4.title: "Potion Candle"
+	quest.2709B44ED39E8143.quest_desc: ["To &2Level up &fabove &29&r we'll need to place another, different Table next to our &9&lHunter Research Table&r. \\n\\nYes, it has to be different from the other Tables. \\n\\nI'd recommend placing a &b&lWeapon Table&r and &d&lPotion Table&r."]
+	quest.2709B44ED39E8143.title: "Two more Tables!"
 	quest.271A112ABDD923A6.quest_desc: ["Like normal Mangrove but these aren't ugly."]
 	quest.272CB4EDED35C47B.quest_desc: ["No matter which path you took for your Digital Storage, one of these is needed to make the &6Star&r!"]
 	quest.272CB4EDED35C47B.title: "Large Digital Storage"
@@ -3733,6 +3823,8 @@
 	quest.2745297337E13E9E.quest_subtitle: "No need for boring old Air Compressors now!"
 	quest.2748ACEAB96A5F60.quest_desc: ["Iron Furnaces (Don't be confused with each of the titles with &lIron Furnaces&r being the mod name and an Item name) work even faster than Normal and Copper Furnaces. They take 160 Ticks to work, or 8 seconds.\n\nThese can be crafted from either a normal Furnace or &6Copper Furnace&r! And they can be made into either a &7Silver Furnace&r or &eGold Furnace&r."]
 	quest.2748ACEAB96A5F60.title: "&fIron Furnace"
+	quest.2750DE51CFA0EB09.quest_desc: ["The &4Vampire Hut&r is more of a Tower than a Hut but hey I don't name these! \\n\\nWithin the &4Tower&r you will find tons of &4Vampire Decorations&r. Keep going higher and you will find Chests full of Loot. \\n\\nDon't forget to break open the attic to find hidden Loot!"]
+	quest.2750DE51CFA0EB09.title: "Invade the refuge of the &4Vampire Huts"
 	quest.275D97BF0CE9DCD4.quest_subtitle: "Tier: &b3"
 	quest.276863E70FBE7139.quest_desc: ["Congratulations, you've manage to go further than most people with Modern Industrialization. But this is only the beginning of your journy. Prepare to embrace the age of early Electricity."]
 	quest.277464BE6F96C082.quest_desc: [
@@ -3893,13 +3985,10 @@
 	quest.29309773493CE631.title: "&b&lOccultism"
 	quest.29417616D8F673D5.quest_desc: ["Moving forward a lot of mixed metals and alloys will need to be made in the ABS. As Fluids they are then pushed through a Vacuum Freezer with an Ingot Mold to make the ingots. The Multiblock Structures referenced in the following quests all have support blocks which utilize metals which need the ABS to be made. Making at least 1 Alloy Blast Smelter now will be beneficial."]
 	quest.29417616D8F673D5.quest_subtitle: "Anti-Lock Braking System is a Go!"
-	quest.29434DB0CC2E30E6.quest_desc: [
-		"Combining &cMundabitur Dust&r, &bArcane Crystal Dust&r, &8Charcoal&r, and a &eGold Ingot&r we'll get our first Alloy! The &6Deorum Ingot&r! "
-		""
-		"This is the foundational Ingot of &6&lForbidden \\& Arcanus&r, you will need dozens of it! "
-		""
-		"It is especially used for Building Blocks for our Multiblock Machines."
-	]
+	quest.294177007EEE9856.quest_desc: ["&210&r has everything getting more expensive. To work it'll need 35 Structure Points. \\n\\nIt will then need a &4Pure Blood Level 3&r and 15 &cHuman Hearts&r! That's a lot of &cHearts&r. \\n\\nNow we'll have 19 Hearts and 17 Armor Points!"]
+	quest.294177007EEE9856.quest_subtitle: "Lvl 10"
+	quest.294177007EEE9856.title: "Upgrading to &2Level 10"
+	quest.29434DB0CC2E30E6.quest_desc: ["Combining &cMundabitur Dust&r, &bArcane Crystal Dust&r, &8Charcoal&r, and a &eGold Ingot&r we'll get our first Alloy! The &6Deorum Ingot&r! \n\nThis is the foundational Ingot of &6&lForbidden & Arcanus&r, you will need dozens of it! \n\nIt is especially used for Building Blocks for our Multiblock Machines."]
 	quest.29434DB0CC2E30E6.title: "&6Deorum"
 	quest.2943989C642F93AE.quest_desc: ["Finally! We now have a crafting recipe that gives us 2 LuV processors for 1 Craft! Lets Gooo!"]
 	quest.29448D08C8777425.quest_desc: ["By tonight he'll be sleeping with the Fishes. \n\nThe &cAngler Hat&r helps you Lure Fish in and makes your chances at getting a Rare Drop higher!"]
@@ -3907,6 +3996,13 @@
 	quest.29448D08C8777425.title: "&cAngler's Hat"
 	quest.2951B1D7080C5EF9.quest_desc: ["Using the &6Lamp of Cinders&r, you are able to break the Thorns in the Thornland Biome.\n\nGather some &cThorn Roses&r to continue on to the &2Final Plateau&r."]
 	quest.2951B1D7080C5EF9.title: "Every Thorn has its Rose"
+	quest.2954FFFC9FA1C8B7.quest_desc: [
+		"In &d&lAllTheMods: Arcana&r there are many mods that have in-game guides to help teach and show you things within said mod."
+		""
+		"Once completed, this quest will grant you an &6Akashic Tome&r as a reward. This &6Akashic Tome&r contains all these guide books all in one place, simply select which guide you want to use and the &6Akashic Tome&r will mimic it."
+		""
+		"Punching the air with the Tome will allow you to select from the other guides once again."
+	]
 	quest.295C77EEC89000FC.quest_subtitle: "Generates Source from Mob Deaths and Animal Breeding"
 	quest.29706E3681616E41.quest_subtitle: "That's a Lot of Different Dusts!"
 	quest.2982D38BD5EE6349.quest_subtitle: "Feed a Shroombee Warped Fungus"
@@ -4008,6 +4104,8 @@
 		""
 		"There is an alternate recipe that uses Allyl Chloride and Hypochlorous Acid, if you so choose to go that route"
 	]
+	quest.2A36855EEBE7B996.quest_desc: ["An &9Enhanced Crossbow&r on top of another &9Enhanced Crossbow&r! \\n\\nTwice the Arrows! \\n\\nYou'll need the &2Skill&f: &2Enhanced Weapons&r to Craft and use it."]
+	quest.2A36855EEBE7B996.title: "&9Enhanced Double Crossbow"
 	quest.2A5004EB99AE4F96.quest_desc: [
 		"There are more Otherworld items you will need to gather, and eating &cDemon's Dream Fruit&r every time you need the &7Third Eye&r effect gets annoying."
 		""
@@ -4049,6 +4147,7 @@
 	quest.2AA407EB0BF2922E.quest_subtitle: "Sweetgum + Loblolly"
 	quest.2AB0FA084739827A.quest_desc: ["To actually use a &9Tunnel Bore&r you'll need a &9Tunnel Bore Head&r. \n\nThey come in 4 different styles and it mines dependent on the &9Bore Head&r. \n\nIt can be enchanted and has durability so you'll want to enchant it!"]
 	quest.2AB0FA084739827A.title: "&9Tunnel Bore, Bore Head"
+	quest.2AB103A5DA78B181.quest_desc: ["Pure Salt is Water distilled with &eGarlic&r. \\n\\nTo do that we can combine a Water Bucket and &eGarlic&r in an &c&lAlchemical Cauldron&r. \\n\\nIt will need Fuel like Coal and you'll need the &2Skill&f: &2Basic Alchemy&r."]
 	quest.2AB457E29360E3B8.quest_desc: [
 		"Put those dusts we just made into your electric blast furnace and get some hot silicon!"
 		""
@@ -4313,6 +4412,8 @@
 		"As previously stated, you should really figure out how to passive the processing line. To be fair, at this point, everything should be passived."
 	]
 	quest.2D65DC315CCC60C8.quest_subtitle: "By Products"
+	quest.2D6E43672A714988.quest_desc: ["Dark Blood Projectiles might seem familiar to you... that's because it is an &aAbility&r that &4&lVampire Barons&r use against you! \\n\\nDark Blood Projectiles will fly in a straight line, causing Damage and giving Slowness to whatever they hit. \\n\\nYou will need the &2Skill&r: &2Dark Blood Projectile&r for it of course."]
+	quest.2D6E43672A714988.title: "Dark Blood Projectile"
 	quest.2D6FDCC948DB927D.quest_subtitle: "Mahogany + Teak"
 	quest.2D84DA544D7A24FA.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.2D86D4403E0F4EB9.quest_desc: [
@@ -4391,6 +4492,8 @@
 	]
 	quest.2E596B5A4EA2ABF4.title: "&3S'Mog&r"
 	quest.2E5EF984B9CE0CB9.quest_desc: ["The all in one, big battery, big range ore/fluid finder"]
+	quest.2E6C7849718C8ABE.quest_desc: ["The &6Wooden Crucifix&r doesn't need a &b&lWeapon Table&r to Craft, it can be made in a regular Crafting Table. \\n\\nYou'll need 3 Planks, 2 Sticks, and a &6Holy Water&r to Craft it. \\n\\n&6Wooden Crucifixs&r can be held in your Hand and when you Hold Right Click you can use them. \\n\\nWhen used it will slow all Undead: Zombies, &4Vampires&r, etc. who are near you. They can still hit you when Slowed. \\n\\nOnce done they will return to normal Speed and you will have a Cooldown before using it again."]
+	quest.2E6C7849718C8ABE.title: "&6Wooden Crucifix"
 	quest.2E6D11A5F5626A6C.quest_subtitle: "Tier: &f2"
 	quest.2E6F1C8718EB8C66.title: "&4Blood&r Upgrade Orb"
 	quest.2E6F761585C1FB4D.quest_subtitle: "Ash + Silver Lime"
@@ -4424,6 +4527,8 @@
 	quest.2EAA6BE598C83F24.quest_desc: ["&d&lArs Elemental&r &3Water Armor&r!"]
 	quest.2EAA6BE598C83F24.quest_subtitle: "15"
 	quest.2EAA6BE598C83F24.title: "&3Aquamancer Outfit"
+	quest.2EAC8FF8D71E33FD.quest_desc: ["Now we'll still need a Book and &5Vampire Book&r. \\n\\nNow we will also need &4Pure Blood Level 1&r. This is a drop from a &2Level 1 &4&lVampire Baron&r!"]
+	quest.2EAC8FF8D71E33FD.title: "Crafting &5Hunter Intel 6"
 	quest.2EAE9EDE6EFA59F0.quest_subtitle: "Generates Power using Enchanted Items!"
 	quest.2EB6088D4E85DA42.quest_desc: [
 		"Tired of using a shovel to level out grass? Try using the &2Rod of Terra Firma&r!"
@@ -4535,6 +4640,8 @@
 	quest.2FDACD6F153D5B64.quest_desc: ["Processing Sheldonite and purifying it will allow you to get the highest return on Platinum Group Sludge. This Sludge contains resources you need to progress."]
 	quest.2FDACD6F153D5B64.quest_subtitle: "My Friend Sheldon went to a club on nite."
 	quest.2FE4B7B70D90A455.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.2FF9C0525F36146F.quest_desc: ["&bHunter Camps&r are tiny but common Structures around the World. \\n\\nThey are just made of Tents and Campfires so careful not to miss them! \\n\\nAround the Camps, as the name suggests, spawn &bVampire Hunters&r and rarely &bAdvanced Vampire Hunters&r."]
+	quest.2FF9C0525F36146F.title: "Clear out a &bHunter Camp"
 	quest.3009018DEC1EC952.quest_desc: ["There's 6 structures in the &2Overworld&r that the bosses can spawn in! (There's a 7th but no boss in there)."]
 	quest.3009018DEC1EC952.title: "&lAdventure Time!"
 	quest.300F2E45D185A9A1.quest_desc: ["&lIron&r has brought us a wonderful and very fun Magic Mod! &lIron's Spells 'N Spellbooks!&r \n\n&lIron's Spells&r is all about making and using &3Spells&r! Each &3Spell&r has a Rarity, Level, and Class! And everyone of them can be used in a Spellbook. \n\nYou won't be able to just make whatever you want with &7Iron&r and &cRedstone&r, you'll need to get off your butt, Adventure, and Fight!"]
@@ -4572,6 +4679,8 @@
 	]
 	quest.30700E99091B712A.title: "Regulating Items in Interfaces"
 	quest.307F92868E0F4EB3.quest_desc: ["Biomass is useful for many things like ethanol and methanol production"]
+	quest.308454C5009ABF9B.quest_desc: ["One of the most expensive we've seen so far, needing 20 &4Vampire Fangs&r and &4Pure Blood Level 4&r. \\n\\nAlso the Book and &5Vampire Book&r!"]
+	quest.308454C5009ABF9B.title: "Crafting &5Hunter Intel 12"
 	quest.308581359FEF32E9.quest_desc: [
 		"While not fully implemented yet, the &6Alchemical Reaction Chamber&r functions like a Furnace."
 		""
@@ -5013,9 +5122,15 @@
 	quest.354086C858E10154.title: "Reprocessing our Waste"
 	quest.355244420EA47546.quest_desc: ["Fabricator is the Auto-Crafter. It will take items from the inventory below and make a set recipe.\n\nYou can lock recipes with CTRL Click. It will need to pipe out the created items though."]
 	quest.355244420EA47546.quest_subtitle: "Auto-Crafter"
-	quest.356102D5B5F3CA1E.quest_desc: ["An Alloy added by &6&lForbidden \\& Arcanus&r is &5Obsidiansteel&r. \n\nIt's created in the &l&bClibano&r, by combining Raw Iron and &5Obsidian&r. \n\nYou'll need an Artisan Relic in order to actually make the Alloy! \n\nAlso you'll get &6Copper&r as residue, which probably isn't supposed to happen..."]
+	quest.356102D5B5F3CA1E.quest_desc: ["An Alloy added by &6&lForbidden & Arcanus&r is &5Obsidiansteel&r. \n\nIt's created in the &l&bClibano&r, by combining Raw Iron and &5Obsidian&r. \n\nYou'll need an Artisan Relic in order to actually make the Alloy! \n\nAlso you'll get &6Copper&r as residue, which probably isn't supposed to happen..."]
 	quest.356102D5B5F3CA1E.title: "&5Obsidiansteel&r"
+	quest.3565E9E60C56F145.quest_desc: ["&6Holy Water&r is created by Blessing Pure Salt Water in an &6&lAltar of Cleansing&r. \\n\\nYou can make Pure Salt Water by Brewing Pure Salt with Water Bottles in a Brewing Stand. To get Pure Salt we can use an &c&lAlchemical Cauldron&r to combine &eGarlic&r and Water. \\n\\n&6Holy Water&r can be used to Craft Crucifixes and Crosses. We can also use it to make &6Alchemical Fire&r or Purified Garlic. \\n\\nDon't forget to combine it with Gunpowder to make a &6Splash Holy Water&r! A powerful Weapon against the Undead."]
+	quest.3565E9E60C56F145.title: "&6Holy Water"
 	quest.356F450F4ADD22D7.title: "2 Dimensional Storage Actuator"
+	quest.357DED7BE80365FC.quest_desc: ["The Stake is the original &4Vampire&r Slayer! \\n\\nUsually it needs to go through the Heart... but this is &2&lMinecraft&r, we aren't that fancy. \\n\\nIt has a very cheap Recipe only being 2 Sticks and a Plank. This also means it won't do much Damage though. \\n\\nDon't worry we only need to use it for the finishing hit on a &4Vampire&r to get..."]
+	quest.357EE6E73A5D4371.quest_desc: ["Seems the Gold isn't going up yet... but the Iron definitely is! \\n\\nWe'll need 30 Iron Ingots and 10 Gold Ingots along with the &5Hunter Intel Level 12&r."]
+	quest.357EE6E73A5D4371.quest_subtitle: "Lvl 12"
+	quest.357EE6E73A5D4371.title: "Getting &2Level 12"
 	quest.358509BDA909F63D.quest_desc: [
 		"This &9Portal&r is closer to the &dEnd Portal&r than &cNether Portal&r. \n\nFirst, dig out a 2x1x2 hole in the ground. Then, place &9Water&r in the hole. Finally, place any sort of &dFlowers&r on each side of the hole. \n\nWith all that set up, toss the &bDiamond&r into the &9Water&r! The &bDiamond&r will be blown up in a &5Lightning Strike&r which activates the &9Portal&r. \n\nYou lose a &aDiamond&r, but you gain the &9&lTwilight Forest&r!"
 		"{image:atm:textures/questpics/chap1/chap1_twilight.png width:100 height:100 align:center}"
@@ -5126,6 +5241,8 @@
 	quest.361EF9E4973E3522.quest_subtitle: "20"
 	quest.361EF9E4973E3522.title: "&dShadow-Walker Outfit"
 	quest.362F4CFD1B8B12B1.quest_desc: ["All living things will die in Ether as if it were Lava. Funny enough you can put it in a Bucket though! \n\nThe only way to get it is finding it in the Ether River. \n\nWhen Water touches Ether it will form Thioquartz Blocks!"]
+	quest.3637754619C7EB51.quest_desc: ["For our &e&lGarlic Diffuser&r we'll need Fuel. The Fuel is &ePurified Garlic&r! \\n\\nTo make it combine any &6Holy Water&r with &eGarlic&r in an &c&lAlchemical Cauldron&r. \\n\\nWe'll need Fuel for the &c&lCauldron&r and the &2Skill&f: &2Purified Garlic&r. Yes, it has its own &2Skill&r."]
+	quest.3637754619C7EB51.title: "&ePurified Garlic"
 	quest.36389696767EFB4E.quest_desc: [
 		"The Barren Abyss is as the name suggests, barren... It holds nothing but Hostile Mobs and Pebbles. \n\nPersonally I'd rather find Pebbles anywhere else..."
 		"{image:atm:textures/questpics/undergarden/undergarden_barren.png width:200 height:100 align:center}"
@@ -5151,6 +5268,8 @@
 	quest.36926B5EBFF6E55A.title: "Making &cMercury"
 	quest.369D3AF332181DA8.quest_desc: ["The Stone Nest can be placed in any overworld biome to lure in a Mason Bee or Digger Bee."]
 	quest.369D3AF332181DA8.quest_subtitle: "Lures Bees in any Overworld Biome"
+	quest.36A227BCCBF44B2B.quest_desc: ["The &cHuman Heart&r is dropped from &bVampire Hunters&r. Another drop from them is Livers which aren't important. \\n\\nIt isn't dropped from &bAdvanced Hunters&r as I can tell. \\n\\n&cHuman Hearts&r are important in many Recipes and in Rituals! So collect them all!"]
+	quest.36A227BCCBF44B2B.title: "&cHuman Hearts"
 	quest.36A3ECD4F6CA2732.quest_subtitle: "&f8 &cAttack Damage"
 	quest.36ABE142039E712B.quest_desc: ["This one works like normal infinite energy storage, just this one can connect to your system though! Never have to worry about if your System has enough Power! And that includes the &5Quantum Armor&r. \n\nYou'll need 4 &dSuperdense Cells&r and an &6&lATM Star&r. Each &dSuperdense Cell&r needs 8 &dDense Cells&r, each &dDense Cell&r needs 8 &dEnergy Cells&r. \n\n256 &dEnergy Cells&r... plus a lotta energy!"]
 	quest.36ABE142039E712B.title: "&5&lCreative &dEnergy Cell"
@@ -5183,7 +5302,8 @@
 	quest.36DEA17CBB696CC7.quest_subtitle: "You're a Network Admin Now!"
 	quest.36DEA17CBB696CC7.title: "My First Network"
 	quest.36DED7099E80ED51.quest_desc: ["This one does as the name suggests, it places Blocks. \n\nSet the Direction you want the Block placed, preferably set the Filter, then throw the Module and Blocks into the Router! Once the Redstone is set the Blocks will be placed!"]
-	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oLack of wisdom is a thing of the past with this"
+	quest.36DF0D83EBC2B6A9.quest_desc: [""]
+	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oLack of wisdom is a thing of the past with this."
 	quest.36DF0D83EBC2B6A9.title: "&3&lImprobable Probability Device"
 	quest.36F87173D8CD1D68.quest_desc: ["Ride the &5Lightning&r! &5&lLightning&r is all about using Electricity to kill and support yourself. Some attacks even work as real &5Lightning&r! \n\n&5&lLightning's&r Focus Material is &5Bottle 'O Lightning&r which you get from using an Empty Bottle on a Charged Creeper. You need the &5Lightning&r to make more &5Lightning&r! \n\nIts &5Scrolls&r are &7Grey&r with &bLight Blue&r text."]
 	quest.36F87173D8CD1D68.title: "&5&lLightning"
@@ -5209,6 +5329,8 @@
 	quest.37355F60E45777FE.quest_desc: ["The Orb of Prophecy can be crafted or obtained through beating the Gatekeeper! \n\nIt's main use is activating the Portal, but there will be more uses for it!"]
 	quest.37367101B3DAA70F.quest_desc: ["The Ashy Mining Bee is spawned from a Dirt, Gravel, or Sand Nest."]
 	quest.37367101B3DAA70F.quest_subtitle: "Spawns from a Dirt Nest"
+	quest.3736D4AFB655B71B.quest_desc: ["Just like in Hotel Transylvania, &4Vampires&r can turn into Bats! \\n\\nWe'll need the &2Skill&r: &2No longer a Fledging&r to unlock the &aAbility&r. \\n\\nWhen we turn into a Bat we will have lower Health but also a smaller Hitbox and can Fly! \\n\\nAs a Bat you won't be able to interact with Blocks though, so no Breaking Blocks."]
+	quest.3736D4AFB655B71B.title: "Bat Mode"
 	quest.3751015CD5C84134.quest_desc: ["The 4096k Fluid Storage Part is used to craft the 4096k Fluid Storage Disk."]
 	quest.3751015CD5C84134.title: "&b4096k Fluid Part&r"
 	quest.375359043E71349C.quest_desc: ["The Simple Reforging Table is used like an Enchantment Table but with Affixes. With Gem Dust, Rarity Materials, and an Affixed Item you can reroll the affixes for a cost of EXP. This can also be used to change the Rarity of the Affixed item up to Rare "]
@@ -5315,6 +5437,8 @@
 	quest.38C0D3A240E43A23.quest_subtitle: "Transformers Robots in Disguise"
 	quest.38C236042AB5DDB9.quest_subtitle: "Bull Pine + Silver Fir"
 	quest.38C76A58EBED6C37.quest_subtitle: "&f7.5&r &4Damage&r"
+	quest.38DABB569C342254.quest_desc: ["The &d&lPotion Table&r is a unique version of the Brewing Table, except this gives us entirely new Potions we can make! \\n\\nWe can make Potions for Effects in &2&lVanilla&r we can't normally get from Potions, like: Resistance, Nausea, and Blindness. \\n\\nAll which can also be turned into Splash Potions! You'll need the &2Skill&f: &2Master Brewer&r for those.\\n\\nIt requires Blaze Powder and &cVampire Blood&r as Fuel. \\n\\nThere's many &2Skills&r we can unlock, especially the Middle Column, to help us make better and different Potions."]
+	quest.38DABB569C342254.title: "&d&lPotion Table"
 	quest.3907E68572324333.quest_desc: ["In order to get &4&lMorgan&r you need &e&lCaliburn&r. \n\nIn order to get &e&lCaliburn&r you need the &3Mahou Lake&r. \n\nIn order to get the &3Mahou Lake&r you'll need the Power Consolidation Ritual. \n\nWhich can be done like any other ritual just with 2 powdered diamonds and 1 powdered emerald. \n\nFYI don't do it near your base, the Ritual will be the middle of the &3Lake&r!"]
 	quest.3907E68572324333.title: "Power Consolidation Ritual"
 	quest.3908F7C80154D9CA.quest_desc: ["The &2Zombie Scepter&r exists because who doesn't want to summon their own &2Zombies&r?\n\nTo recharge, combine with &cRotten Flesh&r in a crafting grid."]
@@ -5376,6 +5500,7 @@
 	quest.39A19138C501B16F.title: "Slimy Bee"
 	quest.39A277844BE305FA.quest_desc: ["Without the Drills your Quarry can't, well... Drill. You'll need a lot of these. Thankfully you produce 4 of them each craft!"]
 	quest.39ACF4D6503067F3.quest_desc: ["&eCut&r that wafer into a proper chip"]
+	quest.39B4F361EF611927.quest_desc: [""]
 	quest.39B4F361EF611927.quest_subtitle: "&oPower over Death itself."
 	quest.39B4F361EF611927.title: "&l&8Wither's Compass"
 	quest.39B625FA20EAA025.quest_desc: [
@@ -5526,6 +5651,8 @@
 	quest.3B3BD39BA02DCA13.quest_desc: ["With the &6Pocket Piston&r your Attacks will hit your Enemies much farther! \n\nI wonder which wins, &6Pocket Piston&r or &7Steadfast Boots&r?"]
 	quest.3B3BD39BA02DCA13.quest_subtitle: "Hands"
 	quest.3B3BD39BA02DCA13.title: "&6Pocket Piston&r"
+	quest.3B3DEA5381406BF9.quest_desc: ["The &bSemi-Auto&r just now with more Damage. \\n\\nAlso works with the Arrow Clip! \\n\\nYou'll need the &2Skill&f: &2Enhanced Weapons&r to Craft and use it."]
+	quest.3B3DEA5381406BF9.title: "&9Enhanced Semi-Auto Crossbow"
 	quest.3B3E3D81843BB358.quest_desc: [
 		"&lAbility Type:&r Passive"
 		""
@@ -5583,8 +5710,10 @@
 	quest.3BB0926C4C00BE1D.title: "&5&lCreative Jetpack"
 	quest.3BB3AA6C29285837.quest_desc: ["Buffs:\n\n - Absorption II (3:00)\n - Speed II (3:00)"]
 	quest.3BB3AA6C29285837.title: "&2Prudentium Apple"
+	quest.3BB691C7727D92C8.quest_desc: ["No, it can't be used to efficiently chop down Trees, but it does more Damage to &4Vampires&r atleast! \\n\\nYou'll need 4 Iron Ingots, 4 Sticks, and 3 &eGarlic&r. Plus Lava to Craft it. \\n\\nIt does more Damage than a Netherite Axe and does bonus against &4Vampires&r! Why would you want any other Weapon?"]
+	quest.3BB691C7727D92C8.title: "&bHunter Axe"
 	quest.3BC0A50886A3222B.quest_desc: ["This isn't a Kitchen sink Modpack. \n\nNo no no, those usually involve Mods that aren't centered around &dMagic&r! And we don't want any involvement with those. \n\nWelcome to &d&lAllTheMods: Arcana!&r A &dMagic&r Modpack!"]
-	quest.3BC0A50886A3222B.title: "Welcome to &l&dAllTheMods: Arcana&r!"
+	quest.3BC0A50886A3222B.title: "Welcome to &l&dAllTheMods: Arcana!"
 	quest.3BC94B0B922C0708.quest_desc: ["These are crafting ingredients for stuff that does importing, whether it be items, fluids, or energy."]
 	quest.3BD304D851F49EC0.quest_subtitle: "Elderberry + Silver Fir"
 	quest.3BD5C517AD024A45.quest_desc: ["The last Superconductor we made was a while back. But now each tier's Superconductor will become more important, as well as allow us to have no Amperage loss cabling!"]
@@ -5720,6 +5849,8 @@
 	quest.3D4032E7119AF8B7.quest_desc: ["Sonar Bombs are made with Shivering Gel which is dropped from Crystallized Moths. \n\nThey can be thrown to damage any Mob (and Player) in a huge area! It will also shake the players screen and play a loud sound effect. \n\nIt is disorienting so only use it on your friends!"]
 	quest.3D40D91D7D948714.quest_desc: ["There is going to be a high demand for these plates. Figuring out how to supply yourself with a bunch of these plates may be a challenge, but well worth it."]
 	quest.3D40D91D7D948714.quest_subtitle: "The dishes Plating matters"
+	quest.3D4129063A319AE0.quest_desc: ["Just a normal &bCrossbow&r, on top of a normal &bCrossbow&r. \\n\\nIt shoots 2 Arrows instead of 1. \\n\\nYou'll need the &2Skill&f: &2Double It&r to use and Craft it!"]
+	quest.3D4129063A319AE0.title: "&bDouble Crossbow"
 	quest.3D41D0092D94636B.quest_desc: [
 		"What if I told you that the Demon's Fruit is flammable?"
 		""
@@ -5736,6 +5867,8 @@
 		"But in this case we need it to be able to make the Emitter and Sensor."
 	]
 	quest.3D59BC5C2F5A073C.quest_subtitle: "More Horsepower!"
+	quest.3D5C1AEF59E2D788.quest_desc: ["The &bBasic Crossbow&r is the perfect ranged Weapon for all &bHunters&r. \\n\\nIt's Crafted with 2 Iron Ingots, 4 Planks, and 2 String in a &b&lHunter Weapon Table&r. And will need Lava to Craft it. \\n\\nIt does less Damage than normal Bows and Crossbows, but this one can use special Arrows from &4&lVampirism&r!"]
+	quest.3D5C1AEF59E2D788.title: "&bBasic Crossbow"
 	quest.3D5F87F8E6B89C1B.quest_desc: ["The &7Furnator&r will burn items like coal and wood to produce FE."]
 	quest.3D72E3E53E7306FA.quest_desc: ["&e&lIron's Spells&r &cFire Armor&r!"]
 	quest.3D72E3E53E7306FA.quest_subtitle: "20"
@@ -5747,6 +5880,9 @@
 	quest.3D78D9F4E8A60EDB.quest_desc: ["Currently a pretty simple recipe, only needing 4 &dSource Jars&r, 4 &dSource Gem Blocks&r, and a &6&lStar&r. Don't worry this will be changed to be even harder! \n\nThis jar is always full of &dSource&r and can be linked to anything needing &dSource&r. Including the &6&lATM Star&r multiblocks."]
 	quest.3D78D9F4E8A60EDB.quest_subtitle: "Get this first!"
 	quest.3D78D9F4E8A60EDB.title: "&5&lCreative &dSource &fJar"
+	quest.3D7A0D595984E184.quest_desc: ["To get to &2Level 3&r we'll need to kill a few more &4Vampires&r... \\n\\nHow many &4Vampires&r you ask? \\n\\nHowever many it takes to get 5 &cVampire Blood&r!"]
+	quest.3D7A0D595984E184.quest_subtitle: "Lvl 3"
+	quest.3D7A0D595984E184.title: "Train to &2Level 3"
 	quest.3D819550074CA376.quest_desc: ["The item will need to be placed here before getting picked back up."]
 	quest.3D819550074CA376.quest_subtitle: "Always Required"
 	quest.3D82C6639A6371CB.quest_desc: ["4 &7Quantum Cores&r and a &cMundabitur Dust&r and you can get the &7Quantum Injector&r. \n\n&7Quantum Injectors&r aren't used much at this stage but will be needed later!"]
@@ -5902,6 +6038,7 @@
 		"Now we can run our Multiblocks at UV Tier power?!?! Our EBF's are going to be super happy!"
 	]
 	quest.3EDDF34A71CD78B9.quest_subtitle: "Again?!"
+	quest.3EE0926E28CC6D8F.quest_desc: ["For the Enhanced Weapons we'll need the purest of Pure Blood! Only Level 5 will do. \\n\\nThese drop from Level 5 Vampire Barons. \\n\\nOf course being the hardest Vampires to kill!"]
 	quest.3EE9958D84A1252C.quest_desc: [
 		"But this one does! "
 		""
@@ -5925,6 +6062,8 @@
 		""
 		"To deselect a block, L-Click it with the Arm in your hand."
 	]
+	quest.3F370872F9ADF146.quest_desc: ["To revert to a normal Human instead of a &bVampire Hunter&r, get a &cSanguinare Injection&r. \\n\\nThese are made with 8 &4Vampire Fangs&r and 1 Syringe. \\n\\nUse it on the &6&lInjection Chair&r to revert back, losing your &eGarlic Vaccine&r."]
+	quest.3F370872F9ADF146.title: "Back to a Civilian"
 	quest.3F39BEB788175CEF.quest_subtitle: "3x3 Digging!"
 	quest.3F3F70FEEE8AFEEA.quest_desc: ["Just preparing a backstock of HASOC's, so that once we unlock the proper machines, we can start crafting a bunch of processors!"]
 	quest.3F3F70FEEE8AFEEA.quest_subtitle: "Prepping for whats to come"
@@ -5949,6 +6088,8 @@
 	quest.3F8A5CBEAE024748.quest_subtitle: "I've got my Eyes on you"
 	quest.3F8A5CBEAE024748.title: "Structure Finders"
 	quest.3F8AEBB994716318.quest_desc: ["&8Wither&r is an Effect in &l&2Vanilla&r so of course we need our own way of using and abusing it! \n\nYou can Brew an Awkward Potion with a &8Wither Skeleton Skull&r to create it. Then you can craft Arrows with it!"]
+	quest.3F8BDFB903B29F0E.quest_desc: ["Now that we are &2Level 3&r we can use our &2Skill Points&r to learn how to use the &b&lHunter Weapon Table&r. \\n\\nThis acts like a bigger Crafting Table just only for &4&lVampirism&r Weapons and Armor. \\n\\nSome Items will need Lava in the &b&lWeapon Table&r to Craft, we can add Lava by Right Clicking the &b&lWeapon Table&r with a Bucket of Lava. \\n\\nCheck JEI to see the Items that can be Crafted now!"]
+	quest.3F8BDFB903B29F0E.title: "&b&lHunter Research Table"
 	quest.3F8D515D7B81B0E3.quest_desc: [
 		"Another Smithing Template?!?!?!\n\nWell atleast you don't need Archeology for it!\n\nYou'll have to earn these by beating the Trial Spawners which are found in the Dungeon structure in &b&lThe Other&r. More specifically the Library Rooms!\n"
 		"{image:atm:textures/questpics/allthemodium/all_library.png width:200 height:100 align:center}"
@@ -6152,6 +6293,9 @@
 	quest.41030E1E341C3A4E.title: "Living Armor"
 	quest.4104ABDC0E577350.title: "&2Nature&r Upgrade Orb"
 	quest.411759CC8C320C19.title: "Galena Vein"
+	quest.411A78BDC014AE5D.quest_desc: ["The first Ritual to go from &2Level 1 &fto &2Level 2&r, we'll need 4,000mB &cBlood&r in the &c&lAltar&r. \\n\\nAka 4 Buckets worth, or just over 5 Blood Bottles. \\n\\nOnce we put enough &cBlood&r we can start the Ritual to go to &2Level 2&r! \\n\\nEach time we &2Level up&r, we'll notice some parts getting stronger and some getting weaker. We will have more Health and Speed, but also will get weaker to the &eSun&r. \\n\\nAt &2Level 2 &eSunlight&r will give you Weakness."]
+	quest.411A78BDC014AE5D.quest_subtitle: "Lvl 2"
+	quest.411A78BDC014AE5D.title: "Powering up to &2Level 2"
 	quest.4141EF8B8C316118.quest_desc: ["&7Cloggrum&r is the Iron of the &2&lUndergarden&r. \n\nIt is found everywhere and is used in a dozen different recipes. \n\nHeck even some Mobs drop it!"]
 	quest.4141EF8B8C316118.title: "&7Cloggrum&r"
 	quest.4143C1CF83DE922E.quest_desc: [
@@ -6230,10 +6374,14 @@
 		"Its highly suggested you complete this tier, and get the resources and components listed, as it will make your journey in the next tier, that much smoother."
 	]
 	quest.41F04EF882EF31E1.quest_subtitle: "Finally!"
+	quest.41F92EA75B7D2AA4.quest_desc: ["The &5&lAlchemy Table&r is used for Oils! \\n\\nOils are what we can use to apply Effects to Weapons. We'll need to start with Activated and Plant Oils first. \\n\\nThere is a few Slots we'll need to understand what they do, in order to use the &5&lTable&r. The bottom left is for the fuel which is Blaze Powder. \\n\\nThe right slot is for the intial product, usually it is the Potion you want added to an Oil. The top two slots are for the Oils or Bottles needed for the Recipe. "]
+	quest.41F92EA75B7D2AA4.title: "&5&lAlchemy Table"
 	quest.41FCD7F5B7E6E261.quest_desc: ["Finally, it is time to electrolyze the clay dust and get that sweet, sweet aluminium dust"]
 	quest.41FCD7F5B7E6E261.quest_subtitle: "A good source of silicon too"
 	quest.420158B1736A1354.quest_desc: ["...is not implemented.\n\nInstead, head to the giant castle in the Final Plateau and grab some door blocks!\n\nThere is a Kobold that spawns in as a \"placeholder\" but you will get nothing from killing it."]
 	quest.420158B1736A1354.title: "&cThe Final Boss"
+	quest.42033F464E380AF2.quest_desc: ["Bat Swarms are another &aAbility&r, this one is more for offense though! \\n\\nYou can unlock it with the &2Skill&r: &2Summon Bats&r. \\n\\nWhen you use it, a couple of Bats will be spawned, and whatever they hit will get Blindness! \\n\\nI've learned some &4Advanced Vampires&r can also use it. It scared the crap out of me!"]
+	quest.42033F464E380AF2.title: "Bat Swarm"
 	quest.4204702AA6FBF40B.quest_desc: ["Standing on this item will charge up any powered item from any mod.\n\nThis is also needed for the Robit."]
 	quest.420FE84DEE12CCE0.quest_desc: ["The &eGold Furnace&r is better than the Iron ones with a Cooktime of 120 Ticks.\n\nIt can be crafted with &7Silver&r or Iron Furnace and is crafted into a &bDiamond one&r!"]
 	quest.420FE84DEE12CCE0.title: "&eGolden Furnace"
@@ -6320,6 +6468,8 @@
 	]
 	quest.42D173B9FF8D16E4.quest_subtitle: "Starter Power"
 	quest.42D173B9FF8D16E4.title: "Early Game Power Options"
+	quest.42D308CBF385FED6.quest_desc: ["&l&4Vampirism&r throws us straight into a war between 2 Factions: &4Vampires&r and &bVampire Hunters&r! \\n\\nYou will need to pick a side, to either fight with &4Vampires&r or against them. \\n\\nEach side comes with their unique &2Skills&r, &aAbilities&r, Weapons and Armor, and even &2Leveling&r! \\n\\nTo acess &2Skills&r either press P or click the &4Vampire Fang&r Button in your Inventory. \\n\\nHere you can find the &2Skill Tree&r where you can use your Points to unlock &2Skills&r. Or you can look at the &aAbility Wheel&r, where you can set Keybinds for your &aAbilities&r you unlocked with &2Skills&r."]
+	quest.42D308CBF385FED6.title: "&l&4Vampirism"
 	quest.42D7C8CD8E6F5CD7.quest_desc: ["By using a Chorus Fruit on a Spawner you suck the souls out the mobs that will be spawned, only leaving a hollow husk of what they used to be. The mobs will lose all AI so they will do basically what an armor stand does. They can't hit you, can't teleport, can't move on their own. They sit there ready to be killed, how exciting!"]
 	quest.42D7C8CD8E6F5CD7.title: "No AI"
 	quest.42E5B5C27799DD93.quest_desc: [
@@ -6448,6 +6598,8 @@
 	quest.44688FC2E34FF09F.quest_desc: ["Minecraft already adds hundreds of Blocks, and Mods add hundreds more! But sometimes it is still not enough. \n\nWith some Mods we can change the Blocks we already have into ones with different shapes, designs, and even into entirely new Blocks!"]
 	quest.44688FC2E34FF09F.title: "Changing Blocks"
 	quest.446A37C7FCDACF84.quest_desc: ["Voidflame Coal is a new material added by JDT. Voidflame is aquired by performing Goo Spread on Blaze Ember Blocks using tier three goo or higher. Voidflame Coal Ore is affected by fortune."]
+	quest.4476F42BD5B4F03D.quest_desc: ["To become a Human again we'll need an &6&lAltar of Cleansing&r. \\n\\nBy Holding Right Click we can Bless ourselves, this will revert you back to a Human. \\n\\nThe &6&lAltar&r will kill you though unless you have a Totem or are on Hardcore mode!"]
+	quest.4476F42BD5B4F03D.title: "Back to Human"
 	quest.447CAC472A99835B.quest_subtitle: "Spawns from a Snow Nest"
 	quest.4485C4ABD57874EB.quest_desc: ["&b&lApplied Energistics&r isn't a Storage Mod, it is &lTHE&r Storage Mod. \n\nI personally don't know much about the Mod but the Quest page should help you learn it!"]
 	quest.4485C4ABD57874EB.title: "&b&lApplied Energistics"
@@ -6475,6 +6627,8 @@
 	quest.44D5EDB8711EC7A0.quest_desc: ["&2&lVanilla&r couldn't all the fun with Maces! So of course there is an &6Allthemodium&r upgrade to them! \n\nUpgrade a Mace with an &6Allthemodium Block&r to get the &6Allthemodium Mace&r. \n\nIt does more base damage, more falling damage, and same Enchantments!"]
 	quest.44D5EDB8711EC7A0.title: "&6Allthemodium Mace"
 	quest.44DA091B53473723.quest_desc: ["The Mechanical Squeezer uses energy to squeeze."]
+	quest.44DBB852298171D3.quest_desc: ["&bHunter Outposts&r are much bigger and much more dangerous to us &4Vampires&r. \\n\\nThey spawn dozens of &bVampire Hunters&r and &bAdvanced Hunters&r. Even &9Vampire Hunter Trainers&r! But that's not important to us. \\n\\nThey have dozens of &6Crucifixes&r and even a &eGarlic Diffuser&r which make it very difficult to fight near the &bOutposts&r. \\n\\nBut if you can, you can find and kill more &bHunters&r than you can imagine!"]
+	quest.44DBB852298171D3.title: "Destroy the &bHunter Outpost"
 	quest.44EE336BC265D21C.quest_desc: [
 		"These monster Coils are the end of the line for coils."
 		""
@@ -6509,6 +6663,8 @@
 	]
 	quest.452F51995AD0461C.quest_subtitle: "The Alloy Maker"
 	quest.4530C14828C3D153.quest_subtitle: "Tier: &b4"
+	quest.453693F569B56F32.quest_desc: ["The &c&lAltar of Inspiration&r is what we will use to &2Level up&r until &2Level 4&r. \\n\\nYou can fill it with &cBlood&r by Right Clicking it with any &cBlood Container&r: &cBlood Bottle&r and &cBlood Bucket&r. \\n\\nOnce it is filled above a certain amount, you can Right Click it with an Empty Hand to start the Ritual at Night! \\n\\nThis will deplete the &cBlood&r and summon a Lightning Bolt which will be your sign that you &2Leveled up&r!"]
+	quest.453693F569B56F32.title: "&c&lAltar of Inspiration"
 	quest.454662617304E299.quest_desc: [
 		"&lAbility Type:&r Passive"
 		""
@@ -6589,13 +6745,17 @@
 	]
 	quest.45EC31812FB9934D.quest_desc: ["The &n&5Mechanical Piston&r is similar to the Piston, it can push blocks, but you can add as many Extension Poles as you wish."]
 	quest.45EC31812FB9934D.title: "Mechanical Pistons"
+	quest.45ECA96E25DDB1A8.quest_desc: ["To enter either Faction I recommend looking for a &6Village&r. \\n\\nHere you can find the &9Hunter Trainer's Home&r, it will have &eGarlic&r, &4Vampire Fangs&r, an &6&lInjection Chair&r, and a &b&lHunter Research Table&r. \\n\\nFor &4Vampires&r you won't need these... as you can become a &4Vampire&r with a few different ways. Each involving the Effect of &cSanguinare&r. "]
+	quest.45ECA96E25DDB1A8.title: "Where to start?"
 	quest.45F83C2750F70F9B.quest_desc: ["Go ahead, put a Book in a Furnace and smelt it."]
 	quest.45F83C2750F70F9B.quest_subtitle: "Totally won't catch on fire..."
-	quest.45F83C2750F70F9B.title: "Making a Kitchen, with a Book"
+	quest.45F83C2750F70F9B.title: "Making a Kitchen, with a book."
 	quest.45FBEABEBA7CC09E.quest_desc: ["&5The Sunken City&r is the Dungeon that houses the &5Deeplings&r, &5Coralssus&r, and &5The Leviathan&r. It spawns... well in Oceans. It's big and made of Stone Bricks. Once you get through it's defenses you'll find the Altar of Abyss which brings us to..."]
 	quest.45FBEABEBA7CC09E.title: "&5Sunken City&r: Home of &5The Leviathan&r"
 	quest.45FF08E4DB6F7F0E.quest_desc: ["An upgraded crafter that holds more patterns and has an increased crafting speed."]
 	quest.45FF08E4DB6F7F0E.title: "Iron Crafter"
+	quest.45FF90632FE0D35C.quest_desc: ["&4&lVampire Barons&r are Bosses you can find within &8Vampire Forests&r. \\n\\nWhen they see you, they will deploy Wings and their Eyes will become &4Red&r! They are ready to fight, are you? \\n\\nTheir Health is determined by their &2Level&r, usually it's between 100 to 300 Hearts. \\n\\nThey do a ton of Damage by hitting you and when hitting you it will inflict Weakness III and Slowness III. \\n\\nSometimes the &4&lVampire&r might instead choose to fire &4Dark Blood squirts&r at you! These will Damage you if they hit you, don't worry too much about them they are easy to dodge. \\n\\nThey may at times turn Invisible... I don't know if that's a bug or not. \\n\\nThe &4&lVampire Barons&r will teleport away if in &eSunlight&r. They also attack other &4&lBarons&r near them!"]
+	quest.45FF90632FE0D35C.title: "Kill a &4&lVampire Baron&r"
 	quest.460A8F17F3ED6CAF.quest_desc: ["There comes a point in any playthrough of a large modpack where even the highest standard tier of storage cell doesn't cut it for the amount of items and resources that you may be accumulating.\n\nThis is where the &dMEGA Cells&f add-on comes in, extending the available tiers of storage into the megabyte territory. The first of these new tiers is given by the &b1M MEGA Storage Component&f, providing 1024 &okilo&rbytes, or &e1048576&f bytes, of storage."]
 	quest.460A8F17F3ED6CAF.quest_subtitle: "The first MEGAbyte."
 	quest.460A8F17F3ED6CAF.title: "1M Storage Component"
@@ -6605,6 +6765,8 @@
 	]
 	quest.461C8F1E88AA58D9.quest_subtitle: "32,000mb"
 	quest.462C1F75A2FB9F02.quest_subtitle: "Where's Willy?"
+	quest.462D3E7120E3640B.quest_desc: ["The &bHunter Outfit&r has similar Stats to Iron Armor just with added Armor Toughness. \\n\\nAll are Crafted with Iron, Leather, and &eGarlic&r. And of course, each of them will need Lava to make them. \\n\\nI don't know if it especially protects against &4Vampires&r, it doesn't say anything."]
+	quest.462D3E7120E3640B.title: "&bHunter Outfit"
 	quest.4632DA3CE9D95064.quest_desc: ["Platinum Group Sludge will process down into a bunch of great resources that will help you moving forward."]
 	quest.4632DA3CE9D95064.quest_subtitle: "Money! *Mister Krabs*"
 	quest.464110726B823072.quest_desc: [
@@ -6723,6 +6885,9 @@
 		"Finally Right Click the Multiblock with &cMundabitur Dust&r to finish it!"
 	]
 	quest.4707FB01F15F6E1F.title: "&b&lClibano"
+	quest.470D6421135FAB73.quest_desc: ["Welcome to fighting the good fight. You are now a &bVampire Hunter&r! \\n\\nTaking the &eInjection&r, you are now immune to the &4Sanguinare Virus&r, which means you can not be turned into a &4Vampire&r. \\n\\nWhen you just start you will be at &2Level 1&r. To upgrade your &2Level&r you can start by talking with other &bVampire Hunters&r! \\n\\nNow that you're part of the &bHunter Faction&r you can use its Weapons, Armor, and Tables."]
+	quest.470D6421135FAB73.quest_subtitle: "Lvl 1"
+	quest.470D6421135FAB73.title: "Become a &bHunter&r"
 	quest.47106CE1937C4340.quest_desc: ["To get an HDPE Sheet, place 3 HDPE Pellets in an Enrichment Chamber."]
 	quest.4718C2728C0CA40F.quest_desc: ["When in your Offhand you will learn so much knowledge! \n\nThe bottom left will tell you the structure you're in, if you are in one. \n\nAll entities will also be highlighted when it's in use. That includes block entities like Chests or Armor Stands. \n\nAfter all of its uses it'll have a 15 Minute cooldown. It has a lot of uses though so you'll be fine!"]
 	quest.4718C2728C0CA40F.title: "&5Essence of Knowledge"
@@ -6816,7 +6981,14 @@
 	quest.47CEFA06392C4211.title: "Expansion Box"
 	quest.47D201ED115F6D6D.quest_desc: ["16x Enriched Naquadah Trinium Europium Duranide wire - Qty 8"]
 	quest.47D201ED115F6D6D.quest_subtitle: "UV Superconductor"
+	quest.47D5383D9C17C7EB.quest_desc: ["&2Level 7&r also needs 17 Structure Points, but will need more Items of course. \\n\\n1 &4Pure Blood Level 1&r and 10 &cHuman Hearts&r to be exact! \\n\\nAt &2Level 7&r we'll get 18 Hearts and 15 Armor Points."]
+	quest.47D5383D9C17C7EB.quest_subtitle: "Lvl 7"
+	quest.47D5383D9C17C7EB.title: "Upgrading to &2Level 7&r"
+	quest.47EDBDE685688EBB.quest_desc: ["To get to &2Level 5&r, give the &9Vampire Hunter Trainer&r the &5Hunter Intel Level 5&r and 5 Iron Ingots."]
+	quest.47EDBDE685688EBB.quest_subtitle: "Lvl 5"
+	quest.47EDBDE685688EBB.title: "Getting &2Level 5"
 	quest.47EFF4429010E26C.title: "Ventium Tools"
+	quest.47F734CDD5793F26.title: "&5Unobtainium Crossbow"
 	quest.480FA9FE57743B66.quest_subtitle: "&f5 &cAttack Damage"
 	quest.481205F0C9B08200.quest_subtitle: "Teak + Clove"
 	quest.4821419D44F8083F.quest_desc: [
@@ -6996,6 +7168,9 @@
 	quest.4A198E875A6B0A64.quest_desc: ["An upgraded crafter that holds more patterns and has an increased crafting speed."]
 	quest.4A198E875A6B0A64.title: "&eGold Crafter&r"
 	quest.4A1C8125896F7F1A.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.4A3BAACECED45EBA.quest_desc: ["For &212&r we'll need 44 Structure Points... I hope you have enough &7Altar Pillars&r! \\n\\nDon't forget the &4Pure Blood Level 4&r and 20 &cHuman Hearts&r. \\n\\n12 has same Hearts but another Armor Point to get us to 18!"]
+	quest.4A3BAACECED45EBA.quest_subtitle: "Lvl 12"
+	quest.4A3BAACECED45EBA.title: "Upgrading to &2Level 12&r"
 	quest.4A3DF999B969C875.quest_desc: ["With everything we've made so far, you'll be able to craft the final item we need: the &dRailgun&r!"]
 	quest.4A3DF999B969C875.title: "Railgun"
 	quest.4A44623D8A307473.quest_desc: [
@@ -7128,6 +7303,8 @@
 	quest.4B65100885AE762D.quest_desc: ["&e&lIron's Spells&r &6Holy Armor&r!"]
 	quest.4B65100885AE762D.quest_subtitle: "20"
 	quest.4B65100885AE762D.title: "&6Priest Outfit"
+	quest.4B755120AFA8E85D.quest_desc: ["&eThe Sun&r can be pretty deadly to us &4Vampires&r especially at higher &2Levels&r. But what if we need to get something quickly in the &eSunlight&r? \\n\\nThis is what the &aAbility&r Sunscreen is for! We'll need the &2Skill&r: &2Sunscreen&r for it though. \\n\\nWhen used, the Effect of Sunscreen will protect you from the &eSunlight&r for a couple of seconds."]
+	quest.4B755120AFA8E85D.title: "Sunscreen"
 	quest.4B76FE0348DB0E45.quest_desc: ["The Quantum Bridge Card is an alternate method to get wireless interdimensional access to your Applied Energistics system. You will need a Quantum Bridge connected at your base and a Quantum Bridge Card in your terminal. These tunnels are then bound together with a Quantum Entangled Singularity to gain access wherever you go."]
 	quest.4B7E8D7D89977348.quest_desc: [
 		"Each column corresponds to the voltage tier"
@@ -7144,6 +7321,8 @@
 		"Make sure you have a good system in place that can harvest a lot of Naquadah."
 	]
 	quest.4B82B3DAB03C1729.quest_subtitle: "Liquid Enriched Naquadah"
+	quest.4B8C41324BDF3B46.quest_desc: ["Regeneration is the earliest &aAbility&r we can unlock. \\n\\nIt needs the &2Skill&r by the same name, &2Regeneration&r. \\n\\nIt is an &aAbility&r that works pretty much like a Regeneration Potion but instead of costing the Potion, it costs &cBlood&r!"]
+	quest.4B8C41324BDF3B46.title: "Regeneration"
 	quest.4B90B3B38E08A218.quest_desc: ["The Steel Ingot. This little thing completely warped human history around it. You can make it in many different ways. Some legends even say there are special bees which can produce it..."]
 	quest.4B90B3B38E08A218.title: "The Most Important Ingot"
 	quest.4B95D48D7525FFAD.quest_desc: ["It's time to go to the &2Swamps&r! In the &2Swamps&r, you'll find an odd-looking hill with an entrance on top. This is the &cMinoshroom Labyrinth&r!\n\nInside, you'll fight several new enemies that can drop &eMaze Map Focus&r. This is needed to make a &eMaze Map&r.\n\nThis is a special map that will map your way around the &cMinoshroom Labyrinth&r. Minimaps have no power here.\n\nYou can also find several loot rooms with special loot for the Maze!"]
@@ -7312,6 +7491,8 @@
 		"Similar to the overworld->Nether, there is a block ratio of 1:50 for the End->Beyond"
 	]
 	quest.4D160570DC0C8898.title: "&aThe&r &dBeyond&r"
+	quest.4D2846023B0D9840.quest_desc: ["By Crafting &cHeartseeker&r with &4Enhanced Blood-Infused Iron Ingots&r instead of &cnormal ones&r, we can get &4Enhanced Heartseeker&r! \\n\\nThe &4Enhanced&r will have same Attack Speed but more Damage. This does make it require more &cBlood&r from the &c&lPedestal&r though... \\n\\nAtleast it can still be Enchanted!"]
+	quest.4D2846023B0D9840.title: "&4Enhanced Heartseeker"
 	quest.4D3379D38237F830.quest_desc: ["While wearing &bthese&r on your Feet you can preform a miracle! Walking on &9Water&r! \n\nWell actually running on &9Water&r, you have to be Sprinting to be able to run over &9Water&r. Once you stop Sprinting you will start Sinking."]
 	quest.4D3379D38237F830.quest_subtitle: "Feet"
 	quest.4D3379D38237F830.title: "&bAqua-Dashers&r"
@@ -7384,8 +7565,12 @@
 	quest.4DD66E31859EA593.quest_subtitle: "32"
 	quest.4DD66E31859EA593.title: "&3Vibranium Mage Outfit"
 	quest.4DD7F3508B757EF0.quest_desc: ["Insert a block of ruby into your cutter to get nine ruby plates"]
+	quest.4DDC68DC0E55B96B.quest_desc: ["The &e&lGarlic Diffuser&r will Effect every &4Vampire&r in the Chunk with Garlic III, this is a &4Vampire&r version of Weakness, they can't Damage you. \\n\\nThe &e&lGarlic Diffuser&r uses &ePurified Garlic&r as its Fuel, 1 &ePurified Garlic&r Fuels it to 100% but that won't last too long. \\n\\nIt has a start-up cooldown, which you'll need to wait until it is being used. \\n\\nYou can also find them at the top of &bHunter Outposts&r!"]
+	quest.4DDC68DC0E55B96B.title: "&e&lGarlic Diffuser"
 	quest.4DDFD3BAA86DC342.quest_desc: ["The UHPIC chip once the wafer is broken down into chips by a Cutting machine."]
 	quest.4DDFD3BAA86DC342.quest_subtitle: "Semi-Conductors are Fun!"
+	quest.4DE2828DD37549AE.quest_desc: ["The &8Vampire Forest&r is a terrifying, Foggy, and dark Forest you can find around your world! \\n\\nIt has giant Dark Spruce and Cursed Trees along with Vampire Orchids and Cursed Roots. \\n\\nWithin it will spawn dozens of &4Vampires&r, &4Vampire Animals&r, and even &4&lVampire Barons&r!"]
+	quest.4DE2828DD37549AE.title: "Visit the &8Vampire Forest"
 	quest.4DE719FC2E4C69AB.quest_desc: [
 		"Welcome to the Steam Age! Steam machines can process any recipe in JEI up to &e&lUsage: 32 EU/t (LV)&r&r"
 		""
@@ -7458,6 +7643,7 @@
 	quest.4E737C490DCC5D6C.title: "&5Unobtainium Armor"
 	quest.4E7990AEBCCC3C95.quest_subtitle: "Tier: &b4"
 	quest.4E802144C6E40D43.quest_subtitle: "Ceylon Ebony + Cherry"
+	quest.4E82E843737045D9.quest_desc: [""]
 	quest.4E82E843737045D9.quest_subtitle: "&oEssence of the most powerful beings."
 	quest.4E82E843737045D9.title: "&d&lDragon Soul"
 	quest.4E8A05C3BFA80540.quest_desc: ["Arguably the most important aspect of Applied Energistics 2 is its storage system, making use of digital &eStorage Cells&f. These cells are accessible through either an &eME Chest&r for single cells, or an &eME Drive&r for multiple cells.\n\nThe &bME Chest&f holds a single Cell at a time, which can then be read from and written to from any other terminal on the same network. The ME Chest itself also provides its own terminal screen on the top with specific access only to the cell it contains.\n\nThe &bME Drive&f can hold up to 10 assorted Storage Cells in the space of a single block and a single ME channel. However, it does not provide its own terminal screen, requiring some external terminal elsewhere on the network for storage access."]
@@ -7754,6 +7940,8 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_pollenfields.png width:200 height:100 align:center}"
 	]
 	quest.513060836057E5B7.title: "&e&lPollinated Fields"
+	quest.513F7A3556D36FB3.quest_desc: ["Structure Points are needed for powering the &4&lAltar&r to use it. Each &2Level&r will need a higher amount of Points. \\n\\nThe Points are determined by the Blocks within the &7Altar Pillars&r. \\n\\nStone Bricks- 1 Point \\nIron Blocks- 2 Points \\nGold Blocks- 3 Points \\n\\nAlso the &7Pillars&r must be perfectly set up to get the Points!"]
+	quest.513F7A3556D36FB3.title: "Structure Points"
 	quest.5143E0F48520D41B.quest_desc: [
 		"Chemical react sulfur dioxide with more oxygen to make sulfur trioxide"
 		""
@@ -7799,6 +7987,9 @@
 		"The &6Bookshelves&r need to be in a 2 Block tall square, around the &5Enchanting Table&r, 1 Block away. Nothing can be between the &5Enchanting Table&r and &6Bookshelves&r or it won't recognize them."
 	]
 	quest.516E3B4D797DA687.title: "&5&lApotheosis Enchanting"
+	quest.516E7CB4E19AA839.quest_desc: ["Looks like we have a pattern of twos! &2Level 9&r needs 26 Structure Points. \\n\\nIt will also need the same Items: a &4Pure Blood Level 2&r and 10 &cHuman Hearts&r. \\n\\nStill at 18 Hearts but now we're also at 16 Armor Points."]
+	quest.516E7CB4E19AA839.quest_subtitle: "Lvl 9"
+	quest.516E7CB4E19AA839.title: "Upgrading to &2Level 9"
 	quest.516ECA0396621C32.quest_desc: [
 		"How do we know its &aGreen&r? The Grass is &aGreen&r but it's also in every other Sanctum. The &aAzaela Bushes&r and &aGreen Luminescent Ancient Wax&r show it's the &aGreen one&r. \n\nFollow the Windy Air and wet sewers into the main room to find &aGreen Essence&r. \n\nGo into it and a Boss fight between a Rootmin will start. Get on the other platform and hit the Dirt Pellets back at him to lower his Boss Bar at the top."
 		"{image:atm:textures/questpics/bumblezone/bumble_green1.png width:200 height:100 align:center}"
@@ -7822,6 +8013,9 @@
 	quest.51B24CC5E9332C1E.title: "Revenge of the &dSpirits"
 	quest.51BC981AB4CFAD95.quest_desc: ["The Mazebreaker is a special pickaxe that is rarely found in Labyrinths.\n\nThis pickaxe will take 1 damage when breaking Maze Walls, instead of the 16 damage for all other pickaxes!"]
 	quest.51BC981AB4CFAD95.quest_subtitle: "Trapped Chamber, do not enter?"
+	quest.51BCFAFB7E9D96EC.quest_desc: ["Still pretty cheap, &5Hunter Intel Level 6&r and 10 Iron Ingots to the &9Vampire Hunter Trainer&r."]
+	quest.51BCFAFB7E9D96EC.quest_subtitle: "Lvl 6"
+	quest.51BCFAFB7E9D96EC.title: "Getting &2Level 6"
 	quest.51C59FDF0BD11FDF.quest_desc: ["I'm pretty sure the only definition of what a Wigglewood Tree is that it has Wigglewood Logs and Leaves. They seem to grow in any direction, size, and shape. \n\nYou can find them in Wigglewood Forests and Dense Forests. \n\nThey have pretty pink Leaves and brown Logs similar to Spruce!"]
 	quest.51CEE80605BFF40C.quest_desc: [
 		"&4Increasing Innate Cap requires throwing Ender Upgrade Orbs (26 max) in Mahou lake along with Caliburn&r "
@@ -8139,6 +8333,7 @@
 		""
 		"In this case though, it can also be used to cool hot silicon ingots"
 	]
+	quest.54B1A876E9F6707A.quest_desc: [""]
 	quest.54B1A876E9F6707A.quest_subtitle: "&oPower and destruction like no other!"
 	quest.54B1A876E9F6707A.title: "&5&lOblivion Shard"
 	quest.54BAF833344F0AAE.quest_desc: ["This ones a 2 parter! First, you'll need a &8Dark Tank&r. Simple recipe only needing &8Dark Gems&r, Iron, and Glass. \n\nNext, you'll need &7Eclipse Ember Fuel&r. That's not so simple... \n\nTo get it you can start, drop an &7Eclipse Ember&r into &3Liquid Voidflame Fuel&r to make it &7Unrefined Eclipse Ember&r. Then, you'll need &9Shadowpulse Goo&r to spread to it to make &7Eclipse Ember Fuel&r. \n\nBy the way you'll need 16 Buckets worth!"]
@@ -8212,6 +8407,8 @@
 		""
 		"An Insanium Coal Block is needed to craft the &6ATM Star&r."
 	]
+	quest.55269406ADE19798.quest_desc: ["Using these Machines we can transform &cHearts&r into &cBlood&r! Very gruesome. \\n\\nFirst part is the &c&lBlood Sieve&r, this will collect the &cBlood&r made from the &c&lBlood Grinder&r. It can hold 2,000mB of &cBlood&r or 2 &cBuckets of Blood&r. \\n\\nSecond part is the &c&lBlood Grinder&r, it goes on top of the &c&lBlood Sieve&r. You can then Right Click the &c&lGrinder&r to add in &cHuman Hearts&r. \\n\\n&cHuman Hearts&r give 150mB &cBlood&r and &cWeak Human Hearts&r give 75mB &cBlood&r."]
+	quest.55269406ADE19798.title: "&cBlood&r from &cHearts&r"
 	quest.552CA2ABE659A507.quest_desc: ["&cLava&r goes in. Energy comes out."]
 	quest.552CA2ABE659A507.title: "&cMagmatic Generator"
 	quest.552F0B9B00F4F914.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
@@ -8284,6 +8481,8 @@
 	quest.56180F60F8E3D879.quest_subtitle: "Reactor Resources"
 	quest.561B5FB009744D2B.quest_desc: ["To get &aInsanite Blocks&r you'll need 8 &aInsanite Ingots&r and 1 &cBlock of Inanite&r. Yes, I know it's confusing with only a single letter difference. \n\nTo get &aInsanite Ingots&r you'll need to reprocess &bBenitoite&r with &4Rossinite&r in a Reprocessor. \n\n&bBenitoite&r needs to be Mined in &c&lThe Nether&r. \n\n&cInanite Blocks&r are made by combining 8 &cInanite Ingots&r with a &cBlock of Netherite&r! &cInanite&r not &aInsanite&r. \n\nTo get Inanite Ingots you will need to reprocess &dRidiculite&r with &4Rossinite&r in a Reprocessor. \n\n&dRidiculite&r is another chain of recipes that quite frankly I'm tired of looking at!"]
 	quest.561B5FB009744D2B.title: "&aInsanite Blocks"
+	quest.5620B596B3D692E0.quest_desc: ["The &c&lAlchemical Cauldron&r is used for mixing two different Items. \\n\\nIt will need a Fuel Source within the Bottom Slot. It uses Furnace Fuel, so Coal and Charcoal work perfectly! \\n\\nJEI won't tell you the Recipes by Right Clicking the &c&lAlchemical Cauldron&r, instead you can use the JEI function while in the GUI of the &c&lCauldron&r itself."]
+	quest.5620B596B3D692E0.title: "&c&lAlchemical Cauldron"
 	quest.562BD37539EE318E.title: "Tier: &cBlazing"
 	quest.565376084F05ED6E.quest_desc: ["The Dimension known for housing the piglins and blazes and wither skeletons, now houses 2 more bosses to fight!"]
 	quest.565376084F05ED6E.title: "&4Nether&r: Land of 2 bosses"
@@ -8365,6 +8564,9 @@
 	quest.575E405B270BBCBC.title: "The Silence of the Forest"
 	quest.57630D2B5150F714.quest_desc: ["The UV Piston is a necessary Component of UV machines, and the UV Robotic Arm. "]
 	quest.57630D2B5150F714.quest_subtitle: "The Best Piston"
+	quest.5765441A4BFC8F2A.quest_desc: ["The first &2Level&r we'll get from the &4&lAltar of Infusion&r is &2Level 5&r. \\n\\nTo start we'll need 8 Structure Points. Then, throw 5 &cHuman Hearts&r and a &5Vampire Book&r into the &4&lAltar&r! \\n\\nOnce we do that, we can start the Ritual to &2Level up&r. \\n\\nAt &2Level 5 &4Vampires&r will have 17 Hearts and 13 Base Armor Points."]
+	quest.5765441A4BFC8F2A.quest_subtitle: "Lvl 5"
+	quest.5765441A4BFC8F2A.title: "Upgrading to &2Level 5&r"
 	quest.5766C8B9E850C186.quest_desc: [
 		"To create one of the main crafting items in Ars, the &9Source Gem&r, we'll need to make an &6Imbuement Chamber&r. \n\nThe Imbuement Chamber requires Source to imbue items. It produces a small amount of Source by itself, but can also use Source Jars as a power source. \n\nSeveral recipes also require Arcane Pedestals to be placed around it as well.\n"
 		"{image:atm:textures/questpics/ars/imbuement.png width:200 height:150 align:1}"
@@ -8400,6 +8602,8 @@
 		"But With greater processing, comes more complications. Power, resources, and processing lines. That doesnt deter us though, right? Thats exactly why we are here!"
 	]
 	quest.57B5100C11F76EE9.quest_subtitle: "What comes after Quantum?"
+	quest.57B96326652F5DF4.quest_desc: ["To become a &4Vampire&r we'll need the &cSanguinare Vampiris&r. This is the Virus that makes people into &4Vampires&r. \\n\\nTo get it we need to either: get Bit by a &4Vampire&r, use &4Vampire Fangs&r, or Inject a &cSanguinare Injection&r at an &6&lInjection Chair&r. \\n\\nYou can find &4Vampire Fangs&r at the Village House."]
+	quest.57B96326652F5DF4.title: "\"Bite me!\""
 	quest.57C4A0BAE739E903.quest_desc: ["The Dissolution Chamber is used to craft more advanced machines.\n\nYou will need to put a certain fluid in it along with the items needed for what you are crafting. Check JEI."]
 	quest.57C4A0BAE739E903.quest_subtitle: "The Crafting Table?"
 	quest.57CF8C6C867B9BDA.quest_subtitle: "More Filtering Options"
@@ -8420,13 +8624,7 @@
 		"I gotta go tell Master Splinter about this one..."
 	]
 	quest.57F6323716A0ED24.quest_subtitle: "TMNT"
-	quest.580148D1141446A6.quest_desc: [
-		"&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r! "
-		""
-		"Within your World (I made you go to Dark Forests because old &l&6Forbidden \\& Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around. "
-		""
-		"You can kill them for the Souls that they drop! It is much less efficient though..."
-	]
+	quest.580148D1141446A6.quest_desc: ["&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r! \n\nWithin your World (I made you go to Dark Forests because old &l&6Forbidden & Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around. \n\nYou can kill them for the Souls that they drop! It is much less efficient though..."]
 	quest.580148D1141446A6.title: "Lost Souls"
 	quest.58095E9EBC6FF9B2.title: "Creative Power"
 	quest.5820EDEF71340A1A.quest_desc: [
@@ -8553,6 +8751,7 @@
 	quest.58EC47584C773B82.quest_desc: ["Using our Enchanting Apparatus structure, we'll want to craft our first seed, the &5Magebloom Seed&r. \n\nThis will be used to create us some magical clothing!"]
 	quest.58EC47584C773B82.quest_subtitle: "Growing Magic"
 	quest.58EC47584C773B82.title: "Magebloom Seed"
+	quest.58EFF528A19EB4B8.quest_desc: ["Vampire Barons are Bosses you can find within Vampire Forests. \\n\\nWhen they see you, they will deploy Wings and their Eyes will become Red! They are ready to fight, are you? \\n\\nTheir Health is determined by their Level, usually it's between 100 to 300 Hearts. \\n\\nThey do a ton of Damage by hitting you and when hitting you it will inflict Weakness III and Slowness III. \\n\\nSometimes the Vampire might instead choose to fire Dark Blood squirts at you! These will Damage you if they hit you, don't worry too much about them they are easy to dodge. \\n\\nThey may at times turn Invisible... I don't know if that's a bug or not. \\n\\nThe Vampire Barons will teleport away if in Sunlight. They also attack other Barons near them!"]
 	quest.58F378384CEFCEF2.title: "Insane Voltage Age"
 	quest.59036A2741E7A8AA.quest_desc: ["Want to create a Spawn Egg from the spirit you have trapped in that box?\n\nThe &9Spirit Reanimator&r does exactly that. Give it a lot of &cBlood&r and an Egg, and of course a &9Box of Eternal Closure&r with the Spirit you want to create the Spawn Egg from, and it will attempt to create the Spawn Egg!\n\nNote: Some mobs cannot be used to create Spawn Eggs."]
 	quest.59036A2741E7A8AA.title: "&aCreating &9Spawn Eggs"
@@ -8654,17 +8853,7 @@
 	quest.5A6670364ADE0858.quest_subtitle: "&f29 &cAttack Damage"
 	quest.5A6831E0BD2F6AB5.quest_desc: ["You'll need a lotta &8Dark Gems&r!"]
 	quest.5A6831E0BD2F6AB5.title: "2 &4Piercing Vengeance Focuses"
-	quest.5A6FF0D4BA894306.quest_desc: [
-		"The poster child of &6&lForbidden \\& Arcanus&r, the &aEternal Stella&r. "
-		""
-		"For 1 &6Allthemodium&r Ingot, 3 &aXpetrified Orbs&r, and a &2Stellarite Piece&r we can make one of the most overpowered Items in this Modpack! "
-		""
-		"You can use the &aEternal Stella&r with an Item and an Apply Item Modifier to make Items lose their Durability. No, wait I mean lose their need for Durability! Basically Indestructible Items. "
-		""
-		"This can be used on almost every Item with Durability from &bDiamond Axes&r, to Fishing Rods, to even &eRefined Glowstone Armor&r! "
-		""
-		"There are some limitations, it only works with Items with Durability not uses: like Infusion Crystals or Energy: like Meka-Tool!"
-	]
+	quest.5A6FF0D4BA894306.quest_desc: ["The poster child of &6&lForbidden & Arcanus&r, the &aEternal Stella&r. \n\nFor 1 &6AllTheModium&r Ingot, 3 &aXpetrified Orbs&r, and a &2Stellarite Piece&r we can make one of the most overpowered Items in this Modpack! \n\nYou can use the &aEternal Stella&r with an Item and an Apply Item Modifier to make Items lose their Durability. No, wait I mean lose their need for Durability! Basically Indestructible Items. \n\nThis can be used on almost every Item with Durability from &bDiamond Axes&r, to Fishing Rods, to even &eRefined Glowstone Armor&r! \n\nThere are some limitations, it only works with Items with Durability not uses: like Infusion Crystals or Energy: like Meka-Tool!"]
 	quest.5A6FF0D4BA894306.title: "&aEternal Stella"
 	quest.5A7FF6D0AED656DC.quest_desc: ["Decreases the amount of time that it takes for a Mana Burst to start losing its Mana, but will also decrease its rate of loss."]
 	quest.5A84A64CB3D3E6F5.quest_subtitle: "White Willow + Oak/Birch/Silver Lime"
@@ -8746,6 +8935,8 @@
 		"- Air Burst: Improved launching distance and conusmes FE."
 		"- Void Shift: Teleports player in the direction they are looking consuming FE in the process."
 	]
+	quest.5B922A8EF636D0F8.quest_desc: ["The &4Crypt&r does not look like much, just being a house made of Dark Stone. But once we get down the massive Staircase well beneath the soil, we'll find so much more! \\n\\nThere's dozens of Chests all having a huge spread of Loot. \\n\\nFrom &cBlood Enhanced Ingots&r to Potions to &5Vampire Books&r! "]
+	quest.5B922A8EF636D0F8.title: "Visit the depths of the &4Crypt&r"
 	quest.5B92DA55541B168B.quest_desc: ["That's right, another &eLaser Engraver&r recipe... these quests are becoming non-linear"]
 	quest.5B95C5B5B3A9CB2E.quest_desc: [
 		"We all love looting, and &dLootr Chests&r help us do exactly that. "
@@ -8794,6 +8985,8 @@
 	]
 	quest.5BF29A151A04FEF0.quest_subtitle: "Holds a max of 5k LP"
 	quest.5BF29A151A04FEF0.title: "Portable Blood Storage"
+	quest.5C019D3563CF44AA.quest_desc: ["At Level 14 of &bHunters&r and &4Vampires&r you will have 26 &2Skill Points&r. \\n\\nThis isn't enough for every single &2Skill&r so you'll need to choose which &2Skills&r you want. Some will also only allow you to choose 1 &2Skill&r or another. \\n\\nIf you wish to use different &2Skills&r you can reset your &2Skill Points&r by using a &dPotion of Oblivion&r."]
+	quest.5C019D3563CF44AA.title: "&2Skill Points"
 	quest.5C040191740A53C8.quest_desc: [
 		"Your &5Highness&r, the &5Bee Queen&r.\n\nAn absolute unit of a Bee, so big she can't even move on her own.\n\nUpon meeting her, she will request of you to get a certain Item for her. If you do you'll be granted a special reward.\n\nAlso now that you have met her you can trade with her (check JEI for all trades) and you can do her quest desires.\n\nIn order to advance in Bumblezone you will need Bee Essence which you get from doing all 16 of her quests.\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_queen.png width:200 height:100 align:center}"
@@ -9086,6 +9279,9 @@
 	quest.5EDB5A2D744CE415.quest_subtitle: "Straight outta Fallout"
 	quest.5EDB5A2D744CE415.title: "Laser Gatling"
 	quest.5EE485880EA9FACF.quest_subtitle: "Tier: &63"
+	quest.5EE4FADAF5128DFE.quest_desc: ["To get to &2Level 4&r we'll need to hand a &bVampire Hunter&r 12 &cVampire Bloods&r. \\n\\nThis is the last time we'll need to talk to a &bVampire Hunter&r in order to &2Level up&r, if we want to &2Level up&r further we'll need to talk to a &9Vampire Hunter Trainer&r who spawn in &bHunter Outpost&r. \\n\\nWe'll also need &5Hunter Intel&r, which is Crafted with..."]
+	quest.5EE4FADAF5128DFE.quest_subtitle: "Lvl 4"
+	quest.5EE4FADAF5128DFE.title: "Train to &2Level 4"
 	quest.5EE7D5DE07A83C7D.quest_desc: ["&lAbility Type:&r Active\n\n&lAbility Function:&r\n\nHighlights nearby ores with green particals when activated.\n\n&4&lNOTE THIS ABILITY HAS BEEN DISABLED.&r&f"]
 	quest.5EE945A1185E8336.quest_desc: ["&l&7Functional Storage&r adds &7Drawers&r that can hold several stacks of an item. These can be upgraded to hold even more stacks!\n\nThis is great for items you get a lot of, like Cobblestone or Seeds!"]
 	quest.5EE945A1185E8336.quest_subtitle: "Storage Drawers?"
@@ -9182,6 +9378,8 @@
 	quest.5F7F753FD72BFBBF.quest_desc: ["More Blocks added by &l&7Railcraft&r? I'm starting to doubt if it's even about Trains!"]
 	quest.5F7F753FD72BFBBF.title: "&l&7Railcraft&r Colored Blocks"
 	quest.5F834F8C607A8B77.quest_desc: ["You have to either find these in structures in the &6&lBumblezone&r or you can trade with the &5Bee Queen&r to get one! \n\nWhile wearing it you can hold Space Bar to fly for a little. \n\nExcept like a &6B&8e&6e&r the Wings are too small to keep your fat little body off the ground."]
+	quest.5F9A544D84EB0FFA.quest_desc: ["&5Hunter Intel 8&r will need the Books and &4Pure Blood Level 2&r. \\n\\nThese drop from &2Level 2 &4&lVampire Barons&r. The higher the &2Level&r, the stronger they are."]
+	quest.5F9A544D84EB0FFA.title: "Crafting &5Hunter Intel 8"
 	quest.5F9B8ACCE0C8389E.quest_desc: ["In order to get more fun, little &4&lMahou Tsukai&r weapons, you'll need a &7Scroll of Strengthening&r. \n\nTo get one, place down a &7Spell Cloth&r, then do the Ritual of Strengthening on top of it and pick up the &7Cloth&r."]
 	quest.5F9B8ACCE0C8389E.title: "&7Scroll of Strengthening"
 	quest.5FA68047A3C05E80.quest_desc: ["15 Spellslots!"]
@@ -9277,6 +9475,9 @@
 	quest.607D592CE102C82E.title: "Knightmetal Tools"
 	quest.60850E717C747A78.quest_desc: ["You ever spend 3 months studying Galatic Code to finally understand Enchantment Table language just for it to be gibberish? No? Me either but &9Enchanting Clues&r are your actual translator for it. Each &9Enchanting Clue&r will tell you 1 Enchantment before you actually use it."]
 	quest.60850E717C747A78.title: "&3Enchanting Clues"
+	quest.608A2102A42F0438.quest_desc: ["For &2Level 9&r and above he'll now be asking for Iron and Gold Ingots! \\n\\n20 Iron Ingots, 10 Gold Ingots, and of course the &5Hunter Intel Level 9&r."]
+	quest.608A2102A42F0438.quest_subtitle: "Lvl 9"
+	quest.608A2102A42F0438.title: "Getting &2Level 9"
 	quest.6092490EC9008A05.quest_desc: [
 		"This interface will automatically break the block it is attached to. "
 		""
@@ -9380,6 +9581,9 @@
 	quest.61847F47CCA225D9.title: "Silver Furnace"
 	quest.618F1434757C8E69.quest_desc: ["&lGenerator's Galore&r adds very simple Generators. The most basic ones act like Furnaces with &3Augment&r: Generator. They'll take Fuel and make it into Energy! \n \nYes you have to start with &6Copper Generator&r."]
 	quest.618F1434757C8E69.title: "&6Copper Generator&r"
+	quest.61929729BF553206.quest_desc: ["The &8Vampire Forest&r is a terrifying, Foggy, and dark Forest you can find around your world! \\n\\nIt has giant Dark Spruce and Cursed Trees along with Vampire Orchids and Cursed Roots. \\n\\nWithin it will spawn dozens of &4Vampires&r, &4Vampire Animals&r, and even &4&lVampire Barons&r!"]
+	quest.61929729BF553206.quest_subtitle: "The Vampire Forest"
+	quest.61929729BF553206.title: "Visit home"
 	quest.61A8FAEC4FF18449.quest_desc: ["These can be used to charge items in your inventory, or can be used to increase the overall power capacity of an &7Ender Network&r channel."]
 	quest.61AD2207E770CD7F.quest_desc: ["Allows you to pickup items and experience from furthur away."]
 	quest.61AD2207E770CD7F.quest_subtitle: "Max: 6"
@@ -9436,6 +9640,8 @@
 	quest.62161BDE9AAAA4BF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"]
 	quest.62161BDE9AAAA4BF.quest_subtitle: "Trail Ruins"
 	quest.62161BDE9AAAA4BF.title: "Wayfinder Armor Trim"
+	quest.62341AC5A563D9D6.quest_desc: ["&6Holy Water&r like other Items and Weapons has Tiers. \\n\\nWe'll need higher &2Skills&r to get the &2Skill&f: &2Greater Blessing&r. Now we can Bless Pure Salt Water to get &6Enhanced Holy Water&r. \\n\\nSome Recipes will need &6Enhanced Holy Water&r instead of normal &6Holy Water&r. \\n\\nOr we can make even better &6Splash Holy Waters&r!!! Wait why did I say or? We can do both!"]
+	quest.62341AC5A563D9D6.title: "&6Enhanced Holy Water"
 	quest.6235B9923BE0AAEB.quest_desc: ["The Enchanter is a block that allows you to add enchantments to enchantable items using items and essences."]
 	quest.6235B9923BE0AAEB.title: "&bEnchanter"
 	quest.623796B1D7981E59.quest_desc: ["'Also try Terraria!'\n\nWhen equipped you will gain 5 extra Hearts! Or 10 whole points of Health! Adding up to on default 30 Health."]
@@ -9446,7 +9652,11 @@
 	quest.623E6A855B363C8D.title: "&9Water Block"
 	quest.6244032FE2E5F1E1.quest_desc: ["{atm9.quest.enchant.desc.draconic}"]
 	quest.6244032FE2E5F1E1.title: "{atm9.quest.enchant.draconic}"
+	quest.62467C410C523371.quest_desc: ["The &c&lBlood Pedestal&r is what will be needed to fill our &4Vampire Swords&r with &cBlood&r! \\n\\nTo do so, place the &c&lBlood Pedestal&r above a &cBlood Container&r, that is full of &cBlood&r. \\n\\nThen, place the &cSword&r into the &c&lPedestal&r. The &c&lPedestal&r will then extract the &cBlood&r into the &cSword&r to Charge it! \\n\\nThe better the Weapon, the more &cBlood&r it needs."]
+	quest.62467C410C523371.title: "&c&lBlood Pedestal"
 	quest.6255E2FE6DD4084A.quest_subtitle: "Holly + Alder"
+	quest.625604113A27D31B.quest_desc: ["The &6&lIron Crucifix&r will need to be Crafted within a &b&lHunter Weapon Table&r. \\n\\nIt's made of Iron (duh), a Stake, &6Holy Water&r, and an &6Enhanced Holy Water&r. \\n\\nThe &6&lIron Crucifix&r works exactly like a &6Wooden one&r, just with a higher Range!"]
+	quest.625604113A27D31B.title: "&6&lIron Crucifix"
 	quest.625B5E3CDDAECFFD.quest_desc: [
 		"Im sure you have made a whole lot of EBF's during your journey to get here."
 		""
@@ -9483,6 +9693,8 @@
 	quest.62A262A706CFCAF0.title: "&aThe &cBlood Infuser"
 	quest.62B2C1A24AE245EA.quest_desc: ["The &9Deepshelf&r (not dormant) is your next step to Enchanting. Like everything else it needs Infusion. The &9Deepshelf&r needs 30 &aEterna&r, &c40%% Quanta&r, and &540%% Arcana&r. You can get that with &45 Blazing Hellshelves&r and &b4 Heart-Forged Seashelves&r."]
 	quest.62B2C1A24AE245EA.title: "&9Deepshelf&r"
+	quest.62B2FC6821877868.quest_desc: ["After placing down another Table, we'll need the Books, 15 &4Vampire Fangs&r, and &4Pure Blood Level 2&r."]
+	quest.62B2FC6821877868.title: "Crafting &5Hunter Intel 9"
 	quest.62B4A37CFDECA679.quest_desc: ["The Menril Resin will go to 2 sides of the Squeezer. Placing a Drying Basin next to the Squeezer will make the Drying Basin pick up the Menril Resin.\n\nAfter 7.5 seconds the Menril Resin will turn into a Block of Crystallized Menril."]
 	quest.62B5A84753ADFC35.quest_subtitle: "8 Dry Dark Pink Blocks"
 	quest.62BBF61C9849CA26.quest_desc: [
@@ -9566,7 +9778,7 @@
 	]
 	quest.634E71DBAE81D197.title: "&dThe Corporea Network&r"
 	quest.635620A03E3505BF.quest_desc: ["I don't wanna know how you got these."]
-	quest.635620A03E3505BF.quest_subtitle: "But... Cows can't be Sheared..."
+	quest.635620A03E3505BF.quest_subtitle: "But....Cows can't be sheared..."
 	quest.635620A03E3505BF.title: "Leather"
 	quest.635BA2C17458E9E6.quest_desc: ["For such a simple recipe you actually get a pretty darn useful Machine! \n\nSimply place it down, (how you place it changes where it aims like a dispenser!) give it some Power, and set how it works with a &4Redstone Torch&r. \n\nIf it's set to deactivate that means it will deactivate when a &4Redstone Signal&r is sent to it. On Pusle that means it will activate whenever a &4Redstone Signal&r is given to it. \n\nWe are just looking to automate the &6&lStar&r so I won't go too in depth, we'll start with a Lens!"]
 	quest.63621F0189B6EB1B.quest_desc: ["Making &bvanadium steel dust&r is an MV recipe in the Mixer, so it is time for an upgrade! "]
@@ -9794,6 +10006,8 @@
 		""
 		"Cables and wires will burn if given more amps than they are rated for"
 	]
+	quest.663C7283E69CA762.quest_desc: ["To Craft the first &5Hunter Intel&r for &2Level 5&r, we'll need only a few Items. \\n\\nA Book, a &5Vampire &for &5Hunter Book&r, and 10 &4Vampire Fangs&r. \\n\\nNo &4Pure Blood&r is needed for the first &5Hunter Intel&r."]
+	quest.663C7283E69CA762.title: "Crafting &5Hunter Intel 5"
 	quest.6648BC7D14233006.quest_desc: ["Augments are similar to Upgrades but for the individual Modules!"]
 	quest.6648BC7D14233006.title: "&lAugments"
 	quest.665B4A8FF5277316.quest_desc: ["Makes gravity affect a Mana Burst, making it move in an arc. It also slightly increases the time before it starts to lose mana."]
@@ -9836,6 +10050,8 @@
 	quest.66C52B137A4FF869.quest_desc: ["This is the Tier 4 Essence, made by combining 4 Tertium together with an Infusion Crystal."]
 	quest.66C52B137A4FF869.quest_subtitle: "Tier: &b4"
 	quest.66C52B137A4FF869.title: "&9Imperium"
+	quest.66D6FCCB60B8944F.quest_desc: ["Pure Blood will be an important Crafting Ingrediant for later Leveling and for other Recipes. \\n\\nIt is dropped by Vampire Barons. Its Level is determined by the Baron's Level. \\n\\nLevel 5 Baron will drop Level 5 Pure Blood, Level 1 Baron will drop Level 1 Pure Blood."]
+	quest.66D6FCCB60B8944F.title: "Pure Blood"
 	quest.66D85424EC74EDCC.quest_desc: ["The Portable Grid is a portable storage that isn’t connected to a network. It allows you to interact with a Storage Disk while not being connected to a network."]
 	quest.66D85424EC74EDCC.quest_subtitle: "On-The-Go Grid"
 	quest.66D85424EC74EDCC.title: "Portable Grid"
@@ -9848,13 +10064,7 @@
 		"You can find all of the descriptions within the &aLexica Botania&r."
 	]
 	quest.66F1609053B5407C.title: "&aGaia Gear and Trinkets&r"
-	quest.66FE4552E09B5EFF.quest_desc: [
-		"Prisms are important for many of &6&lForbidden \\& Arcanus&r recipes and other Mods later! "
-		""
-		"In order to craft them we'll need &3Elementarium&r, which is found in Jungle Temples, Desert Pyramids, and Underwater Ruins. "
-		""
-		"I think it would be easier to tell us where you can't find it!"
-	]
+	quest.66FE4552E09B5EFF.quest_desc: ["Prisms are important for many of &6&lForbidden & Arcanus&r recipes and other Mods later! \n\nIn order to craft them we'll need &3Elementarium&r, which is found in Jungle Temples, Desert Pyramids, and Underwater Ruins. \n\nI think it would be easier to tell us where you can't find it!"]
 	quest.66FE4552E09B5EFF.title: "&3Elementarium"
 	quest.6718043D0F2D1830.quest_desc: ["DireWolf was asked to make an addition of his Cards to work with &5&lMekanism&r and its... other states of matter. Everything Pressurized Tubes can move, these cards can. Gas, Infuse Types, and Pigments."]
 	quest.6718043D0F2D1830.title: "&5Chemical Card"
@@ -10177,6 +10387,9 @@
 	quest.698A959C9E449592.title: "An &aIron&r Pick"
 	quest.69A517AB8A801939.quest_desc: ["To summon the &0&lWither&r, place down the 4 &7Soul Sand&r in the shape of a T. Place the 3 &0Wither Skeleton Skulls&r on the top of the 'T' and the &0&lWither&r will spawn. \n\nWhen he spawns in he'll start at a low &4Health&r but will slowly regenerate to full while being invincible. His full &4Health&r is 300 &4Hearts&r. When he gets to full &4Health&r he will explode and start flying and attacking! \n\nHis attacks are pretty simple with just shooting out &0Explosive Wither Skulls&r. These will blow up the land around them and give &0Wither Effect&r to those they hit. \n\nWhen you get him to half &4Health&r he will become invunerable to Projectiles and fly lower than before. This is when you need to hit him with Melee Weapons! \n\n(BTW the &0&lWither&r will kill any Mobs it sees, and the Mobs that get killed by it will drop &0Wither Roses&r.)"]
 	quest.69A517AB8A801939.title: "Kill The &8&lWither"
+	quest.69AE7EA777CBE15B.quest_desc: ["Now we need to give the &9Trainer&r an equal amount of Iron and Gold Ingots. \\n\\n20 Iron and Gold Ingots plus the &5Hunter Intel Level 10&r."]
+	quest.69AE7EA777CBE15B.quest_subtitle: "Lvl 10"
+	quest.69AE7EA777CBE15B.title: "Getting &2Level 10"
 	quest.69B74D404B331A14.quest_desc: [
 		"Just like all the other tiers, the UHV tier has its own Superconductor wire."
 		""
@@ -10232,6 +10445,8 @@
 	quest.6A46A9F04D2A0748.title: "&3&lJust Dire Things"
 	quest.6A497B063CF32A5C.quest_desc: ["A Fermented Spider's Eye can be used to increase the amount of mobs that CAN spawn from a spawner. The Mobs spawned is random with a Maximum amount determined by the number. It goes up or down by 1 for each eye to a maximum of 16."]
 	quest.6A497B063CF32A5C.title: "Spawn Count"
+	quest.6A4C0901146941FC.quest_desc: ["Quite literally the same Recipe as &5Hunter Intel 10&r... I wonder if that is intentional."]
+	quest.6A4C0901146941FC.title: "Crafting &5Hunter Intel 11"
 	quest.6A4C49AE72E98727.quest_desc: [
 		"The &9Tinkering Table&r is used to upgrade &aEssence Gear&r with &dAugments&r. "
 		""
@@ -10284,6 +10499,8 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_vessel_2.png width:100 height:125 align:center}"
 	]
 	quest.6A8E748B642DD16F.title: "&bSalt&r Vessel"
+	quest.6A946BD4DD970A9A.quest_desc: ["&cBlood-Infused Iron&r is made by combining 3 Iron Ingots and a &4Pure Blood Level 1-4&r. \\n\\nYou can also find them within some Structures! \\n\\nThese will be needed to Craft the &4Vampire Weapons&r and &eGarlic Finder&r."]
+	quest.6A946BD4DD970A9A.title: "&cBlood-Infused Iron"
 	quest.6A962535CD68713E.quest_desc: ["&e&lPipez&r move more! \n\nAll Upgrades increase the amount the &e&lPipez&r move but each grant more options to use with the &e&lPipe&r. \n\nBasic Upgrade allows Redstone Activation with &e&lPipez&r. \nImproved Upgrade allows you to change distribution either:Closest First, Farthest First, Round-Robin, or Random. \nAdvanced Upgrade gives you option to add Filters. \nUltimate doesn't grant anything new it just moves a lot!"]
 	quest.6AAB831CB3FB536A.quest_desc: [
 		"We'll want to infuse Life Essence (aka LP or Blood) into some stone."
@@ -10291,6 +10508,8 @@
 		"Placing stone in the Altar with 1000 LP inside will create Blank Slates. You'll need a lot of these."
 	]
 	quest.6AAB831CB3FB536A.title: "Making Slates"
+	quest.6AB15F7D5EEF9D23.quest_desc: ["The &6&o&lGolden Crucifix&r needs the &2Skill&f: &2Crucifixion&r to be made and used. \\n\\nIt's Crafted in a &b&lWeapon Table&r with Gold, &6Alchemical Fire&r, a Stake, and &6Enhanced Holy Water&r. \\n\\nThis one is used just like the others, but has the highest Range and Slows the Undead more than anything! They barely even move it's amazing!"]
+	quest.6AB15F7D5EEF9D23.title: "&6&l&oGolden Crucifix"
 	quest.6AB1C7B6251FE9F5.quest_desc: ["Requires a Crux (Next Quest)"]
 	quest.6AB1C7B6251FE9F5.title: "Dragon Egg Seeds"
 	quest.6ABDBE41880CFDA9.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
@@ -10302,6 +10521,8 @@
 	quest.6ADDFD55AD0DF7D4.quest_desc: ["Combining &9Ridiculite Ingots&r with &cRossinite&r in a &aReprocessor&r will create &dInanite Ingots&r.\n\nWe can now use these to make a block of &dInanite&r."]
 	quest.6ADDFD55AD0DF7D4.title: "Inanite"
 	quest.6AE0A69DB3CDBCAA.quest_subtitle: "Sweet Crabapple + Flowering Azalea"
+	quest.6AF4B9AA3BD98E68.quest_desc: ["&cHeartstriker&r attacks slower than &cHeartseeker&r but for more Damage! \\n\\nYou will need &cBlood&r within it to use it effectively. \\n\\nWhen you kill Mobs with it, its Training will go up. This increases its Damage and Attack Speed! \\n\\nThem being Swords allows them to be Enchanted and also Repaired with &cBlood-Infused Iron&r."]
+	quest.6AF4B9AA3BD98E68.title: "&cHeartstriker"
 	quest.6AF6A1985C103D9C.quest_desc: [
 		"&9Refined Storage&r is a mass storage mod that offers a simple network-based storage system."
 		""
@@ -10337,12 +10558,10 @@
 	quest.6B671CB07D046BEC.title: "&bDiamond&r"
 	quest.6B747129A85AA768.quest_desc: ["Now even more like the Absorption Hopper! \n\nVacuum Module will now pickup XP Orbs as well as Items. Whatever you do with the XP is up to you!"]
 	quest.6B78378BC8036227.title: "Tier 1 Grader Catalyst"
+	quest.6B93A79AD347B569.quest_desc: ["By Crafting &cHeartstriker&r with &4Enhanced Blood-Infused Iron Ingots&r instead of &cnormal ones&r, we can get &4Enhanced Heartstriker&r! \\n\\nThe &4Enhanced&r will have same Attack Speed but more Damage. This does make it require more &cBlood&r from the &c&lPedestal&r though... \\n\\nAtleast it can still be Enchanted!"]
+	quest.6B93A79AD347B569.title: "&4Enhanced Heartstriker"
 	quest.6BA2BC09E23B34A9.quest_desc: [
-		"This one needs another &9Chiseled Polished Darkstone&r, just now with 4 &7Runes&r and 4 &2Stellarite&r Pieces. "
-		""
-		"This &6&lForge&r is the last for the basic &6&lForbidden \\& Arcanus&r. "
-		""
-		"Of course it has the rest of the Recipes plus every space for Relics is open now!"
+		"This one needs another &9Chiseled Polished Darkstone&r, just now with 4 &7Runes&r and 4 &2Stellarite&r Pieces. \n\nThis &6&lForge&r is the last for the basic &6&lForbidden & Arcanus&r. \n\nOf course it has the rest of the Recipes plus every space for Relics is open now!"
 		"{image:atm:textures/questpics/forbidden/forbidden_tier4.png width:100 height:100 align:center}"
 	]
 	quest.6BA2BC09E23B34A9.title: "&l&dTier 4 &6Forge"
@@ -10369,6 +10588,8 @@
 	quest.6BFD7854F078BF16.quest_subtitle: "Get a Grip on this"
 	quest.6C001E18093FC037.title: "Plants"
 	quest.6C0D4CBC089988ED.quest_desc: ["This rune increases the capacity of the Altar by a multiplicative amount of 7.5% per rune. These apply after regular Capacity Runes."]
+	quest.6C13EDBA2B1B4597.quest_desc: ["&5Vampire Books&r are Items you can find in Chests within &4Crypts&r and &4Vampire Huts&r. \\n\\nYou will need 1 each time you use the &4&lAltar of Infusion&r! \\n\\nYou can also read them like Book and Quills to learn some lore."]
+	quest.6C13EDBA2B1B4597.title: "&5Vampire Books"
 	quest.6C14D1B60124C2B2.quest_desc: [
 		"The &9Tunnel Bore&r is perfect for automatically placing &6Rails&r especially under mountains or hills. \n\nIt'll need 3 things to start working: &9Bore Head&r, fuel like Coal, and &6Rails&r. Once it has all 3 just let it go! \n\nRemember to keep track of the items going in it!"
 		"{image:atm:textures/questpics/railcraft/rail_tunnel.png width:100 height:100 align:center}"
@@ -10431,11 +10652,14 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_lique.png width:100 height:100 align:center}"
 	]
 	quest.6CAD27627A3F8FD7.title: "Making &eAlchemical Sulfur"
+	quest.6CAD67D21E1EA861.quest_desc: [""]
 	quest.6CAD67D21E1EA861.quest_subtitle: "&oUniversal remote access."
 	quest.6CAD67D21E1EA861.title: "&7&lNexium Emitter"
 	quest.6CB1BFBA10DF24E4.quest_desc: ["Using the &cScepter of Life Draining&r, you can drain the life of your enemies!\n\nTo recharge the scepter, combine it with &cFermented Spider Eyes&r in a crafting grid."]
 	quest.6CB1BFBA10DF24E4.quest_subtitle: "Drains Life"
 	quest.6CB1BFBA10DF24E4.title: "&cScepter of Life Draining"
+	quest.6CC115B608771F97.quest_desc: ["To become a &bHunter&r you will need a &eGarlic Injection&r. \\n\\nThe Syringe is just two Glass Blocks and a Glass Pane, very cheap! Then, Craft the &eGarlic&r with it to make the Injection. \\n\\nNow we'll need to use the &eGarlic Injection&r on the &6&lInjection Chair&r in the &6Village House&r. This will give us the &eGarlic Vaccine&r which will make us Immune to &cSanguinare&r!"]
+	quest.6CC115B608771F97.title: "&eGarlic Vaccine&r"
 	quest.6CC5FE34778F0DFA.quest_desc: [
 		"You're bound to have too many items playing this modpack. It's just it works, and if you haven't figured out your storage situation yet, &dDimensional Storage&r might just be right for you!"
 		""
@@ -10522,6 +10746,8 @@
 	quest.6D81DF90E9C2C049.quest_desc: ["Has 18 filter slots and works 2x faster."]
 	quest.6D81DF90E9C2C049.title: "Elite Destructor"
 	quest.6D88C19F47D0D469.title: "Tier: &7Tiny"
+	quest.6D952057FBBCEDC0.quest_desc: ["To get all the higher &2Levels&r after 4 we'll need a Multiblock! \\n\\nTechnically you don't need to find the Structure as you can Craft all the Blocks but come on! it's free Blocks! \\n\\nThe most important Block is the &4&lAltar of Infusion&r, this is where we'll add our Items and start the Ritual. \\n\\nThe &4&lAltar&r won't work without enough &7Altar Pillars&r though..."]
+	quest.6D952057FBBCEDC0.title: "Find a &4&lVampire Altar&r"
 	quest.6D95CB7906C0DC84.quest_subtitle: "Beech + Cacao"
 	quest.6D9CFCD81A23BB3B.quest_desc: [
 		"&lAbility Type:&r Passive"
@@ -10649,6 +10875,8 @@
 		""
 		"{image:pneumaticcraft:textures/patchouli/pneumatic_door.png width:200 height:200 align:right fit:true}"
 	]
+	quest.6EB7803CD3885BA7.quest_desc: ["&bVampire Hunters&r are the sworn Enemy of &4Vampires&r. And we'll need to kill them for their &cHearts&r. \\n\\nThey can have between 15 and 50 Hearts! They also have a &eGarlic Vaccine&r which makes them immune to being changed into a &4Vampire&r. \\n\\nMost times they seem to just use their Fists but they can also use Crossbows, Hunter Axes, and Stakes!"]
+	quest.6EB7803CD3885BA7.title: "Kill &bHunters"
 	quest.6EBCCC78DC682CC6.quest_desc: ["Note: To make the Flight Module needed for this, you'll need to first make a &aSyringe&r and then fill it by attacking &bGhasts&r with it."]
 	quest.6EBCCC78DC682CC6.title: "&6Master of Reality&r"
 	quest.6EC289857CDC4969.quest_desc: [
@@ -10756,6 +10984,8 @@
 		"{image:atm:textures/questpics/bees/bottler.png width:100 height:150 align:1}"
 	]
 	quest.6F978C4D561F35EC.quest_subtitle: "Honey I Squished The Bees"
+	quest.6FB1F1B81383BAF5.quest_desc: ["&4Vampire Huts&r are Towers made of Dark Stone and Dark Spruce that are found in &8Vampire Forests&r. \\n\\nWithin you'll find &cBlood Containers&r, Coffins, &cBlood Pedestals&r, and most importantly: Chests! \\n\\nThese Chests are where we can find even more &4Vampire&r Items."]
+	quest.6FB1F1B81383BAF5.title: "Rest at a &4Vampire Hut&r"
 	quest.6FBE0BF8A7ADBB26.quest_desc: [
 		"To upgrade the &2Mana Spreader&r, you can attach &9Mana Lenses&r to the front of the Spreader. However, the most basic Mana Lens does nothing."
 		""
@@ -10803,17 +11033,7 @@
 		"With this ingot, now we can make some high tier components!"
 	]
 	quest.702CE73E39E4D4BD.quest_subtitle: "Things are complicated..."
-	quest.703BBF0C13959FC5.quest_desc: [
-		"&nChecklist:&r "
-		""
-		"&cNetherite Armor&r- &aCheck&r "
-		""
-		"Killed &3&lWarden&r- &aCheck&r "
-		""
-		"With that Chapter 1 is finished. Chapter 2 starts where we just killed the &3&lWarden&r at, the &3Deep Dark&r. "
-		""
-		"We are going to want to look for a nice new Ore called &6Allthemodium&r."
-	]
+	quest.703BBF0C13959FC5.quest_desc: ["&nChecklist:&r \n\n&cNetherite Armor&r- &aCheck&r \n\nKilled &3&lWarden&r- &aCheck&r \n\nWith that Chapter 1 is finished. Chapter 2 starts where we just killed the &3&lWarden&r at, the &3Deep Dark&r. \n\nWe are going to want to look for a nice new Ore called &6AllTheModium&r. The Potion might help find it!"]
 	quest.703BBF0C13959FC5.title: "To be Continued..."
 	quest.703BDCDC88DD813C.quest_desc: [
 		"Valid Upgrades:"
@@ -10928,6 +11148,8 @@
 	quest.70E4EBA7C9901007.quest_subtitle: "Tier: &b4"
 	quest.70ED849A2EB44DEE.quest_subtitle: "Tier: &b3"
 	quest.70F7B018CD61E946.quest_subtitle: "Dark Oak + Jungle"
+	quest.70FB96CF33C8D0CD.quest_desc: ["&bHunter Outposts&r are settlements surrounded by giant man made Walls. \\n\\nIt has a couple Buildings, with most being randomly generated. Almost all will have Tents and a Tower. Some might even have Potion Rooms and Armories! \\n\\nWithin and around the &bOutpost&r, &bVampire Hunters&r and &bAdvanced Vampire Hunters&r will spawn. In the Tower, if there is one, a &9Vampire Hunter Trainer&r will spawn. \\nThese will be necessary for &2Leveling up&r later! \\n\\nYou can find plenty of Weapons, Items, and Blocks within the &bOutpost&r to help you become a better &bVampire Hunter&r."]
+	quest.70FB96CF33C8D0CD.title: "Visit a &bHunter Outpost"
 	quest.70FD8856BFCD9AEE.quest_desc: [
 		"The largest and most dangerous &cRot Mob&r. \n\nThey have 80 Hearts, which I think qualifies as a Miniboss. \n\nLike all &cRot Mobs&r they will target &2Stoneborns&r and &7Forgottens&r and will drop &cUtheric Shards&r."
 		"{image:atm:textures/questpics/undergarden/undergarden_rotbeast.png width:100 height:100 align:center}"
@@ -11214,6 +11436,8 @@
 	quest.73362EDC984B8A0F.quest_subtitle: "They are Moderators, not Coolants."
 	quest.73362EDC984B8A0F.title: "Reactor Moderators"
 	quest.7338CA23B27B2AF8.quest_subtitle: "&f12 &cAttack Damage"
+	quest.733FB9F8996CE453.quest_desc: ["The &4Crypt&r might not look like much from the outside, but in order to get to the Loot we'll need to go down the Stairs into the Basement of the &4Crypt&r. \\n\\nYeah, just what I'd like to do, go down into the Basement of a &4Vampire Crypt&r! \\n\\nWithin it you will find a Maze of hallways which you can take to Rooms with Chests and Barrels full of Loot. Or to Stairways that lead to more Rooms with Chests and Barrels! \\n\\nOf course all throughout the Crypt you'll find &4Vampires&r."]
+	quest.733FB9F8996CE453.title: "Explore into the &4Crypts"
 	quest.734411D931A8CDBF.quest_desc: ["The Ravager is a Miniboss that only spawns in harder Raids. \n\nIf you don't know what Raids are or don't understand the updated way, that's perfectly fine, that's what Quests are for! \n\nBy killing Pillager Captains (ones that are holding Banners) you can get Ominous Potions, when you drink them you'll get Bad Omen Effect. Then, you can walk near a Village and start a Raid. \n\nRaids will spawn Pillagers, Vindicators, Evokers, Witches, and Ravagers to fight!"]
 	quest.734411D931A8CDBF.title: "Kill A Ravager"
 	quest.734A72A4C898BDFB.quest_subtitle: "Iron + Nickel"
@@ -11243,7 +11467,7 @@
 	quest.73B73870B29DFAD9.quest_desc: ["One of us! One of us! \n\nThe &eVillager Hat&r makes the Villagers believe you're from the same Town so they get rid of the Out-of-Towners Tax. Villager Trades are cheaper."]
 	quest.73B73870B29DFAD9.quest_subtitle: "Head"
 	quest.73B73870B29DFAD9.title: "&eVillager Hat"
-	quest.73B8A70240E6070E.quest_desc: ["Find a Cow and Right Click it with a Bucket.\\n\\nSeriously, why no Bulls?"]
+	quest.73B8A70240E6070E.quest_desc: ["Find a Cow and Right Click it with a Bucket.\n\nSeriously, why no Bulls?"]
 	quest.73B8A70240E6070E.quest_subtitle: "Why aren't there Bulls in the game?"
 	quest.73B8A70240E6070E.title: "Milk a Cow - Profit"
 	quest.73BE1EB3E69814E9.quest_desc: ["First and easiest part of this recipe is &5Evil Sticks&r. Just need &8Dark Gems&r which you Mine for, and &cUndead Planks&r which you get from &cUndead Trees&r. \n\nNext, is the &5Empowered Inverted Potentia&r. It's not that hard to make simply craft an &7Inverted Potentia&r then keep it in an &aEnviromental Accumulator&r and have it get struck with Lightning! \n\nLast part has a huge line of &aEmpty Promises&r; you'll be infusing a whole lot. \n\nHope you got plenty of &4Blood&r! Speak of the devil you'll also need to fill the &5Mace&r with &4Blood&r."]
@@ -11487,9 +11711,13 @@
 	quest.7666D2DA3D0C3F00.quest_desc: ["The ZPM Mixer is needed to craft the Uranium Rhodium Dinaquadide that we need for our Fusion Reactor Mk.II."]
 	quest.7666D2DA3D0C3F00.quest_subtitle: "Mixin' it up!"
 	quest.766C80E5D7B7A916.quest_subtitle: "Pick one!"
+	quest.766C8EEBD5ED0B88.quest_desc: ["&cHeartseeker&r attacks faster than &cHeartstriker&r but for less Damage! \\n\\nYou will need &cBlood&r within it to use it effectively. \\n\\nWhen you kill Mobs with it, its Training will go up. This increases its Damage and Attack Speed! \\n\\nThem being Swords allows them to be Enchanted and also Repaired with &cBlood-Infused Iron&r."]
+	quest.766C8EEBD5ED0B88.title: "&cHeartseeker"
 	quest.7671AFAA1EFD287F.quest_desc: ["You want to slowly automate &bAureal&r for your &6&lForge&r? Then, you'll need 2 &bArcane Crystal Blocks&r, &6Arcane Polished Darkstone&r, and &cMundabitur Dust&r! \n\nPlace down the &6Arcane Polished Darkstone&r, then on top of it place both &bArcane Crystal Blocks&r. \n\nOnce you get this 1x3x1 Structure, Right Click it with &cMundabitur Dust&r to make the &bObelisk&r! \n\nYou can place these, where the Pedestals usually go, in the &6&lForge Multiblock&r in order to automate &bAureal&r!"]
 	quest.7671AFAA1EFD287F.title: "&bArcane Crystal Obelisk"
 	quest.7678B5DD1339833E.quest_desc: ["The Solar Panel generates FE when given direct access to the sun. However, you can use a &7Lens of Ender&r to ignore blocks in its way."]
+	quest.76800EB527243FC7.quest_desc: ["The &9Enhanced Hunter Axe&r is built just like the normal &bHunter Axe&r just with Diamonds now! \\n\\nWe'll need the &2Skill&f: &2Enhanced Weapons&r, in order to build it though. \\n\\nThe &9Enhanced Hunter Axe&r does the same Base Damage as the normal one, but now with more Knockback and more Damage to &4Vampires&r!"]
+	quest.76800EB527243FC7.title: "&9Enhanced Hunter Axe"
 	quest.768951FBE8A5C934.quest_desc: [
 		"If we needed something that could ensure the transmission of every tier, with the highest level of efficiency, what would we get?"
 		""
@@ -11566,6 +11794,8 @@
 	quest.7766E66A14643F4D.title: "&6Awakened Supremium Ingot Block"
 	quest.7770F0D62457096D.quest_desc: ["Although these quests won't go over Drones, they are amazing! Look into using them if you want to."]
 	quest.7770F0D62457096D.title: "Programming Drones"
+	quest.7776BB08E2591532.quest_desc: ["The &bSemi-Auto Crossbow&r is a &bCrossbow&r that works with the Arrow Clip. \\n\\nYou can Craft it in a &b&lWeapon Table&r but you'll need &2Skill&f: &2Technology&r to Craft and use it. \\n\\nFill an Arrow Clip with Arrows then it will fill the &bCrossbow&r."]
+	quest.7776BB08E2591532.title: "&bSemi-Auto Crossbow"
 	quest.7778937DF377C1B4.quest_desc: [
 		"This is a great option for generating power."
 		""
@@ -11833,6 +12063,9 @@
 		"{image:atm:textures/questpics/undergarden/undergarden_gloomper.png width:100 height:100 align:center}"
 	]
 	quest.79C652E3FCB88550.title: "&5Gloomper&r"
+	quest.79C9875A1A494762.quest_desc: ["If you'd rather not use &9Corrupt Souls&r to grow Edelwood, you can rest on Luck! \n\nThe Wandering Trader has a chance of selling Growing Edelwood to you, which can be planted to grow Edelwood. \n\nWandering Trader is very random though, try using Trader Carpets to atleast know where he'll spawn!"]
+	quest.79C9875A1A494762.quest_subtitle: "From Wandy T'"
+	quest.79C9875A1A494762.title: "Buying Edelwood"
 	quest.79D2617E01481281.quest_desc: ["To get started with AE2, you will need to mine an important resource for the mod known as &bCertus Quartz&f. You will find Certus Quartz Crystals in Meteroites that you can mine for Certus Quartz &eDust&f and &eCrystals&f."]
 	quest.79D2617E01481281.title: "Certus Quartz"
 	quest.79D3055DE0EEA6B0.quest_desc: ["&d&lArs Elemental&r &cFire Armor&r!"]
@@ -11996,6 +12229,9 @@
 	quest.7B76EC62E3F7E12C.title: "&5Aethersent&r"
 	quest.7B7D1F0CB326B28F.quest_desc: ["The &bME IO Port&f allows for the contents of an ME network's storage to be quickly rearranged between different storage media such as ME cells and external containers connected to storage buses.\n\nWhen a cell is inserted in an input slot on the left, the IO Port can be toggled to either empty the cell out into other ME storages or fill the (ideally, partitioned) cell with certain items spread out across other storages."]
 	quest.7B7D1F0CB326B28F.quest_subtitle: "Defragmentation"
+	quest.7B8CA0DC2DB422EB.quest_desc: ["Just like the past payments, &5Hunter Intel 7&r and now 15 Iron Ingots."]
+	quest.7B8CA0DC2DB422EB.quest_subtitle: "Lvl 7"
+	quest.7B8CA0DC2DB422EB.title: "Getting &2Level 7"
 	quest.7B9486981786AC47.quest_desc: [
 		"&lAbility Type:&r Active"
 		""
@@ -12259,6 +12495,9 @@
 	quest.7E4367252A39BE6C.title: "&c&lPowah"
 	quest.7E49C985A0433B20.quest_desc: ["&d&lArs Nouveau&r is a very fun magic Mod and with it brings its own set of Wood! \n\nArchwood comes in 5 different colors of trees that spawn in most Biomes but mostly in their Archwood Biome!"]
 	quest.7E49C985A0433B20.title: "&d&lArs Nouveau&r Logs"
+	quest.7E67CD66CB7B9823.quest_desc: ["&2Level 8&r gets more pricier for both, now needing 26 Structure Points. \\n\\nAnd for Items we'll need a &4Pure Blood Level 2&r and 10 &cHuman Hearts&r. \\n\\nUs &4Vampires&r will stay at 18 Hearts and 15 Armor Points. "]
+	quest.7E67CD66CB7B9823.quest_subtitle: "Lvl 8"
+	quest.7E67CD66CB7B9823.title: "Upgrading to &2Level 8"
 	quest.7E697FE6A6C8B4EE.quest_desc: ["These LuV Tier Superconductor ingots will serve us well in making Superconductor Wires, and Fine Wire. "]
 	quest.7E697FE6A6C8B4EE.quest_subtitle: "With Ingots we have options!"
 	quest.7E7637DAD2C242CB.quest_subtitle: "European Larch + Spruce"
@@ -12423,11 +12662,17 @@
 	reward_table.06C4634E81851A6C.title: "Reward: Common"
 	reward_table.08F142CC52B97FF5.title: "Twilight Forest: Rewards"
 	reward_table.0C83C7A93ED80A36.title: "Nature's Aura: Rewards"
+	reward_table.0D22FDCFDACCD37C.title: "Vampirism: Vampire 1"
 	reward_table.11204745E52B4C0C.title: "Logs & Saplings"
 	reward_table.1EC6956FA2BB2B00.title: "Basic Storage: Rewards"
+	reward_table.2ED4AA3022326907.title: "Vampirism: Vampire 2"
 	reward_table.3A3BDBA4E9AD13C4.title: "Reward: Uncommon"
+	reward_table.3F5C1A61149A3D4E.title: "Vampirism: Hunter 1"
 	reward_table.481E10AEAC95C550.title: "Reward: Legendary"
+	reward_table.4991A862C0FD5D2A.title: "Vampirism: Hunter 2"
+	reward_table.4C4D55CE591EA4F5.title: "Vampirism: Hunter 3"
 	reward_table.4D37FFAF33DF678A.title: "Reward: Rare"
+	reward_table.509855E4C0006CE2.title: "Vampirism: Vampire 3"
 	reward_table.5832C9BCFDB476AF.title: "Ars Nouveau: Rewards"
 	reward_table.611A165B35847A5A.title: "Bumblezone: Rewards"
 	reward_table.617F6D802ED0FD00.title: "Reward: Epic"
@@ -12529,6 +12774,7 @@
 	task.15BD622D04888DD8.title: "Carts"
 	task.15C6E9C02D1FBEC0.title: "Tier 2 Glyphs"
 	task.15D2A03410859443.title: "AllRightsReserved"
+	task.15E0F79E0ECB4E00.title: "Skill Points"
 	task.16010377566C75F3.title: "Stocking up"
 	task.166BA23E49F6DCD6.title: "Importers"
 	task.1693B07767081FB3.title: "Armor Trims"
@@ -12594,6 +12840,7 @@
 	task.2153473228DA4678.title: "Breeding and Converting Bees"
 	task.21AD4382C0068CDB.title: "Quests By AllTheMods"
 	task.21FBC4E0F668347C.title: "NBT and YOU!"
+	task.221EA75E441BAFDB.title: "Cloaks"
 	task.224A2A7012749DFC.title: "Magic Mod Iron Pickaxes"
 	task.225F53F8A0E9E822.title: "Cooking for Blockheads"
 	task.22CCBBC66D509404.title: "Networks!"
@@ -12707,6 +12954,7 @@
 	task.3893B57532491926.title: "Find Portal Ruins"
 	task.389B5B0F35B89FC8.title: "Chipped Concrete"
 	task.38B6F45109CB033A.title: "AllRightsReserved"
+	task.38DE359D58595D93.title: "Hunter Books"
 	task.38E166AC8F55D42E.title: "Upgrades"
 	task.38E290AC5E011888.title: "ME Dense Smart Cables"
 	task.39194D9CDF673768.title: "AllRightsReserved"
@@ -12790,6 +13038,7 @@
 	task.48A30B08A090BD75.title: "Wrenches"
 	task.48C19477CB216AD4.title: "Sulfur Dust"
 	task.48CF7A7622423DEA.title: "Pipe Upgrades"
+	task.48DE15D926DFBCC3.title: "Vampire Books"
 	task.490EAAA3703A576F.title: "Black Lotus"
 	task.497485048E0AD20D.title: "Auxiliary Process Sieve"
 	task.498AA33867046334.title: "Armor"
@@ -12844,6 +13093,7 @@
 	task.543A08791D27BC62.title: "Quests By AllTheMods"
 	task.5457CD8C1ABA0B9E.title: "Kill 5 Zombies"
 	task.54A7E248C8A40239.title: "Tier 2 Sigils"
+	task.5532BB474A625765.title: "Headware"
 	task.55628B1EECBB5E94.title: "Ritual Saplings"
 	task.558649C69096D2D7.title: "Starter Generating Flowers"
 	task.559F3BFEC15996F8.title: "Turbine Power"
@@ -13029,6 +13279,7 @@
 	task.7C88F80D05E62AC7.title: "Iron Furnaces"
 	task.7C91AC93D782A4BE.title: "Stage 2 EBF"
 	task.7D9A58EBADE91F54.title: "Inferium Tools"
+	task.7DE03D4A420D1028.title: "Visit a Dark Temple"
 	task.7E0D9E6342295AB0.title: "Foreword on Channels"
 	task.7EA0E7DF4C5C4858.title: "AE2 Pickaxes"
 	task.7F08D4E77359BF4A.title: "Wool"

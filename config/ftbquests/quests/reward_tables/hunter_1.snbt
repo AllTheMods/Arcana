@@ -1,0 +1,56 @@
+{
+	id: "3F5C1A61149A3D4E"
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{
+			count: 3
+			id: "0F579C68C554C31A"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "195A3224B0B63C1F"
+			item: {
+				count: 1
+				id: "minecraft:stick"
+			}
+		}
+		{
+			count: 6
+			id: "483987E5C02C3EE5"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+		}
+		{
+			count: 8
+			id: "66A25CB694E35570"
+			item: {
+				count: 1
+				id: "vampirism:garlic"
+			}
+		}
+		{ id: "59E9FD380484716C", item: { count: 1, id: "vampirism:holy_water_bottle_normal" } }
+		{
+			count: 3
+			id: "548F334D4129DABF"
+			item: {
+				count: 1
+				id: "vampirism:vampire_blood_bottle"
+			}
+		}
+		{
+			count: 5
+			id: "21847AB4F9C0F7B1"
+			item: {
+				count: 1
+				id: "vampirism:vampire_fang"
+			}
+		}
+	]
+}

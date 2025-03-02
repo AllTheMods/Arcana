@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "natures_aura"
-	group: "02FE661031A105D8"
+	group: "0C9C9B01123A3A54"
 	icon: {
 		id: "naturesaura:gold_leaf"
 	}
@@ -57,7 +57,7 @@
 			y: 0.0d
 		}
 	]
-	order_index: 5
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{

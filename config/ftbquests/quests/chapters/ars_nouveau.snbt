@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "ars_nouveau"
-	group: "02FE661031A105D8"
+	group: "556ED01A73626AF5"
 	icon: {
 		id: "ars_nouveau:source_gem"
 	}
@@ -25,7 +25,7 @@
 			y: -2.0d
 		}
 	]
-	order_index: 1
+	order_index: 0
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
