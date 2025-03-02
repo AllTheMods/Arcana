@@ -2,20 +2,12 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "ars_nouveau"
-	group: "24B2B83B323159F7"
+	group: "556ED01A73626AF5"
 	icon: {
 		id: "ars_nouveau:source_gem"
 	}
 	id: "6AEDA2F9BEB57759"
 	images: [
-		{
-			height: 0.3d
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.3d
-			x: 7.5d
-			y: 7.7d
-		}
 		{
 			height: 1.0d
 			image: "ars_nouveau:item/starbuncle_shards"

@@ -9,12 +9,12 @@
 	id: "1DB294A8F8686321"
 	images: [
 		{
-			height: 4.5d
+			height: 4.0d
 			image: "minecraft:textures/item/chest_minecart.png"
 			rotation: 0.0d
-			width: 4.5d
-			x: 0.0d
-			y: -5.5d
+			width: 4.0d
+			x: -4.0d
+			y: 0.0d
 		}
 		{
 			height: 2.75d
@@ -1151,8 +1151,8 @@
 				id: "21FBC4E0F668347C"
 				type: "checkmark"
 			}]
-			x: 2.0d
-			y: 0.0d
+			x: 0.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["5E4BC0F59C90433A"]
@@ -1276,7 +1276,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 3.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["134608BB2B04D96E"]
@@ -1293,7 +1293,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 3.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["134608BB2B04D96E"]
@@ -1310,7 +1310,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 5.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["134608BB2B04D96E"]
@@ -1327,7 +1327,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 5.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["134608BB2B04D96E"]
@@ -1344,7 +1344,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 5.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["134608BB2B04D96E"]
@@ -1364,7 +1364,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 3.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["5E4BC0F59C90433A"]
@@ -1432,8 +1432,8 @@
 					type: "checkmark"
 				}
 			]
-			x: 0.0d
-			y: 2.0d
+			x: 2.0d
+			y: 0.0d
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "bounty_board"
-	group: ""
+	group: "5DB9CE6F9A446FB4"
 	icon: {
 		id: "minecraft:zombie_head"
 	}
@@ -15,7 +15,7 @@
 		x: 0.0d
 		y: -10.0d
 	}]
-	order_index: 1
+	order_index: 0
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

@@ -3,9 +3,27 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "rsquare"
 	filename: "vampires_and_werewolves"
-	group: "01288DCA74D35E0B"
+	group: "5DB9CE6F9A446FB4"
 	id: "46FF8D6DA1E7EF81"
-	order_index: 0
+	images: [
+		{
+			height: 20.0d
+			image: "vampirism:textures/skills/vampire_lord.png"
+			rotation: 0.0d
+			width: 30.0d
+			x: 25.0d
+			y: 5.5d
+		}
+		{
+			height: 35.0d
+			image: "vampirism:textures/skills/crucifix_wielder.png"
+			rotation: -90.0d
+			width: 35.0d
+			x: -21.0d
+			y: 2.5d
+		}
+	]
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -498,7 +516,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -12.0d
+			x: -10.0d
 			y: 5.5d
 		}
 		{
@@ -519,7 +537,7 @@
 				structure: "vampirism:vampire_hut"
 				type: "structure"
 			}]
-			x: -9.0d
+			x: -8.0d
 			y: 5.5d
 		}
 		{
@@ -540,7 +558,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(vampirism:pure_blood_0)item(vampirism:pure_blood_1)item(vampirism:pure_blood_2)item(vampirism:pure_blood_3)item(vampirism:pure_blood_4))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -11.5d
+			x: -9.5d
 			y: 7.0d
 		}
 		{
@@ -621,7 +639,7 @@
 				structure: "vampirism:crypt"
 				type: "structure"
 			}]
-			x: -10.5d
+			x: -9.0d
 			y: 5.5d
 		}
 		{
@@ -912,7 +930,7 @@
 				item: { count: 1, id: "vampirism:altar_cleansing" }
 				type: "item"
 			}]
-			x: -9.0d
+			x: -11.0d
 			y: -0.5d
 		}
 		{
@@ -936,7 +954,7 @@
 				item: { count: 1, id: "vampirism:holy_water_bottle_normal" }
 				type: "item"
 			}]
-			x: -8.5d
+			x: -11.0d
 			y: -1.5d
 		}
 		{
@@ -1134,7 +1152,7 @@
 				item: { count: 1, id: "vampirism:holy_water_bottle_enhanced" }
 				type: "item"
 			}]
-			x: -9.5d
+			x: -12.0d
 			y: -1.5d
 		}
 		{
@@ -1943,6 +1961,31 @@
 		}
 		{
 			id: "41F92EA75B7D2AA4"
+			rewards: [
+				{
+					count: 4
+					id: "4F33E0BC44E38196"
+					item: {
+						components: {
+							"vampirism:oil_contents": {
+								oil: "vampirism:plant"
+							}
+						}
+						count: 1
+						id: "vampirism:oil_bottle"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4D99052C6CE339B3"
+					item: {
+						count: 1
+						id: "vampirism:vampire_blood_bottle"
+					}
+					type: "item"
+				}
+			]
 			shape: "hexagon"
 			size: 1.1d
 			tasks: [{
@@ -2008,7 +2051,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(vampirism:vampire_book))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -9.5d
+			x: -8.5d
 			y: 7.0d
 		}
 		{
@@ -2343,7 +2386,7 @@
 				value: 1L
 			}]
 			x: 23.5d
-			y: 4.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["26FEFC5389C6C574"]
@@ -2363,7 +2406,7 @@
 				type: "item"
 			}]
 			x: 20.5d
-			y: 4.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["13B56E1D53B8A93C"]
@@ -3109,7 +3152,7 @@
 				type: "item"
 			}]
 			x: 28.0d
-			y: 4.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["47D5383D9C17C7EB"]
@@ -3219,7 +3262,7 @@
 				value: 1L
 			}]
 			x: 31.0d
-			y: 4.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["7E67CD66CB7B9823"]
