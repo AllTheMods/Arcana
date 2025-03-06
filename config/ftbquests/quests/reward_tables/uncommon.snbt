@@ -1,7 +1,7 @@
 {
 	id: "3A3BDBA4E9AD13C4"
 	loot_size: 1
-	order_index: 1
+	order_index: 2
 	rewards: [
 		{ id: "74EF4D6E23F9B02C", item: { count: 1, id: "minecraft:netherite_ingot" } }
 		{
