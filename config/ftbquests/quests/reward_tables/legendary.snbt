@@ -1,7 +1,7 @@
 {
 	id: "639509C7B28C90DF"
 	loot_size: 1
-	order_index: 4
+	order_index: 6
 	rewards: [
 		{ id: "626BA730916476D7", item: { count: 1, id: "minecraft:spawner" } }
 		{ id: "6295B819F5403FC9", item: { count: 1, id: "productivebees:spawn_egg_configurable_bee" } }

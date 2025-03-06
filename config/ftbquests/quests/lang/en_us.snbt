@@ -1,5 +1,6 @@
 {
 	chapter.007B547630FF0478.title: "Theurgy"
+	chapter.01B25AB898A39A59.title: "Applied Energistics 2"
 	chapter.05E614FDA677D85E.title: "Food and Farming"
 	chapter.07210DDF872160BA.title: "Applied Energistics 2"
 	chapter.0A093D8C4429B627.title: "Mekanism: Reactors"
@@ -61,7 +62,7 @@
 	chapter_group.5DB9CE6F9A446FB4.title: "Mythical Monsters"
 	chapter_group.6614EE2378B8AFB9.title: "Resources"
 	chapter_group.68BDE5700A9B0002.title: "Tools and Gear"
-	file.0000000000000001.title: "AllTheMagic: Arcana"
+	file.0000000000000001.title: "AllTheMods: Arcana"
 	quest.00075A5F9AC120ED.quest_desc: ["This will take the items out of your input chest."]
 	quest.00075A5F9AC120ED.quest_subtitle: "Always Required"
 	quest.000C1ECD781F3F81.quest_desc: ["&2&lNature&r is made for using the Earth to our advantage by &2Poisoning&r and &2Weakening&r our enemies! Just like what Big Corporations do to the Earth itself! \n&2&lNature's&r Focus Material is &2Poisonous Potato&r. \n\nThe &2Scrolls&r are &aLight Green&r with &2Dark Green&r text."]
@@ -101,7 +102,7 @@
 	quest.00589023093A082A.title: "&4Enhanced Blood-Infused Iron"
 	quest.005CC8A3325FE2BD.quest_desc: ["&bFroststeel&r, &7Cloggrum&r, and &eRegalium&r can be Mined for. \n&cUtheric&r and &aForgotten&r you need to kill for. \n\nAny other questions?"]
 	quest.005CC8A3325FE2BD.title: "&2&lUndergarden&r Metals"
-	quest.00611844AFD5C31E.quest_desc: ["While the Inscriber and Charger will natively accept RF/FE, the vast majority of an ME network uses its own dedicated power system called AE.\n\nRF/FE can be converted into the native AE at a ratio of 2:1 RF:AE, either directly through an ME Controller, or through the &bEnergy Acceptor&f, which can instead be connected to any part of the network."]
+	quest.00611844AFD5C31E.quest_desc: ["Lots of Items and Blocks need Energy in AE2! Even the Charger, Inscriber, and ME Controller. \\n\\nAE2 has its own Energy version named AE, but currently has no way of making it on its own... \\n\\nWait, this is a Magic Modpack that means we don't have: Mekanism, Industrial Foregoing, Thermal Foundation, Immersive Engineering, Powah, Extreme Reactors, or even Flux! \\n\\nHow are we supposed to Power our Machines then?"]
 	quest.00611844AFD5C31E.quest_subtitle: "Plug in"
 	quest.006C1AC70B906CB0.quest_desc: [
 		"&a&lNature's Aura&r is a Mod I don't know much about. What I do know is that involves these funky little Flowers! "
@@ -1468,9 +1469,6 @@
 	quest.0E76B7095F12EF62.quest_desc: ["Complete an Alloy Blast Smelter and assemble the Multiblock Structure."]
 	quest.0E76B7095F12EF62.quest_subtitle: "ABS Time"
 	quest.0E7E559F2750F7D3.quest_desc: ["Using this on a Spreader will cause it to fire a Mana Burst only if it can hit a mob or player."]
-	quest.0E809747193ED3A9.quest_desc: ["The third MEGA tier of storage component, providing &e16777216&f (16384k) bytes of storage."]
-	quest.0E809747193ED3A9.quest_subtitle: "x4^2"
-	quest.0E809747193ED3A9.title: "16M Storage Component"
 	quest.0E8418B42A744030.quest_desc: [
 		"While not required, the Ritual Diviner is great to have as it shows exactly how the Ritual is built, and helps build it. (You should totally make one.)"
 		""
@@ -1547,9 +1545,6 @@
 	]
 	quest.0F026D5A17CCCF51.title: "&cNetherite Tier"
 	quest.0F031E62E5235251.title: "&5Insanium Block&r"
-	quest.0F03E75CF79BADD7.quest_desc: ["MEGA Cells&f offers the bespoke &bBulk Item Storage Cell&f, which is limited to no more than &oone&r type of item storeable per cell but can store a practically &o&lINFINITE&r* number of that item type. Before it can accept an item type, it must be filtered in advance using a Cell Workbench.\n\n*&oTechnically \"max long\". If you know, you know.&r"]
-	quest.0F03E75CF79BADD7.quest_subtitle: "Bulk and cut"
-	quest.0F03E75CF79BADD7.title: "Bulk Item Storage"
 	quest.0F0D41F29386333A.quest_desc: ["Scarlet Trees range in size and shape and even sometimes fallen down! \n\nBut all have pink leaves! Including the ones on the ground."]
 	quest.0F16498769DFB3B0.quest_desc: ["This will be the main ingredient for most of this mod's items and blocks."]
 	quest.0F1CA44520BDEFEA.quest_subtitle: "6,561 Diamond Blocks"
@@ -2666,6 +2661,8 @@
 	]
 	quest.1A739D36D5E3B1AD.quest_subtitle: "More Filtering Options"
 	quest.1A739D36D5E3B1AD.title: "&eAdvanced Feeding Upgrade"
+	quest.1A7EC2D776DB9CB9.quest_desc: ["Okay I guess you don't NEED Energy for the Charger. \\n\\nWe can use Man-Power! \\n\\nAttach the Wooden Crank to the Charger and crank!"]
+	quest.1A7EC2D776DB9CB9.title: "Look Mom, no Energy!"
 	quest.1A806C1A54B26EB5.quest_desc: ["You don't want everything to do their actions at a larger range? You want your Vacuum to leave some room for dropping items in your World? Then I guess you can range down."]
 	quest.1A96C595CBA42840.quest_desc: ["Kivi Seeds can be used to grow Kivi Essence which can be crafted in Kivi!"]
 	quest.1A96C595CBA42840.title: "Kivi Automation"
@@ -3452,9 +3449,6 @@
 	quest.233F263576ECFAAD.quest_desc: ["Used to turn ingots into plates at a 1:1 ratio, and double ingots into 2 plates. You'll want to get this machine as soon as possible!"]
 	quest.2341D611975C58AF.quest_subtitle: "Auto import? Yes please"
 	quest.234CD79746FCAA18.quest_subtitle: "Voids By-products"
-	quest.234DC1702333EB18.quest_desc: ["The &dAEInfinityBooster&f add-on provides two bespoke wireless boosters allowing for infinite connectivity range, with optional cross-dimensional support."]
-	quest.234DC1702333EB18.quest_subtitle: "I'm not writing the Toy Story line"
-	quest.234DC1702333EB18.title: "Infinity Booster"
 	quest.235273F7C9A9B0D0.quest_subtitle: "3/5"
 	quest.235273F7C9A9B0D0.title: "Bottom Right &6&lATM Star&r part"
 	quest.2354BC5330350DF6.quest_desc: ["If &aEmeralds&r aren't your thing the &3Crystal Furnace&r might be what you want! \n \nWorks the same as an &aEmerald Furnace&r at 40 Tick. \n \nMade with a &bDiamond Furnace&r and can be made into an &dObsidian Furnace&r. \n \n(No you can't see the Items smelting inside it, it's just transparent)"]
@@ -3730,9 +3724,6 @@
 	quest.25D4406CB86C8CBB.title: "The Fluidizer"
 	quest.25D84D82DBADA0DB.quest_subtitle: "Tier: &b4"
 	quest.25D8BE0280B6E7F1.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.25DBA00422301EDC.quest_desc: ["The second MEGA tier of storage component, providing &e4194304&f (4096k) bytes of storage."]
-	quest.25DBA00422301EDC.quest_subtitle: "x4"
-	quest.25DBA00422301EDC.title: "4M Storage Component"
 	quest.25DBFE887B041E94.quest_subtitle: "The basics"
 	quest.25DBFE887B041E94.title: "Ore Processing"
 	quest.25E782DB4309A1B8.quest_desc: ["Aurora Deer Antlers are dropped by Aurora Deers on death. \n\nIt can be used as a Sword or a Hoe."]
@@ -5377,6 +5368,8 @@
 		"- Drops Teleporter"
 		"- Mob X-Ray"
 	]
+	quest.37BD61FCD462AA8C.quest_desc: ["We can use the Source! \\n\\nWith the new ME Source Converter we can send Source into it to make AE. \\n\\nBlocks adjacent to the Converter will receive AE when Source is sent to it. So smack that ME Controller next to it and start piping Cables everywhere because the power is back on! \\n\\nFor the Items we need to Charge we can use the Charger Block to give them our newly created AE."]
+	quest.37BD61FCD462AA8C.title: "Energy from Source"
 	quest.37CA6F9F0226F10E.quest_desc: ["This block stores items for cooking.\n\nYou can also place other kitchen multi-block items on it, like toasters and a Cow in a Jar."]
 	quest.37CA6F9F0226F10E.quest_subtitle: "We need more cooking space"
 	quest.37CA6F9F0226F10E.title: "Need more cooking space?"
@@ -5824,9 +5817,6 @@
 	]
 	quest.3CD307DDD6A5F5A3.quest_subtitle: "&f4 &cAttack Damage"
 	quest.3CD45533D0BDF26D.quest_desc: ["When a block is hit by a Mana Burst from this lens, the block will fall as if it were Sand or Gravel."]
-	quest.3CE3D9245F8EC005.quest_desc: ["The fourth MEGA tier of storage component, providing &e67108864&f (65536k) bytes of storage."]
-	quest.3CE3D9245F8EC005.quest_subtitle: "x4^3"
-	quest.3CE3D9245F8EC005.title: "64M Storage Component"
 	quest.3CFD27F273B97FDD.quest_desc: ["The &5&lApothic&r mods have multiple cores, each changing different parts of &2&lMinecraft&r.\n\nThe Attributes and Enchanting mods are what you'll need to follow to get the &6&lATM Star&r!"]
 	quest.3CFD27F273B97FDD.title: "&5&lApothic&r Mods"
 	quest.3CFE522A4B7CC2EC.quest_desc: [
@@ -6665,6 +6655,8 @@
 	quest.4530C14828C3D153.quest_subtitle: "Tier: &b4"
 	quest.453693F569B56F32.quest_desc: ["The &c&lAltar of Inspiration&r is what we will use to &2Level up&r until &2Level 4&r. \\n\\nYou can fill it with &cBlood&r by Right Clicking it with any &cBlood Container&r: &cBlood Bottle&r and &cBlood Bucket&r. \\n\\nOnce it is filled above a certain amount, you can Right Click it with an Empty Hand to start the Ritual at Night! \\n\\nThis will deplete the &cBlood&r and summon a Lightning Bolt which will be your sign that you &2Leveled up&r!"]
 	quest.453693F569B56F32.title: "&c&lAltar of Inspiration"
+	quest.453F98F3FE42497A.quest_desc: ["Mining into the Meteorite we'll find the origin of the most essential Material for AE2, Certus Quartz. \\n\\nCertus Quartz comes from Budding Certus Quartz, which spawns only within Meteorites. \\n\\nThey grow Certus Quartz Crystals on them, just like Amethyst. You'll need a Silk Touch Pickaxe or similar to move them. \\n\\nThey also have Tiers, from best to worst it's: Flawless, Flawed, Chipped, and Damaged. The last three will shrink each time they grow until they become just a Block of Certus Quartz, but Flawless will never shrink."]
+	quest.453F98F3FE42497A.title: "Growing Certus Quartz"
 	quest.454662617304E299.quest_desc: [
 		"&lAbility Type:&r Passive"
 		""
@@ -6756,9 +6748,6 @@
 	quest.45FF08E4DB6F7F0E.title: "Iron Crafter"
 	quest.45FF90632FE0D35C.quest_desc: ["&4&lVampire Barons&r are Bosses you can find within &8Vampire Forests&r. \\n\\nWhen they see you, they will deploy Wings and their Eyes will become &4Red&r! They are ready to fight, are you? \\n\\nTheir Health is determined by their &2Level&r, usually it's between 100 to 300 Hearts. \\n\\nThey do a ton of Damage by hitting you and when hitting you it will inflict Weakness III and Slowness III. \\n\\nSometimes the &4&lVampire&r might instead choose to fire &4Dark Blood squirts&r at you! These will Damage you if they hit you, don't worry too much about them they are easy to dodge. \\n\\nThey may at times turn Invisible... I don't know if that's a bug or not. \\n\\nThe &4&lVampire Barons&r will teleport away if in &eSunlight&r. They also attack other &4&lBarons&r near them!"]
 	quest.45FF90632FE0D35C.title: "Kill a &4&lVampire Baron&r"
-	quest.460A8F17F3ED6CAF.quest_desc: ["There comes a point in any playthrough of a large modpack where even the highest standard tier of storage cell doesn't cut it for the amount of items and resources that you may be accumulating.\n\nThis is where the &dMEGA Cells&f add-on comes in, extending the available tiers of storage into the megabyte territory. The first of these new tiers is given by the &b1M MEGA Storage Component&f, providing 1024 &okilo&rbytes, or &e1048576&f bytes, of storage."]
-	quest.460A8F17F3ED6CAF.quest_subtitle: "The first MEGAbyte."
-	quest.460A8F17F3ED6CAF.title: "1M Storage Component"
 	quest.461C8F1E88AA58D9.quest_desc: [
 		"These can be used in recipes using the bucketed version of PneumaticCraft liquids.\n\nWhen a &3Fluid Tank&r is put on top of another &3Fluid Tank&r and wrenched together they become one big tank.\n"
 		"{image:pneumaticcraft:textures/patchouli/small_tanks.png width:250 height:250 align:center fit:true}"
@@ -7305,7 +7294,6 @@
 	quest.4B65100885AE762D.title: "&6Priest Outfit"
 	quest.4B755120AFA8E85D.quest_desc: ["&eThe Sun&r can be pretty deadly to us &4Vampires&r especially at higher &2Levels&r. But what if we need to get something quickly in the &eSunlight&r? \\n\\nThis is what the &aAbility&r Sunscreen is for! We'll need the &2Skill&r: &2Sunscreen&r for it though. \\n\\nWhen used, the Effect of Sunscreen will protect you from the &eSunlight&r for a couple of seconds."]
 	quest.4B755120AFA8E85D.title: "Sunscreen"
-	quest.4B76FE0348DB0E45.quest_desc: ["The Quantum Bridge Card is an alternate method to get wireless interdimensional access to your Applied Energistics system. You will need a Quantum Bridge connected at your base and a Quantum Bridge Card in your terminal. These tunnels are then bound together with a Quantum Entangled Singularity to gain access wherever you go."]
 	quest.4B7E8D7D89977348.quest_desc: [
 		"Each column corresponds to the voltage tier"
 		""
@@ -7343,6 +7331,7 @@
 	]
 	quest.4BC2D7FCDD792DBA.quest_subtitle: "Gas+More"
 	quest.4BDE773C3359D584.quest_subtitle: "A Mini-Robot To Accompany You On Your Travels"
+	quest.4BE1868F1BE691BA.quest_desc: ["The Inscriber is a Machine we'll need for making even more Items in AE2! \\n\\nThe Inscriber will need Energy to work, unfortunately we can't use the Wooden Crank on this one... \\n\\nThere are 3 Input Slots on the Left, we'll need to add Presses and Circuits in the 2 left most Slots, and the other Materials will go in the last Slot. \\n\\nWe can also give it Certus Quartz and Fluix Quartz to make them into Dust! "]
 	quest.4BE209D5DAF1F321.quest_desc: [
 		"&bAureal&r is the first and most important Slot in the &6&lForge&r. \n\nYou can either automate it with &bArcane Crystal Obelisks&r or deposit &bAureal Bottles&f/&bPotions&r! \n\nYou can either find &bAureal Bottles&r in Chests in most Structures, or you can craft them with &bArcane Crystal Dust&r and a Potion of Regeneration II."
 		"{image:atm:textures/questpics/forbidden/forbidden_aureal.png width:135 height:100 align:center}"
@@ -7920,9 +7909,9 @@
 		""
 		"You can coat wires using very little of this, and it will come in handy later on when making higher tier conveyor modules"
 	]
-	quest.51236544BFEF487B.quest_desc: ["It is time to find &eMeteorites&f that contain &bSky Stone&f. These can be either on the surface or underground, and contain a &bMysterious Cube&f in its center.\n\nThis cube contains all of the different &ePresses&f used in the Inscriber to make AE2's special crafting components.\n\nThe easiest way to locate a meteorite is by crafting a &eMeteorite Compass&r by placing a compass inside of a Charger."]
+	quest.51236544BFEF487B.quest_desc: ["Meteorites can be annoying to find en masse so why not get some help? \\n\\nMeteorite Compass is made from Charging a normal Compass. \\n\\nWhen held it will point in the direction of the nearest Meteorite!"]
 	quest.51236544BFEF487B.quest_subtitle: "'COMIC #42: shearching 4 bobby [Fischer]'"
-	quest.51236544BFEF487B.title: "Meteorite hunting"
+	quest.51236544BFEF487B.title: "Meteorite Compass"
 	quest.512396B331108BAF.quest_subtitle: "Tier: &e5"
 	quest.5128B119DFFF0C4C.quest_desc: [
 		"The &3Steam Locomotive&r is the most basic &5Locomotive&r. It can be powered by giving it water, furnance fuel, and waiting. It'll need constant water to keep working. \n\nDon't worry that just means the smoke coming out of the top of it is Water Vapor, which is safe for the Environment. Well the Coal part isn't the best for the Environment... eh its &2Minecraft&r what do we care!"
@@ -8006,9 +7995,6 @@
 	quest.519604E883E6B620.quest_desc: ["You'll need this to hold a &dWither&r in place so you can extract &bEther Gas&r from it!"]
 	quest.519604E883E6B620.title: "Statis Chamber"
 	quest.51A567FB870F026E.title: "Steam Age"
-	quest.51A57E142C686C8F.quest_desc: ["The fifth and final MEGA tier of storage component, providing &e268435456&f (262144k) bytes of storage."]
-	quest.51A57E142C686C8F.quest_subtitle: "x4^4"
-	quest.51A57E142C686C8F.title: "256M Storage Component"
 	quest.51B24CC5E9332C1E.quest_desc: ["Sometimes when you kill a mob, a &dVengeance Spirit&r will spawn.\n\nTheir &dEssence&r seems to be useful in crafting more advanced items within EvilCraft.\n\nNot finding many Spirits? Make a &9Vengeance Ring&r and toggle it on to attract more Spirits during your battles."]
 	quest.51B24CC5E9332C1E.title: "Revenge of the &dSpirits"
 	quest.51BC981AB4CFAD95.quest_desc: ["The Mazebreaker is a special pickaxe that is rarely found in Labyrinths.\n\nThis pickaxe will take 1 damage when breaking Maze Walls, instead of the 16 damage for all other pickaxes!"]
@@ -9691,6 +9677,8 @@
 	quest.629DC8DED0F6B578.quest_subtitle: "Not for drinking"
 	quest.62A262A706CFCAF0.quest_desc: ["We won't be creating Dark Power Gems using pools of blood anymore.\n\nInstead, we can make the &9Blood Infuser&r to do all of the messy work for us. This allows you to directly infuse items with blood!\n\nThese can be upgraded using &6Promises&r as well. This is one of the main machines used for progression!"]
 	quest.62A262A706CFCAF0.title: "&aThe &cBlood Infuser"
+	quest.62A770460B86D6FB.quest_desc: ["The Mysterious Cube spawns within the dead center of Meteorites. \\n\\nYou can break them with any Pickaxe and they will drop 4 different Inscribers and the Guide book! \\n\\nYou can learn more about Inscribers in the next Quest, but I'll quickly tell about the Guide here. \\n\\nThe Guide opens the same Guide for AE2 as when Items suggest Holding G. You can also find this Guide online."]
+	quest.62A770460B86D6FB.title: "Mysterious Cube"
 	quest.62B2C1A24AE245EA.quest_desc: ["The &9Deepshelf&r (not dormant) is your next step to Enchanting. Like everything else it needs Infusion. The &9Deepshelf&r needs 30 &aEterna&r, &c40%% Quanta&r, and &540%% Arcana&r. You can get that with &45 Blazing Hellshelves&r and &b4 Heart-Forged Seashelves&r."]
 	quest.62B2C1A24AE245EA.title: "&9Deepshelf&r"
 	quest.62B2FC6821877868.quest_desc: ["After placing down another Table, we'll need the Books, 15 &4Vampire Fangs&r, and &4Pure Blood Level 2&r."]
@@ -10271,9 +10259,6 @@
 	quest.68972BA647FDCF8F.title: "&6Honey Generator"
 	quest.689F32883C4E9502.quest_desc: ["Cataclsym is a mod which adds new bosses, dungeons, and of course loot! There is no certain pattern of which bosses to kill first but some are stronger than others and some give loot that will help against the others. This mod also has two items necessary to building the ATM Star!"]
 	quest.689F32883C4E9502.title: "Cataclysm"
-	quest.68B0B3DAF1145191.quest_desc: ["Two of the very first things you will need to get started in AE2 are the &bCharger&f and the &bInscriber&f.\n\nThe &bCharger&f, when supplied with power, will take &eCertus Quartz Crystals&r and charge them. These &eCharged Certus Crystals&r can then be used in the production of &eFluix&f, another important resource in the mod. It can also be used to charge any item that stores power.\n\nThe &bInscriber&f can be used to turn the various quartz crystals in AE2 into their dust form, but more importantly is used to fabricate special &ePrinted Circuits&f and &eProcessors&f, as will become clearer in the next quest."]
-	quest.68B0B3DAF1145191.quest_subtitle: "First Things First"
-	quest.68B0B3DAF1145191.title: "First Things First"
 	quest.68B2D3B985FC1378.quest_desc: [
 		"A bright and beautiful Forest, full of Torreya Trees and Vines."
 		"{image:atm:textures/questpics/eternal/starlight_torreya.png width:200 height:100 align:center}"
@@ -11597,6 +11582,8 @@
 	quest.752DD0BF36B70D88.quest_desc: ["Furnaces just aren't fast enough in normal &2&lMinecraft&r, so how do you think they're going to fair in Modded!?\n\nThankfully &7&lIron Furnaces&r helps speed them up by a lot! \n\nIt also has a Quest page it is just rooming together with &c&lGenerator Galore&r."]
 	quest.752DD0BF36B70D88.title: "&7&lIron Furnaces"
 	quest.753B3EF7CC94A6DD.quest_desc: ["This is a unique drop from &aPlayers&r, including when you die!\n\nYou &ocould&r get this by dying over and over, or by participating in PvP."]
+	quest.75404F5523D027A8.quest_desc: ["Now we get the idea of AE2 but where to start? \\n\\nMeteorites are our place to go! But where do they spawn? \\n\\nPretty much anywhere in the Overworld! Above ground, under ground, or even in Water. How will I know if I'm at a Meteorite though? \\n\\nYou'll know it's a Meteorite by the massive Crater they are in. Within you'll find a massive rock made of Skystone, which is a dark Grey blue-ish Stone! \\n\\nNow enough questions! Find the Meteorites!"]
+	quest.75404F5523D027A8.title: "Meteorite Hunting"
 	quest.754229E1F1D2DA8A.quest_desc: [
 		"More fusion glass. Just this time we need it to craft a component, not for a multiblock. "
 		""
@@ -12054,6 +12041,8 @@
 		""
 		"Once a recipe has been completed, you will have about 20 seconds where &aright clicking with an empty hand&r will refill the last recipe, making it easier to create multiple of the same items!"
 	]
+	quest.79C0286813FA778A.quest_desc: ["Each Inscriber Press will be used with the Inscriber to make a new Item, these being: \\n\\nInscriber Silicon Press, presses Silicon into Printed Silicon. \\n\\nInscriber Logic Press, will take Gold Ingots into Printed Logic Circuits. \\n\\nInscriber Calculation Press, will press Certus Quartz into Printed Calculation Circuits. \\n\\nAnd Inscriber Engineering Press, will make Printed Engineering Circuits out of Diamonds!"]
+	quest.79C0286813FA778A.title: "Inscriber Presses"
 	quest.79C1105A84B8BF8F.quest_desc: ["Variable Cards are necessary for starting Interactions like Importing Items. You will put them in one of the slots of the Importer to add them.\n\nFrom there you can edit everything via the + Button. You can change how much is Importer, which Item Slot, which Channel, practically everything with just that Card.\n\nIf you're just wanting to move items, nothing too fancy just put it in and maybe change the Limit for how much is moved."]
 	quest.79C1105A84B8BF8F.title: "Variable Cards"
 	quest.79C4CF8D7312FC28.quest_desc: ["The best Vanilla gets! &5Netherite&r! Don't worry you won't need Smithing Template for it, just a lotta &5Netherite&r. \n \nIt smelts an item every 5 Ticks which means 4 Items Smelted every Second. Yes it's no longer S.P.S. (Seconds per Smelt) it's now S.P.S. (Smelts per Seconds). \n \nCrafted from &dObsidian Furnace&r... wait this isn't the final Furnace?"]
@@ -12066,7 +12055,7 @@
 	quest.79C9875A1A494762.quest_desc: ["If you'd rather not use &9Corrupt Souls&r to grow Edelwood, you can rest on Luck! \n\nThe Wandering Trader has a chance of selling Growing Edelwood to you, which can be planted to grow Edelwood. \n\nWandering Trader is very random though, try using Trader Carpets to atleast know where he'll spawn!"]
 	quest.79C9875A1A494762.quest_subtitle: "From Wandy T'"
 	quest.79C9875A1A494762.title: "Buying Edelwood"
-	quest.79D2617E01481281.quest_desc: ["To get started with AE2, you will need to mine an important resource for the mod known as &bCertus Quartz&f. You will find Certus Quartz Crystals in Meteroites that you can mine for Certus Quartz &eDust&f and &eCrystals&f."]
+	quest.79D2617E01481281.quest_desc: ["We got some Budding Certus now time for Certus Certus! \\n\\nThe Certus Quartz Crystals grow like Amethyst Crystals, with 4 stages. \\n\\nThe fully grown stage will drop Certus Quartz while the ones before it will drop Certus Dust. \\n\\nDon't worry we can automate this later!"]
 	quest.79D2617E01481281.title: "Certus Quartz"
 	quest.79D3055DE0EEA6B0.quest_desc: ["&d&lArs Elemental&r &cFire Armor&r!"]
 	quest.79D3055DE0EEA6B0.quest_subtitle: "15"
@@ -12501,6 +12490,7 @@
 	quest.7E697FE6A6C8B4EE.quest_desc: ["These LuV Tier Superconductor ingots will serve us well in making Superconductor Wires, and Fine Wire. "]
 	quest.7E697FE6A6C8B4EE.quest_subtitle: "With Ingots we have options!"
 	quest.7E7637DAD2C242CB.quest_subtitle: "European Larch + Spruce"
+	quest.7E78C665DE75B327.quest_desc: ["The Charger will use Energy to either make new Items or add Energy to existing ones! \\n\\nIn order to use it, simply put an Item into the Charger by Right Clicking the open side and let it do its thing. \\n\\nWe can give it Certus Quartz to get Charged Certus Quartz. We can also use a Compass to get a Meteorite Compass. "]
 	quest.7E79F52147B606F9.quest_desc: ["To start collecting blood, we need to craft the &cBlood Extractor&r.\n\nAs long as you have this in your inventory, killing mobs will collect blood into the extractor. &cBlood&r is an important resource in EvilCraft.\n\nNeed to increase the storage of the Extractor? Simply make another, and then combine them in a crafting grid!\n\nThese can also be used to extract blood from &cBlood Stains&r you find (or create) on the ground.\n\nLastly, with enough blood stored, you can sneak-right click on the ground to place a bucket of blood down."]
 	quest.7E79F52147B606F9.title: "&aCollecting&r &cBlood"
 	quest.7E7FAA72581D2186.quest_desc: [
@@ -12661,9 +12651,10 @@
 	quest.7FF77463F2A0E210.quest_desc: ["Nightfall Mud can only be found within the Dark Swamps. \n\nYou can make more Blocks out of it!"]
 	reward_table.06C4634E81851A6C.title: "Reward: Common"
 	reward_table.08F142CC52B97FF5.title: "Twilight Forest: Rewards"
+	reward_table.0A18991D9745743A.title: "AE2: Basic"
 	reward_table.0C83C7A93ED80A36.title: "Nature's Aura: Rewards"
 	reward_table.0D22FDCFDACCD37C.title: "Vampirism: Vampire 1"
-	reward_table.11204745E52B4C0C.title: "Logs & Saplings"
+	reward_table.11204745E52B4C0C.title: "Logs \\& Saplings"
 	reward_table.1EC6956FA2BB2B00.title: "Basic Storage: Rewards"
 	reward_table.2ED4AA3022326907.title: "Vampirism: Vampire 2"
 	reward_table.3A3BDBA4E9AD13C4.title: "Reward: Uncommon"
@@ -12673,6 +12664,7 @@
 	reward_table.4C4D55CE591EA4F5.title: "Vampirism: Hunter 3"
 	reward_table.4D37FFAF33DF678A.title: "Reward: Rare"
 	reward_table.509855E4C0006CE2.title: "Vampirism: Vampire 3"
+	reward_table.517CB2DAB0515A50.title: "AE2: Better"
 	reward_table.5832C9BCFDB476AF.title: "Ars Nouveau: Rewards"
 	reward_table.611A165B35847A5A.title: "Bumblezone: Rewards"
 	reward_table.617F6D802ED0FD00.title: "Reward: Epic"

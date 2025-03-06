@@ -1,7 +1,7 @@
 {
 	id: "2ED4AA3022326907"
 	loot_size: 1
-	order_index: 20
+	order_index: 22
 	rewards: [
 		{ id: "60CB7633BF26A271", item: { count: 1, id: "minecraft:iron_block" } }
 		{ id: "043BD7792C2CE0D3", item: { count: 1, id: "minecraft:gold_block" } }
