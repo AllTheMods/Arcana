@@ -4,6 +4,9 @@
 	default_quest_shape: "rsquare"
 	filename: "vampires_and_werewolves"
 	group: "5DB9CE6F9A446FB4"
+	icon: {
+		id: "vampirism:vampire_fang"
+	}
 	id: "46FF8D6DA1E7EF81"
 	images: [
 		{
@@ -21,6 +24,30 @@
 			width: 35.0d
 			x: -21.0d
 			y: 2.5d
+		}
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/monsters/vampire_title.png"
+			rotation: 0.0d
+			width: 20.0d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/monsters/vampire_hunter.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -17.0d
+			y: -1.0d
+		}
+		{
+			height: 2.5d
+			image: "atm:textures/questpics/monsters/vampire_vampire.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 14.5d
+			y: -1.5d
 		}
 	]
 	order_index: 2
