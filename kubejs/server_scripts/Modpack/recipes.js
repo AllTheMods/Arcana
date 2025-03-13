@@ -17,10 +17,62 @@ ServerEvents.generateData('after_mods', allthemods => {
         )
     }
 })
+function enchanting_apparatus(allthemods, output, pedestalItems, reagent, nbt, sourceCost, id){
+    let recipe = {
+        "type": "ars_nouveau:enchanting_apparatus",
+        "keepNbtOfReagent": nbt,
+        "pedestalItems": [],
+        "reagent": {},
+        "result": {
+            "count": output.count || 1,
+            "id": output.item
+        },
+        "sourceCost": sourceCost
+    };
+
+    if (reagent.tag) {
+        recipe.reagent.tag = reagent.tag;
+    } else {
+        recipe.reagent.item = reagent.item;
+    }
+
+    pedestalItems.forEach(input => {
+
+        let ingredients = {}
+
+        if (input.tag) {
+            ingredients.tag = input.tag;
+        } else {
+            ingredients.item = input.item;
+        }
+
+        recipe.pedestalItems.push(ingredients);
+    });
+
+    allthemods.custom(recipe).id(`kubejs:enchanting_apparatus/${id}`);
+}
 
 
 ServerEvents.recipes((allthemods) => {
     allthemods.remove({ id: 'forcecraft:force_engine' })
+
+    enchanting_apparatus(allthemods,
+        {item: 'allthemodium:unobtainium_allthemodium_alloy_ingot'},
+        [
+            {item: 'primalmagick:hallowsteel_ingot'},
+            {item: 'ars_nouveau:air_essence'},
+            {tag: 'c:ingots/allthemodium'},
+            {item: 'ars_nouveau:earth_essence'},
+            {item: 'allthemodium:piglich_heart'},
+            {item: 'ars_nouveau:fire_essence'},
+            {tag: 'c:ingots/unobtainium'},
+            {item: 'ars_nouveau:water_essence'}],
+        {item: 'ars_nouveau:source_gem'},
+        false,
+        35000,
+        'unobtainium_allthemodium_alloy_ingot'
+    );
+    
 
     allthemods.custom({
         type: "create:mechanical_crafting",
@@ -81,6 +133,8 @@ ServerEvents.recipes((allthemods) => {
         
       }).id('allthemods:patrick_star')
 })
+
+
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMagic - Arcana.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
