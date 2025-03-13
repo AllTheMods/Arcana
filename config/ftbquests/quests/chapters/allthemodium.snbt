@@ -215,17 +215,6 @@
 				id: "minecraft:barrier"
 			}
 			id: "11E957CDEFA0CAAB"
-			rewards: [{
-				id: "4BB724E0CCCAF4E3"
-				item: {
-					components: {
-						"ftbquests:missing_item": "utilitarian:angel_block"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "square"
 			tasks: [{
 				dimension: "allthemodium:the_beyond"
@@ -931,34 +920,6 @@
 			]
 			x: 0.0d
 			y: -1.5d
-		}
-		{
-			dependencies: ["6D738730B371B152"]
-			hide_until_deps_complete: true
-			icon: {
-				id: "allthemodium:allthemodium_slate_ore"
-			}
-			id: "18FAD56CDE05646A"
-			rewards: [{
-				id: "0D1A710E9B16FB72"
-				item: {
-					components: {
-						"minecraft:potion_contents": {
-							potion: "potionsmaster:allthemodium"
-						}
-					}
-					count: 1
-					id: "minecraft:potion"
-				}
-				type: "item"
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "6AE0DA6AB109A840"
-				type: "checkmark"
-			}]
-			x: 9.0d
-			y: -3.5d
 		}
 	]
 }
