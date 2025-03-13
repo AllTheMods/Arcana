@@ -104,6 +104,12 @@ global.potions_server = [
     color: -28929,
     item: '#c:gems/dark',
     name: 'Dark'
+  },
+  {
+    id: 'zinc',
+    color: -4868747,
+    item: '#c:raw_materials/zinc',
+    name: 'Zinc'
   }
 ]
 
