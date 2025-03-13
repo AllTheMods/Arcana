@@ -23,7 +23,7 @@ const strucBlocksReplacementMap = {
 
 
   MoreJS.structureLoad((event) => {
-    
+    if(event.id.startsWith('mysticrift_pharaohs_legacy')){
       event.forEachPalettes((palette) => {
         palette.forEach((struc) => {
           if (struc.block.id == "minecraft:jigsaw") {
@@ -43,5 +43,6 @@ const strucBlocksReplacementMap = {
           
         })
       })
+    }
     
   })
