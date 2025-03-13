@@ -1,0 +1,1607 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "eforcecraft"
+	group: "0C9C9B01123A3A54"
+	id: "3116369AF7632653"
+	images: [
+		{
+			height: 2.5d
+			image: "atm:textures/questpics/force/forcecraft.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			height: 4.0d
+			image: "atm:textures/questpics/force/force_infuser.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 11.0d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "forcecraft:item/baconator"
+			rotation: 0.0d
+			width: 2.0d
+			x: 11.0d
+			y: -3.5d
+		}
+		{
+			height: 2.0d
+			image: "forcecraft:item/inert_core"
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.0d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "forcecraft:item/undeath_card"
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.0d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "forcecraft:block/time_torch"
+			rotation: 0.0d
+			width: 2.0d
+			x: 22.0d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "forcecraft:item/pig_force_flask"
+			rotation: 0.0d
+			width: 2.0d
+			x: 22.5d
+			y: -3.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3E6A4428C69A065A"
+			rewards: [
+				{
+					count: 10
+					id: "18164AAFB954B634"
+					item: {
+						count: 1
+						id: "forcecraft:force_gem"
+					}
+					type: "item"
+				}
+				{
+					id: "304BCED464666EE0"
+					item: {
+						components: {
+							"patchouli:book": "forcecraft:force_and_you"
+						}
+						count: 1
+						id: "patchouli:guide_book"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "15F7A10E8977C61C"
+				item: { count: 1, id: "forcecraft:force_gem" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E6A4428C69A065A"]
+			id: "1B686A2D2FE07823"
+			rewards: [{
+				count: 5
+				id: "64BC4A8EF354ABDD"
+				item: {
+					count: 1
+					id: "forcecraft:force_ingot"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "68A3D8ACFC52E0F1"
+				item: { count: 1, id: "forcecraft:force_ingot" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B686A2D2FE07823"]
+			id: "3B15060E66BFFBFD"
+			rewards: [{
+				id: "05613BDEF9364D1D"
+				item: {
+					count: 1
+					id: "forcecraft:force_pack_upgrade"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7B3EB2DD10CF7393"
+				item: { count: 1, id: "forcecraft:force_pack" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1B686A2D2FE07823"]
+			id: "5F92C477E8A8F01F"
+			rewards: [{
+				count: 4
+				id: "32A90C3000F8F169"
+				item: {
+					count: 1
+					id: "forcecraft:force_ingot"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "079B597F7A897708"
+				item: { count: 1, id: "forcecraft:force_belt" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1B686A2D2FE07823"]
+			id: "46D32C29D9C9AB0C"
+			rewards: [{
+				count: 6
+				id: "2E1BA8A33E34E88C"
+				item: {
+					count: 1
+					id: "forcecraft:force_ingot"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "0FEAEABFE15AC2A0"
+					item: { count: 1, id: "forcecraft:force_helmet" }
+					type: "item"
+				}
+				{
+					id: "1FED73CA20FBC906"
+					item: { count: 1, id: "forcecraft:force_chest" }
+					type: "item"
+				}
+				{
+					id: "2B7D79AFD6D87D12"
+					item: { count: 1, id: "forcecraft:force_legs" }
+					type: "item"
+				}
+				{
+					id: "1CB88A992EAA7E61"
+					item: { count: 1, id: "forcecraft:force_boots" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1B686A2D2FE07823"]
+			id: "1B34B03A24246C26"
+			rewards: [{
+				count: 20
+				id: "262E8B63B4A2EEF4"
+				item: {
+					count: 1
+					id: "forcecraft:raw_bacon"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2EE48D52452D2D01"
+				item: { count: 1, id: "forcecraft:force_shears" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1B686A2D2FE07823"]
+			id: "2DA2A43878C9E074"
+			rewards: [{
+				id: "71EA765A6A5D60C7"
+				item: {
+					count: 1
+					id: "minecraft:oak_sapling"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5BBC91ADD728BA53"
+				item: { count: 1, id: "forcecraft:force_rod" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2DA2A43878C9E074"]
+			id: "660E1D117D8AF14F"
+			rewards: [{
+				count: 3
+				id: "66760142864D9318"
+				item: {
+					count: 1
+					id: "forcecraft:force_sapling"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7AED2E978CDE02CF"
+				item: { count: 1, id: "forcecraft:force_sapling" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["660E1D117D8AF14F"]
+			id: "414A3AA20022D73B"
+			rewards: [{
+				count: 10
+				id: "77F6ABB0BE6E7E4F"
+				item: {
+					count: 1
+					id: "forcecraft:force_log"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7F5119A5B741E580"
+				item: { count: 1, id: "forcecraft:force_stick" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["414A3AA20022D73B"]
+			id: "3A4C1EA3E676CC78"
+			rewards: [{
+				id: "2BBECD766A539CA9"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:unbreaking": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5873CF989D396772"
+				item: { count: 1, id: "forcecraft:force_rod" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["414A3AA20022D73B"]
+			id: "6B5A97707E677A57"
+			rewards: [{
+				count: 3
+				id: "51325B1B8D3E8877"
+				item: {
+					count: 1
+					id: "forcecraft:force_ingot"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "566DD173B45A868B"
+				item: { components: { "ftbfiltersystem:filter": "or(item(forcecraft:force_pickaxe)item(forcecraft:force_axe)item(forcecraft:force_shovel)item(forcecraft:force_sword)item(forcecraft:force_bow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2DA2A43878C9E074"]
+			id: "4BBCBB82D3DBAD2F"
+			rewards: [
+				{
+					count: 2
+					id: "6041DFD8BBDC457B"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "698A07A2D5DB64CF"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "5FEF1E1D43F3F8F6"
+				item: { count: 1, id: "forcecraft:infuser" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4BBCBB82D3DBAD2F"]
+			id: "0843A52B84A94ECD"
+			rewards: [{
+				count: 20
+				id: "3435C77AB8ED086B"
+				item: {
+					count: 1
+					id: "forcecraft:force_gem"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "12E946C19CC0260F"
+				item: { count: 1, id: "forcecraft:force_gem" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4BBCBB82D3DBAD2F"]
+			id: "68054AF8A3CEF706"
+			shape: "diamond"
+			tasks: [{
+				id: "4A91E0E4A05298F5"
+				item: { count: 1, id: "forcecraft:upgrade_tome" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"4BBCBB82D3DBAD2F"
+				"68054AF8A3CEF706"
+				"0843A52B84A94ECD"
+			]
+			icon: {
+				id: "forcecraft:infuser"
+			}
+			id: "120D24467ABF3A6E"
+			rewards: [{
+				id: "5F4588756C38EE36"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "20293039D23A1C69"
+				observe_type: 0
+				timer: 0L
+				to_observe: "forcecraft:infuser"
+				type: "observation"
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["120D24467ABF3A6E"]
+			icon: {
+				components: {
+					"relics:data": {
+						abilities: {
+							abilities: {
+								power: {
+									extender: {
+										cooldown: 0
+										cooldownCap: 0
+										ticking: 0b
+									}
+									lock: {
+										breaks: 5
+									}
+									points: 0
+									research: {
+										links: { }
+										researched: 0b
+									}
+									stats: {
+										amount: {
+											initialValue: 0.94682d
+										}
+									}
+								}
+							}
+						}
+						leveling: {
+							experience: 0
+							level: 0
+							luck: 0
+							points: 0
+						}
+					}
+				}
+				id: "artifacts:power_glove"
+			}
+			id: "71F1B741136A3A11"
+			rewards: [{
+				count: 4
+				id: "418B871037188644"
+				item: {
+					count: 1
+					id: "forcecraft:claw"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6E522100BAF6E4AD"
+				item: { count: 1, id: "forcecraft:claw" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["120D24467ABF3A6E"]
+			icon: {
+				id: "forcecraft:force_stick"
+			}
+			id: "0F3C4368BB752CC0"
+			rewards: [{
+				count: 7
+				id: "60BA158437D87F5C"
+				item: {
+					count: 1
+					id: "forcecraft:force_nugget"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5CBEF1A6EFC939F3"
+				item: { count: 1, id: "forcecraft:force_nugget" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"0F3C4368BB752CC0"
+				"71F1B741136A3A11"
+			]
+			icon: {
+				id: "forcecraft:infuser"
+			}
+			id: "4CC6EDF0AD572858"
+			rewards: [{
+				id: "34185B8F0FF04907"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			shape: "square"
+			tasks: [{
+				id: "7CB3001E90E2C38D"
+				observe_type: 0
+				timer: 0L
+				to_observe: "forcecraft:infuser"
+				type: "observation"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4CC6EDF0AD572858"]
+			icon: {
+				id: "minecraft:campfire"
+			}
+			id: "616C0B40A44A5A4C"
+			rewards: [{
+				count: 8
+				id: "30A18ADCDC930BA9"
+				item: {
+					count: 1
+					id: "forcecraft:force_log"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0797FFF5344E14F9"
+				item: { count: 1, id: "forcecraft:golden_power_source" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4CC6EDF0AD572858"]
+			icon: {
+				id: "forcecraft:force_axe"
+			}
+			id: "078E20AAF1C50628"
+			rewards: [{
+				id: "5296F447860400BA"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:efficiency": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4D4D566E7C5F1900"
+				item: { count: 1, id: "forcecraft:force_log" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4CC6EDF0AD572858"]
+			id: "3A1D9EF2882C87C4"
+			rewards: [{
+				count: 5
+				id: "548B89C92BCA9EED"
+				item: {
+					count: 1
+					id: "minecraft:sugar"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5A978C07090F8352"
+				item: { count: 1, id: "minecraft:sugar" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"3A1D9EF2882C87C4"
+				"078E20AAF1C50628"
+				"616C0B40A44A5A4C"
+			]
+			icon: {
+				id: "forcecraft:infuser"
+			}
+			id: "4CE1410FAB79C4B6"
+			rewards: [{
+				id: "793BB52AFF3001BB"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "7984895239ADA9D4"
+				observe_type: 0
+				timer: 0L
+				to_observe: "forcecraft:infuser"
+				type: "observation"
+			}]
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4CE1410FAB79C4B6"]
+			id: "35E0ECCBE1D13EF8"
+			rewards: [{
+				count: 5
+				id: "724BA65D7E94F39C"
+				item: {
+					count: 1
+					id: "minecraft:snowball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "538C0410D69F7245"
+				item: { count: 1, id: "forcecraft:snow_cookie" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4CE1410FAB79C4B6"]
+			id: "0ADF99F5853BB4D6"
+			rewards: [{
+				count: 5
+				id: "20297E0B502504F7"
+				item: {
+					count: 1
+					id: "minecraft:flint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "05F2E87C0388A607"
+				item: { count: 1, id: "minecraft:flint" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4CE1410FAB79C4B6"]
+			id: "2814CDC22F4E0CD7"
+			rewards: [{
+				count: 3
+				id: "5DDCB579A113354C"
+				item: {
+					count: 1
+					id: "forcecraft:force_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "50E9C485361E3F04"
+				item: { count: 1, id: "forcecraft:force_pack_upgrade" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4CE1410FAB79C4B6"]
+			icon: {
+				id: "occultism:chalk_rainbow"
+			}
+			id: "6F2FB040AFA1C121"
+			rewards: [
+				{
+					count: 3
+					id: "0CDD4AAAD9344EA5"
+					item: {
+						count: 1
+						id: "minecraft:red_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2D501253F07D704F"
+					item: {
+						count: 1
+						id: "minecraft:orange_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "55B086CE71504A14"
+					item: {
+						count: 1
+						id: "minecraft:yellow_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6E7D61533054F11C"
+					item: {
+						count: 1
+						id: "minecraft:green_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2913CA418E88FDCD"
+					item: {
+						count: 1
+						id: "minecraft:cyan_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "45D40CCE0DE500C7"
+					item: {
+						count: 1
+						id: "minecraft:blue_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "30A3FAE2ED6151FA"
+					item: {
+						count: 1
+						id: "minecraft:purple_dye"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2B9F10DB3F3F22A6"
+				item: { count: 1, id: "minecraft:blue_dye" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4CE1410FAB79C4B6"]
+			id: "0DEED7B2A17BA110"
+			rewards: [{
+				count: 10
+				id: "6C5B287DDF4BA66F"
+				item: {
+					count: 1
+					id: "minecraft:experience_bottle"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "34A9560E6145E440"
+				item: { count: 1, id: "minecraft:experience_bottle" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4CE1410FAB79C4B6"]
+			id: "47A2C15929AE56D4"
+			rewards: [{
+				count: 8
+				id: "288855512611F898"
+				item: {
+					count: 1
+					id: "minecraft:sugar"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "45952932104558DA"
+				item: { count: 1, id: "minecraft:sugar" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4CE1410FAB79C4B6"]
+			id: "3ECABFDCCB7324AA"
+			rewards: [{
+				count: 4
+				id: "490FAD69FBB7EE1D"
+				item: {
+					count: 1
+					id: "forcecraft:fortune"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F131AFFCF988B84"
+				item: { count: 1, id: "forcecraft:fortune_cookie" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"47A2C15929AE56D4"
+				"35E0ECCBE1D13EF8"
+				"0DEED7B2A17BA110"
+				"0ADF99F5853BB4D6"
+				"3ECABFDCCB7324AA"
+				"6F2FB040AFA1C121"
+				"2814CDC22F4E0CD7"
+			]
+			icon: {
+				id: "forcecraft:infuser"
+			}
+			id: "059ECD12D89D34B1"
+			rewards: [{
+				id: "78C98621DC060345"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			shape: "square"
+			tasks: [{
+				id: "701A9BEEF741F399"
+				observe_type: 0
+				timer: 0L
+				to_observe: "forcecraft:infuser"
+				type: "observation"
+			}]
+			x: 15.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["059ECD12D89D34B1"]
+			id: "3243507A885417F6"
+			rewards: [{
+				count: 6
+				id: "145C3B3A497794FB"
+				item: {
+					count: 1
+					id: "forcecraft:force_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6042CD8BCD6FDF6A"
+				item: { count: 1, id: "forcecraft:force_pack_upgrade" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["059ECD12D89D34B1"]
+			id: "12A9C60B6382EF82"
+			rewards: [{
+				count: 4
+				id: "67E90DF647C6B7E7"
+				item: {
+					count: 1
+					id: "minecraft:cobweb"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1CD130A815B47182"
+				item: { count: 1, id: "minecraft:cobweb" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["059ECD12D89D34B1"]
+			id: "42898C43BE437012"
+			rewards: [{
+				count: 16
+				id: "0F48772C9AF08589"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4ED0FCA9FE8039C2"
+				item: { count: 1, id: "minecraft:arrow" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["059ECD12D89D34B1"]
+			id: "459A93445D6497CC"
+			rewards: [{
+				id: "20CF252EEC5BC397"
+				item: {
+					count: 1
+					id: "forcecraft:force_rod"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "36FB54631E171BFC"
+				item: { components: { "minecraft:potion_contents": { potion: "minecraft:invisibility" } }, count: 1, id: "minecraft:potion" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"12A9C60B6382EF82"
+				"459A93445D6497CC"
+				"3243507A885417F6"
+				"42898C43BE437012"
+			]
+			id: "7A2CC1EAB820E466"
+			rewards: [{
+				id: "3BF4D03381327AEA"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "6846007DBDB897F7"
+				item: { count: 1, id: "forcecraft:infuser" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7A2CC1EAB820E466"]
+			id: "3D02F400BAFB933D"
+			rewards: [{
+				count: 9
+				id: "79E4488A6A535A51"
+				item: {
+					count: 1
+					id: "forcecraft:force_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "46EB7EA7C39D4EF4"
+				item: { count: 1, id: "forcecraft:force_pack_upgrade" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7A2CC1EAB820E466"]
+			id: "4F7E7060FB7793D8"
+			rewards: [{
+				count: 5
+				id: "4AEB2CE20E83D167"
+				item: {
+					count: 1
+					id: "minecraft:spider_eye"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6C7E7AFCD33ECF3B"
+				item: { count: 1, id: "minecraft:spider_eye" }
+				type: "item"
+			}]
+			x: 19.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7A2CC1EAB820E466"]
+			icon: {
+				id: "irons_spellbooks:fire_upgrade_orb"
+			}
+			id: "210FC2687B26BBFC"
+			rewards: [{
+				count: 3
+				id: "3EAEC30763FC7A09"
+				item: {
+					count: 1
+					id: "forcecraft:force_sapling"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4EDF9831993873D9"
+				item: { count: 1, id: "forcecraft:golden_power_source" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"4F7E7060FB7793D8"
+				"3D02F400BAFB933D"
+				"210FC2687B26BBFC"
+			]
+			icon: {
+				id: "forcecraft:infuser"
+			}
+			id: "2F95D689C575EBDA"
+			rewards: [{
+				id: "47D854512607EBDC"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			shape: "square"
+			tasks: [{
+				id: "0304101729E1CF81"
+				observe_type: 0
+				timer: 0L
+				to_observe: "forcecraft:infuser"
+				type: "observation"
+			}]
+			x: 20.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2F95D689C575EBDA"]
+			id: "44BA5B73E348C13E"
+			rewards: [{
+				count: 12
+				id: "704B456E3A86E9ED"
+				item: {
+					count: 1
+					id: "forcecraft:force_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7E622CF1A8AFA5D6"
+				item: { count: 1, id: "forcecraft:force_pack_upgrade" }
+				type: "item"
+			}]
+			x: 21.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2F95D689C575EBDA"]
+			icon: {
+				id: "minecraft:enchanted_golden_apple"
+			}
+			id: "4E5F9E5430A112C9"
+			rewards: [{
+				count: 4
+				id: "068AED1C664F7D95"
+				item: {
+					count: 1
+					id: "minecraft:ghast_tear"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "57D0A632B1ACAF4F"
+				item: { count: 1, id: "minecraft:ghast_tear" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2F95D689C575EBDA"]
+			id: "3DFEAE56E78E7DC9"
+			rewards: [{
+				count: 3
+				id: "1166F8AFF042A9C5"
+				item: {
+					count: 1
+					id: "minecraft:feather"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1C275CAC4D9A5DC8"
+				item: { count: 1, id: "minecraft:feather" }
+				type: "item"
+			}]
+			x: 21.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"4E5F9E5430A112C9"
+				"3DFEAE56E78E7DC9"
+				"44BA5B73E348C13E"
+			]
+			icon: {
+				id: "forcecraft:infuser"
+			}
+			id: "2E6B176052989772"
+			rewards: [{
+				id: "280A73EBEE8012AF"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "6B5E230884D79A73"
+				observe_type: 0
+				timer: 0L
+				to_observe: "forcecraft:infuser"
+				type: "observation"
+			}]
+			x: 22.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2E6B176052989772"]
+			icon: {
+				id: "forcecraft:time_torch"
+			}
+			id: "45ACC804D47C5D6C"
+			rewards: [{
+				count: 8
+				id: "0A52B82D3960B354"
+				item: {
+					count: 1
+					id: "minecraft:clock"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3BD91368B81F2F7D"
+				item: { count: 1, id: "minecraft:clock" }
+				type: "item"
+			}]
+			x: 23.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2E6B176052989772"]
+			id: "7AA58B747E257572"
+			rewards: [{
+				count: 5
+				id: "31685461EE4EF2D6"
+				item: {
+					count: 1
+					id: "minecraft:obsidian"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "476DC908F2EFB5F4"
+				item: { count: 1, id: "minecraft:obsidian" }
+				type: "item"
+			}]
+			x: 24.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2E6B176052989772"]
+			id: "60904EA827B2F281"
+			rewards: [{
+				count: 4
+				id: "42EF986A5A1AF7BB"
+				item: {
+					count: 1
+					id: "minecraft:ender_pearl"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "43F56BF9347B4B94"
+				item: { count: 1, id: "minecraft:ender_pearl" }
+				type: "item"
+			}]
+			x: 23.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"7AA58B747E257572"
+				"45ACC804D47C5D6C"
+				"60904EA827B2F281"
+			]
+			icon: {
+				id: "forcecraft:infuser"
+			}
+			id: "59B772335D48997C"
+			rewards: [{
+				id: "50E74D8780CB20C4"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "square"
+			tasks: [{
+				id: "26AF144A982589DA"
+				observe_type: 0
+				timer: 0L
+				to_observe: "forcecraft:infuser"
+				type: "observation"
+			}]
+			x: 25.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["59B772335D48997C"]
+			id: "734412D64A5F4490"
+			rewards: [{
+				id: "42A08ABD384B940F"
+				item: {
+					count: 1
+					id: "minecraft:nether_star"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "60BC0D149BEFB122"
+				item: { count: 1, id: "forcecraft:treasure_core" }
+				type: "item"
+			}]
+			x: 26.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["59B772335D48997C"]
+			id: "5B7C262C4354D6D4"
+			rewards: [{
+				count: 10
+				id: "6E48117D9DE999A9"
+				item: {
+					count: 1
+					id: "minecraft:glowstone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "504C5D0733CC8DC7"
+				item: { count: 1, id: "minecraft:glowstone" }
+				type: "item"
+			}]
+			x: 26.0d
+			y: 0.5d
+		}
+		{
+			id: "7986AEB0FA97182D"
+			rewards: [{
+				count: 4
+				id: "03FAA1D97630B32D"
+				item: {
+					count: 1
+					id: "forcecraft:force_flask"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "790E2D363BDE2240"
+				item: { count: 1, id: "forcecraft:force_flask" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7986AEB0FA97182D"]
+			id: "2B097D0A67767260"
+			rewards: [{
+				count: 8
+				id: "474F23580A22B91A"
+				item: {
+					count: 1
+					id: "forcecraft:raw_bacon"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "694BE09544C55EC2"
+				item: { count: 1, id: "forcecraft:pig_flask" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2B097D0A67767260"]
+			id: "54894A1B8E786FB7"
+			rewards: [{
+				count: 30
+				id: "3B0FC56CAB62300B"
+				item: {
+					count: 1
+					id: "forcecraft:cooked_bacon"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "13328814003809EB"
+				item: { count: 1, id: "forcecraft:baconator" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7986AEB0FA97182D"]
+			id: "12278EDC6D7387B5"
+			rewards: [{
+				count: 15
+				id: "258690B34FF57525"
+				item: {
+					count: 1
+					id: "forcecraft:force_gem"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "68404A1C0F875C6E"
+				item: { count: 1, id: "forcecraft:force_filled_force_flask" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["12278EDC6D7387B5"]
+			id: "0E56A276DD0A7A66"
+			rewards: [
+				{
+					id: "79308F5BF205222B"
+					item: {
+						count: 1
+						id: "forcecraft:force_filled_force_flask"
+					}
+					type: "item"
+				}
+				{
+					id: "353BAC5E574B6EE1"
+					item: {
+						count: 1
+						id: "minecraft:lava_bucket"
+					}
+					type: "item"
+				}
+				{
+					id: "1C543FC074462BEB"
+					item: {
+						count: 1
+						id: "minecraft:water_bucket"
+					}
+					type: "item"
+				}
+				{
+					id: "4022DC81ECAB4FCE"
+					item: {
+						count: 1
+						id: "minecraft:milk_bucket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7F2D278C6D19DB8E"
+				item: { count: 1, id: "forcecraft:force_engine" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["080099D13D0FFF6C"]
+			id: "6E26ED53BFD1B44C"
+			rewards: [
+				{
+					count: 5
+					id: "19E4BCD099C625CE"
+					item: {
+						count: 1
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "3F6B18F19428AAFB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "5DB95F55B39CED0C"
+				item: { count: 1, id: "forcecraft:bottled_wither" }
+				type: "item"
+			}]
+			x: 15.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0E56A276DD0A7A66"]
+			id: "080099D13D0FFF6C"
+			rewards: [{
+				id: "347CF90B1186972B"
+				item: {
+					count: 1
+					id: "minecraft:nether_star"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4BD84D1ACECFD881"
+				item: { count: 1, id: "forcecraft:inert_core" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"7CD885388E09C88C"
+				"0DEED7B2A17BA110"
+			]
+			hide_dependency_lines: true
+			id: "30D9C20244DA6A0C"
+			rewards: [{
+				count: 3
+				id: "1C66135808BD3D3E"
+				item: {
+					count: 1
+					id: "forcecraft:experience_core"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "4964C333619BE0C0"
+				item: { count: 1, id: "forcecraft:experience_core" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"7CD885388E09C88C"
+				"0ADF99F5853BB4D6"
+			]
+			hide_dependency_lines: true
+			id: "692DDE07FB581A51"
+			rewards: [{
+				count: 3
+				id: "1F9CD105D1DD860E"
+				item: {
+					count: 1
+					id: "forcecraft:grinding_core"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "36567A6F44CB6302"
+				item: { count: 1, id: "forcecraft:grinding_core" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 3.0d
+		}
+		{
+			icon_scale: 2.0d
+			id: "7B35AC611D7092B4"
+			rewards: [{
+				count: 10
+				id: "40D87AD61D5EAB4E"
+				item: {
+					count: 1
+					id: "minecraft:coal_block"
+				}
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "6B20FC449EA04C82"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(forcecraft:force_furnace))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7CD885388E09C88C"
+				"210FC2687B26BBFC"
+			]
+			hide_dependency_lines: true
+			id: "03A1BD004CE46F88"
+			rewards: [{
+				count: 3
+				id: "2DDEE472D20344E0"
+				item: {
+					count: 1
+					id: "forcecraft:heat_core"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "39FB2B6930A93ABD"
+				item: { count: 1, id: "forcecraft:heat_core" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0DEED7B2A17BA110"]
+			hide_dependency_lines: true
+			id: "7CD885388E09C88C"
+			rewards: [{
+				count: 5
+				id: "6554EE15B7893377"
+				item: {
+					count: 1
+					id: "forcecraft:upgrade_core"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "6930C540D878D09D"
+				item: { count: 1, id: "forcecraft:upgrade_core" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7CD885388E09C88C"
+				"35E0ECCBE1D13EF8"
+			]
+			hide_dependency_lines: true
+			id: "1DE3E93C00845162"
+			rewards: [{
+				count: 3
+				id: "0C5FDBA4AD2BD073"
+				item: {
+					count: 1
+					id: "forcecraft:freezing_core"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "754D4562443E18DE"
+				item: { count: 1, id: "forcecraft:freezing_core" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"7CD885388E09C88C"
+				"47A2C15929AE56D4"
+			]
+			hide_dependency_lines: true
+			id: "34D45CD0AB1086A5"
+			rewards: [{
+				count: 3
+				id: "02D36314F4BCAB69"
+				item: {
+					count: 1
+					id: "forcecraft:speed_core"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "3E57ED81AFA52F30"
+				item: { count: 1, id: "forcecraft:speed_core" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 5.0d
+		}
+	]
+}

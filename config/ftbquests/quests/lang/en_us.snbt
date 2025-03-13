@@ -22,6 +22,7 @@
 	chapter.29EFE8220836C79A.title: "&aChapter 2&r: &6The ATM Star"
 	chapter.2A6EBEEBAB882679.title: "Powah"
 	chapter.2FB24A5A597459FC.title: "RailCraft"
+	chapter.3116369AF7632653.title: "&eForceCraft"
 	chapter.3456E0C530C0038E.title: "EvilCraft"
 	chapter.37BC0E99F564D560.title: "Steam Age"
 	chapter.3C78926E5D301BA0.title: "Extreme Reactors"
@@ -46,6 +47,7 @@
 	chapter.6AEDA2F9BEB57759.title: "Ars Nouveau"
 	chapter.73180B829B960E63.title: "Generators N Furnaces"
 	chapter.732824E03978A934.title: "&aChapter 1&r: &bThe Beginning"
+	chapter.75CBE8EF966D3D4E.title: "Myths and Legends"
 	chapter.76DF5FAA7961E5E7.title: "Iron's Spells 'n Spellbooks"
 	chapter.7732CF7AAA63DB3A.title: "The Twilight Forest"
 	chapter.7A72E12C3839D165.title: "Nature's Aura"
@@ -131,12 +133,16 @@
 	quest.00AC7CC291A3E590.quest_desc: ["You've probably (definitely) seen structures around the world with what looks like Beacons coming out of them. They're made of cobblestone, have 4 legs supporting them, kinda high in the air! \n\nHopefully you know it but they're called &8Dark Temples&r and they have an &aEnviromental Accumulator&r which we need. \n\nYou'll have to wait for Thunderstorm to happen to fill your Weather Container. Then, you can make your &3Lightning Bomb&r!"]
 	quest.00AC7CC291A3E590.title: "&3Lightning Bomb"
 	quest.00B7DD3AFC94B037.quest_subtitle: "Beech + Alder"
+	quest.00BA4B74737AB39E.quest_desc: ["&5Cursed Cores&r are a rare Drop from &5&lPossessed Armors&r. \\n\\nHow rare? They are so rare after killing a dozen I didn't believe that &5&lPossessed Armors&r drop them! \\n\\nThanks to the Wiki I now know that they do drop them. \\n\\nYou'll need a &5Cursed Core&r for each piece of &5Bound Soul Armor&r!"]
+	quest.00BA4B74737AB39E.title: "&5Cursed Core"
 	quest.00BF4E98A328801D.quest_desc: [
 		"Give that dust an acid bath with &bHydrochloric Acid&r in the &eChemical Bath&r to make this"
 		""
 		"You'll then need to &eElectrolyze&r it to get the &dTungsten&r out"
 	]
 	quest.00C24A7DFEAEE956.quest_subtitle: "Increases AoE Effect"
+	quest.00C630113D34A7AA.quest_desc: ["&5Possessed Armor Fragments&r are common Drops from &5&lPossessed Armor&r, and Chest Loot from &5Ancient Vestiges&r. \\n\\nThey can then be smelt into &5Bound Soul Ingots&r. \\n\\nThese will be needed to Craft &5Bound Soul Armor&r. "]
+	quest.00C630113D34A7AA.title: "&5Possessed Armor Fragments"
 	quest.00CB8D60E7831A57.quest_desc: ["Catacombs are massive underground structures made of Depthrock Bricks. They might have a part sticking out of the ground you can find. \n\nWithin the huge maze lies &7Forgottens&r, hidden Chests, and the boss: &aForgotten Guardian&r. \n\nHope you're prepared for it!"]
 	quest.00CB8D60E7831A57.title: "Catacombs"
 	quest.00D7BCC68D971A53.quest_desc: ["Living creatures nearby will be automatically tracked, even through walls. If it's an aggressive mob you'll get a warning when it targets you."]
@@ -216,6 +222,8 @@
 	quest.019CA0E35F888222.title: "&eAdvanced Restock Upgrade"
 	quest.01B13BBB41BBB460.quest_desc: ["&cUtherium Armor&r has same stats as Netherite Armor! \n\nWithout needing a Smithing Template!"]
 	quest.01B13BBB41BBB460.title: "&cUtherium&r Armor"
+	quest.01C1300BE92F2145.quest_desc: ["&c&lImps&r fly around everywhere in &c&lThe Nether&r. \\n\\nThey are very similar in size and actions to a Vex, they are small and fly through Blocks. \\n\\nInstead of Iron Swords though, &c&lImps&r have &3Tridents&r! I think they are supposed to be Pitchforks. \\n\\n&c&lImps&r also have 7 &4Hearts of Health&r and can Shoot &cFireballs &flike &cBlazes&r. When killed will split into 2 &c&lImp Clones&r! \\n\\nEach &c&lImp Clone&r looks like half an &c&lImp&r. They also have 3 and a half &4Hearts&r. Thankfully they don't split anymore, these will just die!"]
+	quest.01C1300BE92F2145.title: "&c&lImps"
 	quest.01C5D8357D8B0D62.quest_desc: ["If you know how a Detector Rail works then this Module will be explanatory for you. \n\nBasically if a certain Item is in the Router, it will emit a Redstone Signal out of the Router. \n\nIn the Module you can set the Item, where the Signal comes from, and how strong a Signal."]
 	quest.01CF1A9D9F29AFF7.quest_subtitle: "Pomelo + Orange"
 	quest.01D895369791881A.quest_desc: ["Now we get 2 ZPM processors for each craft! This is a great breakthrough, and will make expanding our machine footprint much easier!"]
@@ -258,6 +266,8 @@
 	quest.02190383FEE793ED.quest_desc: ["All that is left to do is use a &eChemical Reaction&r to pull the Chlorine off the Iridium!"]
 	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden Arcanus&r is all about using the Arcane to do rituals with the Forge to become stronger! \n\nOr what most know it for, Eternal Stella. There's more to the Mod you know! "]
 	quest.022C38096F79EF07.title: "&6&lForbidden Arcanus"
+	quest.02444ADBECA57C0D.quest_desc: ["&7Stony Peaks&r are a Mountain Biome, most notably known for not being drenched in Snow! \\n\\nThey have tons of Ores like Iron, Coal, and even &aEmerald&r all exposed on the &7Mountain Peaks&r, very helpful for Mining. \\nThis is also a place where &7&lGargoyles&r can spawn! \\n\\nBTW did you know &6AllTheModium&r used to spawn in these in &6&lATM7&r?"]
+	quest.02444ADBECA57C0D.title: "Climb the &7Stony Peaks&r"
 	quest.0251FD45582C3164.quest_subtitle: "Don't sniff this"
 	quest.0253D241383EC848.quest_desc: ["Raiden is a Fictional Character in the Mortal Kombat Fightin.... Oh wait... It said Radon, not Raiden..."]
 	quest.0253D241383EC848.quest_subtitle: "Raiden"
@@ -383,6 +393,8 @@
 		"Can this thing brew some beers?"
 	]
 	quest.039DBFD0172076AB.quest_subtitle: "Distillery you say?"
+	quest.03A1BD004CE46F88.quest_desc: ["&cHeat Core&r makes the &eFurnace&r more Efficient. \\n\\n1 Coal will smelt 16 Items now, not just 8!"]
+	quest.03A1BD004CE46F88.title: "&cHeat Cores"
 	quest.03B40AB768FC0161.quest_desc: [
 		"Shimmer Rivers are friendly rivers. These won't go out of their way to kill you. \n\nThey sometimes connect Seas together and go through Forests. \n\nClearly they have Water but within the Water is plenty of goods!"
 		"{image:atm:textures/questpics/eternal/starlight_river.png width:200 height:100 align:center}"
@@ -610,6 +622,8 @@
 	quest.0589911EB4D30FAD.title: "Painted Planks"
 	quest.0591CAFD665CE151.quest_subtitle: "Tier: &b4"
 	quest.0596F6C70758EEC0.quest_desc: ["While being the most expensive, they also are the prettiest! \n\nAnd that is what matters for Builds!"]
+	quest.059ECD12D89D34B1.quest_desc: ["Yes, you will need to &6&lInfuse&r the &7Cores&r to &6&lTier up&r. \\n\\nNow it is set to 108 &ePoints&r."]
+	quest.059ECD12D89D34B1.title: "&6&lTier 3"
 	quest.05A4496705B6C6AF.quest_desc: [
 		"The Beehemoth are unique &6B&8e&6e&8s&r who are more similar to a Wild Flying Horse. \n\nThey can be tamed via feeding them Liquid &6Honey&r either in a Bottle or Bucket. \n\nThey have a friendship level which determines if they are tamed by you and how fast they go and how much health they have! Feeding them will make the level go higher while if they take damage they lower the level. \n\nOnce the friendship level is maxed they'll become a &5Queen Beehemoth&r! \n\nThey will follow &6Honey Buckets&r like Cows to Wheat, (also try using Royal Jelly with them). "
 		"{image:atm:textures/questpics/bumblezone/bumble_beehemoth.png width:100 height:100 align:center}"
@@ -698,6 +712,8 @@
 	quest.064BBCC379A69748.quest_desc: ["This one is around twice as good as a vanilla furnace, and is more efficient to boot! While it gets outclassed by other furnace mods, for a strictly MI playthrough this furnace is incredibly strong!"]
 	quest.0650996C7818ADB5.quest_desc: ["The Heat Generator has 2 modes to generate power:\n\n&9Passive:&r Surrounding the generator with lava source or flowing blocks creates passive power by creating heat. Place one lava source block on top, and let it flow over the sides. Make sure to connect pipes first!\n\n&9Active:&r Placing combustible materials such as coal or wood into the generator will burn the fuel to create power."]
 	quest.0650996C7818ADB5.quest_subtitle: "Basic Power Gen"
+	quest.0654D3E54E0B6AA8.quest_desc: ["&0Umbra's Whisper&r is the confirmed Drop from the &0&lBlack Charro&r. \\n\\nIt does the same Damage as a &cNetherite Sword&r, 8 &4Hearts&r. \\n\\nIt also has a faster Attack Speed than any &2&lVanilla&r Weapon! \\n\\nThe best part is when you Right Click, it will send an &0Umbral Doom Orb&r which will make a small Explosion like a &0Wither Skeleton Skull&r. Damaging any Mobs near it and blowing up any Dropped Items. \\n\\nIt does have Durability and unfortunately has no way of repairing... "]
+	quest.0654D3E54E0B6AA8.title: "&8Umbra's Whisper"
 	quest.0655AAFACB64AD91.quest_desc: ["To get the final &2Levels&r we'll need all 3 Tables around the &9&lHunter Research Table&r. \\n\\n&d&lPotion Table&r, &b&lHunter Weapon Table&r, and the &c&lAlchemical Cauldron&r!"]
 	quest.0655AAFACB64AD91.title: "Three's a crowd"
 	quest.066438B01655D866.quest_desc: ["While their &dEssence&r is useful, we can also capture these Spirits for later use. That sounds evil, doesn't it?\n\nTo become a Spirit Hunter, you'll need to create the &dVengeance Focus&r first. This is used to &aFreeze Spirits&r in place, then you place a &9Box of Eternal Closure&r near the Spirit. This will then suck the Spirit in for later use."]
@@ -828,6 +844,8 @@
 	quest.077A214422FEFF02.quest_subtitle: "&f6.5 &cAttack Damage"
 	quest.077B2D62FA7650FB.quest_subtitle: "Range: &627&r Blocks"
 	quest.077B2D62FA7650FB.title: "&cTertium Growth Accelerator"
+	quest.078E20AAF1C50628.quest_desc: ["&2Lumberjack&r is only used with &eForce Axes&r, by &6&lInfusing&r them with &eForce Wood&r. \\n\\n&2Lumberjack&r will make it so any Logs above or below the Log you cut down will also be cut down."]
+	quest.078E20AAF1C50628.title: "&2Lumberjack"
 	quest.0790D3BB481162A6.quest_desc: [
 		"Need a portable Crafting Table? How about a portable Smithing Table? "
 		""
@@ -854,6 +872,8 @@
 	quest.07FC106AFE76E766.quest_desc: ["You need the &5EV Electrolyzer&r to get Tungsten Dust from the Tungstic Acid"]
 	quest.07FDA46D83F8360D.quest_desc: ["For 4 &6Allthemodium Nuggets&r and an Ender Pearl you get a Teleport Pad. \n\nPlace it down in one of the Minecraft dimensions to teleport to a different dimension. \n\nTo teleport you need to shift right click with your main and offhand empty! That is important, read it! \n\nBOTH hands need to be EMPTY!"]
 	quest.07FDA46D83F8360D.title: "Teleport Pad"
+	quest.080099D13D0FFF6C.quest_desc: ["The &eForce Engine&r can use more than just liquids, it can also use a Nether Star! \\n\\nBy putting one in the &eEngine&r you can make tons of &cEnergy&r. \\n\\nBut once it's drained you're left with an &5Inert Core&r which can be used by..."]
+	quest.080099D13D0FFF6C.title: "&5Inert Core"
 	quest.0813CEDCC201216A.quest_subtitle: "Kapok + Old Fustic"
 	quest.08143AD0D63FFD1F.quest_subtitle: "Holds a max of 25k LP"
 	quest.081A4F0549590614.quest_desc: ["Infection is an &aAbility&r we can unlock with the &2Skill&r: &2No longer a Fledging&r. \\n\\nWhen you get close to a Mob, you can use the &aAbility&r to give them &4Sanguinare Vampiris&r. Just like with Players, after the Effect wears out they will become &4Vampiric&r. \\n\\nWhich Mobs can we Infect you ask? \\n\\nVillagers, Pigs, Sheeps, Cows, Goats, Camels, Llamas, Horses, Donkeys, and Mules."]
@@ -866,6 +886,8 @@
 	quest.083ABBA1C45FF960.quest_subtitle: "Just a Lawn Mower"
 	quest.083D458032F0325C.quest_desc: ["The &bME Export Bus&f periodically spits items in its whitelist filter out to whatever external storage the bus is facing. Unlike the Import Bus, the Export Bus cannot work without being filtered."]
 	quest.083D458032F0325C.quest_subtitle: "The O"
+	quest.0843A52B84A94ECD.quest_desc: ["The &6&lInfuser&r will need 2 forms of &cEnergy&r. \\n\\n1. is &eForce Fuel&r. This can be added with &eForce Gems&r or even by piping in &eForce Liquid&r. \\n\\n2. is &cRF&r. Currently we are looking for &dMagical&r ways of adding &cRF&r but for now we can use the &eForce Generator&r!"]
+	quest.0843A52B84A94ECD.title: "&eForce Fuel&r and &cEnergy&r"
 	quest.08457BEED799E600.quest_desc: ["These new &7Carts&r are mostly for laying down &6Tracks&r.\n\nThe &7Track Layer&r places down &6Tracks&r while the &7Track Remover&r removes &6Tracks&r.\n\nThe &7Track Relayer&r replaces the &6Tracks&r with different ones and the &7Track UnderCutter&r replaces the blocks beneath the &6Tracks&r."]
 	quest.08457BEED799E600.title: "&7Carts&r and &6Tracks"
 	quest.0848056FDD3F9BDA.quest_desc: ["A &9Singularity&r is a theorized point of ultimate density. Scientists believe the Universe we live in once was a &9Singularity&r. Every molecule in our Universe, in a single point smaller than a grain of sand. \n\nOf course with &l&bAE2&r drifting along the line of theoritical sciences they have their own &9Singularity&r. \n\nThere's 2 ways of crafting it but each require condensing a multitude of Items into one point!"]
@@ -993,6 +1015,8 @@
 	]
 	quest.09955CF85F579E0F.quest_desc: ["You'll get this eventually, it's quite literally the most abundunt Block in &2&lMinecraft&r."]
 	quest.09955CF85F579E0F.title: "Stone Blocks"
+	quest.09B67E9AF3526F7A.quest_desc: ["&5&lPossessed Armor&r are Mobs that spawn near &5Ancient Vestiges&r. \\n\\nThey have 100 &4Hearts&r, 20 Armor Points, and of course are Hostile! \\n\\nThey have a &cNetherite Sword&r and what appears to be a Shield but they don't actually use it. Of course they use their &cSword&r though... and it hurts a lot. \\n\\nOnce you get them to half &4Health&r, their Armor will break down a bit. This does not actually change any part of their behavior, just appearance. \\n\\nWhen you kill them you can get..."]
+	quest.09B67E9AF3526F7A.title: "&5&lPossessed Armor Mobs"
 	quest.09BA45CBBFB4AE26.quest_desc: ["The next stage of this mod requires you to set up &3Assembly Lines&r. The main component of an &3Assembly Line&r is the &3Assembly Controller&r.\n\nThis is where the pressure will go."]
 	quest.09BA45CBBFB4AE26.quest_subtitle: "Always Required"
 	quest.09C7343DCCD5157E.title: "Zero Point Module Age"
@@ -1108,6 +1132,8 @@
 	quest.0AD2B11565B484E7.title: "&cR&6a&ei&2n&3b&9o&5w &cP&6l&ea&2t&3i&9n&5g"
 	quest.0ADBE90B33ACC9FB.quest_desc: ["The &cR&6a&ei&2n&3b&9o&5w&r &cG&6e&en&2e&3r&9a&5t&ce&6r&r is a boost to the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r while using &3Augment&r: Generator. If all other 8 Furnaces (not counting &5Netherite Furnace&r) are around the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r, have &3Augment&r: Generator, and are actively making Energy (fueled up and not full) they will give a boost to a &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r that has &3Augment&r: Generator and is working. It will make 50kFE a tick more!"]
 	quest.0ADBE90B33ACC9FB.title: "&cR&6a&ei&2n&3b&9o&5w &cG&6e&en&2e&3r&9a&5t&ce&6r"
+	quest.0ADF99F5853BB4D6.quest_desc: ["By &6&lInfusing&r an &7Upgrade Core&r with &8Flint&r you'll get a &8Grinding Core&r. \\n\\nYes, &7Cores&r are needed to &6&lTier up&r."]
+	quest.0ADF99F5853BB4D6.title: "&8Grinding"
 	quest.0AE28C998A3BF136.quest_subtitle: "531,441 Netherrack"
 	quest.0AEAEA976ED0C470.quest_desc: ["The &3Charging Station&r is used to charge various tools and gadgets in &aPneumaticCraft&r using pressure."]
 	quest.0AEAEA976ED0C470.quest_subtitle: "Where's the cord?"
@@ -1295,6 +1321,11 @@
 	quest.0CD04A00529FE1C9.title: "&6Copper Chest"
 	quest.0CE1F6DE5FD6A6D9.title: "&aEvocation&r Upgrade Orb"
 	quest.0CE236731DF15DFF.quest_desc: ["Why wait? Usually items dropped in Minecraft have a second they need to hit the ground to be picked up again. \n\nBut why wait?\n\nThis upgrade lets the Vacuum Module not wait and immediately pick up the items. \n\nVery good for less lag!"]
+	quest.0CED81C5EC3C9C91.quest_desc: [
+		"&5Ancient Vestiges&r spawn all around the &2&lOverworld&r. \\n\\nThey'll have Stone Bricks, Campfires, Skulls, and of course Chests! Chests can spawn plenty of random Loot but also &5Armor Fragments&r. \\n\\nAnd the most important part of &5Ancient Vestiges&r is that &5&lPossessed Armor&r Mobs will spawn!"
+		"{image:atm:textures/questpics/monsters/myths_vestige.png width:125 height:100 align:center}"
+	]
+	quest.0CED81C5EC3C9C91.title: "Invade an &5Ancient Vestige&r"
 	quest.0CF69DBA9573A7B3.quest_desc: [
 		"The Schematic Table will read and write structures to/from your schematics."
 		""
@@ -1411,6 +1442,8 @@
 	quest.0DCDFEF8ED62F4F2.title: "Upgrading to &2Level 6&r"
 	quest.0DD389A24F5F8CDD.quest_desc: ["&l&6Aqua Regia&r&r is a mixture of Concentrated Nitric Acid and Hydrochloric Acid, usually one part to three parts, respectively. The Mixture was given its name (literally \"Royal Water\") by alchemists because of its ability to dissovle &l&eGold&r&r."]
 	quest.0DD389A24F5F8CDD.quest_subtitle: "Im a Barbie Girl, In a Barbie world... If you know, you know."
+	quest.0DEED7B2A17BA110.quest_desc: ["Okay this is gonna take a little to explain but it's important. \\n\\n&aBottle O' Enchanting&r can be made a few different ways but one is with &eForce Rod&r and any &5Enchanting Book&r. \\n\\nThen the &bBottle O' Enchanting&r can be used to &6&lInfuse&r with a Book for &bExperience Tome&r. \\n\\n&aThe Experience Tome&r can be used with Right Click to Store &aEXP&r or can be crafted with a &eForce Rod&r to make an &7Upgrade Core&r. \\n\\nThose are needed for the other &6&lInfusions&r, including using &aBottle O' Enchanting&r to create an &aExperience Core&r. Hopefully you understood all that."]
+	quest.0DEED7B2A17BA110.title: "&aExperience Core &fand &aTome"
 	quest.0DF4B01CC5B49E4E.quest_desc: ["With this Blueprint, you can make the basic sword! Reliable damage and reliable speed."]
 	quest.0DF4B01CC5B49E4E.quest_subtitle: "Good ol' Reliable"
 	quest.0DF9014435C8F4D2.quest_desc: [
@@ -1453,6 +1486,8 @@
 	quest.0E4C711E77497984.quest_subtitle: "Of course its Gears."
 	quest.0E4DA8EE961D443F.quest_subtitle: "Sycamore + Sugar Maple"
 	quest.0E51D6BB2BC756B6.quest_subtitle: "Holds a max of 150k LP"
+	quest.0E56A276DD0A7A66.quest_desc: ["The &eForce Engine&r is... well the only &cEnergy&r producing Block in &e&lForceCraft&r. \\n\\nIt needs 2 things to make &cEnergy&r, Fuel and a Redstone Signal. \\n\\nThe Fuel can be &eLiquid Force&r, &cLava&r, or some other mods Fuel. \\n\\nIt will give Energy to where it was placed down facing. \\n\\nIt also has a second Liquid spot which helps it become more efficient. &9Water&r makes it 2 times efficient and Milk by 2.5 times."]
+	quest.0E56A276DD0A7A66.title: "&eForce Engine"
 	quest.0E594BC58CC7476F.quest_desc: [
 		"He may be evil, but he still is fashionable. "
 		"{image:atm:textures/questpics/iron_spells/spells_outfit_archevoker.png width:60 height:100 align:center}"
@@ -1578,6 +1613,8 @@
 	quest.0F36FE9BCBA83129.quest_subtitle: "&f5&r &4Damage&r"
 	quest.0F3BD102F9F93DDD.quest_desc: ["The &9Quantum Catcher&r is used to capture and transport mobs."]
 	quest.0F3BD102F9F93DDD.title: "Entity Tools"
+	quest.0F3C4368BB752CC0.quest_desc: ["The &eForce Nugget&r can be used to &6&lInfuse&r with a &eForce Sword &for &eForce Axe&r, and will give them Knockback! \\n\\nGot to start off easy."]
+	quest.0F3C4368BB752CC0.title: "Knockback"
 	quest.0F3D51FFD2FE8DCB.quest_desc: [
 		"With an &bDiamond Pickaxe&r, you'll be able to mine &5Obsidian&r. &5Obsidian&r can be used to create a portal to the &l&4The Nether&r."
 		""
@@ -1818,6 +1855,8 @@
 		"&9Important Note&r: Certain Bees will only live in Nests and will not go into Advanced Hives. If they don't produce Honeycomb, they need to live in a Nest instead."
 	]
 	quest.120BDCB70AD352AC.quest_subtitle: "Honey Treats Required"
+	quest.120D24467ABF3A6E.quest_desc: ["The first &6&lTier of Infusing&r, it starts off at Tier 0 and needs 96 &ePoints&r to &6&lTier up&r. \\n\\nTo get to &6&lTier 1&r you'll need to &6&lInfuse&r Items with both a &8Claw&r and &eForce Nugget&r."]
+	quest.120D24467ABF3A6E.title: "&6&lTier 0"
 	quest.120DCA89A919C7AF.quest_desc: [
 		"&lAbility Type:&r Passive"
 		""
@@ -1828,6 +1867,8 @@
 	quest.1216BAFF021FED25.quest_desc: ["The Crystal CPU should already be well established in your processing lines. This is just 1 more step for those Crystal CPU's in order for them to achieve greatness!"]
 	quest.1216BAFF021FED25.quest_subtitle: "Crystal Chips"
 	quest.122282C288EAD366.quest_subtitle: "&f6 &cAttack Damage"
+	quest.12278EDC6D7387B5.quest_desc: ["&eLiquid Force&r is an important part of &e&lForceCraft&r. \\n\\nYou can mainly get it from the &6&lInfuser&r, just Right Click it with an empty Bucket or Flask."]
+	quest.12278EDC6D7387B5.title: "&eYellow Liquid in a Cup"
 	quest.12282CBB658F1132.quest_desc: ["Charms are new parts with Apotheosis that allows you to get Potion Effects for much longer. You can Infuse them to make them Unbreakable. It needs &a50 Eterna&r, between &c8.5%%&r and &c13.5%% Quanta&r, and between &532.5%%&r to &537.5%% Arcana&r. One way you can do this is with &d5 Draconic Endshelves&r, &46 Glowing Hellshelves&r, &41 Blazing Hellshelves&r, &b1 Heart-Forged Seashelf&r, and 2 Melonshelves. {BTW I used any curios charm tag so some items that can be used in the quest can not be made Unbreakable, only Apotheosis Charms can.)"]
 	quest.12282CBB658F1132.title: "Making Apotheosis Charms Unbreakable"
 	quest.122E6E7CABCB17E7.quest_desc: ["For some reason Creepers are scared of Cats. Creepers are also extremely dumb and believe the Cats that your &7Slippers&r look like are real. \n\nAll Creepers will run away from you and won't be hostile when these &7Slippers&r are worn. \n\nAlso makes Kitty noises when you take damage! (Can't assure you that you will always land on your Feet though)."]
@@ -1878,6 +1919,8 @@
 	quest.12A63C5F8E918266.quest_desc: ["These &alittle fishy boots&r help you to swim faster with the First Ability. Upgrade them to swim slightly faster!\n\nSecond Ability works with &9Water&r as well, just the one from the sky. You will run faster when it is raining.\n\nThe Last Ability somehow affects your lungs, you get a chance at not using Oxygen Bubbles when underwater."]
 	quest.12A63C5F8E918266.quest_subtitle: "Found in Shipwrecks and Ocean Ruins"
 	quest.12A63C5F8E918266.title: "&aAmphibian Boots"
+	quest.12A9C60B6382EF82.quest_desc: ["Quite simple, it gives Silk Touch to &eForce Tools&r."]
+	quest.12A9C60B6382EF82.title: "Silky"
 	quest.12AE2856444996F6.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.12B041E34F58FDD2.quest_subtitle: "At Long Last"
 	quest.12B296E1E2938A25.quest_desc: ["Mob Farming is something made much better and easier with Mods. We can now use Silk Touch on Spawners again! \n\nYou'll find plenty of Spawners in Structures. \n\nNow that we can move them, we can also add Items to them to change their Stats, thanks to Apotheosis Spawners! \n\nThere's also changes to Spawners we can have but I just wanted you to get one first."]
@@ -2741,6 +2784,7 @@
 	]
 	quest.1B219582114D287D.quest_desc: ["This infact is not Crude Oil. Its literally Liquid Gold, Once of the densest elements on the periodic table!"]
 	quest.1B219582114D287D.quest_subtitle: "Wait.. This isnt Oil!"
+	quest.1B34B03A24246C26.quest_desc: ["Now these are fun items! \\n\\nFor Sheep they work as normal &7Shears&r, takes off their Wool. \\n\\nBut with the other farm animals it has unique uses. &7Cows&r will drop &6Leather&r, Chickens drop Feather, &dPigs&r Drop &cBacon&r! \\n\\nOnce used though they will become &bCold&r. &bCold Animals&r can't be breed and will only drop meat."]
 	quest.1B3E8BE44E3AE773.quest_desc: ["When you deliver your final blow to slay the &d&lEnder Dragon&r, she will fly above her Nest and face her final moments. \n\nThen, she will explode dropping &aXP&r and thanks to Mods, &dScales&r all over the place. \n\nThis will also spawn the &dDragon's Egg&r above her Nest. We can't Mine it but it does interact with Gravity and Pistons! So either drop it onto a Torch or push it with a Piston! \n\nAfter all of this the &2Exit Portal&r will open and we will be able to return to the &2&lOverworld&r. \n\nOr we can take the &dEnd Gateways&r to the &dOuter End Islands&r for even more adventures!"]
 	quest.1B3E8BE44E3AE773.title: "&d&lDragon&r Slayer"
 	quest.1B5177A774FCEF64.quest_desc: ["Before we start enlisting the help of our Demon friends, we will need to create the most important item needed for Rituals: &aChalk&r.\n\nThere are several colors of chalk needed, with higher level Rituals requiring several to activate. To start with, &bWhite Chalk&r is the easiest to get.\n\nStart by tossing Otherstone in a furnace, and tossing Otherworld Logs into &dSpiritfire&r. With the items you create, you'll be able to make the Impure White Chalk.\n\nTo purify any piece of Chalk, simply throw it into &dSpiritfire&r to cleanse it. Using the Purified Chalk on the ground will draw &mdemonic&r pretty symbols on the ground. These are a pain to remove, unless of course, you make yourself the &aChalk Brush&r. Do it, it's worth it."]
@@ -2757,6 +2801,8 @@
 	quest.1B686954D34A0F23.quest_desc: ["The &bQuartz Wrench&f does what any regular tech mod wrench would do. It rotates blocks and devices along the face you right-click on and dismantles them when right-clicked while sneaking.\n\nThis Wrench comes in both Certus Quartz and Nether Quartz varieties."]
 	quest.1B686954D34A0F23.quest_subtitle: "Does exactly what you'd expect"
 	quest.1B686954D34A0F23.title: "Quartz Wrench"
+	quest.1B686A2D2FE07823.quest_desc: ["Every Mod likes a certain Ingot: some like Iron, some like Copper, and &e&lForceCraft&r likes &eForce Ingots&r! \\n\\n&eForce Ingots&r can be made by combining 2 &7Iron Ingots&r and a &eForce Gem&r to get 2 &eForce Ingots&r. Or instead of 2 &7Iron Ingots&r we can use 2 &eGold Ingots&r to get 3 &eForce Ingots&r. \\n\\nThese will be needed for quite a few Recipes including..."]
+	quest.1B686A2D2FE07823.title: "&eForce Ingots"
 	quest.1B691393463D3E0E.quest_desc: ["Samarium Long Rods, magnetized. Add in some fine wires,  and you got yourself some Progress!"]
 	quest.1B691393463D3E0E.quest_subtitle: "Long Rods. Nice."
 	quest.1B6DDF50D00CBB31.quest_desc: ["Infusing Iron with Coal or Charcoal in a Metallurgic Infuser will give you Enriched Iron.\n\nInfusing the Enriched Iron with more Coal or Charcoal will give you Steel Dust, which can be smelted into Steel.\n\nThis is a major crafting component in a lot of recipes in Mekanism."]
@@ -2937,6 +2983,7 @@
 	quest.1DDA5ADA11DF868F.quest_subtitle: "LuV Energy Hatch at Last!"
 	quest.1DE0F289821F55D1.quest_desc: ["Now that we have a Foliot Crusher, we can &muse&r politely ask it to crush down some &eEnd Stone&r and &9Obsidian&r for us. We'll use these to make some new Chalk!"]
 	quest.1DE0F289821F55D1.title: "&aChalking It Up"
+	quest.1DE3E93C00845162.quest_desc: ["&bFreezing Core&r will give you more recipes with &bFreezing&r Items. \\n\\nLike &bSnowballs&r from &aSlimeballs&r! \\n\\nStill needs Fuel."]
 	quest.1DE8B0C9A7195720.quest_desc: [
 		"Once you've finished placing in all of the required blocks to build the Reactor, it should give off red particles to show that it is complete.\n\nRight clicking anywhere on the Reactor will open up the &aInterface&r. This will have all of the information you need to run the Reactor properly, as well as two buttons to turn on and off the Reactor.\n\nOn the left, you have 2 tanks: One for &bCoolant&r and one for &3Fissile Fuel&r. On the right, you have one for &8Nuclear Waste&r, and one for &bHeated Coolant&r, which will most likely be &bSteam&r.\n\nThe &cTemperature&r bar will show you how hot the Reactor is. After a certain temp, the Reactor will start taking &4Damage&r, which will eventually cause the Reactor to explode.\n\nTo adjust the &cBurn Rate&r of the Fissile Fuel and see more statistics, click on the (I) tab on the left side. Here, you can adjust the Rate Limit, which controls how much fuel the Reactor burns per tick.\n"
 		"{image:atm:textures/questpics/mek/reactor_interface_1.png width:200 height:150 align:1}"
@@ -3039,6 +3086,8 @@
 	quest.1F55A483008F74FE.quest_desc: ["Has 4 slots for Constructing."]
 	quest.1F55A483008F74FE.title: "Ultra Constructor"
 	quest.1F58AA51814C7568.quest_desc: ["&n&5Super Glue&r can be used to attach blocks to each other to move them with pistons or other means."]
+	quest.1F60DD25F21531BF.quest_desc: ["For the full set of &5Soul Bound Armor&r you'll need 3 &5Cursed Cores&r and 21 &5Soul Bound Ingots&r. \\n\\nThe full set has 19 Armor Points which is one below &cNetherite&r. It also has 8 Armor Toughness which is 2/3 of &cNetherites&r. \\n\\nOne part it has over &cNetherite&r is more Knockback Resistance! \\n\\nIt also has buffs if you have the full set equipped. When it is &eDaytime&r you'll get Strength I. At &9Nighttime&r you'll get Strength II! \\n\\nWhat about &dDusk&r? I can't tell you!"]
+	quest.1F60DD25F21531BF.title: "&5Bound Soul Armor"
 	quest.1F6C8117F3CED939.title: "&6Allthemodium Bow"
 	quest.1F733319E9F4DFE5.quest_desc: ["16x Magnesium Diboride Wire - Qty 8"]
 	quest.1F733319E9F4DFE5.quest_subtitle: "MV Superconductor"
@@ -3181,6 +3230,8 @@
 	]
 	quest.2077D64428E9C067.quest_subtitle: "This has a use outside of crafting cables."
 	quest.2077D64428E9C067.title: "Forgot to Mention"
+	quest.207E47A6BC1C2DEF.quest_desc: ["To complete the Ritual we'll first need the &0Altar of the Dead Block&r. \\n\\nThen, we'll need the &6Soulbinder Amulet&r which you can see the Recipe in the other Quest. \\n\\nOnce it is &9Nighttime&r, we can use the &6Soulbinder Amulet&r on the &0Altar Block&r to resurrect him!"]
+	quest.207E47A6BC1C2DEF.title: "Resurrect the &8&lBlack Charro"
 	quest.2094D1CE4BA66091.quest_desc: ["Light is a very important part of any Base. \n\nIt keeps Monsters from Spawning, helps to see, and even adds more Color and life to your Builds! \n\nOr you can just use Night Vision but where's the fun in that!"]
 	quest.209DC1E9AD4C5A84.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.20A01B6A6B1177CB.quest_desc: [
@@ -3233,6 +3284,8 @@
 	quest.20F9EF925DB1CE05.quest_desc: ["The &2Natural Altar&r is a multiblock structure made from 1 &2Natural Altar&r, 20 Planks, 16 Stone Bricks, 8 &eGolden Stone Bricks&r and 4 Chiseled Stone Bricks.\n\nThe Natural Altar will use up aura for each recipe and is needed to continue progressing in the mod.\n\nThe image to the right of this quest shows the multiblock setup."]
 	quest.20F9EF925DB1CE05.title: "&2Natural Alter"
 	quest.210A0DC6D5CAC236.quest_desc: ["The &dTier 4 Rocket&r is the highest tier Rocket that we can make. This will allow us to travel outside of our Solar System!"]
+	quest.210FC2687B26BBFC.quest_desc: ["&6&lInfusing&r an &7Upgrade Core&r with a &eGolden Power Source&r makes a &cHeat Core&r."]
+	quest.210FC2687B26BBFC.title: "&cHeat"
 	quest.21147C8CBF98AEB4.quest_desc: [
 		"Valid Upgrades:"
 		"- Tree Feller"
@@ -3369,6 +3422,11 @@
 		""
 		"You can then &eChemical React&r the Sodium Hydroxide Dust with your Dichlorobenzene to create &6Phenol&r!"
 	]
+	quest.226B713ABCFCB82A.quest_desc: [
+		"The &0Altar of the Dead&r is a rare and small Structure you can find in the &2&lOverworld&r. \\n\\nIt is made of &8Deepslate Tiles&r and &0Black Candles&r. In the middle of it is the Block we are looking for!"
+		"{image:atm:textures/questpics/monsters/myths_altar.png width:100 height:100 align:center}"
+	]
+	quest.226B713ABCFCB82A.title: "Visit an &8Altar of the Dead"
 	quest.226B8B60AF864FEF.quest_desc: [
 		"To upgrade &6Allthemodium&r to &3Vibranium&r you will need another Smithing Template. \nThis one you can find by Brushing Suspicious Soul Sand. \n\nWhich is found in Bastions in &l&cThe Nether&r.\n"
 		"{image:atm:textures/questpics/allthemodium/all_bastion.png width:200 height:100 align:center}"
@@ -3915,6 +3973,8 @@
 	quest.2801B7B6BF61E978.quest_desc: ["&3Kerosene&r can be used to make Gasoline or it can be used as fuel in a Kerosene Lamp."]
 	quest.2801B7B6BF61E978.quest_subtitle: "Have you Kero-seen this?"
 	quest.2801B7B6BF61E978.title: "Kerosene"
+	quest.2814CDC22F4E0CD7.quest_desc: ["&eForce Backpacks&r can now hold 16 Stacks of Items!"]
+	quest.2814CDC22F4E0CD7.title: "1st &eForce Backpack&r Upgrade"
 	quest.281AAC27DEBEE84D.quest_desc: [
 		"The &9Divination Sigil&r is the first Sigil we'll be making."
 		""
@@ -3931,6 +3991,8 @@
 		"Sure, you could Craft in your Inventory using the 2x2 crafting grid, but that won't get you far. We need to upgrade by making a &6Crafting Table&r!"
 	]
 	quest.282CE3A088AE5CFB.title: "Putting the Craft in &2&lMinecraft"
+	quest.2837E7338C6DFFFB.quest_desc: ["During the &eDaytime&r the &7&lGargoyles&r will remain as Statues. Unmoving and invincible. \\n\\nBut during &9Nighttime&r is when they come alive! \\n\\n&7&lGargoyles&r have 120 &4Hearts&r but thankfully only a few Attacks! All their Attacks are close range, either with Hitting you or smashing the ground to cause a &7Shockwave&r. \\n\\nThey are slow moving Creatures and even though they have Wings they can't fly. That's what happens when you're made of &7Stone&r! \\n\\nThey don't need to worry too much about that as they aren't hurt by Projectiles, only Melee will do Damage. \\n\\nAlso careful not to get too close or you might get &7Petrified&r from fear!"]
+	quest.2837E7338C6DFFFB.title: "&7&lGargoyles"
 	quest.283AB56F81EF03A5.quest_desc: ["In order to power your &6Electric Rails&r and your &eElectric Locomotive&r you'll need &eFrames. Frames&r need to be powered and will move power to each connected to &eFrame&r."]
 	quest.283AB56F81EF03A5.title: "&eFrames"
 	quest.283D7E65F2AD45F2.quest_desc: [
@@ -4064,6 +4126,8 @@
 	quest.29CD5C0A253425D5.quest_subtitle: "How about &dLuV&r Energy Hatch, But 4x?"
 	quest.29D28983E0200A3C.quest_desc: ["&l&dArs Nouveau&r is all about using Glyphs in Spellbooks to be able to cast them as Spells!"]
 	quest.29D28983E0200A3C.title: "&d&lArs Nouveau"
+	quest.29D75BF1AE9696CF.quest_desc: ["The &0&lBlack Charro&r has 500 &4Hearts&r and a Boss Bar. \\n\\nHe will immediately start teleporting around and hitting you. But don't worry that's not his only Attack! \\n\\nHe can also summon Skeletons to help Fight with him or Shoot &0Umbral Doom Orbs&r at you. \\n\\nOnce you get him to around 300 &4Hearts&r he'll fly high into the Air and constantly shoot &0Umbral Doom Orbs&r everywhere! While he is flying he'll &4Regenerate Hearts&r. \\n\\nAfter he gets back down to 300 he'll do the same thing. Don't worry that's the last time he'll &4Regenerate Hearts&r! \\n\\nBut once you get him to 150 he'll give you Blindness and summon Lightning Strikes all around you. \\n\\nThat's the last you'll have to deal with because then, you can kill him!"]
+	quest.29D75BF1AE9696CF.title: "&8&lBlack Charro"
 	quest.29DF2E7D0402284F.title: "Radiance"
 	quest.29E2033EA65E706E.quest_desc: [
 		"Here you can find the home of a Slime Rancher just making a living... wait what? How did a Villager get here?\n"
@@ -4220,6 +4284,9 @@
 	quest.2B05A29C62676EB2.title: "&l&9Overworld Bounty:&r&e Zombies"
 	quest.2B08B19B35EEBCBA.quest_desc: ["These Relics can be found in &cThe Nether&r!"]
 	quest.2B08B19B35EEBCBA.title: "&cThe Nether"
+	quest.2B097D0A67767260.quest_desc: ["Throw the Flask at a &dPig&r!"]
+	quest.2B097D0A67767260.quest_subtitle: "Who's that Pixelmon!"
+	quest.2B097D0A67767260.title: "&dPig&r in a Flask"
 	quest.2B0C3AAAA6D0B0D2.quest_desc: ["&aUranium Quad Fuel Rods&r are a combination of multiple different Blast and Radiactive proof Alloys and of course radioactive Materials. \n\nThese will all come together to make a wonderful fuel for a reactor! Or &c&lPhilosphers Fuel&r!  "]
 	quest.2B0C3AAAA6D0B0D2.title: "&aUranium Quad Fuel Rods"
 	quest.2B115519A21F9CB7.quest_desc: ["The &dEnder Guardian&r is a hulking beast of endstone,purpur, and obsidian. It has 4995 Hearts and 2 stages. In first stage it will have very basic attacks of punching you, dashing, using shulker orbs, hitting you with Void Runes, and can stunlock you. Once you beat it down half way it's helmet will break exposing it's real head and starting the 2nd stage. To start he will break the floor of the arena exposing the floor below, then he will use the same moves while pulling you closer. (Also he is immune to arrows so I hope you have a good sword!). Once killed it will drop a Gauntlet of Guard and has a chance of dropping its music disc: Eternal."]
@@ -4453,10 +4520,14 @@
 	quest.2D86D4403E0F4EB9.title: "Blazegold"
 	quest.2D93888313B03029.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_blue.png width:100 height:150 align:center}"]
 	quest.2D93888313B03029.title: "&9Blue Starlight Crystal&r"
+	quest.2DA2A43878C9E074.quest_desc: ["The most important item in &e&lForceCraft&r is arguably the &eForce Rod&r. \\n\\nFirst, you can only craft one with normal sticks which will give you one at 2 durability. \\n\\nI recommend using those on a Sapling to get a &eForce Sapling&r, so you can make a full durability one, but who am I to tell you what to do."]
+	quest.2DA2A43878C9E074.title: "Almost Broken &eForce Rod&r"
 	quest.2DA8CE213AC3869B.quest_desc: ["Starlight Crystals can be found all over and even under the Crystallized Deserts. \n\nThey work similar to Amethyst and even sound like it!"]
 	quest.2DB53A77C3CD90F1.quest_desc: ["The Botanist's Pickaxe turns blocks that it interacts with into their mossy variants, assuming they have one."]
 	quest.2DB53A77C3CD90F1.quest_subtitle: "Tier: &b3"
 	quest.2DB81CE6F647D08A.title: "Unobtainium-AllTheModium Alloy"
+	quest.2DC069BA4FB411AA.quest_desc: ["&cFire Hearts&r are very rare Drops from &c&lImps&r. \\n\\nWhen you have it in your Inventory you'll constantly gain &4Hearts&r. Regardless of Hunger, Damage being taken, or Debuffs. \\n\\nThis also helps entirely against some forms of Damage like Starvation and Poison I!"]
+	quest.2DC069BA4FB411AA.title: "&cFire Heart"
 	quest.2DC639C39AE90272.quest_subtitle: "Yellow Meranti + Rose Gum"
 	quest.2DD5F0693780B10A.quest_desc: ["Used with the Extruder MK2, blocks extruded will mimic the actual blocks. Redstone Blocks will emit Redstone, Glowstone will emit light, Grass will act transparent. But only with this Augment! \nDoesn't work with Block Entities like Furnaces or Enrichment Chambers."]
 	quest.2DDA04088C8220D2.quest_desc: ["Prosperity Shards are a core crafting ingrediant in the mod. To find some, go mining."]
@@ -4521,6 +4592,8 @@
 	]
 	quest.2E596B5A4EA2ABF4.title: "&3S'Mog&r"
 	quest.2E5EF984B9CE0CB9.quest_desc: ["The all in one, big battery, big range ore/fluid finder"]
+	quest.2E6B176052989772.quest_desc: ["We're almost MAXED out! \\n\\nNow we'll have 7 squares for &6&lInfusing&r and will need 120 &ePoints&r."]
+	quest.2E6B176052989772.title: "&6&lTier 6"
 	quest.2E6C7849718C8ABE.quest_desc: ["The &6Wooden Crucifix&r doesn't need a &b&lWeapon Table&r to Craft, it can be made in a regular Crafting Table. \\n\\nYou'll need 3 Planks, 2 Sticks, and a &6Holy Water&r to Craft it. \\n\\n&6Wooden Crucifixs&r can be held in your Hand and when you Hold Right Click you can use them. \\n\\nWhen used it will slow all Undead: Zombies, &4Vampires&r, etc. who are near you. They can still hit you when Slowed. \\n\\nOnce done they will return to normal Speed and you will have a Cooldown before using it again."]
 	quest.2E6C7849718C8ABE.title: "&6Wooden Crucifix"
 	quest.2E6D11A5F5626A6C.quest_subtitle: "Tier: &f2"
@@ -4654,6 +4727,8 @@
 		"- Mob Scanner"
 	]
 	quest.2F90CA5DF9225209.quest_subtitle: "&f12&r &4Damage&r"
+	quest.2F95D689C575EBDA.quest_desc: ["6 squares now! \\n\\nAlso up to 116 &ePoints&r."]
+	quest.2F95D689C575EBDA.title: "&6&lTier 5"
 	quest.2F9B0C642A6BE30C.title: "&fIron Backpack"
 	quest.2FA0F5B348322095.quest_desc: ["&7Cloggrum&r is the Iron Ore of &2&lUndergarden&r. It spawns everywhere."]
 	quest.2FA0F5B348322095.quest_subtitle: "14"
@@ -4761,6 +4836,8 @@
 	quest.30CD69FC601F26B5.quest_subtitle: "Naq Alloy Time!"
 	quest.30D97EABFE772604.quest_desc: ["Now we can push 64Amps from our substations at the ZPM tier!"]
 	quest.30D97EABFE772604.quest_subtitle: "Big Substation Tier UP!"
+	quest.30D9C20244DA6A0C.quest_desc: ["Grants more &aEXP&r!"]
+	quest.30D9C20244DA6A0C.title: "&aExperience Core"
 	quest.30DA40DA0CEB05A0.quest_desc: ["Macerating wood logs gives a good amount of wood dust per log"]
 	quest.30DE4F5BC3EDB555.quest_desc: [
 		"Logical Transporters are what &5&lMeka&r uses to move Items and Blocks across distance. \n\nThey will need to be Configured to Pull or Push to Inventories like Chests or Drawers."
@@ -4912,6 +4989,8 @@
 		"If you want to build the Crusher, navigate to the &aHeavy Machinery&r section in your &eEngineer's Manual&r to learn how to build the multiblock!"
 	]
 	quest.323F39FC300F7E30.title: "Coke Dust"
+	quest.3243507A885417F6.quest_desc: ["From 16 Stacks to 24!"]
+	quest.3243507A885417F6.title: "2nd &eForce Backpack&r Upgrade"
 	quest.325483DEB0C602F8.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.3260EDAD3A619479.quest_desc: ["&5Aethersent Ore&r is found during Meteorite Showers in &5&lEternal Starlight&r. Small ones break on impact, you'll need to wait for big Meteors! \n\nOr is it Meteorites? What's the difference?"]
 	quest.3260EDAD3A619479.quest_subtitle: "14"
@@ -5098,6 +5177,8 @@
 		"(These can cause a bit of lag when used in mass so be careful with them)."
 	]
 	quest.34CFE1439262AA72.title: "&5&lMekanism"
+	quest.34D45CD0AB1086A5.quest_desc: ["&eSpeed Core&r makes the &eFurnace&r faster without ruining the Fuel more."]
+	quest.34D45CD0AB1086A5.title: "&eSpeed Core"
 	quest.34DACB973CBDE129.quest_desc: ["Use the Force! \n\nThis one's another fun &a&lStaff&r, you can use it to fling Entities! Including yourself! \n\nHold Right Click at what you want flung, if it's yourself aim at the ground. Then, move your Mouse in the direction you want flinging to happen! \n\nThe longer you hold the stronger the fling! After awhile it will max out and fling regardless."]
 	quest.34DACB973CBDE129.title: "&a&lSpatial Disorientation"
 	quest.34E8D3AD37BB76C5.title: "Topaz Vein"
@@ -5214,6 +5295,8 @@
 		"{image:atm:textures/questpics/chap1/chap1_bastion.png width:125 height:100 align:center}"
 	]
 	quest.35D559C661807615.title: "&6Bastion Remnants"
+	quest.35E0ECCBE1D13EF8.quest_desc: ["&bSnow Cookies&r are crafted with a &bSnowball&r, by itself, nothing else just a &bSnowball&r. \\n\\nThey can be used with an &7Upgrade Core&r to make a &bFreezing Core&r, or with a &eForce Bow&r to get &bFreezing&r on it. \\n\\nCurrently on my test world &bFreezing&r just sets mobs on fire which is kinda ironic but maybe it'll be different for you!"]
+	quest.35E0ECCBE1D13EF8.title: "&bFreezing &fand &bFreezing Core"
 	quest.35E8F1CC0080E45E.quest_subtitle: "Feed a Diamond Bee a Ruby"
 	quest.35E8F1CC0080E45E.title: "RuBee"
 	quest.35EAB77C195E594E.quest_subtitle: "Feed a Diamond Bee Amethyst"
@@ -5344,6 +5427,8 @@
 	quest.36DF0D83EBC2B6A9.title: "&3&lImprobable Probability Device"
 	quest.36F87173D8CD1D68.quest_desc: ["Ride the &5Lightning&r! &5&lLightning&r is all about using Electricity to kill and support yourself. Some attacks even work as real &5Lightning&r! \n\n&5&lLightning's&r Focus Material is &5Bottle 'O Lightning&r which you get from using an Empty Bottle on a Charged Creeper. You need the &5Lightning&r to make more &5Lightning&r! \n\nIts &5Scrolls&r are &7Grey&r with &bLight Blue&r text."]
 	quest.36F87173D8CD1D68.title: "&5&lLightning"
+	quest.36FBD0D50EE17459.quest_desc: ["&7Gargoyle Shards &fand &7Fragments&r are both Drops from &7&lGargoyles&r. \\n\\n&7Gargoyle Fragments&r are a bit more rare than &7Shards&r though! \\n\\nWorst part is the fact you'll need more &7Fragments &fthan &7Shards&r."]
+	quest.36FBD0D50EE17459.title: "&7Gargoyle Fragments &fand &7Shards"
 	quest.37045B986619A03D.quest_subtitle: "Yellow + Green Carpenter Bee"
 	quest.3705D303CF423804.quest_desc: ["The other side of the &aFeral Claws&r, these increase the Damage you deal while wearing them."]
 	quest.3705D303CF423804.quest_subtitle: "Hands"
@@ -5579,6 +5664,8 @@
 	quest.3A1D07AED2A841E4.quest_desc: ["Auto-smelt items in the Backpack."]
 	quest.3A1D07AED2A841E4.quest_subtitle: "Automatic"
 	quest.3A1D07AED2A841E4.title: "&eAuto-Smelting Upgrade"
+	quest.3A1D9EF2882C87C4.quest_desc: ["Sugar can be used to give Efficiency to Tools, make Arrows shoot and fly faster, or make Armor give you a Speed Buff. \\n\\nThis can also be used with &e&oForce Punch&r Items!"]
+	quest.3A1D9EF2882C87C4.title: "Speed"
 	quest.3A20210242A1C865.quest_desc: [
 		"While you may not be able to enter the &dPortal to Alfheim&r, you can perform an &2Elven Trade&r by tossing in certain items through the portal. This does use mana for each trade! These materials can also be used to upgrade some of your items, like creating &2Elven Mana Spreaders&r."
 		""
@@ -5603,6 +5690,8 @@
 	quest.3A4B5A9B432576AD.title: "&cAwakened Watering&r"
 	quest.3A4C17878FC8315B.quest_desc: ["The &6Allthemodium Furnace&r is pretty much the same as the Netherite Furnace. You will need this to craft the &3Vibranium Furnace&r."]
 	quest.3A4C17878FC8315B.title: "&6Allthemodium Furnace"
+	quest.3A4C1EA3E676CC78.quest_desc: ["Crafting one with a &eForce Stick&r gives you one at full Durability."]
+	quest.3A4C1EA3E676CC78.title: "Full Durability &eForce Rod&r"
 	quest.3A79E24283523E58.quest_subtitle: "Spruce + Birch"
 	quest.3A88906FC2E72528.quest_desc: ["Use the holy symbol three times to ignite what you are looking at."]
 	quest.3A88906FC2E72528.quest_subtitle: "Forgot a flint and steel in the caves?"
@@ -5691,6 +5780,7 @@
 		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"07210DDF872160BA\"}, \"text\": \"Click here to start the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 	]
 	quest.3B13BBC38696D452.title: "Applied Energistics 2"
+	quest.3B15060E66BFFBFD.quest_desc: ["The &eForce Pack&r acts as a Backpack but with limited space and can't be placed on you. \\n\\nYou can upgrade them with &6&lInfusion&r through &e&lForceCraft&r to increase their space. \\n\\nShift Right Click to change color and name of it!"]
 	quest.3B3BD39BA02DCA13.quest_desc: ["With the &6Pocket Piston&r your Attacks will hit your Enemies much farther! \n\nI wonder which wins, &6Pocket Piston&r or &7Steadfast Boots&r?"]
 	quest.3B3BD39BA02DCA13.quest_subtitle: "Hands"
 	quest.3B3BD39BA02DCA13.title: "&6Pocket Piston&r"
@@ -5879,6 +5969,8 @@
 		"{image:atm:textures/questpics/pneumaticcraft/reinforced_chest_ui.png width:200 height:100 align:center}"
 	]
 	quest.3CFE522A4B7CC2EC.quest_subtitle: "Better than your Everyday Chest"
+	quest.3D02F400BAFB933D.quest_desc: ["24 + 8 = 32"]
+	quest.3D02F400BAFB933D.title: "3rd &eForce Backpack&r Upgrade"
 	quest.3D1D5CB45D81A6E4.quest_desc: ["Similar to &b&lMacaw's Doors&r this one adds different types and versions of Trapdoors. \n\nYou want a Jungle Trapdoor with the Spruce Pattern? Well now you can! "]
 	quest.3D1D5CB45D81A6E4.title: "&b&lMacaw's Trapdoors"
 	quest.3D26E7BFE0AA964A.quest_desc: [
@@ -5967,6 +6059,8 @@
 	quest.3DDF87A1E5F5D009.title: "The &9Energizing Orb"
 	quest.3DF3ED6042D6F5AB.quest_desc: ["ZPM Tier Assembler is necessary in order to make the Trinium Coils for the EBF's. With the upgraded coils, many more metals and alloys can be processed, expanding what can be crafted!"]
 	quest.3DF3ED6042D6F5AB.quest_subtitle: "Assemblers... Assemble!"
+	quest.3DFEAE56E78E7DC9.quest_desc: ["This will give &eForce Swords&r a Special Move: Wing! \\n\\nThis lets us dash forward by using Right Click."]
+	quest.3DFEAE56E78E7DC9.title: "Wing"
 	quest.3E0643EA9183CDAE.quest_desc: ["'It was his Hat Mr Krabs! He was Number 1!' \n\nDoes the same exact thing as the normal &6Drinking Hat&r, just looks much cooler!"]
 	quest.3E0643EA9183CDAE.quest_subtitle: "Head"
 	quest.3E0643EA9183CDAE.title: "&9Novelty Drinking Hat"
@@ -6020,6 +6114,8 @@
 	]
 	quest.3E6706BC4C318A40.quest_desc: ["The Sewer is used to make Sewage, which is used to make Fertilizer."]
 	quest.3E6706BC4C318A40.title: "Sewer"
+	quest.3E6A4428C69A065A.quest_desc: ["Say 'Hello' to &e&lForceCraft&r!\\n\\nThis mod focuses on the power of &eForce&r and using it to Infuse items!\\\\n\\\\nEverything is &eyellow&r! \\n\\nTo start, Mine some &ePower Ore&r Underground to obtain &eForce Gems&r."]
+	quest.3E6A4428C69A065A.title: "&e&lForceCraft"
 	quest.3E75AFE3482834C5.quest_desc: ["&lRailCraft&r is an entire mod based off &5Trains&r! \n\nFrom &7Minecarts&r to &eElectric Locomotives&r to &9Tunnel Bores&r! It has everything &5Train&r accessory wise as well! Traffic Lights, Steam Boilers to power &5Trains&r, and automation for it all. \n\nThe model Mod for Model &5Train&r Lovers!"]
 	quest.3E75AFE3482834C5.title: "&7&lRailCraft"
 	quest.3E76BC1D0FC3E9A8.quest_desc: ["Tons of the Items in &cMr Crayfish's&r Mod use Energy! \n\nTo power them you'll need an Electricity Generator. These take Coal or other Furnace Fuels to power up! \n\nThen, you'll need a Wrench to connect the Generator to your Blocks that need Energy. \n\nWhen the Generator is turned on with the Switch at the top and it has Fuel, it will power anything connected."]
@@ -6080,6 +6176,8 @@
 	quest.3EC90ADA4E322B14.title: "&6Tainted Gold"
 	quest.3EC9D0DA61B45328.quest_desc: ["This generator can burn both Hydrogen and Ethylene to produce power.\n\nNote: Burning Hydrogen will not produce more power than it costs to run an Electrolytic Separator. Use for Ethylene instead."]
 	quest.3EC9D0DA61B45328.quest_subtitle: "Burn Gases into Power!"
+	quest.3ECABFDCCB7324AA.quest_desc: ["Crafting Paper and a Cookie makes a Fortune Cookie! \\n\\nYou can eat it, craft it with a Force Rod to get a Fortune. These can then be &6&lInfused&r. \\n\\n&6&lInfusing&r it with a &ePickaxe&r gives Fortune, a &eSword&r gives Looting, and &eBow &for &eArmor&r gives Luck Effect."]
+	quest.3ECABFDCCB7324AA.title: "Luck be a Lady"
 	quest.3ED8365BAD406CC5.quest_desc: ["These are Mods that I've found perfect for decorating your house or base! \n\nFeel free to check out even more than what's shown here!"]
 	quest.3ED8365BAD406CC5.title: "Decor Mods!"
 	quest.3EDDF34A71CD78B9.quest_desc: [
@@ -6364,8 +6462,12 @@
 	quest.4147D247E4D754D0.title: "Gleech"
 	quest.414A35A72AFB5FF5.quest_desc: ["This one is probably one of the most annoying to craft, it needs &bPrismarine&r, &2Turtle Scute&r, &9Lapis&r, and a &3Heart of the Sea&r. \n\nHope you like &2&lMA&r! \n\nIt combines with Helmets... most likely to give Respiration or Aqua Affinity, but I can't get it to work..."]
 	quest.414A35A72AFB5FF5.title: "&9Sea Prism"
+	quest.414A3AA20022D73B.quest_desc: ["&eForce Sticks&r are special Sticks only Crafted with &eForce Wood&r. \\n\\nWell it's not too different... only difference is us Crafting Full Durability &eForce Rods&r and Crafting Tools."]
+	quest.414A3AA20022D73B.title: "Why is it different?"
 	quest.41752862D7B29F80.title: "High Voltage Age"
 	quest.417B88FEB1B8F44E.quest_desc: ["Mean these Suck! Literally! \n\nVacuum Module will suck up any items in the set area and move them to the Routers Buffer. Similar to the Absorption Hopper. \n\nAlso can be used with Experience Augment!"]
+	quest.417E590FD514B24F.quest_desc: ["The &6Soulbinder Amulet&r is an Item needed for the Ritual to resurrect the &0&lBlack Charro&r. \\n\\nTo make it we'll need 2 &eGold Ingots&r, a &cBlaze Powder&r, and &bEtheral Flame&r. \\n\\n&bEtheral Flames&r are made by putting a &bSoul Lantern&r into a Blast Furnace."]
+	quest.417E590FD514B24F.title: "&6Soulbinder Amulet"
 	quest.4189BC3DFB551F4C.quest_desc: ["If you've built the Turbine properly, you will see red particles around the structure. Right clicking on the Turbine will open up the interface.\n\nThis will tell you all of the information that you need to know, including the total Steam Flow Rate, as well as the total Steam inside of the Turbine.\n\nOn the right, you will have a bar that shows you the Power that is stored inside of the Turbine. If this gets full, the Turbine will turn off, unless you set it to Vent Overflow.\n\nLet's get it running!\n\nOnce you have a fully functioning Fission Reactor, pump out the &bSteam&r directly into a Turbine Valve on your Turbine. Since we're using Saturating Condensers in this build, you can pump out water from a Turbine Vent back into your Reactor if you want."]
 	quest.4189BC3DFB551F4C.title: "Creating Power with the Turbine!"
 	quest.418E02FFE241A734.quest_desc: ["Liquid Helium Plasma. Ensure your processing lines are making enough Helium"]
@@ -6491,6 +6593,8 @@
 	quest.4281BCDCE233F65B.quest_subtitle: "Ancient City Chests"
 	quest.42822B1E8A53D051.title: "&l&9Overworld Bounty:&r&e Skeletons"
 	quest.4285510271B5223D.quest_desc: ["The &n&5Gearbox&r can rotate the direction of the rotation in any direction by 90 degrees."]
+	quest.42898C43BE437012.quest_desc: ["&4Bleeding&r is an Effect given that's similar to &2Poison&r. \\n\\n&6&lInfuse&r &eSwords&f, &eBows&f, or &eArmor&r with an Arrow to give &4Bleeding&r with hits."]
+	quest.42898C43BE437012.title: "&4Bleeding"
 	quest.428C034C78923B6C.quest_desc: ["When powering multiple machines, keep in mind cable loss!"]
 	quest.428C034C78923B6C.title: "MV Energy Converters"
 	quest.42951D14ADCD9332.quest_desc: ["Could I get that with some Mashed Peas with a side of Beans on Toast please Governor?"]
@@ -6664,6 +6768,8 @@
 	quest.44B1B147CDAC4E36.quest_subtitle: "Highlights Mobs when Activated"
 	quest.44B22160850ACAB2.quest_desc: ["Nether Star Seeds require a Nether Star Crux placed below in order for them to grow."]
 	quest.44B22160850ACAB2.quest_subtitle: "Tier: &56"
+	quest.44BA5B73E348C13E.quest_desc: ["Last Upgrade we can use, giving us 40 Slots."]
+	quest.44BA5B73E348C13E.title: "4th &eForce Backpack&r Upgrade"
 	quest.44BD0B40EB5451AF.quest_desc: ["Supply Camps/Ships are Items added by &lMinecolonies&r. They are made to instantly make you a Base to live and start a Colony! \n\nYou can Right Click them to open a Menu, there you'll have to choose the type of Camp/Ship you want! \n\nThen, you'll need to find a place to place it. The land must be flat, Red outlined Blocks tell you what needs to go! \n\nOnce it is set, your new Camp/Ship will be built entirely for free! \n\nIt'll have Townhalls, Beds, Supplies, and plenty more!"]
 	quest.44BD0B40EB5451AF.title: "Cheating"
 	quest.44BE268EC7D2689D.quest_desc: [
@@ -6777,11 +6883,15 @@
 	quest.45996B848792379E.quest_desc: ["You can Mine &dSal Ammoniac Crystals&r in the &2Overworld&r but it isn't that easy. We'll still need &9Water&r and the Machines to make &dSal Ammoniac&r to make &eAlchemical Sulfur&r. \n\nThe &dCrystals&r are optional but help a ton; with just Water 1000mb will be turned into 100mb of &dSal Ammoniac&r. With 1000mb of &9Water&r and a &dSal Ammoniac Crystal&r we'll instead get 1000mb of &dSal Ammoniac&r. \n\n10 times the production with only a single Item more!"]
 	quest.45996B848792379E.quest_subtitle: "Why do we need Machines if we can just Mine it?"
 	quest.45996B848792379E.title: "Why Machines?"
+	quest.459A93445D6497CC.quest_desc: ["You can &6&lInfuse&r with an Invisibility Potion to give Armor Camo, or make a &eForce Rod&r Invisible. \\n\\n&eArmor&r with Camo will not make you Invisible, rather it just won't show your Armor, only your skin."]
+	quest.459A93445D6497CC.title: "Camo or Invisible Rod"
 	quest.459BA85E48B343AE.quest_desc: ["The &n&5Radial Chassis&r can be used similar to the &n&5Super Glue&r. It will connect blocks in a line, on the sides, without the need for glue."]
 	quest.459BB5B4CDB21773.quest_desc: ["&9Swamp Silver&r is found within the muddy swamps of &5&lEternal Starlight&r."]
 	quest.459BB5B4CDB21773.quest_subtitle: "15"
 	quest.459BB5B4CDB21773.title: "&9Swamp Silver Armor"
 	quest.45A25221F54A1DEC.quest_desc: ["The Ferricore Wrench allows the player to rotate machines, but it is also used to link swappers together."]
+	quest.45ACC804D47C5D6C.quest_desc: ["&6&lInfuse&r a &eForce Torch&r with a Clock to make a &9Time Torch&r! \\n\\nSome modpacks may have it Configured to disable the &9Time Torch&r, when that happens it can crafted but not used. \\n\\nThankfully we aren't other modpacks! We still have the &9Time Torch&r. \\n\\nCrafting it is still needed to &6&lTier up&r."]
+	quest.45ACC804D47C5D6C.title: "&9Time Torch"
 	quest.45C9D975E3731DFE.quest_desc: ["&9Reinforced Echo Shard&r is a Crafted Item that requires a few Items. \\n\\nFirst, and easiest to obtain are &7Phantom Membrane&r! &7Phantoms&r will spawn after the Player hasn't slept in a few days. The more restless nights, the more &7Phantoms&r! \\n\\nSecond, is the &9Echo Shard&r. These can be found in quite a few ways but easiest is Looting in &6Ancient Cities&r. \\n\\nThe last is the &9Warden Carapaces&r. These are Drops from the &9&lWarden&r on death. Don't worry he usually drops more than one!"]
 	quest.45C9D975E3731DFE.title: "&9Reinforced Echo Shard"
 	quest.45D10F53CA18B8EE.quest_desc: ["Unfortunately you can't get &5Lightning&r Runes from a Mob drop, instead we'll need to craft them with &5Bottle O' Lightning&r. \n\nWe get &5Bottle O' Lightning&r from using an Empty Bottle on a Charged Creeper. \n\nDangerous I know..."]
@@ -6892,6 +7002,8 @@
 	quest.46BE62C20C720D10.quest_subtitle: "Max: 1"
 	quest.46CC8E7ED59F51D2.quest_desc: ["Tidal Claws are a confirmed drop from &5The Leviathan&r. It has two modes, attack and grapple. Attack is with left click, grapple is with right click. When you use its attack it will launch the claw and go through max of 5 mobs. Dealing damage and giving abyssal curse which will continue to damage them. The grapple does similar but will latch on to whatever is in range and pull you toward it. There's no durability so enjoy it forever!"]
 	quest.46CC8E7ED59F51D2.title: "Tidal Claws"
+	quest.46D32C29D9C9AB0C.quest_desc: ["&eForce Armor&r has similar stats between &7Iron&r and &bDiamond Armor&r but more Toughness. \\n\\nWhat separates them from &7Iron&r and &bDiamond&r is that they can be &6&lInfused&r and upgraded!"]
+	quest.46D32C29D9C9AB0C.title: "&eForce Armor"
 	quest.46D756F4DC6CC894.title: "&dNetherite Backpack"
 	quest.46DCB235D3FEDA61.quest_desc: ["Similar to Iron Tools just all of these slow down whoever is hit by them. \n\nWell besides the Hoe, but do you really care about a simple hoe?"]
 	quest.46DCB235D3FEDA61.title: "&bFroststeel&r Tools"
@@ -7025,6 +7137,8 @@
 	quest.47932104E994DBE9.quest_desc: ["The plates for the Hulls get trickier every tier. But its a necessary process. Try and get this process passive so you can fill out your factory with UV machines!"]
 	quest.47932104E994DBE9.quest_subtitle: "This Darmstadtium is too big!"
 	quest.47A2BEFB11F4D581.quest_desc: ["The Basic Filter is pretty... easy to use! Simply put Items into it and they are now filtered. \n\nYou can change it so it either Whitelists/allows only those Items or that is Blacklists/denies only those Items. \n\nYou can also have it so it either matches NBT data or not. Matching NBT Data would mean having same Enchantments, Durabilitiy, or even Mobs inside of whatever Item. If selected to not match it will do any of that Item regardless of NBT."]
+	quest.47A2C15929AE56D4.quest_desc: ["&6&lInfusing&r Sugar with an &7Upgrade Core&r gives you a &eSpeed Core&r."]
+	quest.47A2C15929AE56D4.title: "&eSpeed 2"
 	quest.47A6769B6BF1A46D.quest_desc: ["The &n&5Funnel&r can import or export items from connected inventories."]
 	quest.47AED7219704EB3E.quest_subtitle: "&f18 &cAttack Damage"
 	quest.47B985B56C582D6A.quest_desc: ["Increases the flow rate of LP in and out of the Altar when pumping to and from an external tank by 20% per rune."]
@@ -7389,6 +7503,8 @@
 	quest.4B9E9497E44D0096.quest_desc: ["To build a reactor, you'll need to start by making &6Reactor Casings&r.\n\nThese make up the frame and walls of your reactor, although the walls can be replaced by &9Reactor Glass&r if you'd like to see inside of your reactor.\n\nFor future reference, when a part says \"Basic\", this means that it can only be used with other basic parts. The Basic parts can also only be used to build smaller reactors, as it has a certain size limit. Keep this in mind!"]
 	quest.4B9E9497E44D0096.title: "Reactor Building Components"
 	quest.4BACAC18E4B982DA.title: "Cinnabar Vein"
+	quest.4BBCBB82D3DBAD2F.quest_desc: ["Now this is where the fun happens! \\n\\nPlace down the &6&lInfuser&r and you'll notice a few parts in it's GUI. \\n\\nTop Left is for the &bUpgrade Tome&r, below it is where the &eForce Fuel&r goes and stays. The far right is where &cPower&r will be, yes it needs &cRF Power&r. \\n\\nThe middle is where &6&lInfusing&r happens. Middle square is where the item to be &6&lInfused&r goes, like &eSwords &for &eArmor&r. The ones around it is for the &6&lInfusees&r like &eForce Nuggets&r or &8Claws&r. \\n\\nThe top right button in the middle brings up the Book if you have it and the bottom left is to complete the &6&lInfusion&r."]
+	quest.4BBCBB82D3DBAD2F.title: "&6&lInfusion"
 	quest.4BC27F16229BBF46.quest_desc: ["&l&6Storage Delight&r is all about Item Storage but making it look pretty. \n\nThere's dozens of Drawers with different designs and Colors. \n\nIt has the same use and space as a Barrel."]
 	quest.4BC27F16229BBF46.title: "&l&6Storage Delight&r"
 	quest.4BC2D7FCDD792DBA.quest_desc: [
@@ -7514,6 +7630,8 @@
 	quest.4CADD50E7E83CD0E.title: "Block of Emerald 4X"
 	quest.4CB488E5CF10F3A4.quest_desc: ["Only the most powerful and expensive Generator from &c&lGenerator Galore&r. \n\nYou'll need an &9Echo Shard&r, a &bConduit&r, and a ton of Netherstar Generators!"]
 	quest.4CC46A4E71320140.quest_desc: ["Refer to the &aLexica Botania&r on how to use this lens."]
+	quest.4CC6EDF0AD572858.quest_desc: ["With each new &6&lTier&r you unlock more &6&lInfusions&r but also more spaces in the &6&lInfuser&r. \\n\\n&6&lTier 0&r you only get 1 and in &6&lTier 1&r you get 2, which means you can now stack &6&lInfusions&r. \\n\\nUse 2 &eForce Nuggets&r to add Knockback II to a &eForce Sword&r. \\n\\nYou'll need 100 &ePoints&r to &6&lTier up&r!"]
+	quest.4CC6EDF0AD572858.title: "&6&lTier 1"
 	quest.4CC963F5AECF285A.quest_desc: ["Normally the Router moves 1 item each of it's Ticks. This can be doubled and stacked! with the Stack Upgrade. \n\n1 Stack Upgrade is 2 Items, 2 Stacks 4 Items, and 6 Stacks is 64 Items a second."]
 	quest.4CCA1E2AAA9AB9D9.quest_desc: [
 		"When's this one going to come to the Mod?"
@@ -7529,6 +7647,8 @@
 	]
 	quest.4CD83943865018EA.quest_subtitle: "Importing Items!"
 	quest.4CD83943865018EA.title: "Exporter"
+	quest.4CE1410FAB79C4B6.quest_desc: ["&6&lTier 2&r comes after you &6&lInfuse&r with Sugar, &eGolden Power Source&f, and &eForce Wood&r. \\n\\nYou'll get new &6&lInfusions&r and 3 squares to &6&lInfuse&r with. \\n\\nYou'll now need 104 &ePoints&r!"]
+	quest.4CE1410FAB79C4B6.title: "&6&lTier 2"
 	quest.4CE6CABCB2334C0E.quest_desc: ["We have used a bunch of chromium already. But we again need to call on this highly resistive and high hardness metal, except in its liquid form."]
 	quest.4CE6CABCB2334C0E.quest_subtitle: "Liquid Chromium"
 	quest.4CE6EB54B12EF6C5.quest_subtitle: "&f10 &cAttack Damage"
@@ -7689,6 +7809,8 @@
 	quest.4E4692C5E5A3D1A9.quest_desc: ["This functions identically to the bronze version, but is much more efficient at transferring fluids, resulting in around 2x as much water getting pumped through it!"]
 	quest.4E55A1169742B901.quest_desc: ["Eventually you'll want more steam than the single block boilers can provide. When that happens, make way for the Large Bronze Boiler!"]
 	quest.4E55A1169742B901.quest_subtitle: "Steam producing Multiblock"
+	quest.4E5F9E5430A112C9.quest_desc: ["These will give a &eForce Rod&r &cHealing&r. \\n\\nNot too sure what it does, but it probably is helpful!"]
+	quest.4E5F9E5430A112C9.title: "&cHealing"
 	quest.4E5FE40373675AED.quest_desc: ["Back into the &ecutter&r!"]
 	quest.4E67C04AD43EB70D.quest_desc: [
 		"Now that we have the resources to craft ZPM Motors, we can craft other ZPM components, which will allow us to craft ZPM machines! "
@@ -7850,6 +7972,8 @@
 	quest.4F68F142D9DE569A.quest_subtitle: "&bTier 3&r"
 	quest.4F6E6AF1D9E74CB7.quest_desc: ["An extremely rare ore that can only be found in the End Highlands biome."]
 	quest.4F6E6AF1D9E74CB7.title: "Unobtainium Ore"
+	quest.4F7E7060FB7793D8.quest_desc: ["When a Spider Eye is &6&lInfused&r with &eWeapons &for &eArmor&r make your attacks inflict Bane. \\n\\nNot Arachnids Bane, but Bane the Effect. \\n\\nBane takes away Creepers ability to explode and Endermens ability to Teleport."]
+	quest.4F7E7060FB7793D8.title: "Bane"
 	quest.4F7F0A5162D70082.quest_desc: ["Don't be confused there is a full and empty &5Creative &aEnergy Cube&r. \n\n&aEmpty Cubes&r work as an Energy Trash Can, voiding any Energy coming into it. \n\n&aFull Cubes&r work as an infinite energy storage. You'll need &aempty Energy Cubes&r to make it though... and those are expensive! \n\nEnergizing 4 &aempty Energy Cubes&r with an &6&lATM Star&r you can get the full one."]
 	quest.4F7F0A5162D70082.title: "&5&lCreative &aEnergy Cube"
 	quest.4F7F8F4ED1CA0550.quest_desc: ["A Campfire used on the spawner will have the mobs spawn on fire. Perfect for a nice Steak."]
@@ -8380,6 +8504,8 @@
 	quest.54822638CC243004.quest_desc: ["Pufferfish are pretty cool, same with Guardians, same with Thorns! Every damage dealt while wearing the &9Reflecting Necklace&r will accumulate points. Either after 5 seconds from last damage or when the points are full, the &9Necklace&r will shoot out &5Obsidian Spikes&r in all directions damaging all nearby."]
 	quest.54822638CC243004.quest_subtitle: "Found in Ruined Portals, Nether Fortresses, and Bastions"
 	quest.54822638CC243004.title: "&9Reflecting Necklace"
+	quest.54894A1B8E786FB7.quest_desc: ["The &dBaconater&r is an item you can make with a &dPig Flask&r. \\n\\nShift Right clicking with it will add all the &dCooked Bacon&r in your Inventory into the &dBaconater&r. \\n\\nYou can hold right click while using it to eat the &dBacon&r or Shift Right click to set it to auto-eat."]
+	quest.54894A1B8E786FB7.title: "&dBaconater"
 	quest.548F85EE6B6F1811.quest_desc: [
 		"Just like the Piglins the &2&lApotheocarist&r resembles, he is also Neutral. He doesn't care about &eGold&r like his fellow Piglins though, just people who attack him. \n\nYou can trade with him: giving him either Emeralds or Potion Ingrediants for Potions, Potion Ingrediants, and &2Nature Scrolls&r. \n\nIf you wish to slay him he has 60 Hearts. He will attack you with Potions and &2Nature Spells&r. When hurt he will try to heal with Potions, (I think he really likes Potions). \n\nWhen killed he will drop Arcane Essence, Inks, &2Nature Runes&r, and &2Nature Scrolls&r!"
 		"{image:atm:textures/questpics/iron_spells/spells_apotheocarist.png width:100 height:200 align:center}"
@@ -8870,6 +8996,8 @@
 	quest.59AF80E8EE17C769.title: "&5Echoing Forest"
 	quest.59B6C6BF0550D13D.quest_desc: ["New types of Glass that can be used with your Trains! Or bases, \n\nI can't make you use it for anything specific."]
 	quest.59B6C6BF0550D13D.title: "&7&lRailcraft&r Glass"
+	quest.59B772335D48997C.quest_desc: ["Last &6&lTier of Infusing&r, &6&lTier 7&r. \\n\\nEvery &6&lInfusion&r and square has been unlocked. \\n\\nJust get the last 2 &6&lInfusions&r and you have mastered &e&lForceCraft&r!"]
+	quest.59B772335D48997C.title: "&6&lTier 7"
 	quest.59E68086A8B99EA7.quest_desc: [
 		"The &c&lPyromancer&r (different from the Pie Romancer) is another Neutral Mob added by &lIron's Spells&r. He will maybe set Mobs that are close to him on &cfire&r though... \n\nYou can trade him all things &cFire&r, Ink, and even &cFire Scrolls&r. \n\nIf you want to risk all the hair on your body by fighting him be prepared, he has 60 Hearts. He will set you on &cFire&r with &cFire Spells&r, not even a question. \n\nOn death he will drop Arcane Essence, Inks, &cFire Runes&r, and &cFire Spells&r!"
 		"{image:atm:textures/questpics/iron_spells/spells_pyromancer.png width:100 height:200 align:center}"
@@ -8999,6 +9127,8 @@
 	quest.5B64384E4CE27851.quest_subtitle: "Banded Iron Vein"
 	quest.5B64384E4CE27851.title: "Goethite Vein"
 	quest.5B681BC43371CC5C.quest_subtitle: "For Transferring Items"
+	quest.5B7C262C4354D6D4.quest_desc: ["&eGlowstone&r can be used on &eForce Rod &for &eBow&r to make whatever they hit &e&lGlow&r. \\nVery exciting last &6&lTier Infusion&r."]
+	quest.5B7C262C4354D6D4.title: "&eGlowing"
 	quest.5B910F1389C0B915.quest_desc: [
 		"Abilities:"
 		"- Air Burst: Improved launching distance and conusmes FE."
@@ -9456,6 +9586,7 @@
 	quest.5F7F753FD72BFBBF.quest_desc: ["More Blocks added by &l&7Railcraft&r? I'm starting to doubt if it's even about Trains!"]
 	quest.5F7F753FD72BFBBF.title: "&l&7Railcraft&r Colored Blocks"
 	quest.5F834F8C607A8B77.quest_desc: ["You have to either find these in structures in the &6&lBumblezone&r or you can trade with the &5Bee Queen&r to get one! \n\nWhile wearing it you can hold Space Bar to fly for a little. \n\nExcept like a &6B&8e&6e&r the Wings are too small to keep your fat little body off the ground."]
+	quest.5F92C477E8A8F01F.quest_desc: ["&eForce Belts&r work as a worse &eForce Pack&r, they can't be upgraded and can't be worn. \\n\\nBut they can also change their color and name with Shift Right Click. \\n\\nAnd yes they hold Items."]
 	quest.5F9A544D84EB0FFA.quest_desc: ["&5Hunter Intel 8&r will need the Books and &4Pure Blood Level 2&r. \\n\\nThese drop from &2Level 2 &4&lVampire Barons&r. The higher the &2Level&r, the stronger they are."]
 	quest.5F9A544D84EB0FFA.title: "Crafting &5Hunter Intel 8"
 	quest.5F9B8ACCE0C8389E.quest_desc: ["In order to get more fun, little &4&lMahou Tsukai&r weapons, you'll need a &7Scroll of Strengthening&r. \n\nTo get one, place down a &7Spell Cloth&r, then do the Ritual of Strengthening on top of it and pick up the &7Cloth&r."]
@@ -9561,6 +9692,8 @@
 	quest.608A2102A42F0438.quest_desc: ["For &2Level 9&r and above he'll now be asking for Iron and Gold Ingots! \\n\\n20 Iron Ingots, 10 Gold Ingots, and of course the &5Hunter Intel Level 9&r."]
 	quest.608A2102A42F0438.quest_subtitle: "Lvl 9"
 	quest.608A2102A42F0438.title: "Getting &2Level 9"
+	quest.60904EA827B2F281.quest_desc: ["Using an &3Ender Pearl&r with a &eForce Rod&r will allow you to Teleport to a set location. \\n\\nA &eSword&r with &3Ender&r will Yeleport a few blocks in the direction you're looking. \\n\\nA &eBow&r with &3Ender Pearl&r &6&lInfusion&r will make mobs hit by it Teleport."]
+	quest.60904EA827B2F281.title: "&3Ender"
 	quest.6092490EC9008A05.quest_desc: [
 		"This interface will automatically break the block it is attached to. "
 		""
@@ -9627,6 +9760,8 @@
 		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"34E8FF3196478229\"}, \"text\": \"Click here to check out the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 	]
 	quest.6126741150866837.title: "&dForbidden and Arcanus&r"
+	quest.61323E3E5C5F1B25.quest_desc: ["&7Stony Shores&r are the Biomes found along Oceans full of &7Stone&r, Ores, and usually disappointment. \\n\\nI'm telling you every time I look for Sand I can only find these stupid Biomes! \\n\\nOh yeah they also spawn &7&lGargoyles&r!"]
+	quest.61323E3E5C5F1B25.title: "Explore the &7Stony Shores"
 	quest.61382ED4729AF8E6.quest_desc: ["Hold a Diamond Sword in your off hand and the Scroll of Strengthening in your main and hold right click."]
 	quest.61382ED4729AF8E6.title: "Strong Sword"
 	quest.613AC4DF39E5621D.quest_desc: [
@@ -9652,6 +9787,8 @@
 	quest.616364E6AE05C341.quest_desc: ["&bMineral Salts&r are made from... well Minerals. \n\nEverything Mined in some form of Ore can be made into &bSalt&r. Raw Ores, Ingots, Gems, all become &bMineral Salt&r! \n\nEven Unobtainium can be made into &bSalt&r! Just please don't, there's so many better alternatives."]
 	quest.616364E6AE05C341.title: "&bMineral Salt"
 	quest.616B6046EF5DDF21.title: "Elite Importer"
+	quest.616C0B40A44A5A4C.quest_desc: ["&eGolden Power Source&r comes from Smelting &eForce Wood&r. \\n\\nWhen used on a &eForce Sword &for &eAxe&r it'll give it Fire Aspect. \\n\\nWhen used on &eForce Pickaxe &for &eShovel&r it will give it Heat, which will Smelt any items Mined with it. \\n\\nWhen used on &eForce Armor&r it gives more Damage to the &e&oForce Punch&r and sets the mobs on Fire. &6&lInfuse&r &eArmor&r with both the &8Claw &fand &eGolden Power Source&r to get both!"]
+	quest.616C0B40A44A5A4C.title: "Bring the Heat!"
 	quest.616ED6C49C37EB91.quest_desc: ["&b&lPaths and Pathways&r adds tons of different Carpet like Blocks (and full Blocks and Slab versions). \n\nThese are obviously used as Paths, they just look much nicer than the &2&lMinecraft&r Path Block. "]
 	quest.616ED6C49C37EB91.title: "&b&lMacaw's Paths and Pavings"
 	quest.616F9B78B16B42A5.quest_desc: ["The recipe for the &6Tesla Coil&r might seem complicated, especially in a recipe tree, but we can break it down to be simpler!\n\nThe &7Aluminum Plates&r are very simple, just needing to use a Hammer on Ingots or the Metal Press Multiblock.\n\nThe &8Iron Mechanical Component&r is simple as well, just a few Iron Plates and a &6Copper Ingot&r.\n\n&eElectrum Coil Block&r will need a bunch of &eElectrum Ingots&r cut up into Wires. &eElectrum&r is an alloy of &eGold&r and Silver.\n\nThe &6Advanced Electronic Component&r is a whole array of using the Engineers Workbench and &9Blueprints&r. It's Duroplast Sheet requires a lot of refining and fermenting with Multiblock Machines!\n\nThe last item, the &cHV Accumulator&r needs some simple Items like &8Steel&r, &7Aluminum Plate&r, &cRedstone Acid&r, and &4Treated Wood&r. It also needs a more complicated Item called &8HOP Graphite Ingot&r."]
@@ -10072,6 +10209,8 @@
 	quest.6601450C63FEEE61.title: "&bHarvest Tier 3"
 	quest.6607E5CDB3D17D67.quest_desc: ["Don't worry, these won't set on fire!"]
 	quest.6607E5CDB3D17D67.title: "&l&bChipped&r Wool"
+	quest.660E1D117D8AF14F.quest_desc: ["Yes, you can find &eForce Trees&r around the &2&lOverworld&r but come on, there's no greater joy than picking the Fruits of your own labor! \\n\\nYou can Craft a Sapling with a &eForce Rod&r to get a &eForce Sapling&r, which when Planted will give us a &eForce Tree&r. \\n\\nThe &eTree&r will give us &eForce Wood&f, more &eForce Saplings&f, and even &eForce Nuggets&r from the Leaves!"]
+	quest.660E1D117D8AF14F.title: "&eForce Sapling"
 	quest.661C072E48F8D41F.quest_desc: [
 		"&6Copper&r is one if not the most common Ore you can find, so why not use a bunch of spare &6Copper&r to upgrade your furnace!"
 		""
@@ -10191,6 +10330,8 @@
 	]
 	quest.676BC41C19BEF1FC.quest_subtitle: "The Fastest Crushing On This Side of the Mississippi"
 	quest.676BC41C19BEF1FC.title: "The &5Marid Crusher"
+	quest.676E94B82F843BF7.quest_desc: ["&c&lImps&r are Demons so of course we'll need to look in &c&lHell&r to find them. \\n\\n&2&lMinecraft&r Hell, aka &c&lThe Nether&r."]
+	quest.676E94B82F843BF7.title: "Raid &c&lHell&r"
 	quest.67704F7341EDCC49.title: "&bDiamond Backpack"
 	quest.677365A816994C8B.quest_desc: [
 		"The &9Player Transmitter&r will charge a player's items wirelessly. You must first bind this to a player using a &9Binding Card&r. This is the basic card which allows the transmitter to only work in the same dimension. You can upgrade this by using a &dBinding Card (Dimensional)&r instead. "
@@ -10266,6 +10407,8 @@
 	quest.67DDFA6FB1F9EECA.title: "&9Imperium Tools"
 	quest.67E154DC24F54854.title: "&6Master of Oblivion&r"
 	quest.67F992E5672671CD.quest_subtitle: "&eTier 5&r"
+	quest.68054AF8A3CEF706.quest_desc: ["The &bUpgrade Tome&r is what determines the &6&lTier of Infusion&r. \\n\\nIt starts off at &6&lTier 0&r and goes to &6&l7&r. \\n\\nYou need 2 thins to &6&lTier up&r: &eForce Points&r and &bMastery&r. \\n\\nYou get &eForce Points&r from &6&lInfusing&r and &bMastery&r comes from using every &6&lInfusion&r in that &6&lTier&r. "]
+	quest.68054AF8A3CEF706.title: "&bUpgrade Tome"
 	quest.6805CC8AD6010F33.quest_desc: [
 		"This unlocks a single recipe for us, the &1IV&r Circuit!"
 		""
@@ -10417,6 +10560,9 @@
 	quest.692183ACBB2AABF7.title: "&lRelics"
 	quest.692C9BA71EA0F0A7.quest_desc: ["You need this tier of Mixer to make &3Tungstensteel Dust&r as well as &dVanadium Gallium Dust&r"]
 	quest.692C9BA71EA0F0A7.quest_subtitle: "Where's the dough hook?"
+	quest.692DDE07FB581A51.quest_desc: ["&8Grinding Core&r will break down items into what they are made of. \\n\\nWool to String, Doors to Wood, &eGold Weighted Pressure Plate&r into &eGold Ingots&r. \\n\\nStill needs Fuel."]
+	quest.692DDE07FB581A51.quest_subtitle: "I'm not a big fan of the music"
+	quest.692DDE07FB581A51.title: "&8Grinding Core"
 	quest.69383DA579901E7E.quest_subtitle: "Let me Axe you this"
 	quest.694D7CD9EC663355.quest_subtitle: "Mace I interest you in this?"
 	quest.6950FC974624C6AA.quest_subtitle: "Tier: &63"
@@ -10641,6 +10787,8 @@
 	quest.6B511C8B572E8940.quest_desc: ["In the bottom left of your screen, you'll see a bar. This bar is your mana pool! \n\nThere are several ways to increase your mana pool, or increase the efficiency of your spells as you progress through the mod. Upgrading your spellbook can also increase your mana!"]
 	quest.6B511C8B572E8940.quest_subtitle: "Mage Power"
 	quest.6B511C8B572E8940.title: "Mana"
+	quest.6B5A97707E677A57.quest_desc: ["The &eForce Pickaxe&r has same Tier as an &7Iron Pickaxe&r, it can only mine up to &bDiamond Ores&r. \\n\\nThe &eSword&r and &eAxe&r do the same damage as a &bDiamond Sword&r and &bDiamond Axe&r. \\n\\nThe &eBow&r does the same damage as a normal Bow. \\n\\nAnd &eShovel&r doesn't do much different! \\n\\nAll the Tools and Weapons can be &6&lInfused&r to get Upgrades though."]
+	quest.6B5A97707E677A57.title: "&eForce Tools and Weapons"
 	quest.6B5BC33667C782EC.quest_desc: ["The &dEnder Golem&r keeps guard of the &dRuined Citadel&r, well multiple of them do. Technically you don't need to fight them to fight the &dEnder Guardian&r but you definitely should. The &dEnder Golem&r has 3000 Hearts and a few attacks. It attacks like a normal Iron Golem but also has Void Core attacks. The Void Core works like the Evoker jaws with things coming out of the ground to deal damage."]
 	quest.6B5BC33667C782EC.title: "&dEnder Golem&r"
 	quest.6B671CB07D046BEC.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_diamond.png width:100 height:150 align:center}"]
@@ -10912,6 +11060,8 @@
 		"Make at least 1 Mk.III Reactor. It will serve you well."
 	]
 	quest.6E18951E41103391.quest_subtitle: "Mk. III"
+	quest.6E26ED53BFD1B44C.quest_desc: ["Setting the &5Inert Core&r on &cFire&r and Right Clicking it with a &eForce Rod&r you'll get a &0Bottled Wither&r. \\n\\nIt will spawn a &0&lWither&r ready to fight when Right Clicked on the ground. \\n\\nNo waiting, no initial explosion, just &0&lWither&r."]
+	quest.6E26ED53BFD1B44C.title: "&8Bottled Wither"
 	quest.6E29BA2E8642AF53.title: "ME Quantum Ring"
 	quest.6E2F24117ACF3694.quest_desc: [
 		"Gather the listed materials and then check JEI's Multiblock Info page to see how to build it"
@@ -11030,6 +11180,8 @@
 	quest.6F152402756DA35E.title: "&fItem Importing"
 	quest.6F15619C8A07E78A.quest_desc: ["This bad boy is just a furnace that operates on steam"]
 	quest.6F15619C8A07E78A.quest_subtitle: "Furnaces for every occasion"
+	quest.6F2FB040AFA1C121.quest_desc: ["&9Blue Dye&r can be used to make &eForce Shears&r, &cr&6a&ei&an&3b&bo&5w&r! \\n\\nEvery Sheep those &eShears&r are used on will drop random color of Wool."]
+	quest.6F2FB040AFA1C121.title: "&cR&6a&ei&an&3b&bo&5w&r"
 	quest.6F335B4F3FD660E7.quest_desc: ["These are not a fun one to get. \n\nYou'll need &aKnightmetal Ingots&r which are obtained from Smelting &aArmor Shard Clusters&r. \n\nYou get &aArmor Shard Clusters&r from combining 9 &aArmor Shards&r. \n\n&aArmor Shards&r are dropped from the &l&9Twilight Forest&r Goblins and rarely from Helmet Crabs."]
 	quest.6F335B4F3FD660E7.quest_subtitle: "20"
 	quest.6F335B4F3FD660E7.title: "&aKnightmetal Armor"
@@ -11356,6 +11508,8 @@
 		"{image:atm:textures/questpics/allthemodium/all_clay.png width:200 height:100 align:center}"
 	]
 	quest.71E4FD61787DE299.title: "&6Allthemodium Smithing Template"
+	quest.71F1B741136A3A11.quest_desc: ["The &8Claw&r can be used to &6&lInfuse&r a few different items. \\n\\nOn &eForce Swords&r it'll give Sharpness. On &eForce Bows&r it'll give Power. On &eForce Armor&r it gives something different, the ability to &e&oForce Punch&r. \\n\\n&e&oForce Punch&r is what happens when you shift left click a mob with an Empty Hand. It'll do more Damage than a regular Punch along with cool karate noises. \\n\\nThe more &eArmor&r with &e&oForce Punch&r the more Damage it does."]
+	quest.71F1B741136A3A11.title: "Damage and &e&oForce Punch&r"
 	quest.71FDF8CD953E46FC.quest_desc: ["HAHAHA did I scare you with the Creative item in the quests?\n\nDon't worry you won't need the item to finish this chapter, I just wanted to scare you\n\nI can have fun sometimes..."]
 	quest.72082D70F5D22632.quest_desc: ["Now this is the future! We are making progress, and stepping towards the Unknown!"]
 	quest.72082D70F5D22632.quest_subtitle: "Crystal Mainframe!"
@@ -11541,6 +11695,8 @@
 	quest.733FB9F8996CE453.title: "Explore into the &4Crypts"
 	quest.734411D931A8CDBF.quest_desc: ["The Ravager is a Miniboss that only spawns in harder Raids. \n\nIf you don't know what Raids are or don't understand the updated way, that's perfectly fine, that's what Quests are for! \n\nBy killing Pillager Captains (ones that are holding Banners) you can get Ominous Potions, when you drink them you'll get Bad Omen Effect. Then, you can walk near a Village and start a Raid. \n\nRaids will spawn Pillagers, Vindicators, Evokers, Witches, and Ravagers to fight!"]
 	quest.734411D931A8CDBF.title: "Kill A Ravager"
+	quest.734412D64A5F4490.quest_desc: ["Quite expensive, the &6Treasure Core&r is crafted with a Nether Star, 2 &bDiamonds&r, 4 &eForce Ingots&r, and 2 &eForce Ingot Blocks&r. \\n\\nIt can be &6&lInfused&r onto &eSwords &for &eAxes&r to give them &6Treasure buff&r. \\n\\nWhen mobs are killed with the &6Treasure buff&r they drop Treasure Cards, which can craft Spoils Bag."]
+	quest.734412D64A5F4490.title: "&6Treasure"
 	quest.734A72A4C898BDFB.quest_subtitle: "Iron + Nickel"
 	quest.734A72A4C898BDFB.title: "Invar Bee"
 	quest.734F61A03FFA13ED.quest_subtitle: "CreeBee + Iron"
@@ -12071,6 +12227,8 @@
 	quest.790F509BAA15A68E.title: "Tools"
 	quest.791A981914CE345F.quest_subtitle: "&f10 &cAttack Damage"
 	quest.791AE62ACACBD5BA.quest_subtitle: "You'll open it, close it, then open it again, just because you're bored"
+	quest.791D6A56DBFE02FD.quest_desc: ["The &7Gargoyle Axe&r needs 3 &7Gargoyle Shards &fand 2 &7Gargoyle Fragments&r to Craft. \\n\\nIt has same Attack Speed as a &cNetherite Axe&r and 0.5 &4Hearts&r more Damage. \\n\\nBut the &7Gargoyle Axe&r can do a Shockwave Attack by using Right Click with it! \\n\\nThis will Damage and Knockback all Mobs near the Player. \\n\\nThe &7Axe&r also appears to do more Knockback with Attacks even though the Weapon description doesn't mention it."]
+	quest.791D6A56DBFE02FD.title: "&7Gargoyle Axe"
 	quest.791E5CB36B5C1E73.quest_desc: [
 		"You'll need thin sheets and foil to make this, both of which can be made in a &eBender&r"
 		""
@@ -12142,6 +12300,8 @@
 		""
 		"Energium Batteries hold up to &a10 minutes&r of HV power"
 	]
+	quest.7986AEB0FA97182D.quest_desc: ["With a similar recipe to bottles, Force Flasks are much different. \\n\\nThey can hold &eLiquid Force&r, Milk, or animals. \\n\\nShift Right click to toss the Flask at a Mob to capture them. Right click to release them."]
+	quest.7986AEB0FA97182D.title: "Force Flasks"
 	quest.7992C63F063BE908.quest_desc: ["Pretty simple &7Scroll&r recipe for something so powerful! Just 2 &ePowdered Gold&r and 1 &bPowdered Diamond&r. \n\nUse this on a &7Spell Cloth&r with a &cMahoujin&r on it, once set Right Click it to obtain the &7Scroll&r! \n\nThen, use the &7Scroll&r in order to get your &c&lExplosive Staff&r!"]
 	quest.7992C63F063BE908.title: "&7Scroll of Explosive Mana Condensation"
 	quest.799CC9FEEDE471B1.quest_subtitle: "Mango + Star Anise"
@@ -12232,8 +12392,12 @@
 	]
 	quest.7A22E94DD83B12AE.quest_subtitle: "Just an Option"
 	quest.7A22F294077F6520.title: "Ludicrous Voltage Age"
+	quest.7A2486750091942D.quest_desc: ["The &7Stony Shield&r needs 1 &7Gargoyle Shard &fand 6 &7Gargoyle Fragments&r to Craft. \\n\\nIt acts just like a normal Shield, Hold Right Click while holding the Shield in your Offhand. \\n\\nThe only difference from normal Shield and &7Stony Shield&r is Durability. \\n\\nAnd the &7Stony one&r can't be Enchanted or Repaired..."]
+	quest.7A2486750091942D.title: "&7Stony Shields"
 	quest.7A271F425C3934CE.quest_desc: ["Currently this can only be crafted from cooking 2 &bPlant Salts&r into 1 &bCreature Salt&r. \n\nHopefully in newer updates we can kill more living creatures for &bSalt&r!"]
 	quest.7A271F425C3934CE.title: "&bCreature Salt"
+	quest.7A2CC1EAB820E466.quest_desc: ["Now can use 5 squares to &6&lInfuse&r, which also means you can stack the Upgrades to their max amounts. \\n\\nLike Sharpness to Sharpness V with 5 &8Claws&r. \\n\\nThe &ePoints&r needed to &6&lTier Up&r is up to 112, I think there might be a pattern!"]
+	quest.7A2CC1EAB820E466.title: "&6&lTier 4"
 	quest.7A32C50A6125E566.quest_desc: ["The &aSpore Sack&r is all about.. you guessed it! &aSpores&r!!! The First Ability releases a &aSpore&r everytime you are hit. The &aSpore&r will fly around until it sticks to a Block and will explode when a mob comes near. \n \nThe Second Ability allows you to accumulate &aSpores&r. Everytime you are hit 1 &aSpore&r is released and 1 is kept in your &aSpore Sack&r to be used for later. \n \nThird Ability allows floating &aSpores&r to reproduce like cells, divide and multiply! \n \nLast Ability is best of them all! Using Left Alt you can release all &aSpores&r accumulated! Their size is dependent on your health as well."]
 	quest.7A32C50A6125E566.quest_subtitle: "Found in Jungle Pyramids"
 	quest.7A32C50A6125E566.title: "&aSpore Sack"
@@ -12268,6 +12432,8 @@
 	quest.7A93F07BE2E6EC97.title: "&aStop the &9Rain!"
 	quest.7A9AE63998BB41FF.quest_desc: ["To determine when the Spawner will spawn it picks a random number between maximum and minimum spawn delay. The Minimum can be as low as 20 to as high as 32,767. Each piece of sugar modifies the min delay up or down by 10."]
 	quest.7A9AE63998BB41FF.title: "Minimum Spawn Delay"
+	quest.7AA58B747E257572.quest_desc: ["&6&lInfusing&r Items with &5Obsidian&r gives them Unbreaking! \\n\\nRemember to use multiple at a time to stack the Enchantments."]
+	quest.7AA58B747E257572.title: "Unbreaking"
 	quest.7AADB58621BC1254.quest_desc: ["The Forge Hammer and the Hammer will save you a lot of resources early game by allowing you to turn ingots into plates and other different shapes at a reduced cost! Eventually you'll use STEAM to do this for you, but early on this will help you save costs while you work towards your automation."]
 	quest.7AADB58621BC1254.title: "Forge and Hammer"
 	quest.7AAEFA2A349D3F82.quest_subtitle: "An Auto-Crafter!"
@@ -12321,6 +12487,8 @@
 		"It can be powered, allowing for Elytra-like flight! It also protects you from Acid Rain. :)"
 	]
 	quest.7B2A7B2298DAE8EC.title: "Jet Suit"
+	quest.7B35AC611D7092B4.quest_desc: ["The &eForce Furnace&r works like a normal Furnace just with &7Core slot&r. \\n\\n&7Cores&r can be added to change the function of the &eFurnace&r. "]
+	quest.7B35AC611D7092B4.title: "&eForce Furnace"
 	quest.7B3920DE6306A94A.quest_subtitle: "Mandarin + Kumquat"
 	quest.7B3FAF5CA4DD217C.quest_desc: [
 		"Using the Petal Apothecary, we can create several different types of flowers that can help us on our journey, and these are broken down into two different categories: &9Functional Flowers&r and &aGenerating Flowers&r."
@@ -12466,6 +12634,8 @@
 	quest.7CC3BD5F3D66A637.quest_subtitle: "A cloud of radon floats into a cafe. The waiter says, \"we don't serve inert gases here\". There was no reaction from the radon."
 	quest.7CC49360D07086B8.quest_desc: ["This item is how you make Wireless Transfers possible.\n\nYou can set specific channels, named by you, to transfer whatever you want from it."]
 	quest.7CC49360D07086B8.quest_subtitle: "Wireless Power, Gases, Fluids, Everything."
+	quest.7CD885388E09C88C.quest_desc: ["&7Upgrade Cores&r are made by crafting a &eForce Rod&r with an &bExperience Tome&r. \\n\\nYou'll need to &6&lInfuse&r them to make the different types and functions. \\n\\n&7Cores&r will break when you take them out of the &eFurnace&r either to replace them or when breaking the &eFurnace&r."]
+	quest.7CD885388E09C88C.title: "&7Upgrade Cores"
 	quest.7CE86300AF8E9BCA.quest_desc: ["Crafting 8 of the same Generators together with an Echo Shard combines them into 1 massive Generator! Works the same as 8 regular generators but only takes up the space of 1."]
 	quest.7CE86300AF8E9BCA.title: "8x What a deal!"
 	quest.7CF13A4941F608E5.quest_desc: ["From normal Glass, to Glass with Panes, to even Mosiacs!"]
