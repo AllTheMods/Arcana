@@ -54,7 +54,6 @@ function enchanting_apparatus(allthemods, output, pedestalItems, reagent, nbt, s
 
 
 ServerEvents.recipes((allthemods) => {
-    allthemods.remove({ id: 'forcecraft:force_engine' })
 
     enchanting_apparatus(allthemods,
         {item: 'allthemodium:unobtainium_allthemodium_alloy_ingot'},
