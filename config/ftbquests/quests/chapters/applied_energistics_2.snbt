@@ -67,7 +67,6 @@
 			tasks: [{
 				id: "4D57E005D20BEDB9"
 				item: { count: 1, id: "ae2:meteorite_compass" }
-				optional_task: true
 				type: "item"
 			}]
 			x: 4.5d

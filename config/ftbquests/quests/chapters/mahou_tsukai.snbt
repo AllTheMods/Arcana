@@ -268,21 +268,35 @@
 			id: "0D19FB62C2C1D9F7"
 			rewards: [
 				{
-					count: 9
-					id: "02340AC7D3461843"
+					id: "34FD1AAAEF75CA9A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "32C926AA5B3441BC"
 					item: {
 						components: {
-							"ftbquests:missing_item": "mob_grinding_utils:dreadful_dirt"
+							"minecraft:potion_contents": {
+								potion: "minecraft:long_regeneration"
+							}
 						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "minecraft:splash_potion"
 					}
 					type: "item"
 				}
 				{
-					id: "34FD1AAAEF75CA9A"
-					type: "xp_levels"
-					xp_levels: 1
+					id: "744D8F8AE835686E"
+					item: {
+						components: {
+							"minecraft:potion_contents": {
+								potion: "minecraft:strong_harming"
+							}
+						}
+						count: 1
+						id: "minecraft:splash_potion"
+					}
+					type: "item"
 				}
 			]
 			size: 1.5d
@@ -631,17 +645,6 @@
 			id: "777BB82B56038ED3"
 			rewards: [
 				{
-					id: "5D3951C458EB1B00"
-					item: {
-						components: {
-							"ftbquests:missing_item": "reliquary:pedestals/passive/red_passive_pedestal"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
 					exclude_from_claim_all: true
 					id: "5A3670D0BA3BBD12"
 					table_id: 8618912459734780562L
@@ -651,6 +654,19 @@
 					id: "22511C3ABCAEB755"
 					type: "xp_levels"
 					xp_levels: 10
+				}
+				{
+					id: "056D8B1D4971AD2A"
+					item: {
+						components: {
+							"minecraft:dyed_color": {
+								rgb: -393218
+							}
+						}
+						count: 1
+						id: "bibliocraft:sword_pedestal"
+					}
+					type: "item"
 				}
 			]
 			size: 1.2d

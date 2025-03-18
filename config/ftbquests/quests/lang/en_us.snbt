@@ -131,8 +131,6 @@
 	quest.00A17728A387B426.quest_subtitle: "Can be used in any Overworld biome"
 	quest.00A17728A387B426.title: "Wood Nests"
 	quest.00A91BD731486644.quest_subtitle: "Ceylon Ebony + Sour Cherry"
-	quest.00AC7CC291A3E590.quest_desc: ["You've probably (definitely) seen structures around the world with what looks like Beacons coming out of them. They're made of cobblestone, have 4 legs supporting them, kinda high in the air! \n\nHopefully you know it but they're called &8Dark Temples&r and they have an &aEnviromental Accumulator&r which we need. \n\nYou'll have to wait for Thunderstorm to happen to fill your Weather Container. Then, you can make your &3Lightning Bomb&r!"]
-	quest.00AC7CC291A3E590.title: "&3Lightning Bomb"
 	quest.00B7DD3AFC94B037.quest_subtitle: "Beech + Alder"
 	quest.00BA4B74737AB39E.quest_desc: ["&5Cursed Cores&r are a rare Drop from &5&lPossessed Armors&r. \\n\\nHow rare? They are so rare after killing a dozen I didn't believe that &5&lPossessed Armors&r drop them! \\n\\nThanks to the Wiki I now know that they do drop them. \\n\\nYou'll need a &5Cursed Core&r for each piece of &5Bound Soul Armor&r!"]
 	quest.00BA4B74737AB39E.title: "&5Cursed Core"
@@ -267,8 +265,6 @@
 	]
 	quest.020E6AF37A0421C8.title: "Water Tank"
 	quest.02190383FEE793ED.quest_desc: ["All that is left to do is use a &eChemical Reaction&r to pull the Chlorine off the Iridium!"]
-	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden Arcanus&r is all about using the Arcane to do rituals with the Forge to become stronger! \n\nOr what most know it for, Eternal Stella. There's more to the Mod you know! "]
-	quest.022C38096F79EF07.title: "&6&lForbidden Arcanus"
 	quest.02444ADBECA57C0D.quest_desc: ["&7Stony Peaks&r are a Mountain Biome, most notably known for not being drenched in Snow! \\n\\nThey have tons of Ores like Iron, Coal, and even &aEmerald&r all exposed on the &7Mountain Peaks&r, very helpful for Mining. \\nThis is also a place where &7&lGargoyles&r can spawn! \\n\\nBTW did you know &6AllTheModium&r used to spawn in these in &6&lATM7&r?"]
 	quest.02444ADBECA57C0D.title: "Climb the &7Stony Peaks&r"
 	quest.0251FD45582C3164.quest_subtitle: "Don't sniff this"
@@ -279,6 +275,8 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_oven.png width:100 height:100 align:center}"
 	]
 	quest.02593CD4B4AE814C.title: "Desalination Plant"
+	quest.025A68F7B4788055.quest_desc: ["To get the Unobtainium Arcanist Hat, we'll need an Elemental Hat. Any Element, it doesn't matter! \\n\\nEach are made in a similar way. You'll upgrade an Ars Hat with a Mark of Mastery, 2 Elemental Essence, and a Netherite Ingot. \\n\\nIt can be made with a Sorceror's, Mage's, or Archmage's Hat. \\n\\nThe Mark of Mastery is a very hard Item to acquire. You'll need a Wilden Tribute, all Elemental Essences, plus Abjuration, Conjuration, and Manipulation Essences, along with Anima Essence! \\n\\nIt also requires a ton of Source to make every single one of those Items and the Hat itself."]
+	quest.025A68F7B4788055.title: "Elemental Hats"
 	quest.0262E0D49A12F817.quest_subtitle: "Upgrades!"
 	quest.02643BAD1AE747C6.quest_desc: ["The &3Advanced Liquid Compressor&r works the same as the Liquid Compressor, only way better!"]
 	quest.026A71F98A52E3A5.quest_desc: ["Within villages, there are &ointeresting&r villagers that just so happen to be &dWerewolves&r.\n\nSlaying these beasts will give you &dWerewolf Flesh&r."]
@@ -377,8 +375,6 @@
 	quest.034F2CDF0830254B.title: "&eFluid Importing"
 	quest.034FC4BCCCD7D154.quest_desc: ["Note: While you can put several base upgrades into a machine, only the highest tier takes effect."]
 	quest.034FC4BCCCD7D154.quest_subtitle: "Tier 3 Base Upgrade"
-	quest.03564837ECB5CC79.quest_desc: ["Another Ritual of course, this one being &2Ihagan's Enthrallment&r. (BTW in order to sacrifice a Horse you need it nearby while doing the ritual) \n\nOnce done you will be given a Spawn Egg for a &2Dragon Familiar&r. These can either be used in crafting to get the &6&lATM Star&r, or you can spawn the &2Familiar&r. \n\nThis one will follow you around and can be pet by using Shift Right Click on it."]
-	quest.03564837ECB5CC79.title: "&2Dragon Familiar&r Spawn Egg"
 	quest.035C52EF63AD23A7.quest_desc: ["Hence the name of the mod, &lRailCraft&r, and what it revolves around, &5Trains&r, &6Rails&r are pretty important. \n\nThe &2Vanilla&r ones work for lots of these but come on we all know they suck. Upgraded ones will need some more special items for their recipes! Craft them! (They might require using machines to make the items so check out that part of the quest!)"]
 	quest.035C52EF63AD23A7.title: "&6&lRails&r!"
 	quest.0373198D54FA6B93.quest_subtitle: "Double it Up"
@@ -389,7 +385,6 @@
 	quest.037E0DAA5ECC5AB8.quest_desc: ["Hit 24 different Mobs with &ePollen Puffs&r. \n&6B&8e&6e&8s&r are the most fun to hit with them!"]
 	quest.037E566ACC83FE07.quest_desc: ["Pro Tip: You can enchant these with &9Capacity&r to increase the storage!"]
 	quest.037E566ACC83FE07.title: "Storing Power"
-	quest.038812A14456236C.quest_desc: ["By combining some Processors, an Energy Cell, and any Dense Cable we get the ME Quantum Ring. \n\nUsually we'd use it to connect our ME system across Dimensions but we only care about the &6&lATM Star&r!"]
 	quest.039DBFD0172076AB.quest_desc: [
 		"This question has been asked previously, but it will be asked again..."
 		""
@@ -605,8 +600,6 @@
 	]
 	quest.05618FE80F2E0372.title: "&9The Infusion Crystal"
 	quest.056E1E3B1ED14917.quest_subtitle: "Teak + Dark Oak"
-	quest.0573B6F1BE5110FD.quest_desc: ["&2&lMinecraft&r Bees are adorable but the limited things Honey gives us isn't enough to justify the work to get it. \n\nWell unless you can get just about anything from the Bees, then that'd be different!"]
-	quest.0573B6F1BE5110FD.title: "&e&lProductive Bees&r"
 	quest.0576C32B0FB360B0.quest_desc: [
 		"The Lunar Monstrosity has 200 Hearts and will only take 1 damage from each hit unless you use Fire. \n\nIt has a few attacks including Ground Spikes, Projectiles, and Exploding Tangled Heads! \n\nWhen you kill it, it will drop Arrows, Ingots, Tangled Skulls, Tenacious Petals, Trapped Souls, and a chance at a rare Weapon!"
 		"{image:atm:textures/questpics/eternal/starlight_lunar.png width:100 height:125 align:center}"
@@ -618,9 +611,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_mite.png width:200 height:100 align:center}"
 	]
 	quest.0584073A7383E0EA.title: "Mite Fortress"
-	quest.05850541675B2493.quest_desc: ["It does. \n\nYou have created the &6&lATM Star&r, that means you have beat the modpack!\n\nSo what's next?"]
-	quest.05850541675B2493.quest_subtitle: "Does this mean you win?"
-	quest.05850541675B2493.title: "&6&lATM Star"
 	quest.0589911EB4D30FAD.quest_desc: ["&l&cRegions Unexplored&r also adds the ability for you to paint Planks as if they were Wool or Glass! "]
 	quest.0589911EB4D30FAD.title: "Painted Planks"
 	quest.0591CAFD665CE151.quest_subtitle: "Tier: &b4"
@@ -717,7 +707,7 @@
 	quest.064BBCC379A69748.quest_desc: ["This one is around twice as good as a vanilla furnace, and is more efficient to boot! While it gets outclassed by other furnace mods, for a strictly MI playthrough this furnace is incredibly strong!"]
 	quest.0650996C7818ADB5.quest_desc: ["The Heat Generator has 2 modes to generate power:\n\n&9Passive:&r Surrounding the generator with lava source or flowing blocks creates passive power by creating heat. Place one lava source block on top, and let it flow over the sides. Make sure to connect pipes first!\n\n&9Active:&r Placing combustible materials such as coal or wood into the generator will burn the fuel to create power."]
 	quest.0650996C7818ADB5.quest_subtitle: "Basic Power Gen"
-	quest.0654D3E54E0B6AA8.quest_desc: ["&0Umbra's Whisper&r is the confirmed Drop from the &0&lBlack Charro&r. \\n\\nIt does the same Damage as a &cNetherite Sword&r, 8 &4Hearts&r. \\n\\nIt also has a faster Attack Speed than any &2&lVanilla&r Weapon! \\n\\nThe best part is when you Right Click, it will send an &0Umbral Doom Orb&r which will make a small Explosion like a &0Wither Skeleton Skull&r. Damaging any Mobs near it and blowing up any Dropped Items. \\n\\nIt does have Durability and unfortunately has no way of repairing... "]
+	quest.0654D3E54E0B6AA8.quest_desc: ["&0Umbra's Whisper&r is the confirmed Drop from the &0&lBlack Charro&r. \\n\\nIt does the same Damage as a &cNetherite Sword&r, 8 &4Hearts&r. \\n\\nIt also has a faster Attack Speed than any &2&lVanilla&r Weapon! \\n\\nThe best part is when you Right Click, it will send an &0Umbral Doom Orb&r which will make a small Explosion like a &0Wither Skeleton Skull&r. Damaging any Mobs near it and blowing up any Dropped Items. \\n\\nIt does have Durability and can be Repaired with either another &0Umbra's Whisper&r or a Diamond!"]
 	quest.0654D3E54E0B6AA8.title: "&8Umbra's Whisper"
 	quest.0655AAFACB64AD91.quest_desc: ["To get the final &2Levels&r we'll need all 3 Tables around the &9&lHunter Research Table&r. \\n\\n&d&lPotion Table&r, &b&lHunter Weapon Table&r, and the &c&lAlchemical Cauldron&r!"]
 	quest.0655AAFACB64AD91.title: "Three's a crowd"
@@ -905,8 +895,6 @@
 	quest.0843A52B84A94ECD.title: "&eForce Fuel&r and &cEnergy&r"
 	quest.08457BEED799E600.quest_desc: ["These new &7Carts&r are mostly for laying down &6Tracks&r.\n\nThe &7Track Layer&r places down &6Tracks&r while the &7Track Remover&r removes &6Tracks&r.\n\nThe &7Track Relayer&r replaces the &6Tracks&r with different ones and the &7Track UnderCutter&r replaces the blocks beneath the &6Tracks&r."]
 	quest.08457BEED799E600.title: "&7Carts&r and &6Tracks"
-	quest.0848056FDD3F9BDA.quest_desc: ["A &9Singularity&r is a theorized point of ultimate density. Scientists believe the Universe we live in once was a &9Singularity&r. Every molecule in our Universe, in a single point smaller than a grain of sand. \n\nOf course with &l&bAE2&r drifting along the line of theoritical sciences they have their own &9Singularity&r. \n\nThere's 2 ways of crafting it but each require condensing a multitude of Items into one point!"]
-	quest.0848056FDD3F9BDA.title: "&9Singularity"
 	quest.0850F88E2205623F.quest_desc: ["&3Sculk Tendrils&r are like &bTwisting Vines&r... just &3Sculky&r. \\n\\nThey spawn rarely in &9Deeplands&r."]
 	quest.0850F88E2205623F.title: "&3Sculk Tendrils"
 	quest.0853917693A259C2.quest_desc: ["&3The Annihilator&r is a very fun weapon made from &3Cursium&r and Black Steel. \\n\\nYou can smack enemies around with it all day! But you know what's more fun than one &3Annihilator&r? \\n\\nTwo &3Annihilators&r! \\n\\nIf you have an &3Annihilator&r in each Hand, then you can Hold Right Click to do a powerful ground pound, damaging all around you!"]
@@ -964,7 +952,6 @@
 	quest.08C66BCA3AAE765B.quest_desc: ["This one adds Non-&2&lMinecraft&r Blocks so I'd rather not discuss it."]
 	quest.08C66BCA3AAE765B.title: "&b&lMacaw's Roofs"
 	quest.08C6B7D2DAE87222.quest_subtitle: "Oak + Birch"
-	quest.08CE14FFED813992.quest_subtitle: "13 Wet Dark Pink Blocks"
 	quest.08D1CC753F6B4283.quest_desc: ["The Elder Guardian was considered a third Boss for Minecraft before the Warden, but I consider him a Miniboss. \n\nThe Elder Guardians spawn in Ocean Monuments. Three of them spawn there and will inflict Mining Fatigue on anyone nearby. \n\nIf you want the treasures of the OCean Monument, you'll need to find and kill them! (Tip: I've always found 1 in the top Room, 1 on the far left, and 1 on the far right!) \n\nThey have 80 Hearts and attack like normal Guardians, Lasers and Thorns! \n\nOn death they will drop: Sponges, Prismarine, and their lunch..."]
 	quest.08D1CC753F6B4283.title: "Kill A Elder Guardian"
 	quest.08D48D7C2C6EEF54.quest_desc: ["What good is regular Tungsten? Well, since you asked, it is an integral component of many IV Machines, primarily in the form of Tungsten Cables"]
@@ -974,7 +961,6 @@
 	quest.08DB91D079C5B715.quest_subtitle: "Red Maple + Mahogany"
 	quest.08DDE018A804BFE7.quest_desc: ["This machine works like a Macerator or Pulverizer, and will break ores down into dusts.\n\nThis breaks 3 raw ores down into 4 dusts.\n\nThis is the start of your Ore Factory. It can also be upgraded to a factory machine, increasing the slots of use."]
 	quest.08DDE018A804BFE7.quest_subtitle: "Breaks Raw Ores into Dusts"
-	quest.08E47A27EFFB7C6B.quest_subtitle: "5 Dry Pink Blocks"
 	quest.08E484DD3E751697.quest_subtitle: "The B in Roy G. Biv"
 	quest.08E484DD3E751697.title: "&bBlue Xychorium Gems"
 	quest.08F28A9E4DEA7CD0.quest_desc: ["This rune increases the amount of LP gained from taking blood away from non-player entities. Each one gives a bonus of 10% additively per rune."]
@@ -984,7 +970,6 @@
 	quest.091C9CEBC8F9DDAC.quest_desc: ["A cornerstone of tech packs, the macerator will shred the impurities from ore, providing you with raw ore or ore dusts, which can then be turned into ingots at a better ratio. If you use the Steam Mining Drill to get ore blocks, you can macerate them at a 1:3 ratio, and then convert those even more, giving you roughly a 1:4.5 return per single ore block! Talk about value!"]
 	quest.09223F02621781BF.quest_subtitle: "Iron + Mason"
 	quest.09223F02621781BF.title: "Silver Bee"
-	quest.0923C941A9696122.quest_desc: ["Incase you have to bring 256 Million Items on an Adventure with you!"]
 	quest.09282E3864752CEE.quest_subtitle: "Tier: &63"
 	quest.092A23FDA5D50812.quest_subtitle: "Tier: &a2"
 	quest.092BB595F75D5536.quest_desc: [
@@ -1054,8 +1039,6 @@
 	]
 	quest.09D18512037386C1.quest_desc: ["In order to put Potion Effects into you'll need to fill a Potion Filter. \n\nTo do so: have a Potion Effect on you, then right click with the Potion Filter to remove it from you and add it to the Filter, and repeat until it's filled and active. \n\nThis also works with modded Potion Effects or ones you can't usually get through Potions like Haste or Resistance."]
 	quest.09D2137B4F42006E.quest_desc: ["Eclipse Ember is a new material added by JDT. Eclipse Ember is aquired by performing Goo Spread on Voidflame Coal Blocks using tier four goo. Eclipse Ember Ore is affected by fortune."]
-	quest.09D76E9B8CABC31E.quest_desc: ["For &5&lCreative Essence&r you'll need 4 &5Insanium Essence Blocks&r. Each Block is 9 &5Essence&r now let me do the math... \n\nYou'll need 9,216 &aInferium Essence&r to get just these Blocks."]
-	quest.09D76E9B8CABC31E.title: "4 &5Insanium Blocks"
 	quest.09E25B1CD6CABD5A.quest_desc: ["This upgrade makes the Router similar to a Framed Block. \n\nSneak Right Click a Block to change the Routers appearance to it. \n\nJust don't lose it!"]
 	quest.09EF804D70C856FB.quest_desc: [
 		"We'll need a &dRail Gun&r from the mod &aImmersive Engineering&r to create the &6Star&r! "
@@ -1159,7 +1142,6 @@
 	quest.0ADBE90B33ACC9FB.title: "&cR&6a&ei&2n&3b&9o&5w &cG&6e&en&2e&3r&9a&5t&ce&6r"
 	quest.0ADF99F5853BB4D6.quest_desc: ["By &6&lInfusing&r an &7Upgrade Core&r with &8Flint&r you'll get a &8Grinding Core&r. \\n\\nYes, &7Cores&r are needed to &6&lTier up&r."]
 	quest.0ADF99F5853BB4D6.title: "&8Grinding"
-	quest.0AE28C998A3BF136.quest_subtitle: "531,441 Netherrack"
 	quest.0AEAEA976ED0C470.quest_desc: ["The &3Charging Station&r is used to charge various tools and gadgets in &aPneumaticCraft&r using pressure."]
 	quest.0AEAEA976ED0C470.quest_subtitle: "Where's the cord?"
 	quest.0AEC181F5E21A299.quest_desc: [
@@ -1298,9 +1280,6 @@
 	]
 	quest.0C7491BA5857AA00.quest_subtitle: "Teak + Jungle"
 	quest.0C78FB6EB275960B.title: "Sheldonite Vein"
-	quest.0C7D96DB3573EF9C.quest_desc: [""]
-	quest.0C7D96DB3573EF9C.quest_subtitle: "&oAbility to create life."
-	quest.0C7D96DB3573EF9C.title: "&5&lCreative Essence"
 	quest.0C8180524757B238.quest_desc: [
 		"&7Floaters&r aren't technically structures in Minecraft files wise but still are in layman terms. \n\nThey can appear in any Biome but always and abundtly in &7&lHowling Constructs&r! \n\nThey are floating disc shaped structures made of Ancient Wax. If you haven't used the Essense of Bees yet you will get Weakness, Slowness, and Mining Fatigue when touching Ancient Wax. There's also &6Honey Cocoons&r or &5Crystals&r on them!"
 		"{image:atm:textures/questpics/bumblezone/bumble_floaters.png width:200 height:100 align:center}"
@@ -1480,7 +1459,6 @@
 	]
 	quest.0E02CE4469FCA4C9.quest_desc: ["Redstone Activation gives your spawner an on/off switch. Without Redstone Power it will not spawn."]
 	quest.0E02CE4469FCA4C9.title: "Redstone Active"
-	quest.0E03F5EAE4963ECB.quest_subtitle: "8 Dry Green Blocks"
 	quest.0E057B7F76401421.quest_subtitle: "The First Upgrade"
 	quest.0E057B7F76401421.title: "&6Copper Backpack"
 	quest.0E0CAA31480EC0A1.quest_desc: ["Allows the Backpack to pick up items."]
@@ -1624,7 +1602,6 @@
 	quest.0F031E62E5235251.title: "&5Insanium Block&r"
 	quest.0F0D41F29386333A.quest_desc: ["Scarlet Trees range in size and shape and even sometimes fallen down! \n\nBut all have pink leaves! Including the ones on the ground."]
 	quest.0F16498769DFB3B0.quest_desc: ["This will be the main ingredient for most of this mod's items and blocks."]
-	quest.0F1CA44520BDEFEA.quest_subtitle: "6,561 Diamond Blocks"
 	quest.0F1D6F4729CC38F3.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_rib.png width:100 height:150 align:center}"]
 	quest.0F1D6F4729CC38F3.quest_subtitle: "Nether Fortress"
 	quest.0F1D6F4729CC38F3.title: "Rib Armor Trim"
@@ -1732,7 +1709,6 @@
 	quest.1037EBE092D43AFC.quest_desc: ["The earliest &2Skill&r we can use is to make 5 Potions at a time with the &d&lPotion Table&r instead of 3. \\n\\nThen, we can also choose whether to make &2Stronger&r or more Durable Potions! \\n&2Stronger&r allows us to use Redstone to get higher Levels of Potions to do the Effect more. \\n&2Durable&r, ups the time they have for the Potion Effect. \\n\\n&2Master Brewer&r allows us to get the Nausea and Blindness Potions. \\n\\nThe last &2Skill&r gives us both Stronger and Durable Potions! So Resistance 3 for a very long time!"]
 	quest.1037EBE092D43AFC.quest_subtitle: "Faster Stronger"
 	quest.1037EBE092D43AFC.title: "Harder Better"
-	quest.103834774B57D611.quest_desc: ["The Mini End Portal will need quite a few &dEndshelves&r. These are the last tiers of Shelves you'll get from &5&lApotheosis&r. You'll need &dInfused Dragon's Breath&r to craft them. \n\nAfter that you'll just need Eyes of Ender which you'll need to have made them in order to actually get the &dEndshelves&r. \n\nIf you somehow got to &d&lThe End&r and got the Shelves without Eyes of Ender then I'm impressed!"]
 	quest.103DC20C8447E03C.quest_desc: ["&4Pure Blood&r will be an important Crafting Ingrediant for later &2Leveling&r and for other Recipes. \\n\\nIt is dropped by &4&lVampire Barons&r. Its &4Level&r is determined by the &2Baron's Level&r. \\n\\n&2Level 5 &4&lBaron&r will drop &4Level 5 Pure Blood&r, &2Level 1 &4&lBaron&r will drop &4Level 1 Pure Blood&r."]
 	quest.103DC20C8447E03C.title: "&4Pure Blood"
 	quest.104049993CC62E7F.quest_desc: ["The Advanced Item Loader is everything the regular one is but can be used from anywhere near the &6Track&r. Next to, above, next to on the other side. Use the &4Crowbar&r to change its direction."]
@@ -1798,8 +1774,6 @@
 	quest.111F2EE85FB0A455.title: "&cFiery Tools"
 	quest.1124A964E1B8E0EE.quest_desc: ["Vial of Unnaming does as it suggests. When you have an affixed item with an awkwardly long name, you can combine it with the vial in a smithing table to get rid of most of the name. (Only the material and weapon type as with the rarity color will stay)."]
 	quest.1124A964E1B8E0EE.title: "Vial of Unnaming"
-	quest.11374A3B5BD644F5.quest_desc: ["&lIndustrial Foregoing&r is a Tech Mod with tons of Machines and Tools. All following the same Color Code! \n\nYou'll need to start with Rubber and yes there is a Quest page for it!"]
-	quest.11374A3B5BD644F5.title: "&lIndustrial Foregoing"
 	quest.114D668C691A2BDF.quest_subtitle: "Ashy Mining + Crystalline"
 	quest.114D668C691A2BDF.title: "Iron Bee"
 	quest.115FD5EF8EFBF3FC.title: "Charoite Tools"
@@ -2201,8 +2175,6 @@
 		"This can also be used to make the &6Horizonite Forge&r."
 	]
 	quest.14B4E6B2FC3F6B36.title: "&6Horizonite"
-	quest.14B7EEBE0F6C2776.quest_desc: ["&dInfused Dragon's Breath&r is obtained by... well Infusing &dDragon's Breath&r. \n\nYou can use 2 &9Soul-Touched Sculkshelves&r, 3 &bHeart-Forged Seashelves&r, 8 Normal Bookshelves, and 1 &6Geode-Encased Bookshelf of Stability&r. \n\nIt'll also be needed for other recipes but we don't talk about that!"]
-	quest.14B7EEBE0F6C2776.title: "&dInfused Dragon's Breath"
 	quest.14C017569BECA2CE.quest_desc: [
 		"Cobaltite dust can come from ore processing cobaltite"
 		""
@@ -2352,8 +2324,6 @@
 	quest.166DF03D93BC11F1.title: "(Better) Reforing Table"
 	quest.167E1474644C9908.quest_desc: ["The Quartz makes whatever the other item does, it does the opposite for the Spawner. With Quartz in your offhand and the other Spawner Modification item in your main it will do the opposite of its role. With Quartz and Blaze Rods instead of increasing Spawn Range it will decrease it. With Quartz and Ghast Tears it'll decrease Max Entities."]
 	quest.167E1474644C9908.title: "Opposite Day"
-	quest.1682CED78D9D4BA7.quest_desc: ["&9&lTwilight Forest&r is one of the most well known and recognized Mods, and for good reason. It has practically defined Adventure Mods! \n\nTo get there simply have a 2x2 pool of Water, surround it with Flowers, and drop a Diamond into it! \n\nThen, your Portal shall open up, and you can enter the &l&9Twilight Forest&r. \n\nHere you'll need to follow a strict order of Bosses to kill and progress!"]
-	quest.1682CED78D9D4BA7.title: "&9&lTwilight Forest"
 	quest.1697CC05D08B388D.quest_subtitle: "Yummy Fried Chicken!"
 	quest.1697CC05D08B388D.title: "The Chickens Must Go"
 	quest.1698565EBB68DC85.quest_desc: [
@@ -2424,13 +2394,7 @@
 	quest.17419401147B5C02.quest_subtitle: "The Bees and the Bees"
 	quest.1744E700CF742CE2.quest_desc: ["&5The Coralssus&r works as a Guard and Steed for the &5Sunken City&r. \\n\\nThey can be ridden by &5Deeplings&r to move quicker and attack together! \\n\\nThey have 160 &4Hearts&r and basic attacks . Its attacks are just smacking and throwing you. \\n\\nWhen killed it'll drop Coral Chunks which can be used to make the &5Abyssal Sacrifice&r."]
 	quest.1744E700CF742CE2.title: "&5Coralssus&r"
-	quest.174D18D9D732EC10.quest_subtitle: "8 Wet Green Blocks"
-	quest.17542D7633FBF098.quest_desc: [""]
-	quest.17542D7633FBF098.quest_subtitle: "&oToo bad SpongeBob isn't a Star."
-	quest.17542D7633FBF098.title: "&d&lPatrick &aStar&r"
 	quest.1756F81ACFC56C58.quest_subtitle: "Tier: &e5"
-	quest.17598C171E610752.quest_desc: ["I don't even know what to say for this. I'm getting lost looking through the recipes. I'd rather list out all the Family Trees for &l&2Productive Trees&r. \n\nGet &6Advanced Motors&r and combine them with &dTitanium Rods&r and a &9Processing Unit&r to make the &6Large Advacnced Motor&r."]
-	quest.17598C171E610752.title: "&6Large Advanced Motor"
 	quest.175D943160C10646.quest_desc: [
 		"&l&7RailCraft&r uses many machines for different things but mostly resource creation."
 		""
@@ -2678,6 +2642,8 @@
 	quest.196003E1486ABB31.title: "&9Warden Upgrade Template"
 	quest.1972B36F72808D55.quest_desc: ["Only some of theses stones are chipped though."]
 	quest.1972B36F72808D55.title: "&l&bChipped&r Stones"
+	quest.198212E7A1990810.quest_desc: ["&9&lDeeper and Darker&r is an Adventure Mod based around a new Dimension, called the &3&lOtherside&r. \\n\\nBefore we worry about exploring it, we'll need to worry about getting there. And that isn't easy. \\n\\nYou'll need to kill the &9&lWarden&r! \\n\\nThis will give us the Items needed to Craft the &9Heart of the Deep&r which, when used on a frame of &8Reinforced Deepslate&r, can make our Portal. \\n\\nBTW it has a Quest Page now!"]
+	quest.198212E7A1990810.title: "&9&lDeeper and Darker"
 	quest.1985CFD1F0425E88.quest_subtitle: "More Filtering Options"
 	quest.1985CFD1F0425E88.title: "&eAdvanced Pickup Upgrade"
 	quest.198E9E90CC9606C4.quest_desc: ["We got our Items on Pedestals, we got our &bAureal&r, Souls, &4Blood&r, and &aExperience&r... and it isn't finishing? Why isn't it finishing? \n\nIn order to actually finalize the Ritual we'll need to use a Gavel! \n\nIt works like a Pickaxe but it also has a limited amount of uses for finishing Rituals, just Right Click the &6&lForge&r with it!"]
@@ -2755,6 +2721,8 @@
 		"Make sure you're surrounded with Undead enemies (piglin zombies work too), and the Ritual will instantly kill them, and give Soul Shards."
 	]
 	quest.19E0397F810D8787.quest_subtitle: "Only the undead give these vibes. Dead ones."
+	quest.19E56C4B5A3F9C91.quest_desc: ["To Craft one you'll need an &8Elytra&r, 4 &3Sculk Bones&r which drop from &3Shattered&r, 2 &3Soul Dust&r which drop from &3Sculk Snappers &for &3Sculk Leeches&r, and a &3Soul Crystal&r which drops from the &3&lStalker&r. \\n\\n&3Shattered&r spawn all over the &3&lOtherside&r while the &3&lStalker&r will need a certain way of spawning him. \\n\\nThat being, breaking Ancient Vases until he spawns!"]
+	quest.19E56C4B5A3F9C91.title: "&3Soul Elytra"
 	quest.19E6757F04098A0C.quest_desc: [
 		"Valid Upgrades:"
 		"- Lawnmower"
@@ -2949,9 +2917,6 @@
 	quest.1CC627D3FB348C89.title: "Shaper Armor Trim"
 	quest.1CD2C6AFD788C35E.quest_desc: ["Compacts items in the Backpack to their 2x2 recipe."]
 	quest.1CD5ABD827CEB3AE.quest_subtitle: "Brazil Nut + Balsa"
-	quest.1CE7B24E7E62C25B.quest_desc: [""]
-	quest.1CE7B24E7E62C25B.quest_subtitle: "&oThe unknown but yet it is everything we do know."
-	quest.1CE7B24E7E62C25B.title: "&d&lPulsating &8Black Hole"
 	quest.1CF8263756EE8F2A.quest_desc: ["This special &eDust&r is dropped from the Wither and the Ender Dragon when killed by an &dEssence Weapon&r enchanted with &dMystical Enlightenment&r."]
 	quest.1CF8263756EE8F2A.title: "&5Cognizant Dust&r"
 	quest.1D06097B6206BA60.quest_desc: ["{atm9.quest.enchant.desc.infusion}"]
@@ -3117,8 +3082,6 @@
 	quest.1EA02BA24AF02256.quest_desc: ["Eclipse Alloy Templetes are used to upgrade Celestigem armor and tools to Eclipse Alloy while retaining enchantments and installed upgrades."]
 	quest.1EABF2E7AE7B8F22.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_netherite.png width:100 height:150 align:center}"]
 	quest.1EABF2E7AE7B8F22.title: "&8Netherite&r"
-	quest.1EB04FE105ACA4BE.quest_desc: ["When a &9Warden&r dies it has a chance to drop a &9Heart of the Deep&r. \n\nThis can be used for the &6&lATM Star&r, or to activate the Portal in the Ancient City! \n\nThere can't be anything in the Portal to activate it, that includes &9Sculk&r!"]
-	quest.1EB04FE105ACA4BE.title: "&9Heart of the Deep"
 	quest.1EBF234015B26F15.quest_desc: ["Basic Armor added by &a&lRoots Classic&r, you'll need a Ritual to get it though!"]
 	quest.1EBF234015B26F15.quest_subtitle: "14"
 	quest.1EBF234015B26F15.title: "&2Sylvan Gear"
@@ -3190,8 +3153,6 @@
 	quest.1FC7ABEAB5018E79.title: "&4Redstone&r"
 	quest.1FC7E9DBF92BE6AA.quest_desc: ["This item is used to store power, and functions like a portable battery pack.\n\nIt is also an important crafting item in Mekanism."]
 	quest.1FC7E9DBF92BE6AA.quest_subtitle: "Portable Battery Pack"
-	quest.1FCC474860587169.quest_desc: ["To get later recipes you'll most likely need a &6Smelter Prism&r and don't worry we only need a Tier 1 Forge to get it! \n\nYou can check how much of each Stat in the Forge you need in JEI! Plus you'll need 4 &6Blaze Powder&r, 2 &8Coal&r, and an &bArcane Crystal&r. \n\nLastly, you'll need &9Elementarium&r which can be found in Jungle Temples, Desert Pyramids, and Underwater Ruins!"]
-	quest.1FCC474860587169.title: "&6Smelter Prism"
 	quest.1FCF946B7BE3C0BD.quest_desc: ["&cUtherium&r Tools are similar to Diamond Tools but the weapons are more effective to &cRot Mobs&r! \n\nYou use what they make to do more damage to them! There's probably a dozen of pop culture references I can make with that but I can't think of any..."]
 	quest.1FCF946B7BE3C0BD.title: "&cUtheric&r Tools"
 	quest.1FD4C32B3937E1C7.quest_desc: [
@@ -3384,8 +3345,6 @@
 		"Similar with the &6B&8e&6e&r Cannon, the Crystal Cannon can be: Crafted, found in structures, or traded for with the &5Bee Queen&r. \n\nThis one is used like a Crossbow, if you have &5Honey Crystal Shards&r in your Inventory, Hold Right Click to load a &5Crystal&r and let go to shoot it!"
 		"{image:atm:textures/questpics/bumblezone/bumble_cannon1.png width:75 height:150 align:center}"
 	]
-	quest.215AD616E6847E9A.quest_desc: ["Each &5Insanium Gemstone&r is 2 &5Insanium Essence&r. So each &5Gemstone Block&r is 18 &5Insanium Essence&r. \n\nThat means we can take our 9,216 &aInferium Essence&r for the &5Insanium Blocks&r and double it to get 18,432 &aInferium Essence&r for just the 4 &5Insanium Gemstone Blocks&r."]
-	quest.215AD616E6847E9A.title: "4 &5Insanium Gemstone Blocks"
 	quest.215C9C2B2240FAA1.quest_desc: ["&e&lIron's Spells&r &5Electric Armor&r!"]
 	quest.215C9C2B2240FAA1.quest_subtitle: "20"
 	quest.215C9C2B2240FAA1.title: "&5Electromancer Outfit"
@@ -3408,25 +3367,15 @@
 		"{image:atm:textures/questpics/railcraft/rail_crusher.png width:100 height:100 align:center}"
 	]
 	quest.21693C4DE6531D73.title: "Crusher"
-	quest.216DA9782EBDFF34.quest_desc: ["I think this Mod is unrealistic. I don't care what Books or Items you have, I don't think the Demonic will follow your every command and work as a slave for you. \n\nRegardless you can follow the Quests to do so."]
-	quest.216DA9782EBDFF34.title: "&b&lOccultism"
-	quest.2171DC0B13C4BD43.quest_desc: ["&a&lRoots Classic&r may look small in JEI but I can promise you there's so much to it! \n\nRoots is all about using nature's gifts to make rituals.\n\nTrust me you'll find these items everywhere!"]
-	quest.2171DC0B13C4BD43.title: "&a&lRoots Classic"
 	quest.21734396EF46198C.quest_desc: ["Now that we are getting higher &2Levels&r, we'll need to upgrade our &9&lResearch Table&r! \\n\\nIn order to upgrade it, we'll need to place other &4&lVampirism&r Tables near it. Those being: &b&lHunter Weapon Table&r, &d&lPotion Table&r, &c&lAlchemical Cauldron&r. \\nWhen you &2Level up&r higher you'll need more Tables next to it and no using the same Tables won't help."]
 	quest.21734396EF46198C.title: "Another Table"
 	quest.21770049843DD275.quest_subtitle: "Part 2 of 2"
 	quest.217DB12EA32E1724.quest_desc: ["The &bInfusion Crystal&r is need in order to \"tier up\" seeds. For example if you combine the crystal with 4 Inferium Essence you will get 1 Prudentium Essence.\n\nLater on you will be able to craft an Infusion Crystal that doesn't break."]
 	quest.217DB12EA32E1724.title: "&bInfusion Crystal"
-	quest.217DF3B66A07A8DE.quest_desc: [""]
-	quest.217DF3B66A07A8DE.quest_subtitle: "&oGarden of Eden in just a single Seed."
-	quest.217DF3B66A07A8DE.title: "&3&lDimensional &2Seed"
 	quest.2182492BCC1B33D8.quest_desc: ["When installed in a Hive, it gives a 5% chance for a new baby Bee to be spawned every time honey is delivered.\n\nWhen placed in a Catcher, it only allows the catcher to catch baby Bees.\n\nYou can stack these for a greater chance."]
 	quest.2182492BCC1B33D8.quest_subtitle: "Making Babies"
 	quest.218803812A9C332B.quest_desc: ["In order to get higher Max Enchantments and levels you'll need Infused Hellshelves. To get them you will need &a22.5 Eterna&r and &c30%% Quanta&r. The best way to get that would be 15 normal shelves and &45 Hellshelves&r."]
 	quest.218803812A9C332B.title: "&4Infused Hellshelf&r"
-	quest.2188C52C1F384DE4.quest_desc: [""]
-	quest.2188C52C1F384DE4.quest_subtitle: "&oEver burning fuel (not really)."
-	quest.2188C52C1F384DE4.title: "&c&lPhilospher's Fuel"
 	quest.219932CB19258C16.quest_desc: ["The third tier of storage component, providing &e16384&f bytes of storage."]
 	quest.219932CB19258C16.quest_subtitle: "x4^2"
 	quest.219932CB19258C16.title: "16k Storage Component"
@@ -3441,8 +3390,6 @@
 	quest.21A0FD474FBB49F7.title: "&dRuined Citadel&r: Home of the &d&lEnder Guardian&r"
 	quest.21A90474590FCDB8.quest_desc: ["The \"Furnace\" is an upgraded version of a vanilla Furnace that can be upgraded for faster speed and better efficiency."]
 	quest.21A90474590FCDB8.title: "\"Furnace\""
-	quest.21AB14A8553896E9.quest_desc: ["Guys I think you didn't hear me right I said &e&lProductive Bees&r! Oh wait there's another Mod! \n\nThis one is related to &e&lProductive Bees&r as you'll need them for breeding Trees. \n\nNo, Trees do not use Wheat to breed, they use Bees. \n\n&oThe Trees and the Bees&r."]
-	quest.21AB14A8553896E9.title: "&2&lProductive Trees"
 	quest.21B0744FA3A42425.quest_desc: ["Why have 2 Lanterns when we can have 200? \n\nDifferent types of Lanterns, Lantern Colors, and even the Chains holding them!"]
 	quest.21B0744FA3A42425.title: "&l&6Additional Lanterns"
 	quest.21B8116BDADD7476.quest_subtitle: "Papaya + Cacao"
@@ -3586,8 +3533,6 @@
 		"Make sure to grab a ton of them!"
 	]
 	quest.230EEE4671B46D0C.title: "&9Darkstone"
-	quest.23254CE8487D2E68.quest_desc: ["The &8Wither Builder&r is one of the greatest Machines you can get from &lIndustrial Foregoing&r, and because of that it's expensive. \n\nFirst you will need the parts that make a &8Wither&r and a drop from the &8Wither&r. \n\nThen, you'll need a &6Supreme Machine Frame&r which you need &bEther Gas&r to make. Guess what you need for &bEther Gas&r? That's right! A &8Wither&r! You'll need a Laser Drill working on a &8Wither&r to get it. \n\n&8Withers&r like to leave and kill things so a Stasis Chamber would make milking them easier! "]
-	quest.23254CE8487D2E68.title: "&8Wither Builder"
 	quest.2329AA0AFBEF1E13.quest_desc: [
 		"&e&lPipez&r is the simplest &f&lLogistics&r Mod. It's so simple that the entire mod is fit in this Quest Page while having room for more Mods!"
 		""
@@ -3600,6 +3545,8 @@
 	quest.2329AA0AFBEF1E13.title: "&l&ePipez"
 	quest.232A06C9FF0EE7B2.quest_desc: ["Menril Seeds can be used to automate Menril Berries, Menril Logs and Menril Saplings."]
 	quest.232A06C9FF0EE7B2.quest_subtitle: "Automating Menril"
+	quest.232EF373AA3320F6.quest_desc: ["Welcome to the &6&lBumblezone&r! Everything is either Honey or Bee based! \\n\\nThe Quest Page should help you venture through the &eHive&r. \\n\\nOh wait you haven't gotten into the &eHive&r yet? Well to do that you'll need to either throw an &3Enderpearl&r into a &eHive&r or have a Piston push you into it."]
+	quest.232EF373AA3320F6.title: "&6&lBumblezone"
 	quest.2331FCDD2F2B709A.quest_desc: [
 		"&9Supercharged Coils&r are placed on an SPS Port in the center of two faces, like the image below. When given power, these will supercharge Polonium into Antimatter. Only 1 is required, but you can use 2 if you want.\n\nTo produce 1mb of Antimatter, you need 40MRF. If you haven't started making a &cFusion Reactor&r, now's a good time to make it!\n"
 		"{image:atm:textures/questpics/mek/sps_coils.png width:200 height:125 align:1}"
@@ -3676,8 +3623,6 @@
 	]
 	quest.23ADD20D9B1AE0F3.quest_desc: ["Use a &bPure Daisy&r to convert Stone into Livingrock!"]
 	quest.23ADD20D9B1AE0F3.title: "&7Livingrock"
-	quest.23AE395433AED3C0.quest_desc: ["The &6&lATM Star&r needs a few Blocks to hold together the different Items, and make its star shape! \n\nThe first Blocks are &5Unobtainium&r-&6AllTheModium&r &5Alloy&r &6Blocks&r. You need to use an Enchanting Apparatus from &d&lArs Nouveau&r to make them! To make 28 to be exact. \n\nFor 17 X3 Netherstar Blocks you'll need 111,537 Netherstars. (Please I am begging you use &l&bHNN&r just don't spawn and kill 111,537, please!)"]
-	quest.23AE395433AED3C0.title: "&6&lThe Star's&r Casing"
 	quest.23B55A8C7D6482FF.quest_desc: [
 		"Grab your tools and open up the maintenance hatch, there are problems to fix!"
 		""
@@ -3801,8 +3746,6 @@
 	]
 	quest.24E3CB198F73524A.quest_subtitle: "Arcing electricity!"
 	quest.24E658BA47367A44.quest_desc: ["The &n&5Rope Pulley&r can move blocks up or down, they can be glued together."]
-	quest.24F3E90C14BFD1B4.quest_desc: ["&7&lModern Industrialization&r is a mod as big as its name! \n\nIt has multiple tiers of machines and thankfully we don't need to go to the last one for the &6&lStar&r."]
-	quest.24F3E90C14BFD1B4.title: "&7&lModern Industrialization"
 	quest.24FCFF18296ED907.quest_desc: ["Suprisingly you don't need infusion for these! You just need to kill the most powerful boss in vanilla Minecraft! The &9Skulk shelves&r increase &aEterna&r to &a80&r which will allow us to Infuse the next item."]
 	quest.24FCFF18296ED907.title: "&9Soul-Touched Sculkshelf"
 	quest.24FDA15A7ACDF021.quest_desc: ["&5Unobtainium Armor&r but with buffs to &e&lIron's Spells&r Spells!"]
@@ -3906,6 +3849,8 @@
 	quest.25EFC21A3C48E0B6.title: "Tier: &2Spirited"
 	quest.25F4D4A723B298A4.quest_subtitle: "Red Delicious Apple + Birch"
 	quest.26004F997C758011.quest_desc: ["One ruby plate in the Lathe will make a Ruby Lens"]
+	quest.260281FFD1E012DD.quest_desc: ["We got a whole shopping list of Blocks for this one! I'll go over ways of obtaining them here. \\n\\nFirst, you should already have the &bIesnium Sacrifical Bowl&r and we'll need a Ravager Sacrifice. \\n\\n&bBlock of Iesnium&r, &cBlock of Netherite&r, Endstone Bricks, &bSoul Lanterns&r, and &5Respawn Anchors&r are all Crafted. \\n\\n&8Heavy Core&r, &eSponge&r, &6Bells&r, &dChorus Plants&r, and &3Sculk Catalyst&r can be found by exploring. &3Sculk Catalysts&r will need Silk Touch to grab! \\n\\nLast are &5Budding Amethyst&r and &8Reinforced Deepslate&r. These will need Rituals to Craft as Blocks to be placed."]
+	quest.260281FFD1E012DD.title: "&8Eldritch Chalice"
 	quest.2607F3DC07049785.quest_desc: ["Why spend time sitting down and eating a nice Home-Cooked meal when you can just Eat and Drink quickly! \n\nWith this very stylish &6Hat&r, Eating and Drinking is much faster."]
 	quest.2607F3DC07049785.quest_subtitle: "Head"
 	quest.2607F3DC07049785.title: "&6Plastic Drinking Hat"
@@ -3929,8 +3874,6 @@
 		"This gives us access to even more rituals, including the ritual that gets us to the Demon Realm."
 	]
 	quest.263925A79EBB270F.title: "Tier II rituals"
-	quest.263C9A0FC04472AB.quest_desc: ["This one can either eat &cLava&r like no other, or be used for the &6&lStar&r. \n\nThis one's a hard one, I like seeing &cLava&r disappear instead of my stuff disappearing into &cLava&r."]
-	quest.263C9A0FC04472AB.title: "&464x Magmatic Generator"
 	quest.263FBD9ED2756190.quest_subtitle: "Walnut + Coconut"
 	quest.264BFB8C5F79616F.quest_desc: ["Placing a Snow Nest in a snowy biome will lure in a Sweat Bee."]
 	quest.264BFB8C5F79616F.quest_subtitle: "Lures the Sweat Bee in Cold Biomes"
@@ -3945,8 +3888,6 @@
 	]
 	quest.266AB725974E464C.title: "Abyssal Sacrifice"
 	quest.268768465119632A.quest_subtitle: "Aspen + Alder"
-	quest.268EA2DEC8840D13.quest_desc: ["When working on &4Computers&r, especially Quantum ones, the Hammers and Pliers on the Crafting Table won't be able to craft us what we need, we'll need a &bCrystal Assembler&r. \n\nFor this one we'll need a whole bunch of &9Singularities&r!"]
-	quest.268EA2DEC8840D13.title: "&4Quantum Computer Multi-Threader"
 	quest.268F6E67AA79A7BD.quest_subtitle: "&f69 &cAttack Damage"
 	quest.26988330D3E5BF95.title: "Arrows Banner Pattern"
 	quest.26988E22BD019628.quest_desc: ["Auto-smelt items in the Backpack."]
@@ -4197,14 +4138,13 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_purple2.png width:200 height:100 align:center}"
 	]
 	quest.29C78845B488EDF8.title: "&5Purple Sempiternal Sanctum"
+	quest.29CB5FE47CC34552.quest_desc: ["The Ancient Codex is a Spellbook added by &e&lIron's Spells and Spellbooks&r. \\n\\nWe aren't too worried about its use, only its Crafting! \\n\\n&bArcane Cloths&r and &cNetherite&r can be Crafted, everything else isn't that easy... \\n\\nRuined Books are found within &6Ancient Cities&r. &5Bottle O' Lightning&r is kinda simple, just use an Empty Bottle on a Charged Creeper! &4Blood Vials&r are obtained by burning Mobs in either an Alchemist Cauldron or a normal Cauldron above a Campfire."]
 	quest.29CD5C0A253425D5.quest_desc: [
 		"We just made it so our Multiblock Structures can use &dLuV&r Tier energy. But how about going one step further, and giving them &4ZPM&r tier power?"
 		""
 		"This is what we are going to achieve. 4 Amps of &dLuV&r Energy Will give us &4ZPM&r tier energy!"
 	]
 	quest.29CD5C0A253425D5.quest_subtitle: "How about &dLuV&r Energy Hatch, But 4x?"
-	quest.29D28983E0200A3C.quest_desc: ["&l&dArs Nouveau&r is all about using Glyphs in Spellbooks to be able to cast them as Spells!"]
-	quest.29D28983E0200A3C.title: "&d&lArs Nouveau"
 	quest.29D75BF1AE9696CF.quest_desc: ["The &0&lBlack Charro&r has 500 &4Hearts&r and a Boss Bar. \\n\\nHe will immediately start teleporting around and hitting you. But don't worry that's not his only Attack! \\n\\nHe can also summon Skeletons to help Fight with him or Shoot &0Umbral Doom Orbs&r at you. \\n\\nOnce you get him to around 300 &4Hearts&r he'll fly high into the Air and constantly shoot &0Umbral Doom Orbs&r everywhere! While he is flying he'll &4Regenerate Hearts&r. \\n\\nAfter he gets back down to 300 he'll do the same thing. Don't worry that's the last time he'll &4Regenerate Hearts&r! \\n\\nBut once you get him to 150 he'll give you Blindness and summon Lightning Strikes all around you. \\n\\nThat's the last you'll have to deal with because then, you can kill him!"]
 	quest.29D75BF1AE9696CF.title: "&8&lBlack Charro"
 	quest.29DF2E7D0402284F.title: "Radiance"
@@ -4299,8 +4239,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_sugar.png width:200 height:100 align:center}"
 	]
 	quest.2A6FC21142E75DD5.title: "Lakes of Sugar! (&bWater&r)"
-	quest.2A72B262AF4F11C9.quest_desc: ["To get the &6Socotra Dragon&r Sapling you'll need to Breed &7Wenge&r with &4Cocobolo&r. \n\nTo get &7Wenge&r you'll need to Breed &4Cocobolo&r with &fBalsa&r. \n\nTo get &4Cocobolo&r you'll need to Breed Balsa with &8Dark Oak&r. \n\nTo get &fBalsa&r you'll need to Breed &cAcacia&r with &eTeak&r. \n\nTo get &fTeak&r you can Breed &2Jungle&r and &8Dark Oak&r."]
-	quest.2A72B262AF4F11C9.title: "&6Socotra Dragon&r Sapling"
 	quest.2A787B99A8B0C767.quest_desc: [
 		"A very important block and a very common one! Can be crafted or found in most &lIron Spells&r Structures. \n\nThese are used for adding and removing &3Scrolls&r from &eSpell Books&r! Throw the &eSpell Book&r in the Book Slot then the &3Scroll&r below it. If you want to remove a &3Scroll&r, click it then take it from the right and into your Inventory."
 		"{image:atm:textures/questpics/iron_spells/spells_table_gui.png width:150 height:100 align:center}"
@@ -4366,8 +4304,6 @@
 	quest.2B097D0A67767260.quest_desc: ["Throw the Flask at a &dPig&r!"]
 	quest.2B097D0A67767260.quest_subtitle: "Who's that Pixelmon!"
 	quest.2B097D0A67767260.title: "&dPig&r in a Flask"
-	quest.2B0C3AAAA6D0B0D2.quest_desc: ["&aUranium Quad Fuel Rods&r are a combination of multiple different Blast and Radiactive proof Alloys and of course radioactive Materials. \n\nThese will all come together to make a wonderful fuel for a reactor! Or &c&lPhilosphers Fuel&r!  "]
-	quest.2B0C3AAAA6D0B0D2.title: "&aUranium Quad Fuel Rods"
 	quest.2B115519A21F9CB7.quest_desc: [
 		"The &d&lEnder Guardian&r is a hulking beast of Endstone, &dPurpur&r, and &5Obsidian&r that waits within the &dVoid Altar&r. \\nIt has 13,320 &4Hearts&r and careful not to get too close or you might be sucked closer to him! \\n\\nHe has a ton of attacks and abilities, one being a very simple punch for those who are too close to his personal space, or a slam which will knock you back. \\n\\nIf you are farther from him, he might close the gap by charging and knocking into you. Or he might stomp and produce &dVoid Runes&r to hit you! He can also send &dShulker Balls&r in a row. \\n\\nAlso remember when I said he can suck you closer to him? Yeah he does that with a thing called a &dVoid Typhon&r, which he can also summon at your Feet to get you stuck. After you are there for too long, it will explode, most likely damaging you in the process. \\n\\nWhen you get him to half &4Health&r, his Mask will break revealing his true Head! In anger he will destroy the floor of the arena taking you both to the lower level. \\n\\nNow he will suck you in more, send more &dVoid Runes&r after you, and attack faster and stronger!"
 		"{image:atm:textures/questpics/cataclysm/cataclysm_guardiuan.png width:100 height:100 align:center}"
@@ -4405,8 +4341,6 @@
 	quest.2B4D4E741D855B5A.title: "&dIngots of the Depths"
 	quest.2B539F4F290DC4CF.title: "Nitro Player Transmitter"
 	quest.2B5733BDAF83B2D4.title: "Quartzite Vein"
-	quest.2B57C8D2F98A9279.quest_desc: ["&l&7Pocket Storage&r is a mod that adds simple handheld storage. \n\nRight Click to open it and you can put Items in. They will have a max count that it can hold, and anymore Items put in past it will be voided. It will also vacuum up Items on the ground that are the same as in it. \n\nThere's also ways you can dump it into Chests or take out of Chests quickly. \n\nThe different Tiers the higher the Slots and Max Items will be."]
-	quest.2B57C8D2F98A9279.title: "&l&7Pocket Storage"
 	quest.2B5E14A47062F83C.quest_subtitle: "The R in Roy G. Biv"
 	quest.2B5E14A47062F83C.title: "&cRed Xychorium Gems"
 	quest.2B60D123123A5E8E.quest_desc: ["Why set a location to where the Energy can go? Why not let it go free! \n\nLike freeing a bunch of Bees, the Energy will go everywhere almost instantly (with less buzzing). Any blocks needing Energy nearby will be charged wirelessly."]
@@ -4552,8 +4486,6 @@
 	quest.2CCFEE98FE3B2E97.title: "Blocks"
 	quest.2CD58FC229BC0C28.quest_desc: ["The &dGauntlet of the Guard&r is the drop from the &d&lEnder Guardian&r. \\n\\nWhen you hold it in either Hand, you can Hold Right Click to bring all Mobs near you, even closer! \\n\\nYou can also smack Mobs with it in your Main Hand to deal Damage. \\n\\nTry using the pull mechanic with flying to drop Mobs!"]
 	quest.2CD58FC229BC0C28.title: "&dGauntlet of Guard"
-	quest.2CECCA9D05D3EF12.quest_desc: ["The &2Eternal Stella&r is quite expensive. You'll need a Tier 3 Forge first! \n\nThen, you'll need &7Stellarite Piece&r which you can mine for. And you have to get 3 &aXpetried Orbs&r which you can no longer mine for. Instead you'll have to feed a Black Hole &aEXP&r to get it! \n\nFinally, you'll need an &6AllTheModium Ingot&r to get the &2Eternal Stella&r. It makes sense why it is so expensive as it can be combined with any Tool to make it Invincibile!"]
-	quest.2CECCA9D05D3EF12.title: "&2Eternal Stella"
 	quest.2CF11A70229000AB.title: "Getting Create-ive."
 	quest.2CFEE04BA574921E.quest_desc: [
 		"This interface will place the designated block in the direction it is pointed. "
@@ -4580,10 +4512,8 @@
 		"{image:atm:textures/questpics/eternal/starlight_permafrost.png width:200 height:100 align:center}"
 	]
 	quest.2D457E53BB6D63C7.title: "Permafrost Forest"
-	quest.2D474F8075E9DBD0.quest_desc: ["First you need to place down the Casting Altar and Standing Stones in the pattern specified in JEI. \n\nThen, you'll need to put a Diamond Block, a Stick, and Blaze Powder into the Altar. \n\nAfter that, place down 4 Incense Blaziers around the Altar, put the Block of Coal in one, Acacia Bark in another, Verdant Bark in the third, and Birch Bark in the last. And light them all up with a Flint and Steel! \n\nThen Shift Right Click the Altar to start the Ritual! If it didn't work check the pattern the Standing Stones are in."]
 	quest.2D592669F4D41793.quest_desc: ["Just like the Reactor, the frame must be built out of &dCasings&r, but the walls can be &9Turbine Glass&r instead!"]
 	quest.2D592669F4D41793.title: "Turbine Construction"
-	quest.2D64EF8D803AF9DA.quest_desc: ["The most expensive Portal we can make. First for &dDragon Eggs&r you don't have to keep milking the &dDragon&r you can use &l&bHNN&r or &l&2MA&r to get them or an Extrator to make more! \n\nThen, you'll need &dInfused Dragon's Breath&r from Enchanting. \n\nThere you'll need &9Soul-Touched Sculkshelves&r to Enchant it and to make the Portal. \n\nIf you are wondering why the Portal won't work, it's because you are already in the &2&lOverworld&r! Just kidding you can't use it!"]
 	quest.2D65DC315CCC60C8.quest_desc: [
 		"Trinium Sulfide is a byproduct of our Naq line processing, but its a very necessary by product that will be used in great amounts. "
 		""
@@ -4685,8 +4615,6 @@
 	quest.2E7E1278D9796141.quest_subtitle: "Now thats a strong Circuit Board!"
 	quest.2E85D6E2CFCC356E.quest_desc: ["The &3Vibranium Furnace&r is even better than the &6Allthemodium Furnace&r!"]
 	quest.2E85D6E2CFCC356E.title: "&3Vibranium Furnace"
-	quest.2E88CCBC7B97A1F0.quest_desc: ["If only that giant portal in the Ancient City did something! Oh wait with &9&lDeeper and Darker&r it can! \n\nYou only need a..."]
-	quest.2E88CCBC7B97A1F0.title: "&9&lDeeper and Darker"
 	quest.2E89ABF1A6145184.quest_subtitle: "Brazilwood + Kapok"
 	quest.2E8F851A4E98F741.quest_desc: [
 		"The &3Pneumatic Armor&r by itself is pretty great, however if you want to make this armor amazing, you'll need to install upgrades. Press 'U' by default to open the Upgrade GUI, some upgrades use pressure, some don't."
@@ -4804,8 +4732,6 @@
 	quest.2F62C290A5CE50F8.title: "&eAncient Spear"
 	quest.2F69010E1FA2787D.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.2F71FCE4E576C977.quest_subtitle: "Generates Power using Lava!"
-	quest.2F76D074AEA84A4D.quest_desc: ["By Right Clicking an &dEnder Dragon&r with an empty &bData Model&r, you can make the &dEnder Dragon &bData Model&r. \n\nThe Quest needs any version of it, but the &d&lDragon Soul&r needs the &bData Model&r to be &6Self Aware&r. \n\nIn order to get it &6Self Aware&r you need to keep killing the &dDragon&r or make a crap-ton of Predictions!"]
-	quest.2F76D074AEA84A4D.title: "&dEnder Dragon &bData Model"
 	quest.2F86FB9E4D49E4B0.quest_desc: [
 		"Valid Upgrades:"
 		"- Mob Scanner"
@@ -4892,8 +4818,6 @@
 		"But as weve seen with other complex alloys, they are always extremeley beneficial to us, though complicated. This one is no different."
 	]
 	quest.30954ADF34DB05A7.quest_subtitle: "Complex Alloy"
-	quest.309B0B2898893B4E.quest_desc: ["&b&lSteve's Carts&r is all about upgrading... well your Carts! \n\nWhat sort of upgrades? Pretty much everything but the kitchen sink! \n\nFrom Drills, to guns, to arcade machines! What more could you want with your Carts?"]
-	quest.309B0B2898893B4E.title: "&l&bSteve's Carts"
 	quest.309B6B8368E535A0.quest_desc: ["A Router does it's action every time it has one of it's ticks. \n\nDefault is 20 Ticks or 1 Second. \n\nThis can be made to less Ticks with the Speed Upgrade!"]
 	quest.30A61E1A1EFA81E6.quest_desc: ["&2Steeleaf&r is, technically an Ingot, found within Chests in &9&lThe Twilight Forest&r. \nEach part of the Armor gives a different Enchantment!"]
 	quest.30A61E1A1EFA81E6.quest_subtitle: "20"
@@ -4978,8 +4902,6 @@
 	quest.3142A40E1EAEBAA3.quest_desc: ["The &6Dowsing Rod&r gives you Magic Find and Scrying when used. \n\nThis allows you to see nearby magic creatures as well as helping you find amethyst!"]
 	quest.3142A40E1EAEBAA3.quest_subtitle: "Magic Finder"
 	quest.3143588D93FC7999.quest_desc: ["This is what you went through that trouble for! The Steam Quarry is a void miner that uses the Drill durability to mine ores from nowhere! Pretty good! This one takes a bit to build, though. Remember to use the Bronze Wrench if you get confused."]
-	quest.3145B847A15F97F2.quest_desc: ["You can combine the Essences from &2&lMystical Agriculture&r to make... &8Coal&r. \n\nObviously it works as an amazing Fuel source but &5Insanium Coal&r seems a little too insane for me. "]
-	quest.3145B847A15F97F2.title: "&5Insanium Coal Block"
 	quest.314E41B84C8DD464.quest_desc: ["This is arguably one of the most important blocks added by Apotheosis, the Enchantment Library. You put Books in and they collect over time and can be taken out anytime. Warning 1. It has limits, high limits but limits 2. It can only take out the highest level put in regardless of how many are in."]
 	quest.314E41B84C8DD464.title: "Enchantment Library"
 	quest.3155E4212045BC8E.quest_desc: [
@@ -5018,7 +4940,6 @@
 	quest.31AD9826FB036C98.quest_desc: ["&7Runes&r can spawn from Bedrock to Y Level 2. That includes near &9Darkstone&r! \n\nThey're more useful than &2Stellarite&r but less useful than &bArcane Crystals&r."]
 	quest.31AD9826FB036C98.quest_subtitle: "These used to be &5Purple&r!"
 	quest.31AD9826FB036C98.title: "&7Runes"
-	quest.31B0267C47DB9D98.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.31B0ADD444A593CD.quest_subtitle: "&f10&r &4Damage&r"
 	quest.31B73D16C0199785.title: "Refined Obsidian"
 	quest.31BAC57972148E1F.quest_subtitle: "Tier: &a2"
@@ -5146,8 +5067,6 @@
 	quest.3317E676CEE83609.quest_desc: [" The Second Scroll you need activated to get Replica is the Scroll of Immunity Exchange. To get it you'll need the Ritual of Immunity Exchange which needs 1 Powdered Eye and 2 Powdered Emeralds."]
 	quest.3317E676CEE83609.title: "Scroll of Immunity Exchange"
 	quest.3320ADFD7DC4CA00.quest_subtitle: "Increases RF Capacity, and slightly increases the RF Transfer"
-	quest.3331EBE1BB4BF64D.quest_desc: ["Nuclear Reactors can be pretty scary to some especially with the dangerous effects of them! \n\nLuckily the only thing scary about &a&lExtreme Reactors&r is how confusing it can be to follow the recipes! \n\nNot the explody part they don't do that."]
-	quest.3331EBE1BB4BF64D.title: "&a&lExtreme Reactors"
 	quest.3334D15766A47A46.quest_desc: ["Using a Laser Assembly Program you can speed up the production of &3Unassembled PCBs&r. Just put an Empty PCB in the input chest, pump in some pressure and wait."]
 	quest.3334D15766A47A46.title: "Automating PCBs"
 	quest.333682022948E2F3.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_thioquartz.png width:100 height:150 align:center}"]
@@ -5209,10 +5128,10 @@
 	quest.33F4A7613764A016.quest_subtitle: "Exporting"
 	quest.3406646DF9585AB8.quest_desc: ["Silicon dust, water, methane, and chlorine combine in your &eChemical Reactor&r on &aProgram 2&r to make this "]
 	quest.3406646DF9585AB8.quest_subtitle: "Try saying this 3 times fast"
-	quest.340CDF4357E22A43.quest_desc: ["Iron has blessed us with a very fun Exploration and Magic Mod! Fighting with and for Magic! Nothing is cooler than that! \n\nIt has a Quest Page which you are welcome for. "]
-	quest.340CDF4357E22A43.title: "&e&lIron's Spells and Spellbooks"
 	quest.341486C9F277FEB7.title: "Reactor (Spirited)"
 	quest.341DF467E3936E78.quest_desc: ["Kill the &dEnder Dragon&r while wearing a full set of &8B&6e&8e&r Armor! \n\nYour name will be remembered for centuries!"]
+	quest.3428DF3F6F18D4B1.quest_desc: ["&eArchmage Spellbook&r is the third Tier of &eSpellbook &d&lArs&r gives! \\n\\nYou'll need 3 &3Enderpearls&r, 2 &aEmeralds&r, a &6Totem of Undying&r, a &bNether Star&r, and a &5Wilden Tribute&r. \\n\\nThat means you'll have to kill an Evoker, a &0&lWither&r, and the &5&lWilden Chimera&r! Good luck with that! \\n\\nYou'll also need the previous Tier of &eSpellbook&r, the &eMage's Spellbook&r."]
+	quest.3428DF3F6F18D4B1.title: "&eArchmage Spellbook"
 	quest.342EEB042DEC2B8C.quest_desc: ["Magma and Geysers both spawn on the bottom of The Abyss. \n\nMagma will help you get down below and help keep your breath. \n\nGeysers just look cool!"]
 	quest.3446803FB59D8875.quest_desc: ["Gives you Thorns. Not your Armor, you! Like a Pufferfish!"]
 	quest.3446803FB59D8875.quest_subtitle: "Necklace"
@@ -5483,6 +5402,8 @@
 	quest.36A227BCCBF44B2B.quest_desc: ["The &cHuman Heart&r is dropped from &bVampire Hunters&r. Another drop from them is Livers which aren't important. \\n\\nIt isn't dropped from &bAdvanced Hunters&r as I can tell. \\n\\n&cHuman Hearts&r are important in many Recipes and in Rituals! So collect them all!"]
 	quest.36A227BCCBF44B2B.title: "&cHuman Hearts"
 	quest.36A3ECD4F6CA2732.quest_subtitle: "&f8 &cAttack Damage"
+	quest.36A56A4DD278181B.quest_desc: ["You can get this in the same way of the &5Unobtainium Mage Hat&r. \\n\\nUpgrade your Ancient Codex to an &6AllTheModium Spell Book&r, then to &3Vibrainium&r, and finally &5Unobtainium&r!"]
+	quest.36A56A4DD278181B.title: "&5Unobtainium Spell Book"
 	quest.36ABE142039E712B.quest_desc: ["This one works like normal infinite energy storage, just this one can connect to your system though! Never have to worry about if your System has enough Power! And that includes the &5Quantum Armor&r. \n\nYou'll need 4 &dSuperdense Cells&r and an &6&lATM Star&r. Each &dSuperdense Cell&r needs 8 &dDense Cells&r, each &dDense Cell&r needs 8 &dEnergy Cells&r. \n\n256 &dEnergy Cells&r... plus a lotta energy!"]
 	quest.36ABE142039E712B.title: "&5&lCreative &dEnergy Cell"
 	quest.36B1995B495AA674.quest_desc: [
@@ -5501,7 +5422,6 @@
 	quest.36BCE35215B2B6E9.quest_subtitle: "Automatic"
 	quest.36BCE35215B2B6E9.title: "&eAuto-Smoking Upgrade"
 	quest.36CDA39C23D3AA2B.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.36CF8D1DD1EF6307.quest_subtitle: "2 Wet Light Green Blocks"
 	quest.36D72D759C4E8823.quest_desc: ["Maybe a little too fast even."]
 	quest.36D72D759C4E8823.quest_subtitle: "Max: 1"
 	quest.36DEA17CBB696CC7.quest_desc: [
@@ -5514,9 +5434,6 @@
 	quest.36DEA17CBB696CC7.quest_subtitle: "You're a Network Admin Now!"
 	quest.36DEA17CBB696CC7.title: "My First Network"
 	quest.36DED7099E80ED51.quest_desc: ["This one does as the name suggests, it places Blocks. \n\nSet the Direction you want the Block placed, preferably set the Filter, then throw the Module and Blocks into the Router! Once the Redstone is set the Blocks will be placed!"]
-	quest.36DF0D83EBC2B6A9.quest_desc: [""]
-	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oLack of wisdom is a thing of the past with this."
-	quest.36DF0D83EBC2B6A9.title: "&3&lImprobable Probability Device"
 	quest.36F87173D8CD1D68.quest_desc: ["Ride the &5Lightning&r! &5&lLightning&r is all about using Electricity to kill and support yourself. Some attacks even work as real &5Lightning&r! \n\n&5&lLightning's&r Focus Material is &5Bottle 'O Lightning&r which you get from using an Empty Bottle on a Charged Creeper. You need the &5Lightning&r to make more &5Lightning&r! \n\nIts &5Scrolls&r are &7Grey&r with &bLight Blue&r text."]
 	quest.36F87173D8CD1D68.title: "&5&lLightning"
 	quest.36FBD0D50EE17459.quest_desc: ["&7Gargoyle Shards &fand &7Fragments&r are both Drops from &7&lGargoyles&r. \\n\\n&7Gargoyle Fragments&r are a bit more rare than &7Shards&r though! \\n\\nWorst part is the fact you'll need more &7Fragments &fthan &7Shards&r."]
@@ -5538,8 +5455,6 @@
 	quest.3722B43822F80470.quest_desc: ["More damage than a Sword, but slower."]
 	quest.3722B43822F80470.quest_subtitle: "Release Your Inner Samurai"
 	quest.3722E5A8BE99C5B1.quest_desc: ["Allows Mana Bursts to break through blocks by using its own mana."]
-	quest.372B5BF416CA83A4.quest_desc: ["&5&lMekanism&r is one of the most popular Machine and Technology Mods. Quite frankly I have a hard time summarizing it as it has so much in it! \n\nIt has so much we even had to make 2 Quest Pages for it! \n\nThe stuff we need for the &6&lATM Star&r is in the Reactors page but you'll need to get through the Mekanism page to get there."]
-	quest.372B5BF416CA83A4.title: "&5&lMekanism"
 	quest.37355F60E45777FE.quest_desc: ["The Orb of Prophecy can be crafted or obtained through beating the Gatekeeper! \n\nIt's main use is activating the Portal, but there will be more uses for it!"]
 	quest.37367101B3DAA70F.quest_desc: ["The Ashy Mining Bee is spawned from a Dirt, Gravel, or Sand Nest."]
 	quest.37367101B3DAA70F.quest_subtitle: "Spawns from a Dirt Nest"
@@ -5720,9 +5635,6 @@
 	quest.39A19138C501B16F.title: "Slimy Bee"
 	quest.39A277844BE305FA.quest_desc: ["Without the Drills your Quarry can't, well... Drill. You'll need a lot of these. Thankfully you produce 4 of them each craft!"]
 	quest.39ACF4D6503067F3.quest_desc: ["&eCut&r that wafer into a proper chip"]
-	quest.39B4F361EF611927.quest_desc: [""]
-	quest.39B4F361EF611927.quest_subtitle: "&oPower over Death itself."
-	quest.39B4F361EF611927.title: "&l&8Wither's Compass"
 	quest.39B625FA20EAA025.quest_desc: [
 		"You're going to need either &9Ammonia&r and a &aLarge Chemical Reactor&r or a lot of &bNitrogen Dioxide&r"
 		""
@@ -5760,8 +5672,6 @@
 	quest.39F142224D5210A9.quest_desc: ["&3Biodeisel&r can be used to make &3Lubricant&r and &3Molten Plastic&r."]
 	quest.39F142224D5210A9.quest_subtitle: "Bio/Diesel"
 	quest.39F142224D5210A9.title: "Biodeisel"
-	quest.39F9C825B03DA317.quest_desc: ["&8Aerial Interface&r works as a link between it's own internal storage and your Inventory. Basically whatever goes in it, goes to you. \n\nYou'll need a whole assembly line to craft it, the Quests should help you!"]
-	quest.39F9C825B03DA317.title: "&8Aerial Interface"
 	quest.3A1D07AED2A841E4.quest_desc: ["Auto-smelt items in the Backpack."]
 	quest.3A1D07AED2A841E4.quest_subtitle: "Automatic"
 	quest.3A1D07AED2A841E4.title: "&eAuto-Smelting Upgrade"
@@ -5821,8 +5731,6 @@
 	quest.3AA49DDE45705233.quest_subtitle: "Infectious"
 	quest.3AA836E8EDB52097.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_lapis.png width:100 height:150 align:center}"]
 	quest.3AA836E8EDB52097.title: "&9Lapis Lazuli&r"
-	quest.3AAB71E9BDFD4C1E.quest_desc: ["No pressure! Well actually you'll need a lot of Pressure with using &4&lPneumaticCraft&r. \n\nThat's kinda what it's all about..."]
-	quest.3AAB71E9BDFD4C1E.title: "&4&lPneumaticCraft"
 	quest.3AADA53EC01FB0ED.quest_desc: [
 		"With the Lava Sigil in hand, if you right-click, you'll create a source block of lava for the low low cost of 1,000 LP."
 		""
@@ -5966,8 +5874,6 @@
 	]
 	quest.3BDB94F17765EE77.quest_subtitle: "More Power Than You'll Need"
 	quest.3BDB94F17765EE77.title: "End Game Power Options"
-	quest.3BE5CD0C7CC4BCC6.quest_desc: ["Soul Lava is a part of &6&lAllTheModium&r. It can be found in &b&lThe Other&r very rarely underground, or common in Piglich Villages!\n\nWe'll need to feed a Bucket of &9Soul Lava&r to a Ghostly Bee to make a &9Soul Lava Bee&r.\n\nThen, you'll need to squish them or poke them for it's DNA to make a Spawn Egg!  "]
-	quest.3BE5CD0C7CC4BCC6.title: "&9Soul Lava Bee&r Spawn Egg"
 	quest.3BEDF19CD79D53D5.quest_desc: [
 		"The &aDistillation Tower&r serves as the foundation for &dOil Processing&r which can turn oil into many more useful forms"
 		""
@@ -6016,8 +5922,6 @@
 	quest.3C54C36CE97A48DC.quest_desc: ["Droppers drop,\nDispensers dispense, \nAnd Flingers fling! \n\nInstead of nicely setting down items from the Buffer, the Flinger Module will throw them? How far? You determine that!"]
 	quest.3C5734448FEC128B.quest_desc: ["The cheapest Divination Rod, the Glass Divination Rod. \n\nIt can find all Ores that a Stone Pickaxe can mine. So Copper, Coal, and Iron. Nothing higher."]
 	quest.3C74DAE7EC844A98.quest_desc: ["The Lunar Berries are an excellent Food Source, plus very easy to get! \n\nThey spawn growing down from Lunar Tree Leaves, you can pluck the Berries off the Vines like Glow Berries. \nJust these give much more Food Points and Saturation!"]
-	quest.3C7C9EE57AD00A76.quest_desc: ["You can craft these?!?!?! I've always just looted for them. \n\nYou can change if they home in on targets or fly straight. When homing you can change between the settings of &cSpeed&r, &6Damage&r, and &aTurn Speed&r."]
-	quest.3C7C9EE57AD00A76.title: "&cMicromissiles"
 	quest.3C84D684B3A5D7B6.quest_desc: ["Using Mana, the &2Terra Truncator&r will feel entire trees in one fell swoop."]
 	quest.3C8724C3A9459507.quest_desc: ["Yeti Armor can be crafted with Alpha Yeti Fur."]
 	quest.3C8724C3A9459507.title: "Yeti Armor"
@@ -6043,6 +5947,8 @@
 	]
 	quest.3CAD0701EC16C2D8.title: "Dark Swamp"
 	quest.3CB6DC5B09C62CFE.quest_desc: ["&5Ender Gates&r are used to transfer power wirelessly to and from an adjacent block into the &7Ender Network&r.\n\nThink of these like wireless access points to your wireless network of power.\n\nNote: You can only add &apower storage capacity&r using an Ender Cell."]
+	quest.3CB76ABD14AAF4EB.quest_desc: ["You'll need 15 &bCompressed X1 Nether Star Blocks&r. \\n\\nIf each &bCompressed X1 Nether Star Block&r is 9 &bNether Star Blocks&r, then you'll need 135 &bNether Star Blocks&r. \\n\\nAnd if every &bNether Star Block&r is 9 &bNether Stars&r, then you'll need... 1,215 &bNether Stars&r... \\n\\nNow you see why I'm making you farm them?"]
+	quest.3CB76ABD14AAF4EB.title: "15 &bCompressed X1 Nether Star Blocks&r"
 	quest.3CB7884B7B32CF00.quest_desc: [
 		"Getting your first &bEther Gas&r might be a little bit scary.\n\n&bEther Gas&r is made from drilling a Wither, using a Fluid Drill with a &5Purple Lens&r."
 		""
@@ -6065,8 +5971,6 @@
 		"{image:atm:textures/questpics/deepndark/dnd_column.png width:200 height:100 align:center}"
 	]
 	quest.3CF2DFB7F0CE065B.title: "&cOvercast Columns"
-	quest.3CFD27F273B97FDD.quest_desc: ["The &5&lApothic&r mods have multiple cores, each changing different parts of &2&lMinecraft&r.\n\nThe Attributes and Enchanting mods are what you'll need to follow to get the &6&lATM Star&r!"]
-	quest.3CFD27F273B97FDD.title: "&5&lApothic&r Mods"
 	quest.3CFE522A4B7CC2EC.quest_desc: [
 		"The &3Reinforced Chest&r is a blast-proof Chest with 36 slots. Not Double Chest-able. Also works like a Shulker Box."
 		"{image:atm:textures/questpics/pneumaticcraft/reinforced_chest_ui.png width:200 height:100 align:center}"
@@ -6325,8 +6229,6 @@
 		"{image:atm:textures/questpics/mek/rod_example.png width:250 height:200 align:1}"
 	]
 	quest.3F5010269469EBE0.title: "Inside the Reactor: Fuel Control"
-	quest.3F5B5D6B788E0A73.quest_desc: ["Blood, flesh, rituals, if it's evil you can bet it's from &4&lEvilCraft&r! "]
-	quest.3F5B5D6B788E0A73.title: "&4&lEvilCraft"
 	quest.3F657CF4EBDDC3C4.quest_desc: ["Making Plastic can take a while, if you wish to automate this process you can use &eProductive Bees&r. I guess you could also just automate it using these previous quests."]
 	quest.3F657CF4EBDDC3C4.quest_subtitle: "Very useful!"
 	quest.3F657CF4EBDDC3C4.title: "Automating Plastic"
@@ -6340,7 +6242,6 @@
 	quest.3F8A5CBEAE024748.quest_desc: ["The Eye of the Pillager, Eye of the Blaze and Eye of the Shulker are each used to locate specific structures."]
 	quest.3F8A5CBEAE024748.quest_subtitle: "I've got my Eyes on you"
 	quest.3F8A5CBEAE024748.title: "Structure Finders"
-	quest.3F8AEBB994716318.quest_desc: ["&8Wither&r is an Effect in &l&2Vanilla&r so of course we need our own way of using and abusing it! \n\nYou can Brew an Awkward Potion with a &8Wither Skeleton Skull&r to create it. Then you can craft Arrows with it!"]
 	quest.3F8BDFB903B29F0E.quest_desc: ["Now that we are &2Level 3&r we can use our &2Skill Points&r to learn how to use the &b&lHunter Weapon Table&r. \\n\\nThis acts like a bigger Crafting Table just only for &4&lVampirism&r Weapons and Armor. \\n\\nSome Items will need Lava in the &b&lWeapon Table&r to Craft, we can add Lava by Right Clicking the &b&lWeapon Table&r with a Bucket of Lava. \\n\\nCheck JEI to see the Items that can be Crafted now!"]
 	quest.3F8BDFB903B29F0E.title: "&b&lHunter Research Table"
 	quest.3F8D515D7B81B0E3.quest_desc: [
@@ -6527,6 +6428,8 @@
 		"(BTW you can farm &dDragon's Breath&r with an Extrator from XyCraft with a Dragon's Head)."
 	]
 	quest.40DB6E3DE87F16EF.title: "&5Halitosis Generator"
+	quest.40E2137932E62FEB.quest_desc: ["&4Pure Blood&r is a drop from &4&lVampire Barons&r. Its &2Level&r is determined by the &4&lBaron's&r &2Level&r. \\n\\n&4&lVampire Barons&r are boss &4Vampires&r which spawn in &8Vampire Forests&r. \\n\\nThey are Hostile to all Players and other &4&lBarons&r. And yes they are difficult to kill! \\n\\nOf course &2Level 5&r being the hardest to kill... which are the ones we need to kill for the &6&lATM Star&r."]
+	quest.40E2137932E62FEB.title: "&4Level 5 Pure Blood"
 	quest.40E4F1172A164DD1.quest_subtitle: "Chance to Spawn when breaking Cocoa Pods in a Jungle"
 	quest.40E4F1172A164DD1.title: "Sugarbag Bee"
 	quest.40F634AC38F42B88.quest_desc: ["To move pressure you will need to obtain &3Pressure Tubes&r. What pressure you may be asking? Continue the questline to see what these are used for."]
@@ -6591,8 +6494,6 @@
 		""
 		"The arrows on the Crafters must eventually converge on the same Crafter to finish the recipe. You can turn the arrows by R-Clicking it with the Wrench."
 	]
-	quest.4195800B4D7631E2.quest_desc: ["Through the ritual of &6Eziveus' Spectral Compulsion&r we can combine a &7Wormhole Frame&r, 2 Quartz, and an &3Enderpearl&r to get our Wormhole!"]
-	quest.4195800B4D7631E2.title: "&6Stable Wormhole"
 	quest.419C808FE10DB496.quest_subtitle: "Balsa + Wenge"
 	quest.419DD6FE84B91749.quest_desc: ["When collecting genes, you'll get a percentage of a trait. You can combine them in a crafting table to add them together, or place them in a Gene Indexer to auto-combine."]
 	quest.419DD6FE84B91749.quest_subtitle: "The Gene Combiner and Chest"
@@ -6709,8 +6610,6 @@
 	quest.429785E8F64929CE.title: "The Gatekeeper and The Gate"
 	quest.42AAEC41F2BC2474.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_glacite.png width:100 height:150 align:center}"]
 	quest.42AAEC41F2BC2474.title: "&bGlacite&r"
-	quest.42AF4EBDA5D6CC36.quest_desc: ["You can make &2Blastproof Alloy&r by combining the three strongest Metals available. &5Tungsten&r, &dTitanium&r, and &7Stainless Steel&r. Yes, stains matter apparently. \n\nWith these you can combine them to make the &2Casing&r."]
-	quest.42AF4EBDA5D6CC36.title: "&2Blastproof Casing"
 	quest.42CB494F72FA1FD1.quest_desc: ["Craft 6 &eBeehives&r or &eBeenests&r. This includes &l&6Productive Bee's&r &eHives&r as well!"]
 	quest.42CDD69527871332.quest_desc: [
 		"Performing the &cPathway to the Endless Realm&r ritual will give you access to the proper Demon Realm."
@@ -6781,6 +6680,8 @@
 	quest.4351DAA8B607BCBB.quest_subtitle: "Ghostly + Skeletal/Zombee"
 	quest.4351DAA8B607BCBB.title: "Grave's Bee"
 	quest.4365BCF6B7A91D24.title: "Something isn't quite right....."
+	quest.436867D6E3637E1E.quest_desc: ["&dPatrick &aStar&r is only the most important part of the &6&lATM Star&r! He gives it, its shape! It wouldn't be the &6&lATM Star&r without &dPatrick &aStar&r. \\n\\nTo Craft him, we'll need the &6Mechanical Crafters&r mentioned in the previous Quest. We'll put all the Concretes into the &6Crafters&r and yes unfortunately the pattern matters... \\n\\nTo Craft him you'll need exactly: 11 &dPink Concrete&r, 5 &dPink Concrete Powder&r, 13 &5Magenta Concrete&r, 8 &5Magenta Concrete&r, 8 &2Green Concrete&r, 8 &2Green Concrete Powder&r, and 2 &aLime Concrete&r."]
+	quest.436867D6E3637E1E.title: "&dPatrick &aStar"
 	quest.436E4E3515BCCDE9.quest_desc: ["With the &bCloud in a Bottle&r equipped you can hit Space Bar twice to double jump! Very helpful for parkour! \n\nAlso increases the height you can fall from, like &dBunny Hoppers&r!"]
 	quest.436E4E3515BCCDE9.quest_subtitle: "Belt"
 	quest.436E4E3515BCCDE9.title: "&bCloud in a Bottle&r"
@@ -6860,8 +6761,6 @@
 	quest.4476F42BD5B4F03D.quest_desc: ["To become a Human again we'll need an &6&lAltar of Cleansing&r. \\n\\nBy Holding Right Click we can Bless ourselves, this will revert you back to a Human. \\n\\nThe &6&lAltar&r will kill you though unless you have a Totem or are on Hardcore mode!"]
 	quest.4476F42BD5B4F03D.title: "Back to Human"
 	quest.447CAC472A99835B.quest_subtitle: "Spawns from a Snow Nest"
-	quest.4485C4ABD57874EB.quest_desc: ["&b&lApplied Energistics&r isn't a Storage Mod, it is &lTHE&r Storage Mod. \n\nI personally don't know much about the Mod but the Quest page should help you learn it!"]
-	quest.4485C4ABD57874EB.title: "&b&lApplied Energistics"
 	quest.44881E39AB1D62AA.quest_desc: [
 		"The &9Crafter&r is how we store patterns for our Network to know how to craft items. Once a recipe is placed into the crafter, you'll be able to 'Request' an item to be crafted from your Grid. You can do this by hitting CTRL+Shift when clicking on the item you have a recipe for to bring up the crafting GUI. "
 		""
@@ -6999,8 +6898,6 @@
 	quest.45ACC804D47C5D6C.title: "&9Time Torch"
 	quest.45C9D975E3731DFE.quest_desc: ["&9Reinforced Echo Shard&r is a Crafted Item that requires a few Items. \\n\\nFirst, and easiest to obtain are &7Phantom Membrane&r! &7Phantoms&r will spawn after the Player hasn't slept in a few days. The more restless nights, the more &7Phantoms&r! \\n\\nSecond, is the &9Echo Shard&r. These can be found in quite a few ways but easiest is Looting in &6Ancient Cities&r. \\n\\nThe last is the &9Warden Carapaces&r. These are Drops from the &9&lWarden&r on death. Don't worry he usually drops more than one!"]
 	quest.45C9D975E3731DFE.title: "&9Reinforced Echo Shard"
-	quest.45D10F53CA18B8EE.quest_desc: ["Unfortunately you can't get &5Lightning&r Runes from a Mob drop, instead we'll need to craft them with &5Bottle O' Lightning&r. \n\nWe get &5Bottle O' Lightning&r from using an Empty Bottle on a Charged Creeper. \n\nDangerous I know..."]
-	quest.45D10F53CA18B8EE.title: "&5Lightning&r Upgrade Orb"
 	quest.45D1FFB263CD722D.quest_subtitle: "Teak + Clove"
 	quest.45D683D7F1A32B04.quest_desc: [
 		"&lAbility Type:&r Passive"
@@ -7298,8 +7195,6 @@
 	]
 	quest.48600733998CA349.quest_subtitle: "Fluids and more"
 	quest.486060882E507CF1.quest_subtitle: "Spawns from a Dirt Nest"
-	quest.486B5A605D79EA10.quest_desc: ["These we can actually farm for! Milk that &cPyromancer&r!"]
-	quest.486B5A605D79EA10.title: "&cFire&r Upgrade Orb"
 	quest.487275B970530E3F.quest_desc: ["An upgrade to our Will storage. This will hold a max of 256 Will."]
 	quest.4875FB6628C1FCDC.quest_desc: [
 		"Many machines use a programmed circuit setting to determine what recipes can be processed"
@@ -7327,6 +7222,11 @@
 		""
 		"At later tiers you can create any stone variant, even obsidian at HV!"
 	]
+	quest.48A3A67D9CF90D0B.quest_desc: [
+		"Of course one of the most anticipated 1.21 Mods is here! Welcome back &6&lCreate&r! \\n\\n&6&lCreate&r has gifted us with a Machine called &6Mechanical Crafters&r. We'll need these for Crafting the &dPatrick &aStar&r and &6&lATM Star&r. \\n\\nTo use them, we'll first need to place them down and supply them with Rotational Force. Then, we can set where the Items will go. \\n\\nIn order for it to Craft, all the &6Crafters&r need the Arrows to send Items together into one last Block which will Craft it. To change the Arrows directions, use the &6&lCreate&r &6Wrench&r. \\n\\nThis includes special Crafting Recipes. Some Recipes will need more than just a 3x3 of &6Mechanical Crafters&r! For these we will need the specific design shown in Picture below. It is a 9x9 Star shape. \\n\\nOnce we have all of them set, and they have Rotational Force, we can add our Items. Either through simply Right Clicking the Items onto the &6Crafters&r, or Inputting them into the Blocks."
+		"{image:atm:textures/questpics/chap2/chap3_create.png width:100 height:100 align:center}"
+	]
+	quest.48A3A67D9CF90D0B.title: "Crafting with &6&lCreate"
 	quest.48B97E3C2A93BC46.quest_subtitle: "Aspen + Beech"
 	quest.48BA8ACFADE3C8CE.quest_subtitle: "Citron + Wild Cherry"
 	quest.48BE7DAC5082044D.quest_desc: ["The Stressometer will show you how stressed the system is when you connect it."]
@@ -7443,8 +7343,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"
 	]
 	quest.4A079D40C0AF6BC3.title: "&5Unobtainium Ingot&r"
-	quest.4A0DA7FC43EDC532.quest_desc: ["Within the Swamps you might feel a slight rise in temperature... that would be due to the &9Hydra&r that lays there! \n\nOnce you somehow kill him you'll get his Trophy. \n\nGood luck &oHercules&r!"]
-	quest.4A0DA7FC43EDC532.title: "&9Hydra &eTrophy"
 	quest.4A198E875A6B0A64.quest_desc: ["An upgraded crafter that holds more patterns and has an increased crafting speed."]
 	quest.4A198E875A6B0A64.title: "&eGold Crafter&r"
 	quest.4A1C8125896F7F1A.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
@@ -7552,8 +7450,6 @@
 	quest.4AFA3CB55F6C10C2.quest_subtitle: "Pandanus + Coconut"
 	quest.4AFF81D3D0E78255.quest_desc: ["This machine needs water to operate, and uses the water to clean \"Ore Slurry\" into \"Clean Ore Slurry.\"\n\nIt will be part 2 of your Tier 4 Ore Processing Factory."]
 	quest.4AFF81D3D0E78255.quest_subtitle: "Giving Ores a Bath"
-	quest.4B12425E74C5E511.quest_desc: ["The &cExplosive Mycelial Generator&r does an amazing job at soaking up Explosions. \n\nWe could use that for a &d&lPulsating &8Black Hole&r!"]
-	quest.4B12425E74C5E511.title: "&cExplosive Mycelial Generator"
 	quest.4B1E4FC4599DB916.quest_desc: [
 		"Valid Upgrades:"
 		"- Invulnerability"
@@ -7562,6 +7458,7 @@
 	]
 	quest.4B2146C9527C54E7.quest_desc: ["Obviously now that you are in Chapter 2, you have beaten &2&lVanilla Minecraft&r! \n\nBy now you should have &5Netherite&r and have killed all the bosses &2&lMinecraft&r has. So what's next? \n\n&6&lAllTheModium&r is what's next! In order to start getting &6AllTheModium&r though you will need &5Netherite&r. Let's start there!"]
 	quest.4B2146C9527C54E7.title: "&6&lAllthemodium"
+	quest.4B2352B055D51D7C.quest_desc: ["There's no Recipes for Alloys yet, we'll need to wait for that to make these. \\n\\nJust remember for when the Recipes are added that you'll need 28!"]
 	quest.4B3F20E5C7E3BCFB.quest_desc: ["Primal Coal is a new material added by JDT. Primal Coal is aquired by performing Goo Spread on Coal Blocks using tier one goo or higher. Primal Coal Ore is affected by fortune."]
 	quest.4B4F5341D6DBDD19.quest_desc: ["Keep your breathing underwater, once your bubbles go down to 5 they will be refilled! It also allows you to see much more easily underwater!"]
 	quest.4B4F5341D6DBDD19.quest_subtitle: "Max: 1"
@@ -7739,7 +7636,6 @@
 	quest.4CA17B0A80020B2F.quest_desc: ["The &3Manometer&r is used to show extra information about a machine."]
 	quest.4CA17B0A80020B2F.quest_subtitle: "I need more Info!"
 	quest.4CADD50E7E83CD0E.title: "Block of Emerald 4X"
-	quest.4CB488E5CF10F3A4.quest_desc: ["Only the most powerful and expensive Generator from &c&lGenerator Galore&r. \n\nYou'll need an &9Echo Shard&r, a &bConduit&r, and a ton of Netherstar Generators!"]
 	quest.4CC46A4E71320140.quest_desc: ["Refer to the &aLexica Botania&r on how to use this lens."]
 	quest.4CC6EDF0AD572858.quest_desc: ["With each new &6&lTier&r you unlock more &6&lInfusions&r but also more spaces in the &6&lInfuser&r. \\n\\n&6&lTier 0&r you only get 1 and in &6&lTier 1&r you get 2, which means you can now stack &6&lInfusions&r. \\n\\nUse 2 &eForce Nuggets&r to add Knockback II to a &eForce Sword&r. \\n\\nYou'll need 100 &ePoints&r to &6&lTier up&r!"]
 	quest.4CC6EDF0AD572858.title: "&6&lTier 1"
@@ -7771,8 +7667,6 @@
 	quest.4D07B0A4A2E77CDA.quest_desc: ["Max entities is the amount of mobs that can be spawned by a spawner and kept. If it's only 6 max entities when 6 mobs are already spawned no more will spawned until they're dead or moved. Each Ghast Tear brings it up or down 2 Entities. Max of 16 Entities and Minimum of 1."]
 	quest.4D07B0A4A2E77CDA.title: "Max Entities"
 	quest.4D0B50731FED3CEE.quest_desc: ["To get the Cresant Spear you will need to either craft it from Items dropped by the Lunar Monstrosity and the Tangled Hatred, or have it dropped from the Lunar Monstrosity. (You'll have to kill him regardless basically). \n\nYou can use the Spear like a Trident and just smack Mobs or you can hold Right Click to be sent flying forward with it. If you hit any Mobs with the second attack, any Mobs nearby will also take damage."]
-	quest.4D135CE350C59120.quest_desc: ["The &dDragon Egg&r is a staple of &2&lMinecraft&r... wait why is this one hollow? \n\nYou can make the &5Inactive Dragon Egg&r with items we get from &5Draconic Bees&r. Who do need &dDragon Eggs&r as a Flower; unless they live in &d&lThe End&r. \n\nYou can use &dDragon's Breath&r on it to make it a normal &dDragon Egg&r, or use it to craft the &6&lStar&r."]
-	quest.4D135CE350C59120.title: "&5Inactive Dragon Egg"
 	quest.4D160570DC0C8898.quest_desc: [
 		"Situated past the edge of the End, is the Beyond, a completely unavoidable space for those builders that want a lot of clear area to work in. "
 		""
@@ -7809,7 +7703,6 @@
 	]
 	quest.4D6885EFA4EE272F.quest_subtitle: "Onwards to MV!"
 	quest.4D7B6842B9F53459.quest_desc: ["The Effortless Ring gives you a speed boost and step height!"]
-	quest.4D7D4C718837BCA5.quest_desc: ["The main part of the recipe for the Miniature Nether Portal is the &3Hellshelf of Masterful Sight&r. Usually it is used to see what Enchantments you'll get but we're here for the &6&lATM Star&r not for Enchantments. \n\nYou'll only need to enchant to an &4Infused Hellshelf&r which you can get from just a few Shelves. Then you need to craft with it to upgrade it even more! \n\nAfter that you can craft the Miniature Nether Portal, which no you can't walk through you're too big!"]
 	quest.4D822D92492E1F53.quest_desc: ["The &3Aptrgangr&r is the mini boss within the &3Frosted Prison&r. \\n\\nThey have 800 &4Hearts&r and will attack you with their giant Axe. \\n\\nThey can swing their Axe like normal, or they might smash it on the ground near you. When they do that, lasers will spawn damaging all in their path. They also have a charge attack similar to the &eKobolediator&r! \\n\\nOn death they will drop Black Steel Ingots and Nuggets, and Rotten Flesh and Bones."]
 	quest.4D822D92492E1F53.title: "&3Aptrgangr"
 	quest.4D836B9D9E3B898F.quest_desc: [
@@ -7906,6 +7799,8 @@
 		"The tools are also super fast and pack a mean punch with high base damage."
 	]
 	quest.4E178CCAC7F85F54.title: "&6Allthemodium&r &dTools and Armor&r"
+	quest.4E1957EEC79218DC.quest_desc: ["Just because the Modpack is published, that doesn't mean everything is ready yet!"]
+	quest.4E1957EEC79218DC.title: "&6&lATM Star"
 	quest.4E1D5EC061A4AE55.quest_desc: ["A copper ingot and 63mB of oxygen in your arc furnace will make an annealed copper ingot"]
 	quest.4E1E31EDD544EE10.quest_subtitle: "64,000mb"
 	quest.4E2C589C7638390F.quest_desc: ["The &3Cursed Bow&r works similar to a Bow with the Multishot Enchantment! \\n\\nWith normal Arrows, it will shoot 3 at a time! With special Arrows it will only shoot 2. \\n\\nI wonder if you can Enchant it with Multishot as well?"]
@@ -7942,9 +7837,6 @@
 	quest.4E737C490DCC5D6C.title: "&5Unobtainium Armor"
 	quest.4E7990AEBCCC3C95.quest_subtitle: "Tier: &b4"
 	quest.4E802144C6E40D43.quest_subtitle: "Ceylon Ebony + Cherry"
-	quest.4E82E843737045D9.quest_desc: [""]
-	quest.4E82E843737045D9.quest_subtitle: "&oEssence of the most powerful beings."
-	quest.4E82E843737045D9.title: "&d&lDragon Soul"
 	quest.4E8A05C3BFA80540.quest_desc: ["Arguably the most important aspect of Applied Energistics 2 is its storage system, making use of digital &eStorage Cells&f. These cells are accessible through either an &eME Chest&r for single cells, or an &eME Drive&r for multiple cells.\n\nThe &bME Chest&f holds a single Cell at a time, which can then be read from and written to from any other terminal on the same network. The ME Chest itself also provides its own terminal screen on the top with specific access only to the cell it contains.\n\nThe &bME Drive&f can hold up to 10 assorted Storage Cells in the space of a single block and a single ME channel. However, it does not provide its own terminal screen, requiring some external terminal elsewhere on the network for storage access."]
 	quest.4E8A05C3BFA80540.quest_subtitle: "Items as a file system"
 	quest.4E8A05C3BFA80540.title: "The Storage"
@@ -8139,8 +8031,6 @@
 	quest.500BEAD94C97DF96.quest_desc: ["Can be placed in a hive or centrifuge.\n\nWhen in a hive, it decreases the amount of time bees spend in the hive by 20%.\n\nWhen placed in a Centrifuge, it increases the processing speed.\n\nThese do stack."]
 	quest.500BEAD94C97DF96.quest_subtitle: "Sonic Bees"
 	quest.50150380043F97F9.title: "Flight of the Bumblebee"
-	quest.501A0AEEC73C0790.quest_desc: ["&6Piglich&r is a Boss added by &6&lAllthemodium&r which lives in the Ancient Pyramid in &l&bThe Other&r. \n\nOn death he'll drop 1 of his Hearts! You'll need 9 of them dead to make a Block of it... \n\nThankfully there are ways to farm them!"]
-	quest.501A0AEEC73C0790.title: "&6Piglich Heart Block"
 	quest.501C6B7580453410.quest_desc: ["The &aFluidizer&r is a customizable multiblock that has a minimum size of 3x3x3. Just like the other multiblocks, the frame will need to be made out of Casings, while the faces can be made out of Glass."]
 	quest.501C6B7580453410.title: "Fluidizer Construction"
 	quest.502FF1A93E06073C.quest_subtitle: "Precursor"
@@ -8480,8 +8370,6 @@
 	]
 	quest.53518D4ED99A242F.quest_desc: ["The &3Camouflage Applicator&r can be used to hide PneumaticCraft machinery inside of other blocks."]
 	quest.53518D4ED99A242F.quest_subtitle: "Want to make your setup look cool?"
-	quest.535525EA4DF4AB59.quest_desc: ["The &cPlayer Transmitter&r will supply energy to anyone with the Binded Card. That includes energy to all armor, tools, and items in their inventory. \n\nThe &cNitro Tier&r is needed for the &6&lStar&r, which is of course the last and hardest one to get."]
-	quest.535525EA4DF4AB59.title: "&cNitro Player Transmitter"
 	quest.5357A140DD05654A.quest_desc: ["16x Uranium Triplatinum Wire - Qty 8"]
 	quest.5357A140DD05654A.quest_subtitle: "EV Superconductor"
 	quest.53594EBA9F7BA840.quest_desc: ["The Advanced Item Unloader is just like the normal part but can be used from any direction. Nothing different besides direction."]
@@ -8615,6 +8503,8 @@
 	quest.5443AA65C0D0C599.quest_desc: ["These you can either steal it from the &5Bee Queen&r or work for it by helping her. I recommend being respectful to the &5Queen&r though, she is royalty! \n\nWhen you drink it you will get plenty of amazing Effects plus it will take away some terrible ones. \n\nIt can also be used on &6B&8e&6e&8s&r and Beehemoths to give them Effects!"]
 	quest.544791880F315D5A.quest_desc: ["Boats with Chests are Boats with Chests on them. You can open the chest while you're in the Boat or you can right-click on it. Only one person can ride in the Boat at a time."]
 	quest.545959C8C28C6F2B.quest_desc: ["Process one of those emerald plates in a Lathe to get your Emerald Lens!"]
+	quest.545A5E98F829C2AC.quest_desc: ["&4&lVampirism&r a Mod that is new to &6&lAllTheMods&r! \\n\\nIt is all about the war between &4Vampires&r and &bVampire Hunters&r! Best part is, we get to join in! \\n\\nCheck out the Quest Page to learn more on how to join and what to do."]
+	quest.545A5E98F829C2AC.title: "&4&lVampirism"
 	quest.546100C879F45BB1.quest_desc: ["No one wants to get dirty by manually sifting everything. Let this multiblock do all your sifting needs, and get those gems that we need as we move towards the end!"]
 	quest.546100C879F45BB1.quest_subtitle: "Who wants to get Dusty with manual Sifting??"
 	quest.5466CB622A637DCD.quest_desc: ["Abyssal Fruit technically can spawn in any body of water but its the only one that lives within the Shimmer Rivers. \n\nIt grows like Kelp from the floor up, but also works like Glowberries as in Fruit grows and can be collected from it."]
@@ -8640,11 +8530,6 @@
 		""
 		"In this case though, it can also be used to cool hot silicon ingots"
 	]
-	quest.54B1A876E9F6707A.quest_desc: [""]
-	quest.54B1A876E9F6707A.quest_subtitle: "&oPower and destruction like no other!"
-	quest.54B1A876E9F6707A.title: "&5&lOblivion Shard"
-	quest.54BAF833344F0AAE.quest_desc: ["This ones a 2 parter! First, you'll need a &8Dark Tank&r. Simple recipe only needing &8Dark Gems&r, Iron, and Glass. \n\nNext, you'll need &7Eclipse Ember Fuel&r. That's not so simple... \n\nTo get it you can start, drop an &7Eclipse Ember&r into &3Liquid Voidflame Fuel&r to make it &7Unrefined Eclipse Ember&r. Then, you'll need &9Shadowpulse Goo&r to spread to it to make &7Eclipse Ember Fuel&r. \n\nBy the way you'll need 16 Buckets worth!"]
-	quest.54BAF833344F0AAE.title: "&8Dark Tank&r full of &7Eclipse Ember Fuel"
 	quest.54BEC01D84237DBC.quest_desc: ["A little hydrogen and chlorine together in a &echemical reactor&r will result in some HCl"]
 	quest.54CAE45241DB9C2A.quest_desc: [
 		"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
@@ -8732,7 +8617,6 @@
 	quest.553C44F85E508DE3.quest_desc: ["This one is unique as it's not used for just 1 Router but for multiple. \n\nIf you want mutliple Routers working at the same time then each needs a Sync Upgrade. \n\nWill need to be tuned in its own GUI."]
 	quest.553DD7CBD4351A71.title: "&bVibranium Tools&r"
 	quest.554389C781241743.title: "Molybdenum Vein"
-	quest.554F47A0AF7506EC.quest_subtitle: "59,049 End Stone"
 	quest.555ED1E39131D91B.quest_desc: [
 		"Shouldn't have come into the &bTower&r, the &b&lCryomancer&r does not like Players, they are Hostile to you. \n\nThe &b&lCryomancer&r will immediately start attacking you with &bIce Spells&r. Might even use animals against you! Sacrificing animals to win a fight, he really is cold-hearted! \n\nOnce killed he will drop Arcane Essence, Inks, &bIce Runes&r, and &bIce Scrolls&r."
 		"{image:atm:textures/questpics/iron_spells/spells_cryomancer.png width:100 height:200 align:center}"
@@ -8769,8 +8653,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_overgrown.png width:200 height:100 align:center}"
 	]
 	quest.55B9B9C3AA01D323.title: "&5Overgrown Flower"
-	quest.55BF254B1831359B.quest_desc: ["&5Galadorian Drills&r are the greatest Drills we can attach to our Carts. \n\nBecause of its greatness, that also means crafting it will be more difficult... \nLet's just say you'll need a lot of &3Stabilized Metal&r! Follow the recipes!"]
-	quest.55BF254B1831359B.title: "&5Galadorian Drills"
 	quest.55C47B868C5ECF54.quest_desc: ["Need help finding ores? Make yourself one of these and charge it up by placing it in any machine's energy slot"]
 	quest.55C4824DAD905512.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.55C8DD9A754545BD.quest_desc: ["The Pulverizer breaks raw ores into dusts, and also has a 25% chance to create an extra dust."]
@@ -8793,8 +8675,6 @@
 		"That being said, getting an early start on processing them will greatly benefit you later on."
 	]
 	quest.56180F60F8E3D879.quest_subtitle: "Reactor Resources"
-	quest.561B5FB009744D2B.quest_desc: ["To get &aInsanite Blocks&r you'll need 8 &aInsanite Ingots&r and 1 &cBlock of Inanite&r. Yes, I know it's confusing with only a single letter difference. \n\nTo get &aInsanite Ingots&r you'll need to reprocess &bBenitoite&r with &4Rossinite&r in a Reprocessor. \n\n&bBenitoite&r needs to be Mined in &c&lThe Nether&r. \n\n&cInanite Blocks&r are made by combining 8 &cInanite Ingots&r with a &cBlock of Netherite&r! &cInanite&r not &aInsanite&r. \n\nTo get Inanite Ingots you will need to reprocess &dRidiculite&r with &4Rossinite&r in a Reprocessor. \n\n&dRidiculite&r is another chain of recipes that quite frankly I'm tired of looking at!"]
-	quest.561B5FB009744D2B.title: "&aInsanite Blocks"
 	quest.5620B596B3D692E0.quest_desc: ["The &c&lAlchemical Cauldron&r is used for mixing two different Items. \\n\\nIt will need a Fuel Source within the Bottom Slot. It uses Furnace Fuel, so Coal and Charcoal work perfectly! \\n\\nJEI won't tell you the Recipes by Right Clicking the &c&lAlchemical Cauldron&r, instead you can use the JEI function while in the GUI of the &c&lCauldron&r itself."]
 	quest.5620B596B3D692E0.title: "&c&lAlchemical Cauldron"
 	quest.562BD37539EE318E.title: "Tier: &cBlazing"
@@ -8890,8 +8770,6 @@
 	quest.5766C8B9E850C186.quest_subtitle: "Creating Source Gems"
 	quest.576ABF43FCF886B7.title: "&2Prudentium Farmland"
 	quest.577A5FC500E14C05.quest_subtitle: "Lawson Cypress + Oak"
-	quest.5791F3000D18E2C9.quest_desc: ["The &8Wither&r has a tendency to break and blow up Blocks. \n\nMost players do not enjoy this, so the &8Witherproof Bricks&r are just what you are looking for! \n\nThey are just like &8Witherproof Blocks&r, just with a better design!"]
-	quest.5791F3000D18E2C9.title: "&8Witherproof Bricks"
 	quest.57940981E8DE55D4.quest_desc: ["It's easy to get lost in the &9Twilight Forest&r. In your travels, you'll run into &5Obsidian Pillars&r.\n\nThese pillars will have &8Ravens&r around them. Kill them and they'll drop their feathers, which you can use to create a map for the &9Twilight Forest&r!"]
 	quest.57940981E8DE55D4.title: "&8Raven Feathers"
 	quest.579A41570D610B07.quest_desc: [
@@ -8930,7 +8808,6 @@
 		"We will need a lot of Naq Alloy, so we can make all of the Naq Alloy Frames needed for the Rotary Hearth."
 	]
 	quest.57D12E37E980FDBB.quest_subtitle: "This is Naq the alloy you were looking for"
-	quest.57F107892FFA1F52.quest_desc: ["To grow Nether Star Seeds you'll need a Crux below the Farmland. Yes growing Nether Stars needed to be made more expensive! \n\nTo make the Nether Star Crux you'll need &7Withering Souls&r which have a 1/3 chance drop from &8Withers&r."]
 	quest.57F1B60DEA622275.quest_desc: ["That wafer needs to be cut into chips now, so back to the Cutter with these"]
 	quest.57F47BA495B27F83.quest_desc: ["&9Tier 1&r Harvest Level is the lowest pickaxe level, needing a pickaxe. Any pickaxe can mine these. Items that are Tier 1 would be like Stone, Furnace, and Coal Ore."]
 	quest.57F47BA495B27F83.title: "&9Harvest Tier 1"
@@ -9007,8 +8884,6 @@
 		"{image:atm:textures/questpics/deepndark/dnd_leech.png width:100 height:100 align:center}"
 	]
 	quest.5866438E5D19AB69.title: "&3Sculk Leech"
-	quest.5869E198DA416346.quest_desc: ["Late Game &5&lMekanism&r is just insane. For 1 &5Antimatter Pellet&r you need to crystallize 1,000mb &5Antimatter&r. \n\nFor 1mb of &5Antimatter&r you need to power 1,000mb of &3Polonium&r through the SPS. \n\nTo get 1mb of &3Polonium&r you'll need to activate the Neutrons of 5mb of &2Nuclear Waste&r. \n\nAnd &2Nuclear Waste&r you get from processing &9Fissile Fuel&r through a Fission Reactor!"]
-	quest.5869E198DA416346.title: "2 &5Antimatter Pellets"
 	quest.587A19FC348387C5.quest_desc: ["Combines gases, solid items, and liquids to produce an item and by-product.\n\nThis machine is needed to create end-game materials and armor."]
 	quest.587B4048E0BCEB27.quest_desc: [
 		"A quick chemical bath of your Ender Eyes in Radon will net you these &dQuantum Eyes&r"
@@ -9103,6 +8978,8 @@
 		"We need this to craft a component. Im sure you got this one as well."
 	]
 	quest.59908911C4FFF223.quest_subtitle: "16 Amps"
+	quest.5996C218C78E4511.quest_desc: ["The way you &2Level Up&r as a &bHunter&r after &2Level 4&r is with &5Hunter Intel&r. To Craft &2Level 14&r version, we'll need a few different things. \\n\\nWe'll first need to be &2Level 13 &bHunter&r. \\n\\nThen, we can combine 25 &4Vampire Fangs&r, a Book, a &5Vampire Book&r, and 2 &4Level 5 Pure Blood&r in a &9Hunter Research Table&r."]
+	quest.5996C218C78E4511.title: "&5Hunter Intel Level 14"
 	quest.599BABC83E76A711.quest_desc: [
 		"You'll smelt this and flatten it into &bFoils&r to make the delicate layers that comprise the &dAdvanced SMD Capacitor&r"
 		""
@@ -9134,8 +9011,6 @@
 		"{image:atm:textures/questpics/iron_spells/spells_pyromancer.png width:100 height:200 align:center}"
 	]
 	quest.59E68086A8B99EA7.title: "&c&lPyromancer"
-	quest.59EC02C1FBCF14EA.quest_desc: ["You can upgrade your &5Obsidian Generator&r into an &3Ender Generator&r. \n\nThen, it can use &3Ender Pearls&r or &3Eyes of Ender&r to make Energy! \n\nOr make the &6&lStar&r, your choice."]
-	quest.59EC02C1FBCF14EA.title: "&3Ender Generator"
 	quest.59F5ED931FD70C55.quest_desc: ["&9Patterns&r are the bread and butter of autocrafting. These store recipes to let your RS network know how to craft items."]
 	quest.59F5ED931FD70C55.title: "Autocrafting!"
 	quest.59FD3C4E415EEDDD.quest_desc: ["Once the Ritual has started you will notice the &3Lake&r being made. \n\nIt will grow to about a 20x20 block area full of &3Murky Water&r. \n\nThe &3Murky Water&r will not kill you; unless you forget to go for air."]
@@ -9179,8 +9054,6 @@
 	quest.5A658F239928850E.quest_subtitle: "Make &dLuV&r, not War!"
 	quest.5A658F239928850E.title: "I &dLuV &7Progression"
 	quest.5A6670364ADE0858.quest_subtitle: "&f29 &cAttack Damage"
-	quest.5A6831E0BD2F6AB5.quest_desc: ["You'll need a lotta &8Dark Gems&r!"]
-	quest.5A6831E0BD2F6AB5.title: "2 &4Piercing Vengeance Focuses"
 	quest.5A6FF0D4BA894306.quest_desc: [
 		"The poster child of &6&lForbidden \\& Arcanus&r, the &aEternal Stella&r. "
 		""
@@ -9200,8 +9073,6 @@
 	quest.5A912903E09F664F.quest_desc: ["Tip: Use the Ritual Tablet on the brazier first, then right click with one of each of the Wilden mob drops, then activate the ritual to summon the Wilden Chimera."]
 	quest.5A912903E09F664F.title: "Summoning Wilden Chimera"
 	quest.5A94A2664BFDD7B9.quest_desc: ["Welcome to the Basic Storage Chapter!\n\nYou'll find all of the basic ways to store items without needing power, as well as useful items for your storage needs!"]
-	quest.5A955C0F53AED3ED.quest_desc: ["The &bChain of Souls&r works similar to a Grappling Hook. \n\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \n\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \n\nThe first two you can get as drops from a &5Tangled Hatred&r while the last you'll need to kill a &9Lunar Monstrocity&r. "]
-	quest.5A955C0F53AED3ED.title: "&bChain of Souls"
 	quest.5A9C646718EE92C2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vibranium.png width:100 height:150 align:center}"]
 	quest.5A9C646718EE92C2.title: "&3Vibranium&r"
 	quest.5A9D6672385D3D82.quest_desc: ["Only use 1 Lapis for an Upgrade instead of 4."]
@@ -9493,6 +9364,8 @@
 	quest.5D82340E9BED9C79.title: "&dThe End"
 	quest.5D8A3491889F2C4E.quest_desc: ["Need more of the &6ATM Metals&r? Make some bees!"]
 	quest.5D8A3491889F2C4E.title: "&6Productive ATM Bees&r"
+	quest.5D91262B9FF0D862.quest_desc: ["&e&lIron&r has blessed us with a Mod with as much &dMagic&r as the Mod title is long! \\n\\nThe Mod is all about exploring and Crafting new Spells. \\n\\nIt has a Quest Page and yes you'll need &bArcane Cloths&r to start making the &6&lStar&r!"]
+	quest.5D91262B9FF0D862.title: "&e&lIron's Spells and Spellbooks"
 	quest.5DB7C962203735ED.quest_subtitle: "&fTier 2&r"
 	quest.5DC892BA79EB52EC.quest_desc: ["The &n&5Mixer&r can be used combined with the Basin to craft."]
 	quest.5DC9848CC15DCACB.quest_subtitle: "Chill of the thrill"
@@ -9550,6 +9423,8 @@
 		""
 		"It will drain the life force of the mob to become Saturated Tau."
 	]
+	quest.5E2FFDB60A999377.quest_desc: ["Now that we got a Classy Hat, we'll need to Upgrade it! \\n\\nCombine it with an &6AllTheModium Ingot&r and &6Smithing Template&r to create the &6AllTheModium Mage Hat&r. \\n\\nAfter that, we can use the new Hat with a &3Vibrainium Ingot&r and &3Smithing Template&r to make a &3Vibrainium Mage Hat&r. \\n\\nRinse and repeat, now use the &3Vibrainium Hat&r with an &5Unobtainium Ingot&r and &5Smithing Template&r to get the Hat we need!"]
+	quest.5E2FFDB60A999377.title: "&5Unobtainium Mage Hat"
 	quest.5E3263ACE170A8E3.quest_desc: ["The &dGauntlet of &eMaelstorm&r is made with the &dGauntlet of Guard&r and &eSandstorm in a Bottle&r in a &4Mechanical Fusion Anvil&r. \\n\\nThis one is unique from all Weapons I've seen from &4&lCataclysm&r. \\n\\nWhen you Hold Right Click, a &dVoid &eVortex&r will spawn where you are aiming. \\n\\nThe &dVoid &eVortex&r will suck in all Entities nearby, then after a few seconds, it will close and explode! Dealing Damage to all near it."]
 	quest.5E3263ACE170A8E3.title: "&dGauntlet of &eMaelstorm"
 	quest.5E41363F9AE243F3.quest_desc: [
@@ -9618,8 +9493,6 @@
 	quest.5EB87CE5F6DEFAAA.quest_desc: ["The &6Magma Walkers&r allow you 2 things, walking on &cMagma Blocks&r without taking damage, and walking on &4Lava&r for a little bit. &cMagma Blocks&r don't have a cooldown but walking on &4Lava&r does. After the period is over the &6Boots&r will overheat and damage you. "]
 	quest.5EB87CE5F6DEFAAA.quest_subtitle: "Found in Ruined Portals, Nether Fortresses, and Bastions"
 	quest.5EB87CE5F6DEFAAA.title: "&6Magma Walkers"
-	quest.5EC1B868720BF521.quest_desc: ["&8&lImmersive Engineering&r is all about Multiblock Machines, fun Tools, and of course engineering. \n\nDon't worry you won't need 4 years of college for this! But a Manual might help you get started."]
-	quest.5EC1B868720BF521.title: "&8&lImmersive Engineering"
 	quest.5ECC93FB8F676E3F.quest_desc: [
 		"Works like a Coke Oven, but simplified."
 		""
@@ -9804,7 +9677,6 @@
 	quest.6013C6B2E0B81D73.title: "&6Daycares"
 	quest.60175A8E3A67F51C.quest_desc: ["The Emitters and Sensors for each tier always seem to be the hardest components to make. But they always end up helping us in the end with the machines they construct. So its worth it in the end."]
 	quest.60175A8E3A67F51C.quest_subtitle: "Im sensing that you are emitting."
-	quest.601C719C8FD513F0.quest_desc: ["3 &cNetherite Ingots&r, 3 Wireless Boosters, and a bunch of &2fancy &eGears&r we can get an Infinity Range Booster! \n\nThe most confusing parts are the Gears. We can't make the Ingots directly we need to mix Dusts together then Smelt the result to get the Ingots.\n\nThis doesn't work across Dimensions sorry!"]
 	quest.601DA80C08C3F9AC.quest_desc: ["For all your rod production needs!"]
 	quest.601DA80C08C3F9AC.quest_subtitle: "Good ol' rod"
 	quest.60244F26B9ABED49.quest_desc: ["The 1024k Fluid Storage Part is used to craft the 1024k Fluid Storage Disk."]
@@ -9878,6 +9750,8 @@
 	quest.60CECAAE2D43EC6E.quest_subtitle: "Found in End Cities and End Ships"
 	quest.60CECAAE2D43EC6E.title: "&2Ender Hand"
 	quest.60D9F04E91171D16.quest_desc: ["This can act as a Chest for your Variables, or can actually be used in an advanced network.\n\nIf you want advanced networks, make sure to read about them in the &eDynamics of Integration&r."]
+	quest.60E0CB8215F8EDAE.quest_desc: ["The &5Unobtainium &eSpellbook&r is the most powerful &eSpellbook &d&lArs&r can give. \\n\\nIt can cast any Glyphs you got! I don't know of any other limits it passes, I don't use &d&lArs&r much. \\n\\nTo make it we'll need to upgrade the &eArchmage Spellbook&r, to &6AllTheModium &eSpellbook&r. Then, repeat that enough until you get &5Unobtainium &eSpellbook&r."]
+	quest.60E0CB8215F8EDAE.title: "&5Unobtainium &eSpellbook"
 	quest.60FAD8BF235E381B.title: "&bRare&r Ink"
 	quest.60FC2DAEA954A849.quest_desc: ["The &6Moonworm Queen&r is like a torch launcher. It launches &eMoonworms&r at the targeted block, which light up the block similar to a torch.\n\nThese can be found in some &2Hollow Hill&r and &eLich Tower&r loot chests."]
 	quest.60FC2DAEA954A849.title: "&6Moonworm Queen"
@@ -9944,8 +9818,6 @@
 	quest.616C0B40A44A5A4C.title: "Bring the Heat!"
 	quest.616ED6C49C37EB91.quest_desc: ["&b&lPaths and Pathways&r adds tons of different Carpet like Blocks (and full Blocks and Slab versions). \n\nThese are obviously used as Paths, they just look much nicer than the &2&lMinecraft&r Path Block. "]
 	quest.616ED6C49C37EB91.title: "&b&lMacaw's Paths and Pavings"
-	quest.616F9B78B16B42A5.quest_desc: ["The recipe for the &6Tesla Coil&r might seem complicated, especially in a recipe tree, but we can break it down to be simpler!\n\nThe &7Aluminum Plates&r are very simple, just needing to use a Hammer on Ingots or the Metal Press Multiblock.\n\nThe &8Iron Mechanical Component&r is simple as well, just a few Iron Plates and a &6Copper Ingot&r.\n\n&eElectrum Coil Block&r will need a bunch of &eElectrum Ingots&r cut up into Wires. &eElectrum&r is an alloy of &eGold&r and Silver.\n\nThe &6Advanced Electronic Component&r is a whole array of using the Engineers Workbench and &9Blueprints&r. It's Duroplast Sheet requires a lot of refining and fermenting with Multiblock Machines!\n\nThe last item, the &cHV Accumulator&r needs some simple Items like &8Steel&r, &7Aluminum Plate&r, &cRedstone Acid&r, and &4Treated Wood&r. It also needs a more complicated Item called &8HOP Graphite Ingot&r."]
-	quest.616F9B78B16B42A5.title: "&6Tesla Coil"
 	quest.61768CFEDA041E4D.quest_desc: ["Once you enter the &6&lBumblezone&r you might need to return to the &2Overworld&r. Like incase you left your Stove on! \n\nTo get out the &6&lBumblezone&r you can mine either down or up past the &eBeehive Beeswax&r in order to enter the Void. \n\nThis Void won't kill you, instead it will teleport you back to where you were in the &2Overworld&r!"]
 	quest.61768CFEDA041E4D.quest_subtitle: "Let me outta here!"
 	quest.61768CFEDA041E4D.title: "Escaping"
@@ -10060,8 +9932,6 @@
 	quest.627D6FDC3D8C42F6.quest_desc: ["Can convert liquids into items or other useful liquids."]
 	quest.6280748583C62E05.quest_subtitle: "Red Maple + Jungle"
 	quest.62991D7431A48F6D.quest_subtitle: "Banana + Kapok"
-	quest.6299B38E3A42DD40.quest_desc: ["At the top of the confusing Carminite Towers rests the &cUr-Ghast&r waiting for another victim. \n\nThe Towers are within the Dark Forest, you'll need to slay the &9Hydra&r to venture into them! \n\nIf you can blast the &cUr-Ghast&r out of the sky you can get its Trophy!"]
-	quest.6299B38E3A42DD40.title: "&cUr-Ghast &eTrophy"
 	quest.629DC8DED0F6B578.quest_desc: ["Distilling biomass results in ethanol, which is alcohol, but don't tell anyone I told you"]
 	quest.629DC8DED0F6B578.quest_subtitle: "Not for drinking"
 	quest.62A262A706CFCAF0.quest_desc: ["We won't be creating Dark Power Gems using pools of blood anymore.\n\nInstead, we can make the &9Blood Infuser&r to do all of the messy work for us. This allows you to directly infuse items with blood!\n\nThese can be upgraded using &6Promises&r as well. This is one of the main machines used for progression!"]
@@ -10073,7 +9943,6 @@
 	quest.62B2FC6821877868.quest_desc: ["After placing down another Table, we'll need the Books, 15 &4Vampire Fangs&r, and &4Pure Blood Level 2&r."]
 	quest.62B2FC6821877868.title: "Crafting &5Hunter Intel 9"
 	quest.62B4A37CFDECA679.quest_desc: ["The Menril Resin will go to 2 sides of the Squeezer. Placing a Drying Basin next to the Squeezer will make the Drying Basin pick up the Menril Resin.\n\nAfter 7.5 seconds the Menril Resin will turn into a Block of Crystallized Menril."]
-	quest.62B5A84753ADFC35.quest_subtitle: "8 Dry Dark Pink Blocks"
 	quest.62BBF61C9849CA26.quest_desc: [
 		"The minimum size is 5x5x5 and the maximum size is 15x15x15, and anywhere in between is valid!"
 		""
@@ -10101,8 +9970,6 @@
 	]
 	quest.62D04566426DD979.title: "&aWatering Can&r"
 	quest.62D572BAB055F56F.quest_subtitle: "Tier: &e1"
-	quest.62DDE5B1287BEB36.quest_desc: ["Another part of the &6&lATM Star's&r juicy insides is the &6Awakened &5Unobtainium&f-&3Vibranium&r Alloy Block, which I am going to just called &6Awakened Alloy&r block. \nTo get this you'll need a Star Altar multiblock, (check out Crafting the Star Quest for more info!) \n\nThere you'll need to input the &5Unobtainium&f-&3Vibranium&r Block, 4 Unbreaking I Books, 4 &6Awakened Supremium Gemstones&r, and 4 &6Awakened Supremium Essence&r. \n\nYou'll then need to give it 85 Million FE... After that, your Alloy should now be Awakened!"]
-	quest.62DDE5B1287BEB36.title: "&6Awakened &5Unobtainium&f-&3Vibranium&r Alloy Block"
 	quest.62DF58D36B739EA0.quest_desc: ["The &eWadjet&r is similar to the &eKobolediator&r as it lies within the &eCursed Pyramid&r waiting for a Player to come near. \\n\\nThe &eWadjet&r has 1050 &4Hearts&r and thankfully won't give you Mining Fatigue! \\nShe has many attacks, the most basic is when you are close she will swing her weapon at you. If you get farther she might throw a Sandstorm at you or drop Sand Blocks from the roof on top of you. \\n\\nI'm going to be honest, I don't know which attack is worse! \\n\\nOn death they will only drop Ancient Metal Ingots."]
 	quest.62DF58D36B739EA0.title: "&eWadjet"
 	quest.62E7B8817D22678F.quest_desc: [
@@ -10555,8 +10422,6 @@
 	quest.67B87570C340C243.title: "Armor Upgrades"
 	quest.67C4A4D6DD93DB0E.quest_desc: ["Place this under the soil to allow magical seeds to grow"]
 	quest.67C4A4D6DD93DB0E.title: "&bMagical Soil&r"
-	quest.67C76EDD4BCCFF3F.quest_desc: ["Through &bStrigeor's Higher Binding&r we can make an &bEmpty Soul Gem&r. \n\nThese can be used to transport Mobs safely, or make the &d&lDragon Soul&r. \n\nPersonally I think we should do both!"]
-	quest.67C76EDD4BCCFF3F.title: "&bEmpty Soul Gem"
 	quest.67C9D2712EA1F637.title: "ULV Tier"
 	quest.67CCEFEBA4D79429.quest_desc: ["&eDivine Pact&r is the most difficult to obtain, you'll need to search Piglin Villages and Ancient Pyramids in &b&lThe Other&r to find them! \n\nIt's used to craft the Soul Binding Crystal and the End Game Multiblocks!"]
 	quest.67CCEFEBA4D79429.title: "&eDivine Pact"
@@ -10646,7 +10511,6 @@
 	quest.686EB173C94301C0.quest_desc: ["&e&lIron's Spells&r &bIce Armor&r!"]
 	quest.686EB173C94301C0.quest_subtitle: "20"
 	quest.686EB173C94301C0.title: "&bCryomancer Outfit"
-	quest.6877F33323910716.quest_desc: ["Tier 4 Pocket Storage has 64 Slots for Items and each hold 1,048,575 Items. That's 67,108,800 Items total. Move over Backpacks you've been replaced! \n\nIt only costs a few Nether Stars which in Modded honestly isn't expensive for what you get!"]
 	quest.6884E25641A1020C.quest_desc: ["This is arguably one of the most important blocks added by Apotheosis, the Enchantment Library. You put Books in and they collect over time and can be taken out anytime. Warning 1. It has limits, high limits but limits 2. It can only take out the highest level put in regardless of how many are in."]
 	quest.68879C92A044030D.quest_desc: ["Mercury and Gold are highly attracted to each other. For this reason, Mercury is widely used to leech gold out of fine sands, or other materials which are rich in fine gold that is otherwise difficult to process out."]
 	quest.68879C92A044030D.quest_subtitle: "Amalgamation"
@@ -10812,8 +10676,6 @@
 	quest.6A0D1E9D534958B8.title: "Chalcopyrite Vein"
 	quest.6A1145678E80FB8E.quest_desc: ["There's so many useless &5Enchantments&r out there, why not get some Energy out of them! The &bEnchantment Generator&r uses &5Enchanted Books&r to make Energy. The Level and Rarity of &5Enchanted Books&r changes the amount of Energy you get from them."]
 	quest.6A1145678E80FB8E.title: "&bEnchantment Generator"
-	quest.6A12188E50EAEB78.quest_desc: ["The &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&cs&r will smelt a stack of Items at a time! \n\nTo craft it you will need a &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&ar&9e&r which needs 2 &cNetherite Furnaces&r and all the colors of the &cr&6a&ei&2n&3b&9o&5w&r in Glass! \n\nThen, you'll need &cR&6a&ei&2n&3b&9o&5w&r &cP&6l&ea&at&3i&9n&5g&r which you get from combining almost every other Furnace in the mod. You'll need 2 of them to craft the &3&lImprobable Probablility Device&r."]
-	quest.6A12188E50EAEB78.title: "2 &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&cs"
 	quest.6A18B971C3DB83AE.quest_subtitle: "Tier: &63"
 	quest.6A1C0B17B22CE50F.quest_desc: ["The &9Amulet of Mana Boost&r gives a boost to max mana. \n\nThe &6Amulet of Mana Regen&r gives a boost to your mana regen."]
 	quest.6A1C0B17B22CE50F.title: "The Amulets"
@@ -10841,8 +10703,6 @@
 	quest.6A452BFC8A967C39.quest_desc: ["Wearing these &aClaws&r just makes you feel a certain way. Adrenaline pumping, thoughts ceasing, strength rising like no other! \n\nWith &aFeral Claws&r you will Attack much faster with your Weapons or Fists."]
 	quest.6A452BFC8A967C39.quest_subtitle: "Hands"
 	quest.6A452BFC8A967C39.title: "&aFeral Claws&r"
-	quest.6A46A9F04D2A0748.quest_desc: ["Direwolf is a name synonymous with Modded Minecraft and &3&lJust Dire Things&r is one of his babies. \n\nIt revolves around Goo, yeah I know sounds enticing!"]
-	quest.6A46A9F04D2A0748.title: "&3&lJust Dire Things"
 	quest.6A497B063CF32A5C.quest_desc: ["A Fermented Spider's Eye can be used to increase the amount of mobs that CAN spawn from a spawner. The Mobs spawned is random with a Maximum amount determined by the number. It goes up or down by 1 for each eye to a maximum of 16."]
 	quest.6A497B063CF32A5C.title: "Spawn Count"
 	quest.6A4C0901146941FC.quest_desc: ["Quite literally the same Recipe as &5Hunter Intel 10&r... I wonder if that is intentional."]
@@ -11050,6 +10910,8 @@
 	quest.6C76AB8A6110C0C7.quest_desc: ["The &4Blazing Hellshelf&r is an upgrade to the &4Infused Hellshelf&r. It increases max &aEterna&r to &a30&r. The negative Enchanting Clue makes it a little worse for normal Enchanting, instead we can use it for better Infusion."]
 	quest.6C76AB8A6110C0C7.title: "&4Blazing Hellshelf&r"
 	quest.6C832BFE4D07D897.quest_subtitle: "Leaves an AoE Cloud that damages living mobs"
+	quest.6C905CC5F4341985.quest_desc: ["&d&lArs Nouveau&r is one of the most popular &dMagic Mods&r out there! \\n\\nIt is a very important Mod here in &d&lAllTheMagic: Arcana&r, especially its &dSource&r. \\n\\nIt has a Quest Page you can check out to learn more!"]
+	quest.6C905CC5F4341985.title: "&d&lArs Nouveau"
 	quest.6C9191DA4B1039D6.quest_desc: ["Menril Berries give you Night Vision for a short amount of time when eaten."]
 	quest.6CA01DCE1F4A0EC3.quest_desc: ["The next stage of the mod requires the collection of &3Crude Oil&r. This Oil can be found naturally on the surface of the overworld."]
 	quest.6CA01DCE1F4A0EC3.quest_subtitle: "The Path to Plastic"
@@ -11060,9 +10922,6 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_lique.png width:100 height:100 align:center}"
 	]
 	quest.6CAD27627A3F8FD7.title: "Making &eAlchemical Sulfur"
-	quest.6CAD67D21E1EA861.quest_desc: [""]
-	quest.6CAD67D21E1EA861.quest_subtitle: "&oUniversal remote access."
-	quest.6CAD67D21E1EA861.title: "&7&lNexium Emitter"
 	quest.6CB1BFBA10DF24E4.quest_desc: ["Using the &cScepter of Life Draining&r, you can drain the life of your enemies!\n\nTo recharge the scepter, combine it with &cFermented Spider Eyes&r in a crafting grid."]
 	quest.6CB1BFBA10DF24E4.quest_subtitle: "Drains Life"
 	quest.6CB1BFBA10DF24E4.title: "&cScepter of Life Draining"
@@ -11118,8 +10977,6 @@
 	quest.6D124ACF4AE80490.quest_desc: ["With Micromissiles you can shoot explosions from far away! Now nobody can escape!\n\nTheses are needed to craft the &6ATM Star&r."]
 	quest.6D124ACF4AE80490.quest_subtitle: "Firing Explosions from afar!"
 	quest.6D14ACECD2084456.quest_subtitle: "Wenge + Oak"
-	quest.6D1E8399AD39FFC8.quest_desc: ["&7Paradox Machine&r can, for a price of a lot of Power and &aTime Fluid&r, will take a Snapshot of blocks and entities in the designated area; then it can duplicate it. \n\nLots of Blocks and Entities are blacklisted by configs so no duplicating Bees!"]
-	quest.6D1E8399AD39FFC8.title: "&7Paradox Machine"
 	quest.6D232F6D8E8DA546.quest_desc: [
 		"Very popular around Halloween!"
 		"{image:atm:textures/questpics/iron_spells/spells_outfit_plagued.png width:60 height:100 align:center}"
@@ -11250,8 +11107,6 @@
 	quest.6E2F24117ACF3694.quest_subtitle: "The first multiblock"
 	quest.6E38CF6E7360E9CA.quest_desc: ["The &9&lWarden&r will drop quite a few Items but the &9Heart of the Deep&r is most important. \\n\\nWe can use the &9Heart of the Deep&r on a frame of &8Reinforced Deepslate&r to get our Portal to the &3&lOtherside&r. There can't be any Blocks blocking the Portal Frame or else it won't work. \\n\\nHe also drops &9Warden Carapace&r and &9Echo Shards&r, both will be useful for Crafting other Items!"]
 	quest.6E38CF6E7360E9CA.title: "&9Heart of the Deep"
-	quest.6E3AD764A67829CB.quest_desc: ["Like its inferior brother, the &bInfusion Crystal&r, the &cMaster Infusion Crystal&r does everything the former can as well. \n\nThis one just has Infinite Uses and can upgrade 4 Blocks of Essence to the next one in Block form! \n\nIt does require &cSupremium&r to make it, but trust me it's worth it!"]
-	quest.6E3AD764A67829CB.title: "&cMaster Infusion Crystal"
 	quest.6E3B9051503B938C.quest_desc: [
 		"Found within the Dark Forest biome, the Edelwood Tree looks like a small tree that has been chopped in half."
 		""
@@ -11422,7 +11277,6 @@
 	quest.6FBF112811FB707C.quest_subtitle: "Ash + Birch"
 	quest.6FC4146E534C51DA.quest_desc: ["You can combine a Netherite Upgrade Template, a Netherite Helmet, and a &cMonstrous Horn&r to make the &cMonstrous Helm&r. \\n\\nIt has the same stats but when you're at half health it'll Knockback everything close to you and increase defense stats."]
 	quest.6FC4146E534C51DA.title: "&cMonstrous Helm"
-	quest.6FC55CF56BE22866.quest_subtitle: "531,441 Dirt"
 	quest.6FC7DC1F856A748D.quest_desc: ["Okay this is a long one just stick with me. First Ability allows two modes,  &6Sancity&r and &7Unholiness&r. &6Sancity&r takes some of your Healing and uses it as Damage against enemies. &7Unholiness&r does the opposite, it takes the enemies Healing to help you deal more damage. Mobs like &dEnder Dragon&r and &5Wither&r both regenerate Health. \n \nThe Second Ability is Repentance, while active it will Burn Undead Mobs (Zombie, Skeleton, and their cousins). \n \nThe Third Ability grants a small time period of Invincibility."]
 	quest.6FC7DC1F856A748D.quest_subtitle: "Found in all Villages"
 	quest.6FC7DC1F856A748D.title: "&6Holy&r &7Locket&r"
@@ -11446,6 +11300,7 @@
 	quest.6FF54B5D953E1797.title: "&cRage Glove"
 	quest.700F3FF7C23D0C0F.quest_desc: ["The &5Ender Cell&r will store power for a channel in your &7Ender Network&r. To increase the power capacity of the network, right click on the Ender Cell to open up the interface, then add either a &aBattery&r or an &9Energy Cell&r to increase the overall capacity."]
 	quest.70112194DFFD15D3.title: "&5Tyr Armor"
+	quest.702520F18627BE24.quest_desc: ["Yes, &6&lBumblezone&r has a progression to follow! \\n\\nYou'll need to explore the different Structures to get to the Throne Room, here you can find the &5Queen Bee&r. \\n\\nTo get the Essence of Bees you'll need to complete 16 Achievements before getting it! \\n\\nI am not going to list them all off but you can find them in &6&lBumblezone's&r Quest Page or even just Achievements by pressing L."]
 	quest.7026E46FD8B3A81D.quest_desc: ["The &9Hydra&r is the infamous multi-headed beast from Greek Mythology.\n\nRanged attacks aren't as effective, meaning you'll need to get up close and personal.\n\nOnce defeated, you'll be able to find the next boss in the &2Dark Forest&r."]
 	quest.7026E46FD8B3A81D.quest_subtitle: "The Firey Swamp"
 	quest.7026E46FD8B3A81D.title: "&9Hydra Slayer"
@@ -11535,32 +11390,6 @@
 		"First things first, let's work towards making stainless steel so we can make HV machines"
 	]
 	quest.70C952B8FF3418F6.quest_subtitle: "Buckle up for &6HV&r"
-	quest.70CCE558E03227AB.quest_desc: [
-		"The &6&lRunic Star Altar&r is a Multiblock made by our very own &3Drack.ion&r via &lModular Machinery&r! \n\nIt is a 15x9x15 Structure which starts with the &aRunic Star Altar Controller&r. Place it down then use a &cMachine Blueprint&r on it. Doing so will give you highlights you can follow to build the Mulitblock. \n\nYou can also go into the &aController&r and make it auto-build it, I can promise you it is quicker! \n\nOn each side of the &6&lAltar&r you can replace the &9Polished Darkstone&r next to the &6Arcane Polished Darkstone&r with Hatches. These are needed for the actual &6&lStar&r Crafting. \n\nUse Item Input Hatches (all from &lModular Machinery&r), these are where the Recipe will be placed into. Item Output Hatches are where &6&lThe Star&r will come from. And Energy Inputs are needed to power the &6&lAltar&r! \n\nYou can check the &aController&r to see the progress of the Recipe or problems with the &6&lAltar&r. \n\n(BTW the Loot Bag used in its recipe is from the &5Lunar Monstrosity&r. Also the direction of blocks like &9Stairs&r or &6Pillars&r do not matter for the &6Altar&r)."
-		"{@pagebreak}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:100 height:100 align:center}"
-		"1st Layer is just &9Polished Darkstone&r, &9Polished Darkstone Stairs&r, and &6Arcane Polished Darkstone&r, along with the &aController&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:100 height:100 align:center}"
-		"2nd Layer is more &9Polished Darkstone&r, &9Stairs&r, and now &6Gilded Chiseled Polished Darkstone&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:100 height:100 align:center}"
-		"3rd adds &bArcane Crystal Obelisks&r, Rune Blocks, &6Arcane Chiseled Polished Darkstone&r, and &9Polished Darkstone Slabs&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:100 height:100 align:center}"
-		"The 4th Layer is where we have our &6Darkstone Pedestals&r, a &7Magnetized Darkstone Pedestal&r in the middle, Utrem Jars, and &6Arcane Polished Darkstone Pillars&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer5.png width:100 height:100 align:center}"
-		"5th Layer is pretty simple, just some more &6Pillars&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer6.png width:100 height:100 align:center}"
-		"6th Layer needs more &6Pillars&r plus a &7Quantum Injector&r above the &7Magnetized Darkstone Pedestal&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer7.png width:100 height:100 align:center}"
-		"7th is very simple as well, just more &6Pillars&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer8.png width:100 height:100 align:center}"
-		"8th following the same pattern, more &6Pillars&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer9.png width:100 height:100 align:center}"
-		"The last Layer, Layer 9 needs more &6Pillars&r of course, in addition with more Rune Blocks and &bArcane Crystal Blocks&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer10.png width:200 height:100 align:center}"
-		"Last thing we need to do to start the &6&lAltar&r, is adding our Hatches. Place them on the outside of the &6Arcane Polished Darkstone&r like shown, you'll need some Item Inputs, Outputs, and Energy Inputs."
-	]
-	quest.70CCE558E03227AB.quest_subtitle: "Crafting the &l&6ATM Star"
-	quest.70CCE558E03227AB.title: "&l&6Runic Star Altar"
 	quest.70CDA5F1593DB4B2.quest_desc: [
 		"&eThe Cursed Pyramid&r spawns in deserts and it's very hard to miss. A massive pyramid with huge pillars by the entrance. \\n\\nEnter within and you will find traps all around, &eKoboletons&r, and mini-bosses! \\n\\nDon't worry there's also Chests, Pots, and even Suspicious Sand which you will need for the..."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_pyramid.png width:200 height:100 align:center}"
@@ -11603,10 +11432,6 @@
 		"- Stupefy"
 		"- Night Vision"
 	]
-	quest.7154D73516548149.quest_desc: ["&6&lAllthemodium&r is a mod added specifically by the &6AllTheMods Team&r to add more content after Netherite! \n\nYou'll need to adventure through it to get some Items needed for the &6&lATM Star&r. \n\nThere is a Quest page now that you can follow for it!"]
-	quest.7154D73516548149.title: "&l&6Allthemodium"
-	quest.71581992E8E4C43E.quest_desc: ["Throw a few &8Wither Skeleton Skulls&r and an &dAbjuration Essence&r to make a &8Wither &3Glyph&r! \n\nIf it didn't work you might need more &aEXP&r."]
-	quest.71581992E8E4C43E.title: "&3Glyph of &8Wither"
 	quest.715B86DC82EA636B.quest_desc: [
 		"The &3Liquid Compressor&r creates pressure using certain liquids. You can put the fuel in by right-clicking the bucket onto the machine, pumping in the fluid, or by putting a bucket in the top slot in the GUI."
 		""
@@ -11663,7 +11488,11 @@
 	quest.71B72958B9F80355.quest_desc: ["Don't worry there's no more dropping at this stage! \n\nNow we just need to craft! Craft the Lens of &3Certain Death&r, with a &bDiamond Sword&r, and &5Enchanted Book of Sharpness V&r. \n\nYou can get the &5Enchanted Books&r from the &5&lRunic Enchanter&r! Which you can learn more in another Quest!"]
 	quest.71B72958B9F80355.title: "Lens of the &4Killer"
 	quest.71B824BEA02C4A34.title: "Weather"
+	quest.71C0768E8276EA6E.quest_desc: ["Sorry to jump a bit far into &b&lOccultism&r with this Quest, but trust me we need a lot of Quest space for these! \\n\\nBefore we worry about the &8Eldritch Chalice&r we'll need the &bIesnium Sacrificial Bowl&r. \\n\\nThe Book of Binding Bound to an Afrit, &bIesnium Block&r, &5Spirit Attuned Crystal&r, and &eGolden Sacrifical Bowls&r are all Crafting Recipes. \\n\\nThe other two need Rituals, one with a Book bound to Afrit and the other a Book bound to Foliot. \\n\\nAfrit Essence needs the Book Afrit with &4Netherrack&r, &7Gunpowder&r, Quartz, and Flint and Steel. It will also need a Cow for Sacrifice. This Ritual will summon an Afrit Entity which can be killed for its &cEssence&r. \\n\\n&aResearch Fragment Dust&r needs the Book Foliot, &aEmerald Dust&r, and 2 &aBottle O' Enchanting&r."]
+	quest.71C0768E8276EA6E.title: "&bIesnium Sacrificial Bowl"
 	quest.71C58666D4BC2508.quest_desc: ["Works like Flint and Steel!"]
+	quest.71C9A4B28726A997.quest_desc: ["In order to get a ton of &bNether Stars&r we'll need some way of mass Farming. This is where the &6Drygmy&r comes in handy! \\n\\nFirst, we'll need &6Drygmy Tokens&r. We can find them in Chests, or Drop a Wilden Horn near a wild &6Drygmy&r to get one! \\n\\nThen, we can Craft a &6Drygmy Charm&r. Use the &6Charm&r on a &2Mossy Cobblestone&r to summon a Stonehenge Block which is the home of the &6Drygmy&r! \\n\\nNow, with &dSource&r and a Block Inventory nearby, the &6Drygmy&r will automatically collect Items from Mobs nearby. \\n\\nI can't tell you the best Farms for these, I recommend looking to Youtube and Google for those!"]
+	quest.71C9A4B28726A997.title: "&6Drygmy&r Farming"
 	quest.71D133BA3EC6F4FD.quest_desc: ["The Extrator will \"grow\" the block or item beneath it and move it to an inventory above it.\n\nThis can be used for a Cobblestone generator that works with many types of stone, an Amethyst generator, or even a Dragon Egg generator, along with others!"]
 	quest.71D133BA3EC6F4FD.quest_subtitle: "Farming for Rocks! (and More)"
 	quest.71D4B261AF487062.quest_desc: [
@@ -11886,6 +11715,8 @@
 	quest.734A72A4C898BDFB.title: "Invar Bee"
 	quest.734F61A03FFA13ED.quest_subtitle: "CreeBee + Iron"
 	quest.734F61A03FFA13ED.title: "Radioactive Bee"
+	quest.735164D456F485D9.quest_desc: ["In order to make &6&lAllTheWizard&r Gear, we'll need a Hat with Class! \\n\\nWhen I say Class I don't mean: Top Hats, saying Please, and not burping, I mean an &e&lIron's&r Class! \\n\\n&2Nature&r, &cFire&r, &dEnder&r any... it doesn't matter which just make one. \\n\\nAll are made in a similar way, 5 &bArcane Cloths&r and a Classed Rune."]
+	quest.735164D456F485D9.title: "Classy Hats"
 	quest.7353DB3A9820C92F.quest_desc: ["Titanium Carbide dust for Titanium Carbide plates are the second item needed for the Alloy Blast Furnace walls. "]
 	quest.7353DB3A9820C92F.quest_subtitle: "High Strength Titanium"
 	quest.7361BD20A6B95D14.quest_subtitle: "Tier: &63"
@@ -11894,8 +11725,6 @@
 		"{image:atm:textures/questpics/deepndark/dnd_snapper.png width:100 height:100 align:center}"
 	]
 	quest.736F4A43EEBDD7B3.title: "&3Sculk Snapper"
-	quest.7377C657CED885AC.quest_desc: ["&2&lMystical Agriculture&r is a mod about agriculture, but what are you farming for?\n\nPretty much anything, from Honey to Steel to Wither Skeletons.\n\nYou'll need to do a lot of farming with this mod to make the &6&lATM Star&r!"]
-	quest.7377C657CED885AC.title: "&2&lMystical Agriculture"
 	quest.7382C366A1ABAAE3.quest_desc: ["Quantum CPU's processing all the Qubits!"]
 	quest.7382C366A1ABAAE3.quest_subtitle: "How many Qubits in a Ghz?"
 	quest.7386A8433698946C.quest_desc: [
@@ -11917,8 +11746,6 @@
 	quest.73B8A70240E6070E.quest_desc: ["Find a Cow and Right Click it with a Bucket.\n\nSeriously, why no Bulls?"]
 	quest.73B8A70240E6070E.quest_subtitle: "Why aren't there Bulls in the game?"
 	quest.73B8A70240E6070E.title: "Milk a Cow - Profit"
-	quest.73BE1EB3E69814E9.quest_desc: ["First and easiest part of this recipe is &5Evil Sticks&r. Just need &8Dark Gems&r which you Mine for, and &cUndead Planks&r which you get from &cUndead Trees&r. \n\nNext, is the &5Empowered Inverted Potentia&r. It's not that hard to make simply craft an &7Inverted Potentia&r then keep it in an &aEnviromental Accumulator&r and have it get struck with Lightning! \n\nLast part has a huge line of &aEmpty Promises&r; you'll be infusing a whole lot. \n\nHope you got plenty of &4Blood&r! Speak of the devil you'll also need to fill the &5Mace&r with &4Blood&r."]
-	quest.73BE1EB3E69814E9.title: "&5Mace of Destruction"
 	quest.73C70B15582958A5.quest_desc: [
 		"The &eDirt Nest&r can be placed in any overworld biome to lure in bees."
 		""
@@ -11934,7 +11761,6 @@
 	quest.73D60868024FF907.quest_desc: ["The Fluid MK2! \n\nAny Liquid Source nearby can be used with this one, not just adjacent."]
 	quest.73D6B980D35082A0.quest_desc: ["This one takes awhile to explain so have patience. \n\nFirst, find an &aEvoker Fort&r. \nNext, find a Research Book hidden in it. Then, have a Trader who's hostage in the &aFort&r translate it. (Like our hostage Quest Translators!) \nOnce, it's translated bring it to a &6&lPriest&r in a &6Village&r to trade it for the &eSpell Book&r! \n\nIt gives a boost to &6Holy Spells&r and don't worry the hostage Traders are very very rare, keep looking!"]
 	quest.73D6B980D35082A0.title: "&6Villager Bible"
-	quest.73E2A53A088AD29A.quest_subtitle: "11 Wet Pink Blocks"
 	quest.73EA326304C01C3B.quest_desc: [
 		"Put an Importer onto the inventory you want stuff pulled from. Next, put the Interface on the second inventory and connect them with Logic Cables. Then, put in the Variable Card into the Importer and change it as you please.\n\nIt can be changed to import things at the Integer Limit (Over 2 billion)."
 		"{image:atm:textures/questpics/logistics/id_item.png width:200 height:50 align:center}"
@@ -12042,13 +11868,9 @@
 	quest.7509E4093010EA4C.quest_desc: ["The &aSeeker Bow&r is dropped from the &3Snow Queen&r, it can shoot Arrows that home in on your targets. No more missing!"]
 	quest.7509E4093010EA4C.quest_subtitle: "Bad Aim?"
 	quest.7509E4093010EA4C.title: "&aSeeker Bow"
-	quest.750B6316267CF574.quest_desc: ["When your Hives are vacant and in the dark you may find a little Bee visitor, the Skeletal Bee. \n\nYou can then feed your new visitor a &8Wither Rose&r to make them a &8Withered Bee&r. "]
-	quest.750B6316267CF574.title: "&8Withered Comb Block"
 	quest.751189465F91B353.quest_desc: ["The &bCrystalline Seashelf&r is an upgrade to the &bInfused Seashelf&r. It's very good for normal Enchantments but doesn't give us enough &5Arcana&r for the next Infusion we'll need. Still good stats for normal Enchanting though!"]
 	quest.751189465F91B353.title: "&bCrystalline Seashelf&r"
 	quest.75238B267CBFFAFE.quest_subtitle: "&f4.5&r &4Damage&r"
-	quest.752DD0BF36B70D88.quest_desc: ["Furnaces just aren't fast enough in normal &2&lMinecraft&r, so how do you think they're going to fair in Modded!?\n\nThankfully &7&lIron Furnaces&r helps speed them up by a lot! \n\nIt also has a Quest page it is just rooming together with &c&lGenerator Galore&r."]
-	quest.752DD0BF36B70D88.title: "&7&lIron Furnaces"
 	quest.753B3EF7CC94A6DD.quest_desc: ["This is a unique drop from &aPlayers&r, including when you die!\n\nYou &ocould&r get this by dying over and over, or by participating in PvP."]
 	quest.75404F5523D027A8.quest_desc: ["Now we get the idea of AE2 but where to start? \\n\\nMeteorites are our place to go! But where do they spawn? \\n\\nPretty much anywhere in the Overworld! Above ground, under ground, or even in Water. How will I know if I'm at a Meteorite though? \\n\\nYou'll know it's a Meteorite by the massive Crater they are in. Within you'll find a massive rock made of Skystone, which is a dark Grey blue-ish Stone! \\n\\nNow enough questions! Find the Meteorites!"]
 	quest.75404F5523D027A8.title: "Meteorite Hunting"
@@ -12110,8 +11932,6 @@
 		"{image:atm:textures/questpics/railcraft/rail_speed.png width:150 height:100 align:center}"
 	]
 	quest.75DD345164EE5CD9.title: "&6High Speed Tracks"
-	quest.75EE965CBA598FEA.quest_desc: ["The recipe may look confusing but trust me it is pretty easy. Craft any &dWireless Terminals&r then craft them together to make the &dUniversal Wireless Terminal&r. \n\nIt will also keep whatever you had on the &dTerminal&r like Extended Patterns, that is very helpful for using &b&lAE2&r but doesn't matter for the &6&lATM Star&r!"]
-	quest.75EE965CBA598FEA.title: "&dUniversal Wireless Terminal"
 	quest.75FE0B514448865B.quest_desc: ["Upgrades go directly into the Router and the Router can hold 5 of them. Upgrades directly affect all Modules that they can and usually can stack!"]
 	quest.75FE0B514448865B.title: "&lUpgrades"
 	quest.7604D8B3C9FCCFD9.quest_desc: [
@@ -12153,7 +11973,6 @@
 		"Once you get them, so many more opportunities arrive! Better Tools, more Dimensions, heck even &5Enchanting&r!"
 	]
 	quest.76406EFFF8CBA6B4.title: "We've Struck &bDiamonds&r!"
-	quest.764609E41957DA69.quest_subtitle: "6,561 Emerald Blocks"
 	quest.76558D23A70AFF78.title: "&bIce&r Upgrade Orb"
 	quest.7655E1C6C5E5469F.quest_subtitle: "Range: &a18&r Blocks"
 	quest.7655E1C6C5E5469F.title: "&2Prudentium Growth Accelerator"
@@ -12197,8 +12016,6 @@
 	]
 	quest.76BC484FC50EAEC3.title: "Darkstone Pedestals"
 	quest.76BCB8C0448EFE50.quest_subtitle: "Tier 4 Base Upgrade"
-	quest.76C63670624C3C56.quest_desc: ["&c&lGenerator Galore&r gives us tons of helpful and simple Power Generators! \n\nSome can even be combined with each other to be more powerful. \n\nThere is a Quest page for them it's just roomates with &7&lIron Furnaces&r."]
-	quest.76C63670624C3C56.title: "&c&lGenerator Galore"
 	quest.76CBFA38D021AC95.quest_desc: ["Combine with &n&5Radial Chassis&r to create a very powerful windmill that has high stress capacity."]
 	quest.76CDF08465700AA2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_silent.png width:100 height:150 align:center}"]
 	quest.76CDF08465700AA2.quest_subtitle: "Ancient Cities"
@@ -12224,6 +12041,7 @@
 	quest.76F14C2B866B4EAD.title: "The &3&lOtherside"
 	quest.76F675A898EAB4E8.quest_desc: ["&dSal Ammoniac&r is a critical part of &eAlchemical Sulfur&r which is what we will use to make and reproduce Items. \n\nTo get &dSal Ammoniac&r we'll need some &9Water&r. "]
 	quest.76F675A898EAB4E8.title: "&dSal Ammoniac"
+	quest.76F69C44F0F00414.quest_desc: ["In &6&lATM10&r these are Infused! \\n\\nCurrently these do not have Recipes, so you'll have to wait..."]
 	quest.770C0975CA61CE46.quest_desc: ["Glacite can be found deep underground in the Permafrost Forests. \n\nIt can be used to craft Armor and Tools which help against Freezing damage!"]
 	quest.770ED8E5FEC6D59A.quest_desc: ["These blocks are Corrosion proof, and its a good thing, as they will be used to make the Large Brewing Vat. "]
 	quest.770ED8E5FEC6D59A.quest_subtitle: "Corrosive Materials? No thanks."
@@ -12253,8 +12071,6 @@
 		"Right-clicking on a Turbine Controller when it is fully built will show you the Turbine Interface.\n\nHere, you can see all of the stats for the Turbine. Hovering over each will tell you more info about each one.\n\nOn the bottom left, you'll have 2 arrows to control the &9Flow Rate&r. This controls how much heated vapor is pumped into the Turbine. To know how much you should set this to, check your reactor's &dVapor Production Rate&r as a starting point. "
 		"{image:atm:textures/questpics/extremereactors/turbineui.png width:200 height:150 align:1}"
 	]
-	quest.7766E66A14643F4D.quest_desc: ["&6Awakening&r is a relatively new addition to &2&lMystical Agriculture&r. Through the &6Awakening Ritual&r you can make &6Awakened Essence&r. \n\nThen you can combine those with Ingots to get this Block!"]
-	quest.7766E66A14643F4D.title: "&6Awakened Supremium Ingot Block"
 	quest.7770F0D62457096D.quest_desc: ["Although these quests won't go over Drones, they are amazing! Look into using them if you want to."]
 	quest.7770F0D62457096D.title: "Programming Drones"
 	quest.7776BB08E2591532.quest_desc: ["The &bSemi-Auto Crossbow&r is a &bCrossbow&r that works with the Arrow Clip. \\n\\nYou can Craft it in a &b&lWeapon Table&r but you'll need &2Skill&f: &2Technology&r to Craft and use it. \\n\\nFill an Arrow Clip with Arrows then it will fill the &bCrossbow&r."]
@@ -12269,7 +12085,6 @@
 	quest.777BB82B56038ED3.quest_desc: ["The only way to increase &4&lMorgan's&r Damage is by killing Villagers. Baby Villagers give even more Damage! \n\nHopefully you have a farm set up. Then, after many, many, many Villager deaths you'll have a maxed out &4&lMorgan&r. \n\nAlso you can hold Right Click with &4&lMorgan&r to do a special attack."]
 	quest.777BB82B56038ED3.title: "Maxed out &4&lMorgan"
 	quest.7790E599B42A5DE5.title: "Gravitational Modulating Unit (Gravity Module)"
-	quest.779CA0C49F93C4F9.quest_subtitle: "59,049 Obsidian"
 	quest.77A12A37D5A9B3A4.quest_desc: ["Collagen is the primary building block of your body's skin, muscles, bones, tendons and ligaments, and other connective tissues."]
 	quest.77A12A37D5A9B3A4.quest_subtitle: "Working with Organics!"
 	quest.77AAC2F643E92A88.quest_desc: ["Add another Laser Engraver to the stack, this time for the NAND chip! Useful for data storage and the Crystal Processor Supercomputer - more on that later though!"]
@@ -12285,7 +12100,6 @@
 		"However, unlike regular cells, their contents can also be accessed standalone via the cell item itself, a bit like a digital ME-flavoured backpack."
 	]
 	quest.77D3546953550E39.quest_subtitle: "Bull Pine + Spruce"
-	quest.77F2271C45DB49BA.quest_desc: ["This Module, when put into the &aMekaSuit&r Chestplate, will give you Creative Flight. \nYou only need some of the most expensive Items in the game to craft it!"]
 	quest.77F241BEE9902751.quest_desc: ["The biggest of the chests from Sophisticated Storage"]
 	quest.77F241BEE9902751.quest_subtitle: "So much room for activities!"
 	quest.77F241BEE9902751.title: "&dNetherite Chest"
@@ -12427,8 +12241,6 @@
 		""
 		"By now you've seen that there are many roads we can take to achieve the same end result, so feel free to experiment and make things in different ways!"
 	]
-	quest.792990DC06DB98F9.quest_desc: ["Around the &2&lOverworld&r you can find &5&lEternal Starlight&r Portal Ruins. There you can challenge the Gatekeeper to a fight! \n\nIf you win he'll give you some Items and with them you can enter the Portal to a whole new world to explore!"]
-	quest.792990DC06DB98F9.title: "&5&lEternal Starlight"
 	quest.79366EC1EE27ED4B.quest_subtitle: "Increases RF Transfer, and slightly increases the Capacity"
 	quest.7936FF3ED75DCA59.quest_desc: [
 		"Now that we can make ZPM Tier Hulls, we can prepare to get some crazy powerful machines. "
@@ -12583,7 +12395,7 @@
 	]
 	quest.7A22E94DD83B12AE.quest_subtitle: "Just an Option"
 	quest.7A22F294077F6520.title: "Ludicrous Voltage Age"
-	quest.7A2486750091942D.quest_desc: ["The &7Stony Shield&r needs 1 &7Gargoyle Shard &fand 6 &7Gargoyle Fragments&r to Craft. \\n\\nIt acts just like a normal Shield, Hold Right Click while holding the Shield in your Offhand. \\n\\nThe only difference from normal Shield and &7Stony Shield&r is Durability. \\n\\nAnd the &7Stony one&r can't be Enchanted or Repaired..."]
+	quest.7A2486750091942D.quest_desc: ["The &7Stony Shield&r needs 1 &7Gargoyle Shard &fand 6 &7Gargoyle Fragments&r to Craft. \\n\\nIt acts just like a normal Shield, Hold Right Click while holding the Shield in your Offhand. \\n\\nThe only difference from normal Shield and &7Stony Shield&r is Durability. \\n\\nAnd the &7Stony one&r can't be Enchanted or but it can be Repaired with another &7Stony Shield&r."]
 	quest.7A2486750091942D.title: "&7Stony Shields"
 	quest.7A271F425C3934CE.quest_desc: ["Currently this can only be crafted from cooking 2 &bPlant Salts&r into 1 &bCreature Salt&r. \n\nHopefully in newer updates we can kill more living creatures for &bSalt&r!"]
 	quest.7A271F425C3934CE.title: "&bCreature Salt"
@@ -12605,8 +12417,6 @@
 	quest.7A3DD8CAD6A5692D.quest_subtitle: "Red Delicious Apple + Sugar Maple"
 	quest.7A514E27E1A7FE32.quest_desc: ["Diamonds also allow us to create some cool gadgets to help us build using the mod &l&cBuilding Gadgets&r.\n\nThese are great tools to help you build bigger bases, or for clearing out space using the &cDestruction Gadget&r."]
 	quest.7A514E27E1A7FE32.title: "&l&cBuilding Gadgets&r"
-	quest.7A579E233C69871F.quest_desc: ["&b&lHostile Neural Networks&r is all about simulating Mobs for farming their Loot! \n\nNot much else to it."]
-	quest.7A579E233C69871F.title: "&b&lHostile Neural Networks"
 	quest.7A615E2A152917AD.quest_desc: ["For this you need 2 &5Netherite Furnaces&r and 7 pieces of glass which are each the color of the Rainbow. &cRed&r, &6Orange&r, &eYellow&r, &2Green&r, &3Blue&r, &9Indig&r- &5Purple&r, and &5Vi&r-&dMagenta&r. Yep! The whole Roy G. Bpm!"]
 	quest.7A615E2A152917AD.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3r&5e"
 	quest.7A62C1B9385DF643.quest_desc: [
@@ -12724,8 +12534,6 @@
 	quest.7BBCE618001884B1.quest_desc: ["Place this under the soil to allow Nether Star Seeds to grow."]
 	quest.7BBCE618001884B1.title: "Nether Star Crux"
 	quest.7BC289DEF023FEAA.quest_subtitle: "Tier: &63"
-	quest.7BC616DDB5933479.quest_desc: ["This one can be created with a &5Blood Vial&r and normal ingrediants for Scrolls. \nYou will need to make sure it is Level 10 and &6Legendary&r which you can upgrade it to."]
-	quest.7BC616DDB5933479.title: "&4Wither Skull Scroll"
 	quest.7BC8F50A89A3BE1A.quest_desc: ["These are just used to Connect &cLaser Nodes&r to each other and to Connectors. Not too important I just wanted to keep with the theme of Wrenches. \n\nIt does work as a Wrench for other Configs!"]
 	quest.7BCE96070C36D547.quest_subtitle: "&f7.5 &cAttack Damage"
 	quest.7BFC24607189B6D0.quest_desc: ["Makes you swim faster."]
@@ -12849,8 +12657,6 @@
 		"If you want to set up wireless power networks, getting into the mod &aFlux Networks&r is definitely worth it. The &6Flux Controller&r can be used to connect to your network and wirelessly charge your items, even across dimensions! The &aFlux Plug&r can attach to your power generators, allowing you to place &aFlux Points&r anywhere to tap into that power."
 	]
 	quest.7D12B3ECC3E3AC7B.title: "Wireless Power"
-	quest.7D1A27CBF1508712.quest_desc: ["The &3Snow Queen&r lives in the &bAurora Palace&r within the Glacier Biome. \n\nYou'll need to kill the Alpha Yeti in order to enter the Glacier Biome. \n\nOnce usurped, she will drop a ton of loot, Trophy included!"]
-	quest.7D1A27CBF1508712.title: "&3Snow Queen &eTrophy"
 	quest.7D1D2A4E07E98709.quest_desc: ["A simple block breaker that requires a tool to break blocks."]
 	quest.7D3648FF86B0EB85.title: "Alloy Blade"
 	quest.7D38BC3DB3406F51.quest_desc: [
@@ -12886,6 +12692,7 @@
 	quest.7D6AC042FFD0B6D6.quest_desc: ["&aDistill&r your &eLightly Steam Cracked Naphtha&r to acquire &0Benzene&r"]
 	quest.7D6B4AEF806AF62E.quest_desc: ["100% way too fast! Try not to die!"]
 	quest.7D6B4AEF806AF62E.quest_subtitle: "Max: 1"
+	quest.7D73CE6654EDEC25.quest_desc: ["Now that we have our Elemental Hats we can throw them in a Smithing Table with our Ingots and Upgrades to get up the Unobtainium Arcanist Hat! \\n\\nThank God, no more Source!"]
 	quest.7D7983F39E6E818D.title: "Tier: &9Niotic"
 	quest.7D7BD1458CF12021.quest_desc: ["It is a Desert of course there's Cacti! \n\nThe Cacti when fully grown can grow Fruit on top of them!"]
 	quest.7D7DC3C695CD7236.quest_subtitle: "Silver Lime + Spruce"
@@ -12913,8 +12720,6 @@
 		"We want to use the Fusion Anvil we made to upgrade our &dInfernal Forge&r to a &dVoid Forge&r... but we're missing one crucial piece: a &5Void Core&r. To get this, head to the End and locate the &eRuined Citadel&r. Defeat the &dEnder Golem&r inside and make your &dVoid Forge&r!"
 	]
 	quest.7D8ECACF214324D6.title: "&5Void Forge&r"
-	quest.7D972A3C4211EB26.quest_desc: ["&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l&r is obtained by blowing up a &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&r."]
-	quest.7D972A3C4211EB26.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
 	quest.7D972F334DCE5626.quest_desc: [
 		"Naquadah is going to be an extremely vital component of this Tier as well as future tiers."
 		""
@@ -12979,7 +12784,6 @@
 	]
 	quest.7E3DA4168D352B42.title: "Veil Mushroom Bog"
 	quest.7E407CDBFD85E65F.quest_desc: ["Oxygen + Ethylene on &aProgram 2&r in your &eChemical Reactor&r is one way to make Acetic Acid"]
-	quest.7E4367252A39BE6C.quest_desc: ["&c&lPowah&r is about power! Generating Power like FE to use Machines from other Mods like &5&lMekanism&r or &lIndustrial Foregoing&r! \n\nThere's different Tiers you'll have to craft up to and of course we'll need the last one for the &6&lStar&r!"]
 	quest.7E4367252A39BE6C.title: "&c&lPowah"
 	quest.7E49C985A0433B20.quest_desc: ["&d&lArs Nouveau&r is a very fun magic Mod and with it brings its own set of Wood! \n\nArchwood comes in 5 different colors of trees that spawn in most Biomes but mostly in their Archwood Biome!"]
 	quest.7E49C985A0433B20.title: "&d&lArs Nouveau&r Logs"
