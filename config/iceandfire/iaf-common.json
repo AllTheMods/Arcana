@@ -45,7 +45,7 @@
   },
   "pixie": {
     "iceandfire.pixie.size": 5,
-    "iceandfire.pixie.stealItems": true
+    "iceandfire.pixie.stealItems": false
   },
   "cyclops": {
     "iceandfire.cyclops.spawnWanderingChance": 0.0011111111111111111,
