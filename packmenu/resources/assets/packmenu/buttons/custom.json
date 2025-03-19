@@ -5,7 +5,7 @@
     "height": 20,
     "action": {
         "type": "packmenu:open_url",
-        "url": "https://www.akliz.net/atmgravitas"
+        "url": "https://www.akliz.net/atmarcana"
     },
     "text": {
         "key": "Get A Server",
