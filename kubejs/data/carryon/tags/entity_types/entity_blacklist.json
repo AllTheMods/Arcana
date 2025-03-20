@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:chest_boat",
+    "biomesoplenty:boat",
+    "minecraft:boat",
+    "minecraft:chest_minecart",
+    "minecraft:chest_boat",
+    "minecraft:trial_spawner"
+
+  ]
+}
