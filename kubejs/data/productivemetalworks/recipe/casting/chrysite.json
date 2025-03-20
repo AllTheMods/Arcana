@@ -1,0 +1,15 @@
+{
+  "type": "productivemetalworks:block_casting",
+  "cast": {
+    "item": "minecraft:cobweb"
+  },
+  "consume_cast": true,
+  "fluid": {
+    "amount": 100,
+    "fluid": "productivemetalworks:molten_amethyst"
+  },
+  "result": {
+    "count": 1,
+    "id": "alchemists_garden:chrysite_cobweb"
+  }
+}
