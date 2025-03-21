@@ -18,10 +18,10 @@ enableStructureSpecificDatapack = true
 	drownedTridentChancePerLevel = 0.005
 	# Default: 10
 	# Range: 0 ~ 1000
-	dimensionFactor = 10
+	dimensionFactor = 2
 	# Default: 0.003
 	# Range: 0.0 ~ 1000.0
-	distanceFactor = 0.003
+	distanceFactor = 0.0
 	#Not applicable to mobs with minimum level.
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
