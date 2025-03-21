@@ -1,0 +1,82 @@
+Tank:
+- Health bonus: 50% -> 10%
+- Armor bonus: 10 -> 4
+- Toughness bonus: 4 -> 2
+- Max rank: 5 -> 3
+
+Protection:
+- Max rank: 4 -> 3
+
+Regen:
+- Regen rate: 2% -> 1%
+- Max rank: 5 -> 3
+
+Reflect:
+- Max rank: 5 -> 2
+- Reflect rate: 30% -> 5%
+- Min Level: 100 -> 140
+- Cost: 80 -> 110
+
+Weakness:
+- Max rank: 5 -> 2
+- Cost: 25 -> 50
+- Min level: 40 -> 70
+
+Corrosion:
+- Max rank: 3 -> 1
+- Corrosion factor: 30% -> 10%
+
+Erosion:
+- Max rank: 3 -> 1
+- Corrosion factor: 10% -> 5%
+
+Repell:
+- Strength: 0.2 -> 0.1
+- Cost: 50 -> 70
+- Weight: 100 -> 70
+
+Pulling:
+- Strength: 0.2 -> 0.1
+- Cost: 50 -> 70
+- Weight: 100 -> 70
+
+Shulker:
+- Weight: 100 -> 50
+
+Grenade:
+- Cost: 50 -> 70
+- Max rank: 5 -> 2
+- Weight: 100 -> 50
+
+Growth:
+- Max rank: 3 -> 1
+
+Split:
+- Max rank: 3 -> 1
+- Remove Vex, Silverfish, Endermite from whitelist
+
+Dispell
+- Whitelisted to:
+Shattered, Stalker, Sculk Snapper, Sculk Leech, Sculk Centipede, Sludge, Shriek Worm
+
+Reprint
+- Min level: 100 -> 150
+- Whitelisted to:
+Minoshroom, Minotaur, Redcap, Redcap Sapper
+
+Dementor
+- Whitelisted to:
+Wraith, Mist Wolf, Ghost
+
+Adaptive:
+- Cost: 80 -> 120
+- Min level: 100 -> 150
+- Max rank: 5 -> 1
+- Whitelisted to:
+Carminite Golem, Coral Golem, Goblin Knight, Dread Knight
+
+Dimension Difficulty Scale:
+End: 1.5 -> 1.2
+Twilight Forest: 1.5 -> 1
+Otherside: 1.5 -> 1
+Bumblezone: 1.5 -> 0.3

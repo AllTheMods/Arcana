@@ -1,0 +1,106 @@
+{
+  "values": {
+    "l2hostility:tank": {
+      "cost": 20,
+      "max_rank": 3,
+      "min_level": 20,
+      "weight": 100
+    },
+    "l2hostility:protection": {
+      "cost": 30,
+      "max_rank": 3,
+      "min_level": 50,
+      "weight": 100
+    },
+    "l2hostility:regenerate": {
+      "cost": 30,
+      "max_rank": 3,
+      "min_level": 50,
+      "weight": 100
+    },
+    "l2hostility:reflect": {
+      "cost": 110,
+      "max_rank": 2,
+      "min_level": 140,
+      "weight": 50
+    },
+    "l2hostility:weakness": {
+      "cost": 50,
+      "max_rank": 2,
+      "min_level": 70,
+      "weight": 50
+    },
+    "l2hostility:corrosion": {
+      "cost": 50,
+      "max_rank": 1,
+      "min_level": 200,
+      "weight": 50
+    },
+    "l2hostility:erosion": {
+      "cost": 50,
+      "max_rank": 1,
+      "min_level": 200,
+      "weight": 50
+    },
+    "l2hostility:pulling": {
+      "cost": 70,
+      "max_rank": 1,
+      "min_level": 100,
+      "weight": 70
+    },
+    "l2hostility:repelling": {
+      "cost": 70,
+      "max_rank": 1,
+      "min_level": 100,
+      "weight": 70
+    },
+    "l2hostility:shulker": {
+      "cost": 30,
+      "max_rank": 1,
+      "min_level": 70,
+      "weight": 50
+    },
+    "l2hostility:grenade": {
+      "cost": 70,
+      "max_rank": 2,
+      "min_level": 100,
+      "weight": 50
+    },
+    "l2hostility:growth": {
+      "cost": 60,
+      "max_rank": 1,
+      "min_level": 100,
+      "weight": 300
+    },
+    "l2hostility:split": {
+      "cost": 50,
+      "max_rank": 1,
+      "min_level": 120,
+      "weight": 100
+    },
+    "l2hostility:adaptive": {
+      "cost": 120,
+      "max_rank": 1,
+      "min_level": 150,
+      "weight": 200
+    },
+    "l2hostility:dementor": {
+      "cost": 120,
+      "max_rank": 1,
+      "min_level": 150,
+      "weight": 200
+    },
+    "l2hostility:dispell": {
+      "cost": 100,
+      "max_rank": 3,
+      "min_level": 150,
+      "weight": 200
+    },
+    "l2hostility:reprint": {
+      "cost": 100,
+      "max_rank": 1,
+      "min_level": 150,
+      "weight": 200
+    }
+  }
+}

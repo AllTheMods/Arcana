@@ -133,7 +133,7 @@ enableStructureSpecificDatapack = true
 	ringOfCorrosionPenalty = 0.1
 	# Default: 0.05
 	# Range: 0.0 ~ 1.0
-	ringOfHealingRate = 0.05
+	ringOfHealingRate = 0.025
 	# Default: 50
 	# Range: 0 ~ 1000
 	envyExtraLevel = 50
@@ -157,13 +157,13 @@ enableStructureSpecificDatapack = true
 	gluttonyBottleDropRate = 0.02
 	# Default: 0.05
 	# Range: 0.0 ~ 1.0
-	wrathDamageBonus = 0.05
+	wrathDamageBonus = 0.01
 	# Default: 0.02
 	# Range: 0.0 ~ 1.0
-	prideDamageBonus = 0.02
+	prideDamageBonus = 0.01
 	# Default: 0.02
 	# Range: 0.0 ~ 1.0
-	prideHealthBonus = 0.02
+	prideHealthBonus = 0.01
 	# Default: 0.5
 	# Range: 0.01 ~ 1.0
 	prideTraitFactor = 0.5
@@ -197,25 +197,25 @@ enableStructureSpecificDatapack = true
 [traits]
 	# Default: 0.5
 	# Range: 0.0 ~ 1000.0
-	tankHealth = 0.5
+	tankHealth = 0.1
 	# Default: 10.0
 	# Range: 0.0 ~ 1000.0
-	tankArmor = 10.0
+	tankArmor = 4.0
 	# Default: 4.0
 	# Range: 0.0 ~ 1000.0
-	tankTough = 4.0
+	tankTough = 2.0
 	# Default: 0.2
 	# Range: 0.0 ~ 1000.0
 	speedy = 0.2
 	# Default: 0.02
 	# Range: 0.0 ~ 1000.0
-	regen = 0.02
+	regen = 0.01
 	# Default: 0.5
 	# Range: 0.0 ~ 1000.0
 	adaptFactor = 0.5
 	# Default: 0.3
 	# Range: 0.0 ~ 1000.0
-	reflectFactor = 0.3
+	reflectFactor = 0.05
 	# Default: 200
 	# Range: 1 ~ 60000
 	dispellTime = 200
@@ -263,16 +263,16 @@ enableStructureSpecificDatapack = true
 	repellRange = 10
 	# Default: 0.2
 	# Range: 0.0 ~ 1.0
-	repellStrength = 0.2
+	repellStrength = 0.1
 	# Default: 0.3
 	# Range: 0.0 ~ 1.0
-	corrosionDurability = 0.3
+	corrosionDurability = 0.1
 	# Default: 0.25
 	# Range: 0.0 ~ 1.0
 	corrosionDamage = 0.25
 	# Default: 0.1
 	# Range: 0.0 ~ 1.0
-	erosionDurability = 0.1
+	erosionDurability = 0.05
 	# Default: 0.25
 	# Range: 0.0 ~ 1.0
 	erosionDamage = 0.25
@@ -316,7 +316,7 @@ enableStructureSpecificDatapack = true
 	pullingRange = 10
 	# Default: 0.2
 	# Range: 0.0 ~ 10.0
-	pullingStrength = 0.2
+	pullingStrength = 0.1
 	# Default: 0.02
 	# Range: 0.0 ~ 1.0
 	reprintDamage = 0.02
@@ -334,14 +334,14 @@ enableStructureSpecificDatapack = true
 	arenaRange = 24
 
 [toggle]
-	allow_tank = false
+	allow_tank = true
 	allow_speedy = true
 	allow_protection = true
 	allow_invisible = true
 	allow_fiery = true
 	allow_regenerate = true
-	allow_adaptive = false
-	allow_reflect = false
+	allow_adaptive = true
+	allow_reflect = true
 	allow_shulker = true
 	allow_grenade = true
 	allow_corrosion = true
@@ -353,17 +353,17 @@ enableStructureSpecificDatapack = true
 	allow_gravity = true
 	allow_moonwalk = true
 	allow_arena = true
-	allow_dementor = false
-	allow_dispell = false
+	allow_dementor = true
+	allow_dispell = true
 	allow_undying = false
 	allow_teleport = true
 	allow_repelling = true
 	allow_pulling = true
-	allow_reprint = false
+	allow_reprint = true
 	allow_killer_aura = false
 	allow_ragnarok = false
 	allow_master = true
-	allow_weakness = false
+	allow_weakness = true
 	allow_slowness = true
 	allow_poison = true
 	allow_wither = true

@@ -1,0 +1,9 @@
+[recipe]
+	#When Ars Nouveau is present, use apparatus recipe for enchantments
+	useArsNouveauForEnchantmentRecipe = true
+	#Allow vanilla items such as elytra and ancient debris to be crafted with L2Complements materials
+	enableVanillaItemRecipe = true
+	#Allow tools to be upgraded from tools with same type but different materials
+	enableToolRecraftRecipe = false
+	#Allow spawn eggs to be crafted with L2Complements materials
+	enableSpawnEggRecipe = false
