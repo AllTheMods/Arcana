@@ -685,7 +685,7 @@
 			]
 			shape: "hexagon"
 			tasks: [{
-				count: 10L
+				count: 4L
 				id: "44707F07C3FB9F95"
 				item: { count: 1, id: "apothic_enchanting:seashelf" }
 				type: "item"

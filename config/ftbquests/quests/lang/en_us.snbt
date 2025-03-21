@@ -12260,13 +12260,13 @@
 	]
 	quest.79494986A7957292.title: "&dTeleporting&r &aAround&r"
 	quest.794D6D557DAD64C8.quest_desc: [
-		"&bArcane Crystals&r are used a ton for &6&lForbidden & Arcanus&r. They make Items, Blocks, and even Multiblocks! "
+		"&bArcane Crystals&r are used a ton for &6&lForbidden \\& Arcanus&r. They make Items, Blocks, and even Multiblocks! "
 		""
 		"You'll need an &7Iron Pickaxe&r to Mine, also to even just unlock this Quest so you should have one. "
 		""
 		"These spawn around Y 16 to Y -45."
 	]
-	quest.794D6D557DAD64C8.title: "&6&lForbidden & Arcanus"
+	quest.794D6D557DAD64C8.title: "&6&lForbidden \\& Arcanus"
 	quest.795143471F31A64A.quest_subtitle: "Required for Laser recipes"
 	quest.7953C87C488A2AF7.quest_desc: ["Allows you to fly like Iron Man.\n\nYou can only have one level of these Upgrades in the Boots at a time. Each level will use more pressure than the previous.\n\nUse these upgrades, don't just craft them."]
 	quest.7953C87C488A2AF7.quest_subtitle: "Max: 1"
