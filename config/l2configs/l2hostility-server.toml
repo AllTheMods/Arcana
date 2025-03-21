@@ -334,7 +334,7 @@ enableStructureSpecificDatapack = true
 	arenaRange = 24
 
 [toggle]
-	allow_tank = true
+	allow_tank = false
 	allow_speedy = true
 	allow_protection = true
 	allow_invisible = true
@@ -360,10 +360,10 @@ enableStructureSpecificDatapack = true
 	allow_repelling = true
 	allow_pulling = true
 	allow_reprint = false
-	allow_killer_aura = true
+	allow_killer_aura = false
 	allow_ragnarok = false
 	allow_master = true
-	allow_weakness = true
+	allow_weakness = false
 	allow_slowness = true
 	allow_poison = true
 	allow_wither = true
