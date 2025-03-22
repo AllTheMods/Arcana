@@ -266,39 +266,11 @@
 				id: "evilcraft:blood_stain"
 			}
 			id: "0D19FB62C2C1D9F7"
-			rewards: [
-				{
-					id: "34FD1AAAEF75CA9A"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
-					id: "32C926AA5B3441BC"
-					item: {
-						components: {
-							"minecraft:potion_contents": {
-								potion: "minecraft:long_regeneration"
-							}
-						}
-						count: 1
-						id: "minecraft:splash_potion"
-					}
-					type: "item"
-				}
-				{
-					id: "744D8F8AE835686E"
-					item: {
-						components: {
-							"minecraft:potion_contents": {
-								potion: "minecraft:strong_harming"
-							}
-						}
-						count: 1
-						id: "minecraft:splash_potion"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "34FD1AAAEF75CA9A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			size: 1.5d
 			tasks: [
 				{
@@ -651,12 +623,7 @@
 					type: "random"
 				}
 				{
-					id: "22511C3ABCAEB755"
-					type: "xp_levels"
-					xp_levels: 10
-				}
-				{
-					id: "056D8B1D4971AD2A"
+					id: "24398A174B382674"
 					item: {
 						components: {
 							"minecraft:dyed_color": {
@@ -667,6 +634,11 @@
 						id: "bibliocraft:sword_pedestal"
 					}
 					type: "item"
+				}
+				{
+					id: "427AC5BCB82FD3E0"
+					type: "xp_levels"
+					xp_levels: 10
 				}
 			]
 			size: 1.2d
