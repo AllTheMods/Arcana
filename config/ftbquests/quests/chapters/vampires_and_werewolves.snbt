@@ -789,20 +789,11 @@
 			]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [
-				{
-					id: "2B3243CDFF3A412E"
-					observe_type: 0
-					timer: 0L
-					to_observe: "vampirism:hunter_table"
-					type: "observation"
-				}
-				{
-					id: "0B5EAD7C496147D0"
-					item: { components: { "ftbfiltersystem:filter": "or(item(vampirism:weapon_table)item(vampirism:potion_table)item(vampirism:alchemical_cauldron))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "0B5EAD7C496147D0"
+				item: { components: { "ftbfiltersystem:filter": "or(item(vampirism:weapon_table)item(vampirism:potion_table)item(vampirism:alchemical_cauldron))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
 			x: -19.5d
 			y: 2.5d
 		}
@@ -1536,13 +1527,6 @@
 			size: 1.5d
 			tasks: [
 				{
-					id: "74BC65B67B9C30CF"
-					observe_type: 0
-					timer: 0L
-					to_observe: "vampirism:hunter_table"
-					type: "observation"
-				}
-				{
 					id: "0C0D1012E12FEFAF"
 					item: { components: { "ftbfiltersystem:filter": "or(item(vampirism:weapon_table)item(vampirism:potion_table)item(vampirism:alchemical_cauldron))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
@@ -1730,13 +1714,6 @@
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [
-				{
-					id: "67149325367C1F5D"
-					observe_type: 0
-					timer: 0L
-					to_observe: "vampirism:hunter_table"
-					type: "observation"
-				}
 				{
 					id: "69A6010A00B63B3D"
 					item: { components: { "ftbfiltersystem:filter": "or(item(vampirism:weapon_table)item(vampirism:potion_table)item(vampirism:alchemical_cauldron))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -2341,8 +2318,8 @@
 			]
 			size: 1.2d
 			tasks: [{
-				id: "500D6DB433E366B9"
-				item: { count: 1, id: "biomesoplenty:blood_bucket" }
+				id: "1F1E7C93390D82BB"
+				item: { count: 1, id: "vampirism:blood_bucket" }
 				type: "item"
 			}]
 			x: 9.5d
