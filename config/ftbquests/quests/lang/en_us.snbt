@@ -38,6 +38,7 @@
 	chapter.5103E2D95685ADFF.title: "&aChapter 3&r: &6The ATM Star"
 	chapter.5712300EF4E5E846.title: "Pylons"
 	chapter.59395B6806F2A98A.title: "Cataclysm"
+	chapter.5AE65E37BB88972A.title: "Hexerei"
 	chapter.5B00676D79306EA2.title: "Welcome"
 	chapter.5C764279146E5E66.title: "Mystical Agriculture"
 	chapter.5E31DF282998B992.title: "PneumaticCraft"
@@ -131,6 +132,8 @@
 	quest.00A17728A387B426.quest_subtitle: "Can be used in any Overworld biome"
 	quest.00A17728A387B426.title: "Wood Nests"
 	quest.00A91BD731486644.quest_subtitle: "Ceylon Ebony + Sour Cherry"
+	quest.00AC7CC291A3E590.quest_desc: ["You've probably (definitely) seen structures around the world with what looks like Beacons coming out of them. They're made of cobblestone, have 4 legs supporting them, kinda high in the air! \n\nHopefully you know it but they're called &8Dark Temples&r and they have an &aEnviromental Accumulator&r which we need. \n\nYou'll have to wait for Thunderstorm to happen to fill your Weather Container. Then, you can make your &3Lightning Bomb&r!"]
+	quest.00AC7CC291A3E590.title: "&3Lightning Bomb"
 	quest.00B7DD3AFC94B037.quest_subtitle: "Beech + Alder"
 	quest.00BA4B74737AB39E.quest_desc: ["&5Cursed Cores&r are a rare Drop from &5&lPossessed Armors&r. \\n\\nHow rare? They are so rare after killing a dozen I didn't believe that &5&lPossessed Armors&r drop them! \\n\\nThanks to the Wiki I now know that they do drop them. \\n\\nYou'll need a &5Cursed Core&r for each piece of &5Bound Soul Armor&r!"]
 	quest.00BA4B74737AB39E.title: "&5Cursed Core"
@@ -265,6 +268,8 @@
 	]
 	quest.020E6AF37A0421C8.title: "Water Tank"
 	quest.02190383FEE793ED.quest_desc: ["All that is left to do is use a &eChemical Reaction&r to pull the Chlorine off the Iridium!"]
+	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden Arcanus&r is all about using the Arcane to do rituals with the Forge to become stronger! \n\nOr what most know it for, Eternal Stella. There's more to the Mod you know! "]
+	quest.022C38096F79EF07.title: "&6&lForbidden Arcanus"
 	quest.02444ADBECA57C0D.quest_desc: ["&7Stony Peaks&r are a Mountain Biome, most notably known for not being drenched in Snow! \\n\\nThey have tons of Ores like Iron, Coal, and even &aEmerald&r all exposed on the &7Mountain Peaks&r, very helpful for Mining. \\nThis is also a place where &7&lGargoyles&r can spawn! \\n\\nBTW did you know &6AllTheModium&r used to spawn in these in &6&lATM7&r?"]
 	quest.02444ADBECA57C0D.title: "Climb the &7Stony Peaks&r"
 	quest.0251FD45582C3164.quest_subtitle: "Don't sniff this"
@@ -12784,6 +12789,7 @@
 	]
 	quest.7E3DA4168D352B42.title: "Veil Mushroom Bog"
 	quest.7E407CDBFD85E65F.quest_desc: ["Oxygen + Ethylene on &aProgram 2&r in your &eChemical Reactor&r is one way to make Acetic Acid"]
+	quest.7E4367252A39BE6C.quest_desc: ["&c&lPowah&r is about power! Generating Power like FE to use Machines from other Mods like &5&lMekanism&r or &lIndustrial Foregoing&r! \n\nThere's different Tiers you'll have to craft up to and of course we'll need the last one for the &6&lStar&r!"]
 	quest.7E4367252A39BE6C.title: "&c&lPowah"
 	quest.7E49C985A0433B20.quest_desc: ["&d&lArs Nouveau&r is a very fun magic Mod and with it brings its own set of Wood! \n\nArchwood comes in 5 different colors of trees that spawn in most Biomes but mostly in their Archwood Biome!"]
 	quest.7E49C985A0433B20.title: "&d&lArs Nouveau&r Logs"
