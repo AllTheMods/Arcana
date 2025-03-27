@@ -33,7 +33,12 @@
   "ignored_tags": [],
   "ignored_items": [],
   "ignored_recipe_types": [
-    "cucumber:shaped_tag"
+    "cucumber:shaped_tag",
+    "enchanted:distilling",
+    "enchanted:byproduct",
+    "enchanted:kettle",
+    "enchanted:witch_cauldron",
+    "enchanted:spinning"
   ],
   "ignored_recipe_ids": [],
   "recipe_viewer_hiding": true,
