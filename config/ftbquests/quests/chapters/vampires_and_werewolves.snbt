@@ -2342,7 +2342,7 @@
 			size: 1.2d
 			tasks: [{
 				id: "500D6DB433E366B9"
-				item: { count: 1, id: "biomesoplenty:blood_bucket" }
+				item: { count: 1, id: "vampirism:blood_bucket" }
 				type: "item"
 			}]
 			x: 9.5d
