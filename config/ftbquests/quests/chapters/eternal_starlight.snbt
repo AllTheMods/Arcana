@@ -87,8 +87,8 @@
 				icon: {
 					id: "eternal_starlight:orb_of_prophecy"
 				}
-				id: "3893B57532491926"
-				structure: "eternal_starlight:portal_ruins_common"
+				id: "02F24C4D1B853637"
+				structure: "#eternal_starlight:portal_ruins"
 				type: "structure"
 			}]
 			x: 0.0d

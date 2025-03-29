@@ -636,5 +636,17 @@
 			x: 4.0d
 			y: 3.5d
 		}
+		{
+			id: "378698BCA1B42EC8"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [{
+				id: "07C1576746BF4140"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
 	]
 }

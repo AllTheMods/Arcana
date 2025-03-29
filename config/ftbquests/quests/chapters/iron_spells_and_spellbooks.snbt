@@ -159,6 +159,46 @@
 			x: -7.5d
 			y: -6.0d
 		}
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/iron_spells/spells_frame.png"
+			rotation: 0.0d
+			width: 5.5d
+			x: 7.5d
+			y: -6.0d
+		}
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/iron_spells/spells_frame.png"
+			rotation: 0.0d
+			width: 5.5d
+			x: 3.5d
+			y: -6.0d
+		}
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/iron_spells/spells_frame.png"
+			rotation: 0.0d
+			width: 5.5d
+			x: -3.5d
+			y: -6.0d
+		}
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/iron_spells/spells_frame.png"
+			rotation: 0.0d
+			width: 5.5d
+			x: -7.5d
+			y: -6.0d
+		}
+		{
+			height: 3.5d
+			image: "atm:textures/questpics/iron_spells/spells_frame.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: -9.5d
+			y: -1.0d
+		}
 	]
 	order_index: 1
 	quest_links: [ ]
