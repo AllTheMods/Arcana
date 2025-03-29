@@ -50,7 +50,7 @@
 			y: -1.5d
 		}
 	]
-	order_index: 3
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -2341,8 +2341,8 @@
 			]
 			size: 1.2d
 			tasks: [{
-				id: "500D6DB433E366B9"
-				item: { count: 1, id: "biomesoplenty:blood_bucket" }
+				id: "5447C979321AEC3E"
+				item: { count: 1, id: "vampirism:blood_bucket" }
 				type: "item"
 			}]
 			x: 9.5d
@@ -3558,6 +3558,18 @@
 			]
 			x: 35.0d
 			y: 4.0d
+		}
+		{
+			id: "6E8732EE0DA793D9"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [{
+				id: "24C5DC5FD373D955"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 5.0d
 		}
 	]
 }

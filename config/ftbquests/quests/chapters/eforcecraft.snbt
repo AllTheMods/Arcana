@@ -3,6 +3,9 @@
 	default_quest_shape: "diamond"
 	filename: "eforcecraft"
 	group: "0C9C9B01123A3A54"
+	icon: {
+		id: "forcecraft:force_gem"
+	}
 	id: "3116369AF7632653"
 	images: [
 		{
@@ -1602,6 +1605,18 @@
 			}]
 			x: 16.0d
 			y: 5.0d
+		}
+		{
+			id: "1D560FEF97022340"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [{
+				id: "0BB8726B7908D01B"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
 		}
 	]
 }

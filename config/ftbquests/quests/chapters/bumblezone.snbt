@@ -579,10 +579,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "modern_industrialization:copper_ring"
-				}
-				id: "ftbquests:missing_item"
+				id: "evilcraft:vengeance_ring"
 			}
 			id: "0B0BDC37185AF9EC"
 			rewards: [
