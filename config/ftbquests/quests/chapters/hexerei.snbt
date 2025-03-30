@@ -170,12 +170,9 @@
 			}
 			id: "10475AA810359836"
 			rewards: [{
-				id: "7D33DB678B2D7A68"
-				item: {
-					count: 1
-					id: "hexerei:dowsing_rod"
-				}
-				type: "item"
+				id: "34D9BC287DD8004D"
+				type: "xp"
+				xp: 10
 			}]
 			shape: "gear"
 			size: 2.0d
@@ -1787,6 +1784,18 @@
 			}]
 			x: -2.5d
 			y: -7.0d
+		}
+		{
+			id: "2D7BE1D4ED672765"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [{
+				id: "0C79723610D646F7"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.5d
 		}
 	]
 }
