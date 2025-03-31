@@ -5,11 +5,6 @@
         "result": "deny"
       },
       {
-        "mob": "monsterplus:wisp",
-        "mincount": 5,
-        "result": "deny"
-      },
-      {
         "mob": "minecraft:bat",
         "mincount": 30,
         "result": "deny"
@@ -25,23 +20,9 @@
         "result": "deny"
       },
       {
-        "mob": "monsterplus:crystal_zombie",
-        "mincount": 10,
-        "result": "deny"
-      },
-      {
-        "mob": "monsterplus:glow_skeleton",
-        "mincount": 10,
-        "result": "deny"
-      },
-      {
         "mob": "vampirism:hunter",
         "mincount": 20,
         "result": "deny"
-      },
-      {
-        "mob": "monsterplus:overgrown_skeleton",
-        "mincount": 10,
-        "result": "deny"
       }
+
 ]
