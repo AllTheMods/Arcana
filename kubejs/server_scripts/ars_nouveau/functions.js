@@ -18,31 +18,12 @@ function $ArsNouveau$EnchantingApparatus(ATM, output, pedestalItems, reagent, nb
         "type": "ars_nouveau:enchanting_apparatus",
         "keepNbtOfReagent": nbt,
         "pedestalItems": [],
-        "reagent": {},
-        "result": {
-            "count": output.count || 1,
-            "id": output.item
-        },
+        "reagent": Ingredient.of(reagent),
+        "result": Item.of(output),
         "sourceCost": sourceCost
     };
-
-    if (reagent.tag) {
-        recipe.reagent.tag = reagent.tag;
-    } else {
-        recipe.reagent.item = reagent.item;
-    }
-
     pedestalItems.forEach(input => {
-
-        let ingredients = {}
-
-        if (input.tag) {
-            ingredients.tag = input.tag;
-        } else {
-            ingredients.item = input.item;
-        }
-
-        recipe.pedestalItems.push(ingredients);
+        recipe.pedestalItems.push(Ingredient.of(input));
     });
 
     ATM.custom(recipe).id(`kubejs:enchanting_apparatus/${id}`);

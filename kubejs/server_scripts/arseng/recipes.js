@@ -6,23 +6,23 @@
 ServerEvents.recipes(ATM => {
     $ArsNouveau$EnchantingApparatus(
         ATM,
-        Item.of("arseng:source_acceptor"),
+        "arseng:source_acceptor",
         [
-            Item.of("ars_nouveau:source_gem_block"),
-            Item.of("ars_nouveau:source_gem_block"),
-            Item.of("ars_nouveau:source_gem_block"),
-            Item.of("ars_nouveau:source_gem_block"),
-            Item.of("#c:storage_blocks/gold"),
-            Item.of("#c:storage_blocks/gold"),
-            Item.of("#c:storage_blocks/gold"),
-            Item.of("#c:storage_blocks/gold"),
+            "ars_nouveau:source_gem_block",
+            "ars_nouveau:source_gem_block",
+            "ars_nouveau:source_gem_block",
+            "ars_nouveau:source_gem_block",
+            "#c:storage_blocks/gold",
+            "#c:storage_blocks/gold",
+            "#c:storage_blocks/gold",
+            "#c:storage_blocks/gold",
         ],
         Item.of("ars_nouveau:arcane_core"),
         false,
         10000,
         `source_acceptor`
     )
-    ATM.remove({id: `arseng:source_acceptor`})
+    ATM.remove({ id: `arseng:source_acceptor` })
 })
 
 /*
