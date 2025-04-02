@@ -33,5 +33,35 @@
         "mob": "mythsandlegends:imp_clone",
         "when": "onjoin",
         "result": "deny"
+      },
+      {
+        "dimension": "allthemodium:the_other",
+        "mob": "minecraft:pillager",
+        "mincount": {
+          "amount": 30,
+          "hostile": true,
+          "perplayer": true
+        },
+        "result": "deny"
+      },
+      {
+        "dimension": "allthemodium:the_other",
+        "mob": "minecraft:vex",
+        "mincount": {
+          "amount": 2,
+          "hostile": true,
+          "perplayer": true
+        },
+        "result": "deny"
+      },
+      {
+        "dimension": "allthemodium:the_other",
+        "mob": "minecraft:wither_skeleton",
+        "mincount": {
+          "amount": 30,
+          "hostile": true,
+          "perplayer": true
+        },
+        "result": "deny"
       }
 ]
