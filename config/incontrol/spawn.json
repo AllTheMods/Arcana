@@ -23,6 +23,15 @@
         "mob": "vampirism:hunter",
         "mincount": 20,
         "result": "deny"
+      },  
+      {
+        "mob": "mythsandlegends:imp",
+        "when": "onjoin",
+        "result": "deny"
+      },  
+      {
+        "mob": "mythsandlegends:imp_clone",
+        "when": "onjoin",
+        "result": "deny"
       }
-
 ]
