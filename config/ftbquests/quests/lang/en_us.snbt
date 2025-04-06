@@ -3,6 +3,7 @@
 	chapter.01B25AB898A39A59.title: "Applied Energistics 2"
 	chapter.05E614FDA677D85E.title: "Food and Farming"
 	chapter.07210DDF872160BA.title: "Applied Energistics 2"
+	chapter.0731FA8830F28280.title: "Apotheosis Gear"
 	chapter.0A093D8C4429B627.title: "Mekanism: Reactors"
 	chapter.0A52D0932DA3F809.title: "Hostile Neural Networks"
 	chapter.0AB4F9AED808DE48.title: "Modular Routers"
@@ -75,6 +76,9 @@
 	quest.0012EC5DDAEB7D5B.quest_subtitle: "Can this make Beer?"
 	quest.001A348054127235.quest_desc: ["&5Budding Amethyst&r can be useful for Crafting Recipes and even just Growing &5Amethyst&r! \\n\\nWith a &5Amethyst Block&r, &a60 Eterna&r, between &c30% &fand &c50% Quanta&r, and &550% Arcana&r we can &d&lInfuse&r one. \\n\\nTo get all those stats we can use 15 &4Glowing Hellshelves&r and 4 &2Melonshelves&r."]
 	quest.001A348054127235.title: "Making &5Budding Amethyst"
+	quest.001C1881E9289566.quest_desc: ["&9Rare&r is the middle ground of Rarities. \\n\\nIt appears in all &lWorld Tiers&r but most common in &lWorld Tier: &eAscent&r. \\n\\n&9Luminous Crystal Shards&r are made from using &9Rare&r &eItems&r in a &c&lSalvaging Table&r."]
+	quest.001C1881E9289566.quest_subtitle: "&9Rare"
+	quest.001C1881E9289566.title: "&9Luminous Crystal Shard"
 	quest.001C4388146BD377.title: "Structures and Dungeons"
 	quest.001DE8028CAF0A08.quest_subtitle: "shhhhh... too loud...."
 	quest.002163B909070CF8.quest_desc: [
@@ -122,6 +126,9 @@
 	quest.0072C4F028C327CB.quest_subtitle: "Magmatic + Nomad"
 	quest.0072C4F028C327CB.title: "BlazBee"
 	quest.00764A738DA6451C.quest_desc: ["Kill 4 &dEndermites&r. \n\nWe're just killing everything now aren't we?"]
+	quest.0089A394566B0F3B.quest_desc: ["&aUncommon&r is the second Rarity. \\n\\nIt starts appearing in &lWorld Tier: &9Haven&r, most abundant in &lWorld Tier: &2Frontier&r, and stops in &lWorld Tier: &4Pinnacle&r. \\n\\n&aTimeworn Fabric&r is made from using &aUncommon&r &eItems&r in a &c&lSalvaging Table&r."]
+	quest.0089A394566B0F3B.quest_subtitle: "&aUncommon"
+	quest.0089A394566B0F3B.title: "&aTimeworn Fabric"
 	quest.008D186B4E0ED14F.quest_desc: [
 		"The Steam Oven is another machine that uses Steam for something useful. \n\nBy putting Steam into the Steam Oven it will act as a furnace to any items in it. Making Ingots from Ores and cooking food items. \n\nIt's a 2x2x2 machine of Steam Oven blocks."
 		"{image:atm:textures/questpics/railcraft/rail_oven.png width:100 height:100 align:center}"
@@ -1051,6 +1058,8 @@
 	]
 	quest.097735604CB11E83.quest_subtitle: "Liquid Naquadria"
 	quest.097DE7038A746847.quest_subtitle: "Spawns from a Reed Nest"
+	quest.097FDC136BC843A7.quest_desc: ["&lWorld Tier: &6Summit&r will need you to upgrade your &eArmor&r and &eTool/Weapon&r from &aUncommon&r to &9Rare&r! You'll also need to kill &0&lThe Wither&r. \\n\\n&0&lThe Wither&r doesn't need to be an &4Invader&r and honestly, it'll be easier if he isn't. \\n\\nIn &6&lSummit&r &5Epic&r &eItems &fand &2Gems&r will be the most common, and for &eItems&r you can now get &6Mythic&r and with &aGems&r you can find &cA&6n&ec&fi&de&5n&4t&r. Again, both being extremely rare! \\n\\nNow we'll get 75% Experience Gained and 50% Luck. \\n\\n&4Monsters&r will also be buffed to get 12 Armor Points, 10 Armor Toughness, 15 Armor Pierce, and 10 Protection Pierce. \\n\\nIs it just me or are their upgrades better than ours?"]
+	quest.097FDC136BC843A7.title: "&lWorld Tier: &6Summit"
 	quest.0980661B2F7FBC10.quest_desc: [
 		"Jump on and over the Candles to reach the top! \n\nOnce up there you can find some Honey Cocoons. \n\nDon't burn your feet.\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_candle.png width:200 height:100 align:center}"
@@ -1067,6 +1076,9 @@
 	]
 	quest.09955CF85F579E0F.quest_desc: ["You'll get this eventually, it's quite literally the most abundunt Block in &2&lMinecraft&r."]
 	quest.09955CF85F579E0F.title: "Stone Blocks"
+	quest.099C2A9B9CA138F8.quest_desc: ["&6Mythic&r are some of the greatest we can get! And used to be THE greatest. \\n\\n&6Mythics&r are found only in &lWorld Tier: &6Summit&r and in &lWorld Tier: &4Pinnacle&r, where they are most common. \\n\\n&6Godforged Pearls&r are made from using &6Mythic&r &eItems&r in a &c&lSalvaging Table&r."]
+	quest.099C2A9B9CA138F8.quest_subtitle: "&6Mythic"
+	quest.099C2A9B9CA138F8.title: "&6Godforged Pearl"
 	quest.09B67E9AF3526F7A.quest_desc: ["&5&lPossessed Armor&r are Mobs that spawn near &5Ancient Vestiges&r. \\n\\nThey have 100 &4Hearts&r, 20 Armor Points, and of course are Hostile! \\n\\nThey have a &cNetherite Sword&r and what appears to be a Shield but they don't actually use it. Of course they use their &cSword&r though... and it hurts a lot. \\n\\nOnce you get them to half &4Health&r, their Armor will break down a bit. This does not actually change any part of their behavior, just appearance. \\n\\nWhen you kill them you can get..."]
 	quest.09B67E9AF3526F7A.title: "&5&lPossessed Armor Mobs"
 	quest.09BA45CBBFB4AE26.quest_desc: ["The next stage of this mod requires you to set up &3Assembly Lines&r. The main component of an &3Assembly Line&r is the &3Assembly Controller&r.\n\nThis is where the pressure will go."]
@@ -2155,6 +2167,8 @@
 		"{image:atm:textures/questpics/iron_spells/spells_mountaintower.png width:200 height:100 align:center}"
 	]
 	quest.13F77C38AC015E9F.title: "&bMountain Tower"
+	quest.1403D677CF2815C3.quest_desc: ["The &5&lReforging Table&r does everything the &9&lSimple&r one will do, but better! \\n\\nIt can give us &5Epic&r and &6Mythic &eAffixes&r along with our previous ones!"]
+	quest.1403D677CF2815C3.title: "(Better) &5&lReforing Table&r"
 	quest.1409C17773B6A131.quest_desc: [
 		"To make your pipes extract more power, you'll want to make it an upgrade. "
 		""
@@ -2389,6 +2403,8 @@
 	quest.166971866A9234C7.quest_subtitle: "The Basic Alloy for Crafting Items"
 	quest.16697E8CC142B48D.quest_desc: ["Just a normal &bCrossbow&r with more Damage! \\n\\nYou'll need the &2Skill&f: &2Enhanced Weapons&r to Craft and use it."]
 	quest.16697E8CC142B48D.title: "&9Enhanced Crossbow"
+	quest.166CE4243896A0CD.quest_desc: ["Don't like your &aGems&r? Then, change them! \\n\\nTo change the Rarity of your &aGem&r you'll need to use this &a&lTable&r. \\n\\nBy using 2 of the same &aGem&r and Rarity Materials, you can increase your &aGems&r Rarity and that increases its power."]
+	quest.166CE4243896A0CD.title: "Getting better &aGems"
 	quest.166DF03D93BC11F1.quest_desc: ["The Reforging Table does everything a Simple one does but better, it can do Epic and Mythic Affixes!"]
 	quest.166DF03D93BC11F1.title: "(Better) Reforing Table"
 	quest.167E1474644C9908.quest_desc: ["The Quartz makes whatever the other item does, it does the opposite for the Spawner. With Quartz in your offhand and the other Spawner Modification item in your main it will do the opposite of its role. With Quartz and Blaze Rods instead of increasing Spawn Range it will decrease it. With Quartz and Ghast Tears it'll decrease Max Entities."]
@@ -2419,6 +2435,9 @@
 	quest.16B4A00948D1F60D.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.16B88F46021E956D.quest_desc: ["&l&6Theurgy&r has Machines so of course it needs Logistics!\n\n(Check out the Basic Logistics Page to learn more about logistics).\n\nWith &cMercury&r you can move Items and Fluids from place to place using &cMercury Wires&r and other Items! Wires are what will actually move the Items."]
 	quest.16B88F46021E956D.title: "Logistics with &cMercury&r"
+	quest.16C74B5F99AD6724.quest_desc: ["&8Common&r is the most basic Rarity. This makes it most common to find early game, but also the weakest. \\n\\n&8Common&r shows up most at the &lWorld Tier: &9Haven&r, and will stop appearing after &lWorld Tier: &6Summit&r. \\n\\n&8Mysterious Scrap Metals&r are made from using &8Common&r &eItems&r in a &c&lSalvaging Table&r."]
+	quest.16C74B5F99AD6724.quest_subtitle: "&8Common"
+	quest.16C74B5F99AD6724.title: "&8Mysterious Scrap Metals"
 	quest.16E02F671FBE9148.quest_desc: ["The Portal Gun is an item that uses power to create two portals to teleport between two points. Left Click shoots a blue portal, Right Click an orange portal and Shift Right Click removes both portals."]
 	quest.16E3031D800B40D5.quest_desc: ["The Soulium Spawner uses mob essences to spawn mobs. For example if you put in some Ghast Essence you can spawn a Ghast."]
 	quest.16E4EA08B647E8E0.quest_desc: ["No matter which path you took for your Digital Storage, one of these is needed to make the &6Star&r!"]
@@ -2717,6 +2736,8 @@
 	]
 	quest.196003E1486ABB31.quest_desc: ["To upgrade from &cNetherite&r to &9Warden Gear&r, you'll need a &9Smithing Template&r! \\n\\nThese are found in Chests in &6Ancient Cities&r. \\n\\nThey can then be duplicated with 7 Diamonds and a &3Sculk Block&r!"]
 	quest.196003E1486ABB31.title: "&9Warden Upgrade Template"
+	quest.196312DF0D2E2CB6.quest_desc: ["&4Invaders&r are what we know as &6&lApotheosis&r &4Bosses&r. \\n\\nThese are Mobs that can spawn in any Dimension and they will always be buffed and have &eAffixed Items&r equipped. \\n\\nMost will have more Hearts, Damage, and Effects than normal Mobs! When Killed they'll drop &eAffixed Items&f and &aGems&r. \\n\\nThey have their own Rarities align with &6&lApotheosis&r Rarities. Their Rarities determine what they spawn with and their stats. \\n\\nTheir Rarities are determined by the &lWorld Tier&r! &lWorld Tiers&r are new additions to &6&lApotheosis&r, they will change the Rarity of Loot and &4Bosses&r you can find. \\n\\nTo access the &lWorld Tier&r Menu, Hold CTRL and press T."]
+	quest.196312DF0D2E2CB6.title: "&4Invaders/Bosses&r and &lWorld Tiers"
 	quest.1972B36F72808D55.quest_desc: ["Only some of theses stones are chipped though."]
 	quest.1972B36F72808D55.title: "&l&bChipped&r Stones"
 	quest.198212E7A1990810.quest_desc: ["&9&lDeeper and Darker&r is an Adventure Mod based around a new Dimension, called the &3&lOtherside&r. \\n\\nBefore we worry about exploring it, we'll need to worry about getting there. And that isn't easy. \\n\\nYou'll need to kill the &9&lWarden&r! \\n\\nThis will give us the Items needed to Craft the &9Heart of the Deep&r which, when used on a frame of &8Reinforced Deepslate&r, can make our Portal. \\n\\nBTW it has a Quest Page now!"]
@@ -2998,6 +3019,8 @@
 	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
 	quest.1CC627D3FB348C89.quest_subtitle: "Trail Ruins"
 	quest.1CC627D3FB348C89.title: "Shaper Armor Trim"
+	quest.1CD05CB4A3DB112A.quest_desc: ["The &c&lSalvaging Table&r can finally get you Materials and &9Gem Dust&r without using &7Anvils&r. \\n\\nYou can recycle &eTools &fand &eArmor &fwith &eAffixes&r to get their Materials. \\n\\nThe Materials you get are based on the Rarity of Item, &8Common&r Items will give &8Common&r Materials. \\n\\nAnd break down Horse/Dog Armor for some reason."]
+	quest.1CD05CB4A3DB112A.title: "&c&lSalvaging Table"
 	quest.1CD2C6AFD788C35E.quest_desc: ["Compacts items in the Backpack to their 2x2 recipe."]
 	quest.1CD5ABD827CEB3AE.quest_subtitle: "Brazil Nut + Balsa"
 	quest.1CF8263756EE8F2A.quest_desc: ["This special &eDust&r is dropped from the Wither and the Ender Dragon when killed by an &dEssence Weapon&r enchanted with &dMystical Enlightenment&r."]
@@ -3007,6 +3030,8 @@
 	quest.1D0B60026346A844.quest_desc: ["Mixing Iridium and Osmium together will get you this Ingot! We have quite a few uses for this new resource. Having a bunch on standby may prove useful!"]
 	quest.1D0B60026346A844.quest_subtitle: "Making Osmium OP"
 	quest.1D1ABA9BD978E8A1.quest_subtitle: "Citron + Wild Cherry"
+	quest.1D1FAA2F86695781.quest_desc: ["For &l&2Frontier&r the Rarity of &eAffixes&r didn't matter, but now for &l&eAscent&r you'll need everything being &aUncommon&r. \\nYou'll also need to kill an &4Invader&r aka an &6&lApothic&r Boss, to upgrade your &lWorld Tier&r. The Rarity of &4Boss&r doesn't matter! \\n\\n&eAffixes&r will only stay up to &5Epic&r but now &9Rare&r is more common than the rest. We can also get &6Mythic&r &aGems&r... just only with Lady Luck's Favor! \\n\\nSpeaking of Luck, our Luck will increase to 30% and Experience will jump to 55%. \\n\\n&4Monsters&r in return will now have 8 Armor Points and 5 Armor Pierce."]
+	quest.1D1FAA2F86695781.title: "&lWorld Tier: &eAscent"
 	quest.1D23F53C585185B7.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_naga.png width:100 height:150 align:center}"]
 	quest.1D23F53C585185B7.title: "&2Naga Scales"
 	quest.1D2700821045CCF2.quest_desc: ["The 65536k Storage Disk can store 65536000 items."]
@@ -3296,6 +3321,8 @@
 	quest.2001998045ABC04C.title: "Kill a Tangled Hatred"
 	quest.2002AB7D061007FA.quest_desc: ["The &6Artisan Relic&r is found within a few Buildings in Villages. \n\nWhen used in the &l&bClibano&r it will allow you to make &5Obsidiansteel&r. \n\nWhen used in &6&lForges&r it will give you a discount on &aExperience&r used!"]
 	quest.2002AB7D061007FA.title: "&6Artisan Relic"
+	quest.2002C7EB13626AE7.quest_desc: ["The &6&lAugmenting Table&r needs different Fuel to work, and that Fuel is &6Sigils of Enhancement&r. \\n\\nEach Reroll will cost 1 &6Sigil of Enhancement&r while each Upgrade will cost 2! \\n\\nYou'll need a &6Godforged Pearl&r for 4 of them."]
+	quest.2002C7EB13626AE7.title: "&6Sigil of Enhancement"
 	quest.2007EF64F0406090.quest_subtitle: "&f24 &cAttack Damage"
 	quest.200ECDC70E97D254.quest_desc: ["Fuel Canister is a tank that can fill containers with the fluid it contains.\n\nThe Fuel Canister has three fill modes:\n\n - None\n - Any\n - Just Dire Things"]
 	quest.201E3E41018F9521.quest_desc: ["&6Gloomy Cacti&r are just like normal &2Cacti&r, just these spawn within &cOvercast Columns&r. \\n\\nI mean they like the Heat, they don't need &9Water&r to grow, they hurt to touch, are there even any differences? \\n\\nOh yeah, these can be Smelted into &6Orange Dye&r instead of &2Green&r!"]
@@ -3837,6 +3864,8 @@
 	quest.24C0F267B330CD23.quest_desc: ["With the damage of a Diamond Sword, the &2Terra Blade&r will sometimes fire a beam that will deal as much as a melee hit would."]
 	quest.24C757B8AA6841F6.quest_desc: ["&5&lApotheosis&r knows how annoying &3Tridents&r can be to get so they made it easier... well kinda easier! \\n\\nYou can now make an &3Inert Trident&r and &d&lInfuse&r it to get a normal &3Trident&r. \\n\\nThe &3Trident&r requires between &a40 Eterna&r, &c20%-50% Quanta&r, and atleast &535% Arcana&r. \\n\\nYou can get this with 1 &7Bookshelf&r, 4 &9Echoing Sculkshelf&r, and 1 &2Melonshelf&r."]
 	quest.24C757B8AA6841F6.title: "Making a real &3Trident"
+	quest.24D11ED5F4EEDC48.quest_desc: ["To those new to &6&lApotheosis&r, &9Sockets&r can be confusing and irritating. \\n\\nIn short, your Weapons and Armor need &9Sockets&r to use &aGems&r with it. \\n\\nBut what if it doesn't have a &9Socket&r? \\n\\nThen you'll need a &9Sigil of Socketing&r! \\n\\nCombine your item and &9Sigil&r in a &8&lSmithing Table&r and boom you can get up to 3 &9Sockets&r."]
+	quest.24D11ED5F4EEDC48.title: "&9Sigil of Socketing"
 	quest.24D38DA8E86DD897.quest_desc: [
 		"The smallest and weakest of the &cRot Mobs&r. \n\nThese have 5 Hearts. \n\nLike all &cRot Mobs&r they will target &2Stoneborns&r and &7Forgottens&r and will drop &cUtheric Shards&r."
 		"{image:atm:textures/questpics/undergarden/undergarden_rotling.png width:100 height:100 align:center}"
@@ -4276,6 +4305,8 @@
 	quest.29E2033EA65E706E.quest_subtitle: "A \"Slime Rancher\""
 	quest.29E2033EA65E706E.title: "&6Honey Slime&r Ranch"
 	quest.29E9E361DDC8041B.title: "Sun Banner Pattern"
+	quest.29EA8E178F8F8FDB.quest_desc: ["The &9&lSimple Reforging Table&r is used like an &5&lEnchantment Table&r but with &eAffixes&r! \\n\\nTo add an &eAffix&r to any &eItem&r, place the &eItem&r in the center Slot. Then, add your Rarity Material to the left Slot. \\n\\nThe Rarity Material will determine what Rarity &eAffix&r you get on your &eItem&r. This can be used to upgrade some Items, like from &8Common&r to &aUncommon&r. \\n\\nYou will get 3 choices of &eAffixes&r you can pick, also similar to an &5&lEnchantment Table&r the second and third get more expensive. \\n\\nWith the &9&lSimple Reforging Table&r we can only get up to &9Rare&r &eAffixes&r."]
+	quest.29EA8E178F8F8FDB.title: "&9&lSimple Reforging Table"
 	quest.29EC143D7E0347DE.quest_desc: ["The Dagger of Hunger is made with the Teeth of Hunger. No, I am not saying Tooths. \n\nThe Dagger has a Hunger Value. When you hit Mobs it will go up, when it's inactive it will decrease. When it gets to 100% you'll get boosts. And if it goes to 0% it will start killing you. \n\nWhen you hit Mobs (or Players) it will also give the Hunger effect. \n\nI don't blame it, I get angry when hungry too."]
 	quest.29ED1116682B0D10.quest_desc: [
 		"With some smooth stone slabs, stone, soul shards and your unholy symbol (portrayed in book), you will upgrade your altar and Effigy."
@@ -4299,6 +4330,8 @@
 		""
 		"Mines adjacent ore blocks all at once, but takes slightly longer to mine."
 	]
+	quest.2A032EC573B5316C.quest_desc: ["To get the &lWorld Tier: &2Frontier&r, you'll obviously need &9&lHaven&r done, but also need a few &eAffixed Items&r! \\n\\nHow many? You need a full set of &eAffixed Armor&r plus an &eAffixed Tool &for &eWeapon&r. \\n\\nNow &aUncommon&r &4Invaders &fand &aGems&r are most abundant, with the rest following in order: &8Common&r, &9Rare&r, and also &5Epic&r. \\n\\nThe Player with &lWorld Tier: &2Frontier&r will get a 35% Experience Boost plus 20% Luck! \\n\\nHey, not everything will be easy though, now &4Monsters&r will gain 4 Armor Points extra."]
+	quest.2A032EC573B5316C.title: "&lWorld Tier: &2Frontier"
 	quest.2A049419C78E96F4.quest_subtitle: "Tier: &a2"
 	quest.2A0B3C91D72E8B75.quest_desc: ["Small Yetis and Winter Wolves drop Arctic Fur, which can be used to make &6Arctic Armor&r."]
 	quest.2A0B3C91D72E8B75.quest_subtitle: "It's Dyable!"
@@ -5093,6 +5126,8 @@
 		"{image:atm:textures/questpics/hexerei/hex_hazel.png width:100 height:100 align:center}"
 	]
 	quest.31DDBB638451EFD4.title: "&eWitch Hazel Trees"
+	quest.31E7F7464D79F881.quest_desc: ["It's not just &7Bookshelves&r that can be &d&lInfused!&r"]
+	quest.31E7F7464D79F881.title: "Other &d&lInfusion&r Items"
 	quest.31EC6244E4A3CBD6.quest_subtitle: "Tier: &b4"
 	quest.31EEE2875595F315.quest_desc: ["You should have already made &2Sulfuric Acid&r for your Tier 4 Ore Processing facility, but here is a reminder on how to get it.\n\nStart by getting &eSulfur&r by finding it underground, or by mixing &bHydrogen Chloride&r with &3Gunpowder&r in a Chemical Injection Chamber.\n\nTake the Sulfur Dust and run it through a &9Chemical Oxidizer&r to get &eSulfur Dioxide&r. Combine that with &bOxygen&r in a Chemical Infuser to get &eSulfur Trioxide&r.\n\nNext, we'll combine &bWater Vapor&r with the Sulfur Trioxide to make &2Sulfuric Acid&r."]
 	quest.31EEE2875595F315.quest_subtitle: "A Quick Recap"
@@ -5623,6 +5658,8 @@
 		"This is the next upgrade for our Blood Magic journey."
 	]
 	quest.3762F8137BFD5A74.quest_desc: ["The &aCracker&r doesn't get you oil, but it does allow for processing the byproducts more efficiently! "]
+	quest.377A41499D8218C9.quest_desc: ["The 1st &lWorld Tier&r is &l&9Haven&r! It being the first makes it the easiest to explore with and easiest to obtain. \\n\\nTo get it you just need to hold an &eAffixed Item&r in your Hand! It will automatically be set when unlocked. \\n\\nThe &lWorld Tier: &9Haven&r has highest chances for &8Common&r &4Invaders &fand &aGems&r. It can also have &aUncommon&r and very rarely, &9Rare&r."]
+	quest.377A41499D8218C9.title: "&lWorld Tier: &9Haven"
 	quest.377D6CF86BC1C64F.quest_desc: ["The &8Tome of Scrapping&r will only take off half the &5Enchantments&r, while the &8Tome of Superior Scrapping&r will take every &5Enchantment&r off the Item! \\n\\nBoth of these &8Tomes&r will break the Item in use though. \\n\\nTo &d&lInfuse&r our &8Tome of Scrapping&r into a &8Tome of Superior Scrapping&r we can use 3 &9Soul-Touched Sculkshelves&r and 1 &dDraconic Endshelf&r."]
 	quest.377D6CF86BC1C64F.quest_subtitle: "All Enchantments, breaks Item"
 	quest.377D6CF86BC1C64F.title: "&8Tome of Superior Scrapping"
@@ -5708,6 +5745,8 @@
 	quest.3889D0255074CE85.quest_desc: ["&bMacaw&r decided the furniture wasn't enough, he needed his Macaw home to have more than just natural lighting from his &b&lMacaw Windows&r. \n\nSo now we have &b&lMacaw's Lights and Lamps&r which adds all sorts of Light Sources. \n\nFrom Lamps to Lanterns to Chanderliers!"]
 	quest.3889D0255074CE85.title: "&l&bMacaw's Lights and Lamps&r"
 	quest.38954551309F42A7.quest_desc: ["Sender Module MK2 works similar to MK1 but with less restrictions. \n\nMK2 doesn't need direct line of sight or to be on same XYZ axis. \n\nWill have to be in the same Dimension though, unless you have..."]
+	quest.38956DC28E317DEF.quest_desc: ["The &dSigil of Rebirth&r is Fuel for all the &l&9Reforging Tables&r. \\n\\nThey still need the other Material, and obviously the Item it'll change to work though... \\n\\nAtleast they're relatively easier to Craft!"]
+	quest.38956DC28E317DEF.title: "&dSigil of Rebirth"
 	quest.38A77DBAD24C4B53.quest_subtitle: "Tier: &63"
 	quest.38ADDF7FF4E4892D.quest_desc: ["The &7Glass Sword&r deals 40 hearts of damage, but only has 1 durability.\n\nYou can make it indestructible if you want to use it.\n\nThese are rarely found in loot chests in the &bAurora Palace&r."]
 	quest.38ADDF7FF4E4892D.title: "&7Glass Sword"
@@ -6056,6 +6095,8 @@
 		"- Swim Speed"
 		"- Decoy"
 	]
+	quest.3BF5B8DE7A1CC4D7.quest_desc: ["If you want good gear you're gonna need &6&lApotheosis Gear&r, and that all starts with a &aGem&r! \\n\\n&aGems&r are rare Drops from any Mob, they are also confirmed Drops from &4Invaders&r. \\n\\nYou'll learn more about those later, for now Farm those Mobs!"]
+	quest.3BF5B8DE7A1CC4D7.title: "&6&lApotheosis Adventure"
 	quest.3BF90C250AC1ADF3.quest_desc: [
 		"Lets add in some Industrial Foregoing Black Hole Controllers, just for good measure."
 		""
@@ -7050,6 +7091,8 @@
 		""
 		"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
 	]
+	quest.45647395169978ED.quest_desc: ["To get &9Gem Dust&r you need an &6&lApotheosis&r &aGem&r and an &7&lAnvil&r. \\n\\nAny &6&lApotheosis&r &aGem&r (Recommended only &8Common &fand &aUncommon&r)! \\n\\nOnce you get your &aGems&r, smash them with a falling &7&lAnvil&r! \\n\\nThen, you can use your &9Gem Dust&r to Craft a &c&lSalvaging Table&r."]
+	quest.45647395169978ED.title: "&9Gem Dust"
 	quest.4564B577CB4EC046.quest_desc: ["When slaughtering hundreds of Cows you might come across a Rare Beef. Not one with Mad Cow Disease, I mean the &cEverlasting Beef&r!\n\n&cEverlasting Beef&r can be eaten like a normal Raw Beef, but it won't be deleted when consumed! Instead it will have a cooldown before you can eat it again.\n\n(Also works with autofeeding backpacks!)"]
 	quest.4564B577CB4EC046.quest_subtitle: "Unique"
 	quest.4564B577CB4EC046.title: "&cEverlasting Beef&r"
@@ -7212,6 +7255,8 @@
 	quest.46D756F4DC6CC894.title: "&dNetherite Backpack"
 	quest.46DCB235D3FEDA61.quest_desc: ["Similar to Iron Tools just all of these slow down whoever is hit by them. \n\nWell besides the Hoe, but do you really care about a simple hoe?"]
 	quest.46DCB235D3FEDA61.title: "&bFroststeel&r Tools"
+	quest.46E626FAD9852876.quest_desc: ["Similar in use to its predecesors, the &9&lSimple Reforging Table&r and &5&lReforging Table&r. \\n\\nIt will use Rarity Materials to add or change &eAffixes&r on &eAffixed Items&r. \\n\\nThe &e&lAncient Reforging Table&r will allow us to use &cA&6n&ec&fi&de&5n&4t&r &eAffixes&r!"]
+	quest.46E626FAD9852876.title: "(Best) &e&lAncient Reforging Table"
 	quest.46E6B1600AA8A61E.quest_desc: [
 		"Valid Upgrades:"
 		"- Mob Scanner"
@@ -8070,6 +8115,8 @@
 	]
 	quest.4E9229FBA875C0BE.title: "&9Time To Explore!&r"
 	quest.4E9B35DCA018FD42.title: "Tool Upgrades"
+	quest.4E9DDDBD8263D0E3.quest_desc: ["&7Sigil of Unnaming&r does as the name suggests, when you have an &eAffixed Item&r with an awkwardly long name, you can combine it with the &7Sigil&r in a &8&lSmithing Table&r to get rid of most of the name. \\n\\n(Only the Material and Item Type as with the Rarity color will stay)."]
+	quest.4E9DDDBD8263D0E3.title: "&7Sigil of Unnaming"
 	quest.4EA0E385FF7E5FEB.quest_desc: [
 		"You'll need a LOT of &cDesh&r to make the &aTier 2 Rocket&r."
 		""
@@ -9035,6 +9082,8 @@
 	quest.57B5100C11F76EE9.quest_subtitle: "What comes after Quantum?"
 	quest.57B96326652F5DF4.quest_desc: ["To become a &4Vampire&r we'll need the &cSanguinare Vampiris&r. This is the Virus that makes people into &4Vampires&r. \\n\\nTo get it we need to either: get Bit by a &4Vampire&r, use &4Vampire Fangs&r, or Inject a &cSanguinare Injection&r at an &6&lInjection Chair&r. \\n\\nYou can find &4Vampire Fangs&r at the Village House."]
 	quest.57B96326652F5DF4.title: "\"Bite me!\""
+	quest.57BB2CC6D9D2AE87.quest_desc: ["This is what you really need for perfect &eAffixes&r. \\n\\nFirst you need the &6&lTable&r, a Tool, and &6Sigils of Enhancement&r. \\n\\nOnce you have all those, the world is all yours! You can reroll &eAffixes&r, choose a specific &eAffix&r, or upgrade set &eAffixes&r!"]
+	quest.57BB2CC6D9D2AE87.title: "&6&lAugmenting Table"
 	quest.57C4A0BAE739E903.quest_desc: ["The Dissolution Chamber is used to craft more advanced machines.\n\nYou will need to put a certain fluid in it along with the items needed for what you are crafting. Check JEI."]
 	quest.57C4A0BAE739E903.quest_subtitle: "The Crafting Table?"
 	quest.57CF8C6C867B9BDA.quest_subtitle: "More Filtering Options"
@@ -10545,6 +10594,9 @@
 	quest.6648BC7D14233006.title: "&lAugments"
 	quest.665B4A8FF5277316.quest_desc: ["Makes gravity affect a Mana Burst, making it move in an arc. It also slightly increases the time before it starts to lose mana."]
 	quest.665C3A14C987E9C6.quest_subtitle: "&f5.5&r &4Damage&r"
+	quest.6667638252DB9C74.quest_desc: ["&8Sigils&r are items used to change your &6&lApotheosis&r &eAffixed Items&r; whether it be clearing &9Sockets&r, adding more &9Sockets&r, or removing the Name! \\n\\nAll are used with your Item in a &8&lSmithing Table&r, &9&lReforging Table&r, or &6&lAugementing Table&r."]
+	quest.6667638252DB9C74.quest_subtitle: "Just Sigils now!"
+	quest.6667638252DB9C74.title: "&mVials and&r &8Sigils"
 	quest.666EA8B8F13EB292.quest_desc: ["This item is used to capture Demons for transport or storage. "]
 	quest.666EA8B8F13EB292.title: "&dEmpty Soul Gem"
 	quest.6674270897997BF7.quest_desc: ["Allows you to jump higher than usual and makes you springy, making for faster travel.\n\nYou can only have one level of these Upgrades in the Leggings at a time."]
@@ -10577,6 +10629,8 @@
 	quest.66B5A8D259E12BF5.title: "&4Netherite Battlemage Outfit"
 	quest.66BAC2B478F9B119.quest_subtitle: "1/5"
 	quest.66BAC2B478F9B119.title: "Top &6&lATM Star&r part"
+	quest.66BCD828512B95F5.quest_desc: ["&cA&6n&ec&fi&de&5n&4t&r is a brand new Rarity added to &6&lApotheosis&r. It is the highest and rarest Rarity now! \\n\\n&cA&6n&ec&fi&de&5n&4t&r comes only in the &lWorld Tier: &4Pinnacle&r. \\n\\nThe &cA&6n&ec&fi&de&5n&4t&r... God knows what, is made by using &cA&6n&ec&fi&de&5n&4t&r &eItems&r in a &c&lSalvaging Table&r."]
+	quest.66BCD828512B95F5.quest_subtitle: "&cA&6n&ec&fi&de&5n&4t&r"
 	quest.66C21934DAFFAC7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"]
 	quest.66C21934DAFFAC7F.quest_subtitle: "Dropped from Elder Guardians"
 	quest.66C21934DAFFAC7F.title: "Tide Armor Trim"
@@ -11497,6 +11551,9 @@
 	quest.6EE5BE5693E8ACE4.quest_desc: ["In &d&lThe End&r, you'll find the final boss of &2&lVanilla Minecraft&r: The &d&lEnder Dragon&r. \n\nAt the top of each pillar of &5Obsidian&r, you'll find an &dEnd Crystal&r that heals the &d&lDragon&r. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance! \n\nThe &d&lEnder Dragon&r has 200 &4Hearts&r and has two modes: roaming and perching. \n\nWhen it is roaming she will fly around the &dEnd Island&r, shooting &dDragon Balls&r at you. \n\nWhen she is perching she will lower to just above her Nest where she will sit there for a bit. This time is perfect for using your Sword or Bow! Then, she will spit her &dDragon's Breath&r on you when you get close."]
 	quest.6EE5BE5693E8ACE4.title: "&d&lThe End"
 	quest.6EE68EEFE388CF8A.quest_subtitle: "&f4 &cAttack Damage"
+	quest.6EF206A0BD5BAC0A.quest_desc: ["&5Epic&r is finally climbing more to the overpowered side. \\n\\n&5Epic&r appears after &lWorld Tier: &2Frontier&r and is most common in &lWorld Tier: &4Pinnacle&r. \\n\\n&5Arcane Sands&r are made from using &5Epic&r &eItems&r in a &c&lSalvaging Table&r."]
+	quest.6EF206A0BD5BAC0A.quest_subtitle: "&5Epic"
+	quest.6EF206A0BD5BAC0A.title: "&5Arcane Sands"
 	quest.6EF5C5FFF6BC26B7.quest_desc: [
 		"The Large Fractioning Distillery is just like the Distillation Tower, but on steroids. Instead of having to add multiple LFD's to process a fluid out, you can utilize the Parallelization hatches. "
 		""
@@ -12939,6 +12996,8 @@
 	]
 	quest.7C8D74692C963000.title: "The Sentient Sword"
 	quest.7C8DE42ADB6E1AA4.quest_subtitle: "Exchangers"
+	quest.7C90008081DEBECA.quest_desc: ["You got &eTools&r and you got &aGems&r... so how do we combine them? \\n\\nFirst, make sure your &eTool&r has an open &9Socket&r. (For more on &9Sockets&r check the Sigils section). \\n\\nIf one is open, you can combine your &eTool&r and &aGem&r in a &8&lSmithing Table&r. \\n\\nIf you aren't happy with your current &aGems&r then you might need a different Table!"]
+	quest.7C90008081DEBECA.title: "Applying &aGems&r (and others)"
 	quest.7C9154EF6068BE27.quest_desc: ["Technically you can also use the Crusher to make the &6&lATM Star&r into 5 &6Star Shards&r... \n\nBut you'll need 262 to make a new &6&lStar&r... \n\nSo why would you?"]
 	quest.7C9154EF6068BE27.title: "But why?"
 	quest.7C94F6AE2A793858.quest_desc: ["The 1024k Storage Disk can store 1024000 items."]
@@ -12964,6 +13023,8 @@
 	]
 	quest.7CA42B3CA84A21B5.title: "&cGearing Up For The Heat&r"
 	quest.7CA60DC31447E57A.quest_subtitle: "&f7 &cAttack Damage"
+	quest.7CB03F92F9ECEFFB.quest_desc: ["Thankfully &6&lApotheosis&r has made taking &9Sockets&r out of &eTools&r much easier! \\n\\nNow instead of having to choose whether to save the &eTool&r or &aGem&r you can now keep both. \\n\\nUse the &aSigil of Withdrawal&r with an &eAffixed Tool&r in a &8&lSmithing Table&r and you'll separate the &aGem&r from it."]
+	quest.7CB03F92F9ECEFFB.title: "&aSigil of Withdrawal"
 	quest.7CB3FCD789747EF5.quest_desc: ["This block enables smelting recipes in your kitchen multi-block!"]
 	quest.7CB3FCD789747EF5.title: "Honey, there's a Furnace in the Kitchen"
 	quest.7CBAA67204CC258C.quest_desc: ["No, the &9&lWarden&r doesn't use Swords and Axes. But we can! \\n\\nBoth the &9Warden Sword &fand &9Axe&r are upgrades of their &cNetherite versions&r with a &9Reinforced Echo Shard &fand &9Warden Upgrade Template&r. \\n\\nThey each have 1 &4Heart&r of Damage more and even more Durability! \\n\\nYes, the Axe can still efficiently chop down Trees."]
@@ -13195,6 +13256,8 @@
 	]
 	quest.7EEEEDD5FF31ACD3.quest_desc: ["The &n&5Smart Chute&r is the same as the Chute but with additional functionalities, such as stack size and filters."]
 	quest.7EF57BBEAA4B6B08.quest_desc: ["Looking to create virtual storage using a mod like &9Applied Energistics 2&r?\n\nThese are great ways to upgrade your storage, but it is important to talk about &eNBT Items&r and the best way to store them.\n\nNBT items are items with extra tags attached to them. Enchanted items, items with durability and more. These are items with NBT tags attached to them. Because of this, they don't usually stack.\n\nWhen you store a lot of these into a storage system like AE2, you run the chance of creating issues for your save or server.\n\nBecause of this, it is best to store them in Chests or Bags!"]
+	quest.7EF873DCEB3B9D48.quest_desc: ["The last &lWorld Tier&r, &lWorld Tier: &4Pinnacle&r. To get it, you'll need to Kill the &d&lEnder Dragon&r atleast once, and equip all &5Epic&r &eArmor &fand &eTool/Weapon&r. \\n\\nNow &5Epic&r and &6Mythic&r are most common for &aGems &fand &eTools&r, plus we can get &cA&6n&ec&fi&de&5n&4t&r for both now! This comes at the loss of &8Common&r and &aUncommon&r but hey, who'll miss them! \\n\\nOn the same pattern of upgrades we'll get 125% Experience Gained and 100% Luck increase. \\n\\n&4Monsters&r will receive their final upgrade, getting: 16 Armor Points, 20 Armor Toughness, 25 Armor Pierce, and 20 Protection Pierce."]
+	quest.7EF873DCEB3B9D48.title: "&lWorld Tier: &4Pinnacle"
 	quest.7EFA4F2C0A895502.quest_desc: ["A Glass Lens (Green) can also make this, but making the colored glass lens is an HV recipe"]
 	quest.7EFBAF3E281D2EBE.quest_desc: [
 		"The &bME Storage Bus&f, when facing some external storage container, will allow the container to be used as though it were part of the ME network, allowing items to be taken out from the container or inserted into it purely via ME. "
