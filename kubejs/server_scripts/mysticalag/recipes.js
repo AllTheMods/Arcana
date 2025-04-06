@@ -1,30 +1,24 @@
-
 /*
 *    This File has been authored by AllTheMods Staff, or a Community contributor for use in `All the Magic: Arcana` by ATMTeam.
 *    As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 */
-ServerEvents.recipes(ATM => {
-    $ArsNouveau$EnchantingApparatus(
-        ATM,
-        'allthemodium:unobtainium_allthemodium_alloy_ingot',
-        [
-            'primalmagick:hallowsteel_ingot',
-            'ars_nouveau:air_essence',
-            '#c:ingots/allthemodium',
-            'ars_nouveau:earth_essence',
-            'allthemodium:piglich_heart',
-            'ars_nouveau:fire_essence',
-            '#c:ingots/unobtainium',
-            'ars_nouveau:water_essence'
-        ],
-        'ars_nouveau:source_gem',
-        false,
-        35000,
-        'unobtainium_allthemodium_alloy_ingot'
-    );
+ServerEvents.recipes(allthemods => {
+    allthemods.shaped('kubejs:magical_soil', ['ABC', 'DEF', 'GHI'], {
+        A: 'mysticalagradditions:insanium_block',
+        B: 'allthetweaks:nether_star_block',
+        C: 'allthecompressed:dirt_1x',
+        D: 'mysticalagriculture:awakened_supremium_growth_accelerator',
+        E: 'mysticalagradditions:insanium_farmland',
+        F: '#iceandfire:dragon_skulls',
+        G: 'enchanted:oil_of_vitriol',
+        H: 'allthemodium:ancient_dirt',
+        I: 'primalmagick:moonwood_sapling'
+    }).id('allthemods:kjs/magical_soil')
 })
 
 /*
 *    This File has been authored by AllTheMods Staff, or a Community contributor for use in `All the Magic: Arcana` by ATMTeam.
 *    As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 */
+
+

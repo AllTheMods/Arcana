@@ -5,11 +5,6 @@
         "result": "deny"
       },
       {
-        "mob": "monsterplus:wisp",
-        "mincount": 5,
-        "result": "deny"
-      },
-      {
         "mob": "minecraft:bat",
         "mincount": 30,
         "result": "deny"
@@ -25,23 +20,48 @@
         "result": "deny"
       },
       {
-        "mob": "monsterplus:crystal_zombie",
-        "mincount": 10,
-        "result": "deny"
-      },
-      {
-        "mob": "monsterplus:glow_skeleton",
-        "mincount": 10,
-        "result": "deny"
-      },
-      {
         "mob": "vampirism:hunter",
         "mincount": 20,
         "result": "deny"
+      },  
+      {
+        "mob": "mythsandlegends:imp",
+        "when": "onjoin",
+        "result": "deny"
+      },  
+      {
+        "mob": "mythsandlegends:imp_clone",
+        "when": "onjoin",
+        "result": "deny"
       },
       {
-        "mob": "monsterplus:overgrown_skeleton",
-        "mincount": 10,
+        "dimension": "allthemodium:the_other",
+        "mob": "minecraft:pillager",
+        "mincount": {
+          "amount": 30,
+          "hostile": true,
+          "perplayer": true
+        },
+        "result": "deny"
+      },
+      {
+        "dimension": "allthemodium:the_other",
+        "mob": "minecraft:vex",
+        "mincount": {
+          "amount": 2,
+          "hostile": true,
+          "perplayer": true
+        },
+        "result": "deny"
+      },
+      {
+        "dimension": "allthemodium:the_other",
+        "mob": "minecraft:wither_skeleton",
+        "mincount": {
+          "amount": 30,
+          "hostile": true,
+          "perplayer": true
+        },
         "result": "deny"
       }
 ]
