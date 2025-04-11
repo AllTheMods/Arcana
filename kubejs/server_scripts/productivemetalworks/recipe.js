@@ -3,7 +3,6 @@
 *    As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 */
 
-
 const melting = [
     ["occultism:emerald_dust", 100, "productivemetalworks:molten_emerald"],
     ["occultism:amethyst_dust", 100, "productivemetalworks:molten_amethyst"],
@@ -23,10 +22,9 @@ const melting = [
           maximum_temperature: 0,
           minimum_temperature: 1000,
           result: [{amount: amount, id: fluid,}],
-        }).id(`productivemetalworks:melting/${input.split(":")[1]}`);
+        }).id(`productivemetalworks:melting/occultism/${input.split(":")[1]}`);
     });
   }); 
-
 
 
 /*

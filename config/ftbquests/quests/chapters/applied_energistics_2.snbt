@@ -90,7 +90,8 @@
 			shape: "diamond"
 			tasks: [{
 				id: "5B4DDF66C36AF356"
-				type: "checkmark"
+				item: { count: 1, id: "ae2:energy_acceptor" }
+				type: "item"
 			}]
 			x: 3.0d
 			y: -0.5d
