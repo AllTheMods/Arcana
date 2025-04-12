@@ -41,6 +41,7 @@
 	chapter.59395B6806F2A98A.title: "Cataclysm"
 	chapter.5AE65E37BB88972A.title: "Hexerei"
 	chapter.5B00676D79306EA2.title: "Welcome"
+	chapter.5B2283AF05DA36DE.title: "Spelled"
 	chapter.5C764279146E5E66.title: "Mystical Agriculture"
 	chapter.5E31DF282998B992.title: "PneumaticCraft"
 	chapter.65A95C2312976E49.title: "The Undergarden"
@@ -555,6 +556,9 @@
 		"If you end up not able to use anymore, it may be \"completed\", consider using this in tandem of Apotheosis enchanting for absurd enchants."
 	]
 	quest.04C01A5FF3DAC326.quest_subtitle: "Consider this your gateway to Apotheosis"
+	quest.04C94741762FE59E.quest_desc: ["Healing is pretty simple. \\n\\nWhen used on your Self, you'll instantly Regenerate some Health. \\n\\nIt can also be used in a Projectile or Ball to do the same Healing. \\n\\nNot happy with the amount of Health you gain? Try using the Power Spell with it!"]
+	quest.04C94741762FE59E.quest_subtitle: "Sanitatem"
+	quest.04C94741762FE59E.title: "Healing"
 	quest.04D0543FE2820F64.quest_desc: ["Flax String can be used in replace of normal String."]
 	quest.04D0543FE2820F64.quest_subtitle: "Who needs Spiders anyway?"
 	quest.04D0543FE2820F64.title: "Flax String"
@@ -647,6 +651,9 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_mite.png width:200 height:100 align:center}"
 	]
 	quest.0584073A7383E0EA.title: "Mite Fortress"
+	quest.058685467D6E1D7F.quest_desc: ["Snow will place a Layer of Snow! \\n\\nIt can be used as a Projectile or Ball to throw the Snow Layer elsewhere, or used on Self to place it beneath you. \\n\\nThis &bSpell&r can be used with &2Size Spells&r to give even more Snow!"]
+	quest.058685467D6E1D7F.quest_subtitle: "Nix"
+	quest.058685467D6E1D7F.title: "Snow"
 	quest.0589911EB4D30FAD.quest_desc: ["&l&cRegions Unexplored&r also adds the ability for you to paint Planks as if they were Wool or Glass! "]
 	quest.0589911EB4D30FAD.title: "Painted Planks"
 	quest.0591CAFD665CE151.quest_subtitle: "Tier: &b4"
@@ -1987,6 +1994,9 @@
 		""
 		"Keep your eyes peeled, we'll eventually upgrade this recipe to get the coveted 8 plastic circuit boards at once"
 	]
+	quest.12542030385098D7.quest_desc: ["Protecting is one I am unable to figure out how to use it in a Projectile or Ball, only Self! \\n\\nWhen used on your Self it will give you an Effect of Resistance and Fire Resistance for a few Seconds."]
+	quest.12542030385098D7.quest_subtitle: "Praesidium"
+	quest.12542030385098D7.title: "Protecting"
 	quest.1255528906740DCF.quest_desc: ["Water will Effect most &4Vampires&r with Weakness. It's also supposed to Effect us with Weakness but I can't get it to work... \\n\\nWell in case it does Effect you, get the &2Skill&r: &2Water Resistance&r to prevent that!"]
 	quest.1255528906740DCF.title: "Water Resistance"
 	quest.127D085D6C9DB690.quest_desc: ["Saltpeter can be found anywhere Underground but very common in the Warm Shore Biome. \n\nIt needs a Stone Pickaxe to mine it and when mined it will drop a couple Saltpeter Powder. Yes, Fortune works on it! \n\nThe Powder can be used as a replacement for other Niters."]
@@ -2355,6 +2365,9 @@
 	quest.15D355EB164EBE68.quest_subtitle: "Needed for Finished PCBs"
 	quest.15D355EB164EBE68.title: "Capacitors"
 	quest.15D764CAF047EA7A.title: "&cTertium Armor&r"
+	quest.15DDD9DAD5AB3536.quest_desc: ["Cold is used to Slow down... well whatever is hit with it! \\n\\nEither yourself with Self, or others with Projectile and Ball. "]
+	quest.15DDD9DAD5AB3536.quest_subtitle: "Frigus"
+	quest.15DDD9DAD5AB3536.title: "Cold"
 	quest.15DE3BF0CBD8E0B4.quest_desc: ["To make your first tool, take your Pickaxe Head part and put it in a crafting grid.\n\nTo create a full pickaxe, you can either add a Stick to the crafting grid, or create your own custom handle using a &9Tool Rod Template&r instead.\n\nNote: You can always search up the templates and then press check it's uses in JEI, then navigate to the \"Gear Crafting\" tab. This will show you how to make gear parts."]
 	quest.15ECBC8E174FA39B.quest_desc: ["Allows you to access your storage wirelessly."]
 	quest.15ECBC8E174FA39B.title: "Wireless Grid"
@@ -3519,6 +3532,9 @@
 	quest.21BFDE6AD1C0F62A.title: "&8B&6e&8e&r Variants"
 	quest.21D323D95F5A7DB3.quest_desc: ["Hold a Stick in your off hand and the &7Scroll of Strengthening&r in your main and hold Right Click."]
 	quest.21D323D95F5A7DB3.title: "Strong Stick"
+	quest.21D72FFD9FF798EA.quest_desc: ["Power isn't a &bSpell&r we can use on our own, instead it will be used with other &bSpells&r! \\n\\nWhat does it do with other &bSpells&r? It makes them more Poweful! \\n\\nHarming does more Damage, Healing gives more Health, Explosions are even more dangerous!"]
+	quest.21D72FFD9FF798EA.quest_subtitle: "Vis"
+	quest.21D72FFD9FF798EA.title: "Power"
 	quest.21EA29A8C7F950CE.quest_desc: ["&bDiamonds&r the staple of &2Minecraft&r, and of upgraded Furnaces apparently...\n \nThese work even faster only taking 80 Ticks or 4 Seconds to smelt items. That's even faster than a Blast Furnace! \n \nThese are only crafted by &eGold Furnaces&r and can be crafted into &3Crystal&r or &aEmerald Furnaces&r."]
 	quest.21EA29A8C7F950CE.title: "&bDiamond Furnace"
 	quest.21EE522DDBF0BF72.quest_desc: ["The last sets of Shelves you'll need are &dEndshelves&r, to get them you need Infused Dragon's Breath. This one was hard to get but you need atleast &a40%% Eterna&r, &c15%%-25%% Quanta&r, and atleast &560%% Arcana&r. It has to be between &c15%%-25%% Quanta&r to get that you can try &99 Echoing Skulkshelves&r and 4 Melonshelves or &92 Echoing Skulkshelves&r and &b10 Heart-Forged Seashelves&r."]
@@ -3689,6 +3705,9 @@
 	quest.233E438357CD89F6.title: "The &aPorts"
 	quest.233F263576ECFAAD.quest_desc: ["Used to turn ingots into plates at a 1:1 ratio, and double ingots into 2 plates. You'll want to get this machine as soon as possible!"]
 	quest.2341D611975C58AF.quest_subtitle: "Auto import? Yes please"
+	quest.23429DB4E7E45C72.quest_desc: ["Pushing can be used to Push Mobs that are hit with it! \\n\\nAtleast with Projectiles and Balls. If you use it on Self, you'll get a slight boost forward. \\n\\nThis can be used with Jumps and Sprinting to go even farther!"]
+	quest.23429DB4E7E45C72.quest_subtitle: "Propellentibus"
+	quest.23429DB4E7E45C72.title: "Pushing"
 	quest.234CD79746FCAA18.quest_subtitle: "Voids By-products"
 	quest.235273F7C9A9B0D0.quest_subtitle: "3/5"
 	quest.235273F7C9A9B0D0.title: "Bottom Right &6&lATM Star&r part"
@@ -4397,6 +4416,9 @@
 		"A very important block and a very common one! Can be crafted or found in most &lIron Spells&r Structures. \n\nThese are used for adding and removing &3Scrolls&r from &eSpell Books&r! Throw the &eSpell Book&r in the Book Slot then the &3Scroll&r below it. If you want to remove a &3Scroll&r, click it then take it from the right and into your Inventory."
 		"{image:atm:textures/questpics/iron_spells/spells_table_gui.png width:150 height:100 align:center}"
 	]
+	quest.2A7AACC8DEC6B4C1.quest_desc: ["Large is even bigger than Big! \\n\\nAt Large, the Ball &bSpell&r doesn't appear to change in size, neither does Fiery or Snow. \\n\\nAtleast Explosions are much bigger, now being the same as TNT!"]
+	quest.2A7AACC8DEC6B4C1.quest_subtitle: "Grandis"
+	quest.2A7AACC8DEC6B4C1.title: "Large"
 	quest.2A7E3F2CD335EAD0.quest_desc: ["To start your journey making &aEssence Gear&r, you'll need to make the Inferium Armor first.\n\nThis gear can be upgraded to higher tiers, just like the Essences. You can also &9Augment&r them with the &bTinkering Table&r!"]
 	quest.2A7E3F2CD335EAD0.title: "&aInferium Armor"
 	quest.2A919F73CB09CF8B.quest_desc: [
@@ -5205,6 +5227,9 @@
 		"It can be crafted with a &3Crystal Furnace&r or &aEmerald Furnace&r, and can be crafted into a &5Netherite Furnace&r!"
 	]
 	quest.32C7D8AE859BF89E.title: "&dObsidian Furnace"
+	quest.32CE1D299668E8C4.quest_desc: ["Explosions is one of the most fun &bSpells&r, can you guess what it does? \\n\\nIT EXPLODES! \\n\\nPlease use it in Projectiles and Balls and at range, or else you might get blown up. \\n\\nUse it with &2Size Spells&r to give it a bigger radius, and use Power to make it easier to blow up Blocks!"]
+	quest.32CE1D299668E8C4.quest_subtitle: "Dissiliunt"
+	quest.32CE1D299668E8C4.title: "Explosions"
 	quest.32D2CE292E088939.title: "&cFire&r Upgrade Orb"
 	quest.32DC639415E45075.title: "&6Master of The Undead&r"
 	quest.32DF4BC46620F952.quest_desc: ["The &dAlchemy Catalyst&r can be placed under a &bMana Pool&r to allow it to perform &9Alchemy&r. This is useful to convert certain items into more useful items, like Rotten Flesh into Leather."]
@@ -5299,6 +5324,9 @@
 		"You'll need to make a few of the basic Blueprints!"
 	]
 	quest.33E3574096820D99.title: "Engineer's Workbench"
+	quest.33E948FC8D99B2C1.quest_desc: ["Hurting is using Instant Damage in a &bSpell&r. \\n\\nYou can use it against other Mobs or yourself, to deal very little Damage. \\n\\nIf you use the Power Spell with it, you can deal even more Damage!"]
+	quest.33E948FC8D99B2C1.quest_subtitle: "Nocere"
+	quest.33E948FC8D99B2C1.title: "Hurting"
 	quest.33F44B87C5496158.quest_subtitle: "Dragon Tools"
 	quest.33F44B87C5496158.title: "&1Draco Tools"
 	quest.33F4A7613764A016.quest_desc: ["Works like Importers do, only they export instead."]
@@ -5949,6 +5977,8 @@
 		""
 		"Exingishes the player if they are on fire, has a cooldown."
 	]
+	quest.3AED9F9BF41D4CE5.quest_desc: ["&cTomes of Ancient Knowledge&r are how we will get Knowledge of &eAdjectives&r... but how do we get them? \\n\\nWe can find them in Loot Chests practically everywhere! Or we can randomly get them from Wandering Traders. \\n\\nOnce you get one, you can Right Click with it to learn the Knowledge. This will allow you to use the &eAdjective&r in &9Spell Books&r. \\n\\nHow do we know which &eAdjective&r we get from which &cTome&r..? We don't! They are all named the same! \\n\\nThe only way we can tell is when we try to use the &cTome&r and get told we've already used it. Or you can use the Quests as a cheat sheet..."]
+	quest.3AED9F9BF41D4CE5.title: "&cTome of Ancient Knowledge"
 	quest.3AF30E1EC163E2E3.quest_subtitle: "Feed a Diamond Bee a Sapphire"
 	quest.3AF30E1EC163E2E3.title: "Sapphire Bee"
 	quest.3AF4E5D4839CEF8B.quest_desc: ["Once we have our hands on &eYellow Cake Uranium&r, we can send it through a &aChemical Oxidizer&r to create the gas, &2Uranium Oxide&r."]
@@ -7248,6 +7278,9 @@
 	quest.46B515C90C13A72F.title: "&2Resource Generation&r"
 	quest.46BE62C20C720D10.quest_desc: ["Makes Endermen not get angry at you like Carved Pumpkins."]
 	quest.46BE62C20C720D10.quest_subtitle: "Max: 1"
+	quest.46C76F69034C4326.quest_desc: ["This &cTome&r will make your Projectiles and Balls an &bAqua Color&r."]
+	quest.46C76F69034C4326.quest_subtitle: "Aqua"
+	quest.46C76F69034C4326.title: "&bAqua"
 	quest.46CC8E7ED59F51D2.quest_desc: ["&5Tidal Claws&r are a confirmed drop from &5&lThe Leviathan&r. \\n\\nIt has two modes, attack and grapple. Attack is with Left Click, Grapple is with Right Click. \\n\\nWhen you use its attack it will launch the claw and go through max of 5 mobs. Dealing damage and giving &5Abyssal Curse&r which will continue to damage them. \\n\\nThe grapple instead will latch on to whatever is in range and pull you toward it. \\n\\nThere's no durability so enjoy it forever!"]
 	quest.46CC8E7ED59F51D2.title: "&5Tidal Claws"
 	quest.46D32C29D9C9AB0C.quest_desc: ["&eForce Armor&r has similar stats between &7Iron&r and &bDiamond Armor&r but more Toughness. \\n\\nWhat separates them from &7Iron&r and &bDiamond&r is that they can be &6&lInfused&r and upgraded!"]
@@ -7336,6 +7369,9 @@
 		"{image:atm:textures/questpics/railcraft/rail_big_boiler.png width:100 height:100 align:center}"
 	]
 	quest.475E307844E3AF7F.title: "Boilers"
+	quest.47653E0283D676A6.quest_desc: ["Big is more of a normal size. \\n\\nOur Ball &bSpells&r will be bigger in size, closer to a Fireball. \\n\\nOur Fiery flames will now be a 3x3 and our Explosions will still be less than TNT but can now explode heavier Items like Stone. \\n\\nSnow will now place a 3x3 of two Layers of Snow."]
+	quest.47653E0283D676A6.quest_subtitle: "Mangum"
+	quest.47653E0283D676A6.title: "Big"
 	quest.476755275B948A5F.quest_desc: ["Reactors can also be used to heat up &bcoolants&r like water to create &bvapor&r, like &bSteam&r.\n\nTo do this, you'll need to build a reinforced reactor. This is built in the same way that you built your 3x3x3 reactor, but all of the parts will need to be &aReinforced Reactor Parts&r instead. I'd also suggest on it being bigger than a 3x3x3.\n\nTo input a coolant, you'll need a &9Forge Fluid Port&r. This will port in any fluids like Water into the reactor. This will also be used to export the vapor created in the reactor.\n\nIf you want, you can create a &aMekanism Fluid Port&r to convert the fluid Steam into the Mekanism gas Steam instead."]
 	quest.476755275B948A5F.quest_subtitle: "To Make Steam!!"
 	quest.476755275B948A5F.title: "Building An Actively Cooled Reactor"
@@ -7642,6 +7678,9 @@
 		""
 		"Be sure to stockpile this stuff, you'll use a lot of it in &dFoil&r and &2Fine Wire&r forms as you progress"
 	]
+	quest.4AAA7586DABA1970.quest_desc: ["Breaking is like having a Paxel as a &bSpell&r! \\n\\nBy itself it will only break weak Blocks like Grass or Leaves, if you want harder Blocks broken you'll need to use the Power &bSpell&r with it! \\n\\nDon't worry Power isn't the only addition we can use, we can also use &2Size Spells&r to adjust how many Blocks are broken. \\n\\nPlus the Silk &bSpell&r! Check out its own Quest!"]
+	quest.4AAA7586DABA1970.quest_subtitle: "Fractionis"
+	quest.4AAA7586DABA1970.title: "Breaking"
 	quest.4AAF27F0C27FBDB3.quest_desc: [
 		"Hydrogen, like chlorine, can come from many sources"
 		""
@@ -8355,6 +8394,9 @@
 	quest.50A32AC6EDBC5854.title: "&6Onion Ring&r"
 	quest.50AA597A4CF3D060.quest_desc: ["Hold a stick in your off hand and the Scroll of Strengthening in your main and hold right click."]
 	quest.50AA597A4CF3D060.title: "Strong Stick"
+	quest.50C8A63AF5668C85.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &6Golden Color&r."]
+	quest.50C8A63AF5668C85.quest_subtitle: "Aureaus"
+	quest.50C8A63AF5668C85.title: "&6Golden"
 	quest.50C9CB8FB16E453D.quest_desc: [
 		"The &bBurning Arena&r is a giant Colosseum-esque Arena within the &4Nether&r. \\nYou'll arrive at the peaceful but hot 1st floor, on the 2nd floor you'll find &b|gnited Revenants&r which you'll need to kill for &bBurning Ashes&r. \\n\\nWhich can then be used on the 3rd floor, in the Altar to summon the &b&lIgnis&r! \\n\\nOh yeah and if you're looking for Loot, check above the 3rd floor!"
 		"{image:atm:textures/questpics/cataclysm/cataclysm_arena.png width:200 height:100 align:center}"
@@ -8416,6 +8458,9 @@
 	quest.51538F4DCE24E3E7.quest_desc: ["The &5Multi&f-&2Piston&r is a confusing but helpful little Machine made for moving Blocks! \n\nRight Click the &2Piston&r to open its GUI, there we can set the Sides, Spacing, and Speed. \n\nThe Sides are the Colors of the Piston: &eYellow&r is &eUp&r, &6Orange&r is &6Down&r, &9Blue&r is &9North&r, &2Green&r is &2East&r, &4Red&r is &4South&r, and &5Purple&r is &5West&r. \n\nYou'll need to set the Colors of the Input and Output, which sides you want the Blocks to move from and to! \n\nSpacing is how many Blocks you want moved from that side, if you make it 3, it'll move 3 Blocks from one side to the other. If you set it to 30, 30 Blocks will be moved. \n\nSpeed is just how quickly it moves them. \n\nIt will need a &cRedstone Signal&r to actually work, and some Blocks like Chests, it can't move."]
 	quest.51538F4DCE24E3E7.title: "&l&5Multi&f-&2Piston"
 	quest.51592B271E56C6B2.quest_subtitle: "Tier: &a2"
+	quest.5159743702F28870.quest_desc: ["Mature is a unique &bSpell&r compared to the others. \\n\\nYou can't use it on yourself, rather you can use Projectiles and Balls to use it on Blocks and Mobs. \\n\\nWhen used on Baby Mobs it will speed up the Growth Progress! \\n\\nWhen used on Crops, it will grow them quicker, like Bonemeal."]
+	quest.5159743702F28870.quest_subtitle: "Maturis"
+	quest.5159743702F28870.title: "Mature"
 	quest.515C0527226BA50C.quest_desc: [
 		"&lAbility Type:&r Passive"
 		""
@@ -8772,6 +8817,8 @@
 	quest.54423ED491F170B5.title: "Dark Worship"
 	quest.5443AA65C0D0C599.quest_desc: ["These you can either steal it from the &5Bee Queen&r or work for it by helping her. I recommend being respectful to the &5Queen&r though, she is royalty! \n\nWhen you drink it you will get plenty of amazing Effects plus it will take away some terrible ones. \n\nIt can also be used on &6B&8e&6e&8s&r and Beehemoths to give them Effects!"]
 	quest.544791880F315D5A.quest_desc: ["Boats with Chests are Boats with Chests on them. You can open the chest while you're in the Boat or you can right-click on it. Only one person can ride in the Boat at a time."]
+	quest.544B52BA9EB266EE.quest_desc: ["The Leveling Altar is the only Block in this entire Mod. It is used to increase your &c&lSpelled&r Power Level! \\n\\nThis will effect how powerful your &bSpells&r are. Higher Level, higher Protection. Higher Level, bigger Explosions! \\n\\nTo use it, place it down then you'll need to pay up. It costs &aXP&r and &9Lapis Lazuli&r. \\nThe highest Level you can get is Level 20!"]
+	quest.544B52BA9EB266EE.title: "&l&aLeveling Altar"
 	quest.545959C8C28C6F2B.quest_desc: ["Process one of those emerald plates in a Lathe to get your Emerald Lens!"]
 	quest.545A5E98F829C2AC.quest_desc: ["&4&lVampirism&r a Mod that is new to &6&lAllTheMods&r! \\n\\nIt is all about the war between &4Vampires&r and &bVampire Hunters&r! Best part is, we get to join in! \\n\\nCheck out the Quest Page to learn more on how to join and what to do."]
 	quest.545A5E98F829C2AC.title: "&4&lVampirism"
@@ -8785,6 +8832,9 @@
 	]
 	quest.54735C5FCD2077B3.quest_desc: ["&aMystical Agriculture&r is a resource generation mod that allows you to grow a large variety of vanilla and modded resources using &aSeeds&r."]
 	quest.54735C5FCD2077B3.title: "&aMystical Agriculture!"
+	quest.547FD37786C591DF.quest_desc: ["Fiery will do as the name suggests, adds Fire! \\n\\nUse it as a Projectile or Ball to spread Fire onto Blocks. Or use it on your Self to get put on Fire... I don't know why you'd want that though... \\n\\nThe Fire acts like normal Fire though, it can spread and be put out. \\n\\nThis &bSpell&r is effected by &2Sizes&r to spread even more Fire!"]
+	quest.547FD37786C591DF.quest_subtitle: "Ignis"
+	quest.547FD37786C591DF.title: "Fiery"
 	quest.54822638CC243004.quest_desc: ["Pufferfish are pretty cool, same with Guardians, same with Thorns! Every damage dealt while wearing the &9Reflecting Necklace&r will accumulate points. Either after 5 seconds from last damage or when the points are full, the &9Necklace&r will shoot out &5Obsidian Spikes&r in all directions damaging all nearby."]
 	quest.54822638CC243004.quest_subtitle: "Found in Ruined Portals, Nether Fortresses, and Bastions"
 	quest.54822638CC243004.title: "&9Reflecting Necklace"
@@ -9094,6 +9144,9 @@
 		"We will need a lot of Naq Alloy, so we can make all of the Naq Alloy Frames needed for the Rotary Hearth."
 	]
 	quest.57D12E37E980FDBB.quest_subtitle: "This is Naq the alloy you were looking for"
+	quest.57D3930B308F3E71.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &9Blue Color&r."]
+	quest.57D3930B308F3E71.quest_subtitle: "Caeruleus"
+	quest.57D3930B308F3E71.title: "&9Blue"
 	quest.57F1B60DEA622275.quest_desc: ["That wafer needs to be cut into chips now, so back to the Cutter with these"]
 	quest.57F47BA495B27F83.quest_desc: ["&9Tier 1&r Harvest Level is the lowest pickaxe level, needing a pickaxe. Any pickaxe can mine these. Items that are Tier 1 would be like Stone, Furnace, and Coal Ore."]
 	quest.57F47BA495B27F83.title: "&9Harvest Tier 1"
@@ -9221,6 +9274,9 @@
 	quest.58D5BD3106BFD94A.quest_desc: ["Craft the next version of the book. I promise you, it's worth it.\n\nI'll even give you a Diamond back."]
 	quest.58D5BD3106BFD94A.quest_subtitle: "This is totally worth it"
 	quest.58D5BD3106BFD94A.title: "Cooking with the power of Diamonds"
+	quest.58DD85CDBB16F61F.quest_desc: ["Small is obviously the smallest &2Spell Size&r we can get. \\n\\nIt will make our Balls smaller than normal, closer to a Snowball in size. \\n\\nThis will also effect some &bSpells&r. Fiery will only cause a 1x1 of Fire, and Explosions will barely cause an Explosion, it will only break weak Blocks like Dirt and Gravel. \\n\\nAlso Snow will only place a 1x1 of one Layer Snow."]
+	quest.58DD85CDBB16F61F.quest_subtitle: "Parvus"
+	quest.58DD85CDBB16F61F.title: "Small"
 	quest.58DDD32F849940A0.quest_subtitle: "Tier: &d6"
 	quest.58E3D29E2E034BA2.quest_desc: [
 		"You'll find a ton of ore in the Other. It's filled to the brim with amazing ore generation, as well as Ancient Forests."
@@ -9405,6 +9461,9 @@
 	]
 	quest.5B0FF8E0B58A4150.quest_subtitle: "Walnut + Wild Cherry"
 	quest.5B114CE7192A0549.quest_subtitle: "Beech + Birch"
+	quest.5B1BF0F4E3E4D387.quest_desc: ["Monstrous is the largest &2Spell Size&r we can get. Even bigger than Large and Big! \\n\\nThe Ball Spells, Fiery, and Snow are all the same unfortunately. \\n\\nThe Explosions are, thankfully, much greater! They are now closer to an End Crystal Explosion."]
+	quest.5B1BF0F4E3E4D387.quest_subtitle: "Immanis"
+	quest.5B1BF0F4E3E4D387.title: "Monstrous"
 	quest.5B1C5C9F9CCC51EB.quest_desc: [
 		"A little sulfuric acid with cyan dye and 2 salt dust will make the liquid cyan dye"
 		""
@@ -9675,6 +9734,9 @@
 	quest.5DE863C3FB6492BE.title: "&4Cultist Outfit"
 	quest.5DF26D712B643655.quest_subtitle: "Copper + Zinc"
 	quest.5DF26D712B643655.title: "Brass Bee"
+	quest.5DF5207C676119F3.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &aGreen Color&r."]
+	quest.5DF5207C676119F3.quest_subtitle: "Viridis"
+	quest.5DF5207C676119F3.title: "&aGreen"
 	quest.5DFE3CB5B0130A7A.quest_desc: ["There's plenty of plant life on top of the Shimmer River, some you can stand on!"]
 	quest.5DFE866011AB92DD.quest_desc: ["Now you are One step closer to being able to make &dLuV&r tier machines!"]
 	quest.5DFE866011AB92DD.quest_subtitle: "Getting tired of &dLuV &7puns?"
@@ -10623,6 +10685,9 @@
 		""
 		"Increases area mined at once. When installed on higher tier tools the maximum area mined is increase. Mined area can be configured in the menu."
 	]
+	quest.66A1087E9C419FEE.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &0Black Color&r."]
+	quest.66A1087E9C419FEE.quest_subtitle: "Ater"
+	quest.66A1087E9C419FEE.title: "&8Black"
 	quest.66B503EB65475B98.quest_subtitle: "Tier: &63"
 	quest.66B5A8D259E12BF5.quest_desc: ["Wait so you're telling me it has the same stats as &cNetherite&r? Plus Spell Boosts? And doesn't need Smithing Templates to craft? \n\nWhy would anyone want regular &cNetherite&r!"]
 	quest.66B5A8D259E12BF5.quest_subtitle: "20"
@@ -11274,6 +11339,9 @@
 	quest.6C905CC5F4341985.quest_desc: ["&d&lArs Nouveau&r is one of the most popular &dMagic Mods&r out there! \\n\\nIt is a very important Mod here in &d&lAllTheMagic: Arcana&r, especially its &dSource&r. \\n\\nIt has a Quest Page you can check out to learn more!"]
 	quest.6C905CC5F4341985.title: "&d&lArs Nouveau"
 	quest.6C9191DA4B1039D6.quest_desc: ["Menril Berries give you Night Vision for a short amount of time when eaten."]
+	quest.6C93314ED31E3F34.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &eYellow Color&r."]
+	quest.6C93314ED31E3F34.quest_subtitle: "Flavus"
+	quest.6C93314ED31E3F34.title: "&eYellow"
 	quest.6CA01DCE1F4A0EC3.quest_desc: ["The next stage of the mod requires the collection of &3Crude Oil&r. This Oil can be found naturally on the surface of the overworld."]
 	quest.6CA01DCE1F4A0EC3.quest_subtitle: "The Path to Plastic"
 	quest.6CA01DCE1F4A0EC3.title: "Crude Oil"
@@ -11381,6 +11449,9 @@
 	quest.6D952057FBBCEDC0.quest_desc: ["To get all the higher &2Levels&r after 4 we'll need a Multiblock! \\n\\nTechnically you don't need to find the Structure as you can Craft all the Blocks but come on! it's free Blocks! \\n\\nThe most important Block is the &4&lAltar of Infusion&r, this is where we'll add our Items and start the Ritual. \\n\\nThe &4&lAltar&r won't work without enough &7Altar Pillars&r though..."]
 	quest.6D952057FBBCEDC0.title: "Find a &4&lVampire Altar&r"
 	quest.6D95CB7906C0DC84.quest_subtitle: "Beech + Cacao"
+	quest.6D9BBE24C098FFB1.quest_desc: ["This &cTome&r will make your Projectiles and Balls a White Color."]
+	quest.6D9BBE24C098FFB1.quest_subtitle: "Albus"
+	quest.6D9BBE24C098FFB1.title: "White"
 	quest.6D9CFCD81A23BB3B.quest_desc: [
 		"&lAbility Type:&r Passive"
 		""
@@ -11814,6 +11885,9 @@
 		"{image:atm:textures/questpics/hexerei/hex_dark.png width:200 height:100 align:center}"
 	]
 	quest.715B9E2049188C56.title: "&8Dark Covens"
+	quest.716083B26DED0098.quest_desc: ["Liquid isn't about placing Water Source Blocks. And no, not about placing Lava Source Blocks either. \\n\\nThe &bSpell&r is closer to the use of a Water Splash Potion! Yes, those exist! \\n\\nWhen used as a Projectile it will put out all Flames on Blocks or Mobs in the area. \\n\\nWhen used on yourself, it will put out any Flames that are currently devouring your Flesh! \\n\\nThis &bSpell&r is very helpful in &4&lThe Nether&r... if you can use it there."]
+	quest.716083B26DED0098.quest_subtitle: "Liquidis"
+	quest.716083B26DED0098.title: "Liquid"
 	quest.71667FFC8011525C.quest_subtitle: "Magmatic + Leafcutter"
 	quest.71667FFC8011525C.title: "Coal Bee"
 	quest.7166F2CA3C5DA720.quest_desc: ["This ZPM Component pairs up nicely with the ZPM Sensor!"]
@@ -11928,6 +12002,9 @@
 	quest.7255B9A6E1319DCA.quest_subtitle: "Sapphires"
 	quest.7255B9A6E1319DCA.title: "Almandine Vein"
 	quest.72569275EDE9FA23.quest_desc: ["Breed 6 &6Honey Slimes&r together with Sugar."]
+	quest.7265FC02064BB8F0.quest_desc: ["Silk is another &bSpell&r that does nothing on its own, instead we'll need to use it with Breaking. \\n\\nWhen used with Breaking, the Blocks Mined will Drop as if you used the Silk Touch Enchantment. \\n\\nGrass will give Grass instead of Dirt. Stone will give Stone instead of Cobble."]
+	quest.7265FC02064BB8F0.quest_subtitle: "Sericum"
+	quest.7265FC02064BB8F0.title: "Silk"
 	quest.726A627BD7654E0C.quest_desc: ["Not much change from &cNetherite&r to &9Warden&r for these Tools. \\n\\nThe Pickaxe is same Tier and same Speed. Shovels can still make Pathways and again same Speed. Hoes can still make Farmland and also same Speed. \\n\\nOnly real change is higher Attack Damage for all of them. \\n\\nFunny enough that means &9Warden Hoes&r have higher Damage than all &2&lVanilla&r Hoes!"]
 	quest.726A627BD7654E0C.title: "&9Warden&r Tools"
 	quest.7270A37E31A70C91.quest_desc: ["&6&lHoly&r is for all the Medic/Support players. It's mostly meant for healing and helping. \n\n&6&lHoly's&r Focus Material is &6Divine Pearls&r which are crafted. You can make Runes with those or kill the &6&lPriest&r to get &6Holy Runes&r. \n\n&6Holy Scrolls&r are &fWhite&r with &6Gold&r texts."]
@@ -12263,6 +12340,9 @@
 		"You may want to figure a way to passively produce these..."
 	]
 	quest.754229E1F1D2DA8A.quest_subtitle: "I prefer the window seat"
+	quest.754CA5E4AE7D2A90.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &dPink Color&r."]
+	quest.754CA5E4AE7D2A90.quest_subtitle: "Roseus"
+	quest.754CA5E4AE7D2A90.title: "&dPink"
 	quest.75560045ED084900.quest_desc: [
 		"Most seeds are simple to make, but to make &9Mob Seeds&r, you'll need to head to the Nether to pick up some &8Soulium&r. "
 		""
@@ -12815,6 +12895,13 @@
 	]
 	quest.7A359C1F5E041C4F.title: "&bMana&r"
 	quest.7A3DD8CAD6A5692D.quest_subtitle: "Red Delicious Apple + Sugar Maple"
+	quest.7A3E3E61B660645F.quest_desc: [
+		"With just a &9Lapis Lazuli &fand a &7Book&r we can get our start to &bSpell Crafting&r, from &c&lSpelled&r! \\n\\nCurrently you won't be able to use it, you'll need &eAdjectives&r to be able to. Regardless I'll still teach you how to use it! \\n\\nWhen you finally get Knowledge on &eAdjectives&r, we can open our &9Spell Book&r with Right Click. This will give us a ton of options. \\n\\nAt the top is a sorted list of our &eAdjectives&r. We'll have whichever we unlocked, plus by Default the 4 Options for &bSpells&r. These will be discussed on the 2nd Page! \\n\\nThen, we can either Type the &eAdjective&r into the Text Bar, or we can Click an &eAdjective&r in the List, then Click Select to add it. We can see the added &bSpells&r in the &9Spell Book&r Icon. This will also tell you what you missed. \\n\\nAfter, when your &9Spell Book&r is ready, Click the top right to Name your &9Spell Book&r. This will set the &9Spell Book&r to whatever you choose, and can't be undone. "
+		"{@pagebreak}"
+		"The 4 Default Options for &bSpells&r are: Projectile, Ball, Self, and Self. \\n\\nProjectile, will send your &bSpell&r right in the direction you are looking, like a Fireball! I recommend using this for Explosive. \\n\\nBall, is similar to Projectile but will drop in distance. Similar to an Arrow or a Snowball. Not best for Range but still fun! \\n\\nSelf and Self, both apply the &bSpell&r directly to you! I don't know why there is 2... I'd recommend using Protecting for these instead of Fiery!"
+	]
+	quest.7A3E3E61B660645F.quest_subtitle: "Spell Book"
+	quest.7A3E3E61B660645F.title: "&l&cSpelled"
 	quest.7A514E27E1A7FE32.quest_desc: ["Diamonds also allow us to create some cool gadgets to help us build using the mod &l&cBuilding Gadgets&r.\n\nThese are great tools to help you build bigger bases, or for clearing out space using the &cDestruction Gadget&r."]
 	quest.7A514E27E1A7FE32.title: "&l&cBuilding Gadgets&r"
 	quest.7A615E2A152917AD.quest_desc: ["For this you need 2 &5Netherite Furnaces&r and 7 pieces of glass which are each the color of the Rainbow. &cRed&r, &6Orange&r, &eYellow&r, &2Green&r, &3Blue&r, &9Indig&r- &5Purple&r, and &5Vi&r-&dMagenta&r. Yep! The whole Roy G. Bpm!"]
@@ -12944,6 +13031,9 @@
 	quest.7BFC24607189B6D0.quest_desc: ["Makes you swim faster."]
 	quest.7BFC24607189B6D0.quest_subtitle: "Max: 1"
 	quest.7BFE7DAF18981843.quest_subtitle: "Required for Drill recipes"
+	quest.7C007B4220170217.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &cRed Color&r."]
+	quest.7C007B4220170217.quest_subtitle: "Rubrum"
+	quest.7C007B4220170217.title: "&cRed"
 	quest.7C04AA69BE44BCE8.quest_desc: ["This ZPM Component pairs up nicely with the ZPM Emitter!"]
 	quest.7C04AA69BE44BCE8.quest_subtitle: "Sensing Sensors"
 	quest.7C07D6A33F7ADB02.quest_desc: [
