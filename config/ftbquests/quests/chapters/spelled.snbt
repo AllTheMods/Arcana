@@ -1,0 +1,1261 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "spelled"
+	group: "556ED01A73626AF5"
+	icon: {
+		id: "spelled:ancient_knowledge_tome"
+	}
+	id: "5B2283AF05DA36DE"
+	images: [
+		{
+			height: 2.3d
+			image: "atm:textures/questpics/spelled/spelled_title.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/spelled/spelled_sizes.png"
+			rotation: 0.0d
+			width: 2.5d
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/spelled/spelled_colors.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/spelled/spelled_effects.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.0d
+			y: 6.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			hide_dependent_lines: true
+			id: "7A3E3E61B660645F"
+			rewards: [
+				{
+					count: 3
+					id: "77E90BB9653364B6"
+					item: {
+						count: 1
+						id: "spelled:spell_book"
+					}
+					type: "item"
+				}
+				{
+					id: "74C68A6DE11E74A2"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "6D7D15124709380E"
+				item: { count: 1, id: "spelled:spell_book" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:black_dye"
+			}
+			id: "66A1087E9C419FEE"
+			rewards: [
+				{
+					count: 3
+					id: "10D0DA9FE242EC88"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "1E5865425B92877A"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "1CE7B46F51599C65"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 0.9d
+			tasks: [{
+				id: "34BC1E8AC01E59BF"
+				item: { components: { "spelled:unlock": "ater" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:orange_dye"
+			}
+			id: "50C8A63AF5668C85"
+			rewards: [
+				{
+					count: 3
+					id: "19E0486C0B43A57D"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "1C24217F8E3B52E9"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "32307A73FDCF83DD"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 0.9d
+			tasks: [{
+				id: "2BBDE103679799A9"
+				item: { components: { "spelled:unlock": "aureus" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:blue_dye"
+			}
+			id: "57D3930B308F3E71"
+			rewards: [
+				{
+					count: 3
+					id: "64991F218459984A"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "002BA1E0EB226C37"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "7360110EF34F0DA0"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 0.9d
+			tasks: [{
+				id: "43F7AD93583F0898"
+				item: { components: { "spelled:unlock": "caeruleus" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:lime_dye"
+			}
+			id: "5DF5207C676119F3"
+			rewards: [
+				{
+					count: 3
+					id: "35E68F0FA70DA6B5"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "76F40F87D966363C"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "77AA30CB23B563E8"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 0.9d
+			tasks: [{
+				id: "1F2B02541BACDA6D"
+				item: { components: { "spelled:unlock": "viridis" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:light_blue_dye"
+			}
+			id: "46C76F69034C4326"
+			rewards: [
+				{
+					count: 3
+					id: "6E92F884A4013B0F"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "0CC1CD783EC9A032"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "1C1A2A1D124F72B9"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 0.9d
+			tasks: [{
+				id: "74E7C6061D4A6279"
+				item: { components: { "spelled:unlock": "aqua" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:red_dye"
+			}
+			id: "7C007B4220170217"
+			rewards: [
+				{
+					count: 3
+					id: "391E952AA70D8665"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "29A86380F2B1A760"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "18D7B473A3BDEDD0"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 0.9d
+			tasks: [{
+				id: "1E42C60E3FED5332"
+				item: { components: { "spelled:unlock": "rubrum" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:pink_dye"
+			}
+			id: "754CA5E4AE7D2A90"
+			rewards: [
+				{
+					count: 3
+					id: "6909FBA2CEA0F9D2"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "35B9A8F72F1984DF"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "187344F1C7C848C9"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 0.9d
+			tasks: [{
+				id: "1A6790C108BAC523"
+				item: { components: { "spelled:unlock": "roseus" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:yellow_dye"
+			}
+			id: "6C93314ED31E3F34"
+			rewards: [
+				{
+					count: 3
+					id: "5BDDF11EE9F28011"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "1790CAA1107F7070"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "6036711CB63AA99F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 0.9d
+			tasks: [{
+				id: "1BF72FE255BF3924"
+				item: { components: { "spelled:unlock": "flavus" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:white_dye"
+			}
+			id: "6D9BBE24C098FFB1"
+			rewards: [
+				{
+					count: 3
+					id: "2D53EDB1AF6844AB"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "37E8C6B71ECC6E2D"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "7C5328E0C70D7191"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 0.9d
+			tasks: [{
+				id: "7E39876973C809CB"
+				item: { components: { "spelled:unlock": "albus" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:oak_button"
+			}
+			id: "58DD85CDBB16F61F"
+			rewards: [
+				{
+					count: 3
+					id: "0BE16B796B366462"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "39A30009DB521464"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "4448734A75FC67ED"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 0.8d
+			tasks: [{
+				id: "453F5C85AEDE0022"
+				item: { components: { "spelled:unlock": "parvus" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:oak_pressure_plate"
+			}
+			id: "47653E0283D676A6"
+			rewards: [
+				{
+					count: 3
+					id: "3691E7E8AF12D04B"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "7D4882A3FA52C5A6"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "64396BE3DC6B04C7"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 0.9d
+			tasks: [{
+				id: "2E90B71C5D780067"
+				item: { components: { "spelled:unlock": "magnum" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:oak_slab"
+			}
+			id: "2A7AACC8DEC6B4C1"
+			rewards: [
+				{
+					count: 3
+					id: "67005DAFBAA47D52"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "3A1B39B3AB9004D2"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "294D99C170FB1ACB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "7A27E1CEBA0802C2"
+				item: { components: { "spelled:unlock": "grandis" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:oak_planks"
+			}
+			id: "5B1BF0F4E3E4D387"
+			rewards: [
+				{
+					count: 3
+					id: "65A4EEE7F23666D7"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "4177EDF98383357A"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "5C72FD1C68AC2840"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "22B88221EC4C49D5"
+				item: { components: { "spelled:unlock": "immanis" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:water_bucket"
+			}
+			id: "716083B26DED0098"
+			rewards: [
+				{
+					count: 3
+					id: "2FB4528D555476C0"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "49006D065D2F7E3D"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "1E7AF50B287657BC"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "64CBA9228F6DD93E"
+				item: { components: { "spelled:unlock": "liquidus" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:snowball"
+			}
+			id: "058685467D6E1D7F"
+			rewards: [
+				{
+					count: 3
+					id: "0D64E4402902E124"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "6E13DA6C8A5AFBD0"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "0A192F4D367845DE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "2733CD4496DB980F"
+				item: { components: { "spelled:unlock": "nix" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:packed_ice"
+			}
+			id: "15DDD9DAD5AB3536"
+			rewards: [
+				{
+					count: 3
+					id: "7D0226F8BA156C0E"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "307AF16ECA911B9C"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "1C2F23BB188F7F65"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "2492501B569DD31E"
+				item: { components: { "spelled:unlock": "frigus" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:tnt"
+			}
+			id: "32CE1D299668E8C4"
+			rewards: [
+				{
+					count: 3
+					id: "10B8EF45B1667991"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "3A7EADD2549DAEB4"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "542F75E0195EA437"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "1EF8E0CDDA14554C"
+				item: { components: { "spelled:unlock": "dissiliunt" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:harming"
+					}
+				}
+				id: "minecraft:tipped_arrow"
+			}
+			id: "33E948FC8D99B2C1"
+			rewards: [
+				{
+					count: 3
+					id: "1E0E6E0ACF0BE790"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "07D4AF860796FB84"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "601BF7370349ED4A"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "0521AF20E09B2D74"
+				item: { components: { "spelled:unlock": "nocere" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:iron_chestplate"
+			}
+			id: "12542030385098D7"
+			rewards: [
+				{
+					count: 3
+					id: "0B7DB7C25BB16373"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "047FEBF902B14E53"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "295B5C210F1693FF"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "1A1A796E77669DDA"
+				item: { components: { "spelled:unlock": "praesidium" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:piston"
+			}
+			id: "23429DB4E7E45C72"
+			rewards: [
+				{
+					count: 3
+					id: "7FF34C6D16104447"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "23D68E8C2D540EA6"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "28E472E88C210E92"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "1B9B4F47F140B595"
+				item: { components: { "spelled:unlock": "propellentibus" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:flint_and_steel"
+			}
+			id: "547FD37786C591DF"
+			rewards: [
+				{
+					count: 3
+					id: "0D7277DD6FE7D69B"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "2B1DB957452D3C57"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "5785C3C7D2607DF6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "540593E0898BAC25"
+				item: { components: { "spelled:unlock": "ignis" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:bow"
+			}
+			id: "21D72FFD9FF798EA"
+			rewards: [
+				{
+					count: 3
+					id: "468274E1147E7C95"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "720D4CED8DEAE807"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "78760F6B25F995A9"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "113528F310B3EB51"
+				item: { components: { "spelled:unlock": "vis" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:cobweb"
+			}
+			id: "7265FC02064BB8F0"
+			rewards: [
+				{
+					count: 3
+					id: "1E6463801912C9D9"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "78B459079FF34015"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "4736CA108244E335"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "195562D9893F6072"
+				item: { components: { "spelled:unlock": "sericum" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"7A3E3E61B660645F"
+				"3AED9F9BF41D4CE5"
+			]
+			icon: {
+				id: "minecraft:bone_meal"
+			}
+			id: "5159743702F28870"
+			rewards: [
+				{
+					count: 3
+					id: "1D73B8D3D096ECB6"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "09582EEE94EE5F34"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "3C2911EDFE159127"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "26732360CCF22608"
+				item: { components: { "spelled:unlock": "maturis" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.5d
+		}
+		{
+			hide_dependent_lines: true
+			id: "3AED9F9BF41D4CE5"
+			rewards: [
+				{
+					count: 3
+					id: "12533CA00DFFD5F1"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "61FEB239AEFB2CF9"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "6CBFC58407B35A18"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "197F8E0B40AF9E57"
+				item: { count: 1, id: "spelled:ancient_knowledge_tome" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			hide_dependent_lines: true
+			id: "544B52BA9EB266EE"
+			rewards: [
+				{
+					count: 10
+					id: "65872DF1202BE759"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "27F8BA2BDDF7087A"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{
+				id: "3CB74C73DED13F13"
+				item: { count: 1, id: "spelled:leveling_altar" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"3AED9F9BF41D4CE5"
+				"7A3E3E61B660645F"
+			]
+			icon: {
+				id: "minecraft:ghast_tear"
+			}
+			id: "04C94741762FE59E"
+			rewards: [
+				{
+					count: 3
+					id: "3B9E52825CC2BDDC"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "04D7ACE61A112010"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "0A66AF7137CAEBB4"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "547EBE3581481643"
+				item: { components: { "spelled:unlock": "sanitatem" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"3AED9F9BF41D4CE5"
+				"7A3E3E61B660645F"
+			]
+			icon: {
+				id: "minecraft:iron_pickaxe"
+			}
+			id: "4AAA7586DABA1970"
+			rewards: [
+				{
+					count: 3
+					id: "4F23CBD929C5544D"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "6CF2AAA5C81E00F5"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "3DC6CD109C42C97C"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.1d
+			tasks: [{
+				id: "1FB1F1F74F8B7402"
+				item: { components: { "spelled:unlock": "fractionis" }, count: 1, id: "spelled:ancient_knowledge_tome" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.5d
+		}
+	]
+}
