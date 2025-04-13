@@ -74,7 +74,6 @@
 		}
 		{
 			dependencies: ["37BD61FCD462AA8C"]
-			hide_dependency_lines: true
 			id: "037488EF1F3581CE"
 			rewards: [
 				{
@@ -88,19 +87,12 @@
 					xp: 100
 				}
 			]
-			tasks: [
-				{
-					id: "660FEBB8BF6EF1A1"
-					item: { count: 1, id: "ae2:energy_cell" }
-					type: "item"
-				}
-				{
-					id: "1DCF3545FC683DA8"
-					item: { count: 1, id: "ae2:dense_energy_cell" }
-					type: "item"
-				}
-			]
-			x: 4.5d
+			tasks: [{
+				id: "660FEBB8BF6EF1A1"
+				item: { count: 1, id: "ae2:energy_cell" }
+				type: "item"
+			}]
+			x: 4.0d
 			y: -0.5d
 		}
 		{
@@ -124,7 +116,7 @@
 				item: { count: 1, id: "ae2:energy_card" }
 				type: "item"
 			}]
-			x: 6.5d
+			x: 6.0d
 			y: -0.5d
 		}
 		{
@@ -699,8 +691,8 @@
 				item: { count: 1, id: "ae2:me_p2p_tunnel" }
 				type: "item"
 			}]
-			x: 23.5d
-			y: 3.0d
+			x: 22.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["74FC0DDDB91DB172"]
@@ -749,8 +741,8 @@
 				item: { count: 1, id: "ae2:memory_card" }
 				type: "item"
 			}]
-			x: 23.5d
-			y: 1.5d
+			x: 22.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["2F556E7919582D2D"]
@@ -873,88 +865,8 @@
 				item: { count: 1, id: "ae2:quartz_fiber" }
 				type: "item"
 			}]
-			x: 22.5d
-			y: 4.0d
-		}
-		{
-			id: "3DDB0DDA7571B2C1"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "31E1DF2E7DC666B4"
-					table_id: 5871764666515020368L
-					type: "random"
-				}
-				{
-					id: "1B183D10C76EE733"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "rsquare"
-			tasks: [{
-				id: "3E4BDC8D3B7F727C"
-				item: { count: 1, id: "ae2:level_emitter" }
-				type: "item"
-			}]
-			x: 16.0d
-			y: -2.5d
-		}
-		{
-			dependencies: ["3DDB0DDA7571B2C1"]
-			id: "1AAF0B31B47AF23D"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "146AF749E02F3C59"
-					table_id: 5871764666515020368L
-					type: "random"
-				}
-				{
-					id: "21BCF542DE411294"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "circle"
-			tasks: [
-				{
-					id: "4D92DB15F45D3F10"
-					item: { count: 1, id: "ae2:redstone_card" }
-					type: "item"
-				}
-				{
-					id: "651CCE50554D6ABC"
-					item: { count: 1, id: "ae2:toggle_bus" }
-					type: "item"
-				}
-			]
-			x: 18.0d
-			y: -2.5d
-		}
-		{
-			id: "1F7DFA5AA65F2812"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "3D0858411163F290"
-					table_id: 5871764666515020368L
-					type: "random"
-				}
-				{
-					id: "48294E744AD0F9A6"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "circle"
-			tasks: [{
-				id: "495253F1301A8070"
-				item: { count: 1, id: "ae2:speed_card" }
-				type: "item"
-			}]
-			x: 19.0d
-			y: -3.5d
+			x: 23.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["40A7CC56DACC2623"]
@@ -1415,6 +1327,7 @@
 				}
 			]
 			shape: "diamond"
+			size: 1.25d
 			tasks: [{
 				id: "23AA2E9BF83F9D86"
 				item: { count: 1, id: "arseng:source_acceptor" }
@@ -1548,6 +1461,7 @@
 				"79C0286813FA778A"
 				"37BD61FCD462AA8C"
 			]
+			hide_dependency_lines: true
 			id: "4BE1868F1BE691BA"
 			rewards: [
 				{
