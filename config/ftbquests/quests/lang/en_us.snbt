@@ -14,6 +14,7 @@
 	chapter.13B172FA69904D9F.title: "Deeper and Darker"
 	chapter.18A429E7F56AF5A9.title: "Bounty Board"
 	chapter.193F91842D2ED7D9.title: "Industrial Foregoing"
+	chapter.1D42B373285DEF81.chapter_subtitle: ["Plus Productive Metalworks"]
 	chapter.1D42B373285DEF81.title: "Silent Gear"
 	chapter.1DB294A8F8686321.title: "Basic Storage"
 	chapter.1FAAEF0B9FD05CB9.title: "Productive Trees"
@@ -114,8 +115,6 @@
 	quest.00589023093A082A.title: "&4Enhanced Blood-Infused Iron"
 	quest.005CC8A3325FE2BD.quest_desc: ["&bFroststeel&r, &7Cloggrum&r, and &eRegalium&r can be Mined for. \n&cUtheric&r and &aForgotten&r you need to kill for. \n\nAny other questions?"]
 	quest.005CC8A3325FE2BD.title: "&2&lUndergarden&r Metals"
-	quest.00611844AFD5C31E.quest_desc: ["Lots of Items and Blocks need Energy in AE2! Even the Charger, Inscriber, and ME Controller. \\n\\nAE2 has its own Energy version named AE, but currently has no way of making it on its own... \\n\\nWait, this is a Magic Modpack that means we don't have: Mekanism, Industrial Foregoing, Thermal Foundation, Immersive Engineering, Powah, Extreme Reactors, or even Flux! \\n\\nHow are we supposed to Power our Machines then?"]
-	quest.00611844AFD5C31E.quest_subtitle: "Plug in"
 	quest.006C1AC70B906CB0.quest_desc: [
 		"&a&lNature's Aura&r is a Mod I don't know much about. What I do know is that involves these funky little Flowers! "
 		""
@@ -406,6 +405,8 @@
 	quest.034FC4BCCCD7D154.quest_subtitle: "Tier 3 Base Upgrade"
 	quest.035C52EF63AD23A7.quest_desc: ["Hence the name of the mod, &lRailCraft&r, and what it revolves around, &5Trains&r, &6Rails&r are pretty important. \n\nThe &2Vanilla&r ones work for lots of these but come on we all know they suck. Upgraded ones will need some more special items for their recipes! Craft them! (They might require using machines to make the items so check out that part of the quest!)"]
 	quest.035C52EF63AD23A7.title: "&6&lRails&r!"
+	quest.036D5767E07005BC.quest_desc: ["&bDrains&r are what we'll use to extract our the &7Liquid Metals&r. Yes, it is unfortunately too hot for our Hands or Buckets. \\n\\nConnect the &c&lFoundry&r &7Tap&r to the &bDrain&r, to drain out the &7Liquid Metals&r when Right Clicking the Tap. \\n\\nYou can also view the amounts of Liquids in the &c&lFoundry&r when viewing the &bDrain&r!"]
+	quest.036D5767E07005BC.title: "&c&lFoundry&r &bDrains"
 	quest.0373198D54FA6B93.quest_subtitle: "Double it Up"
 	quest.037415D5B965E214.quest_desc: ["This upgrade makes it so the Backpack can't die."]
 	quest.037488EF1F3581CE.quest_desc: ["By default, an ME network on its own only has an internal buffer of 800AE without an ME Controller, with the controller adding an extra 8kAE per block. For large enough networks, this can be insufficient and may cause a network to power off intermittently when trying to recoup power for any connected devices.\n\nThe &bEnergy Cell&f allows for an ME network to hold significantly more energy, adding another 200kAE per regular Energy Cell and 1.6MAE per &bDense&f Energy Cell. These can also be placed anywhere in the network to provide the increased energy buffer."]
@@ -737,6 +738,8 @@
 	quest.06094615950AC062.title: "Other Conveyor Upgrades"
 	quest.061244C38F05CBFE.quest_subtitle: "Epic"
 	quest.061244C38F05CBFE.title: "&5Arcane Seeds&r"
+	quest.061A51A0EC13CA0F.quest_desc: ["Now that we have a &aController&r, &bDrains&r, and &4Tanks&r, we'll need a few more Blocks. \\n\\nFirst, is &6Liquid Heating Coils&r. These will make up the floor of the &c&lFoundry&r, and are needed to Heat up the &c&lFoundry&r. \\n\\nLast is either &c&lFoundry&r Windows or &cFire Bricks&r. These are what we'll use for the rest of the structure! The building blocks, quite literally. \\n\\nThe &c&lFoundry&r will not need the frame built out, so every corner can remain empty; but it must have 4 Walls and a Floor to be completed. The &aController&r will tell you where a Block is missing, if there is one. \\n\\nThe &c&lFoundry&r can be as small as 1x1 on the inside, as long as it has a &aController&r, &6Liquid Heating Coils&r, and the other Walls filled! \\n\\nI don't recommend making one so small though, as the bigger the &c&lFoundry&r, the more space it has in it! \\n\\nYou'll know the &c&lFoundry&r is built, when the &aController&r lights up like a Furnace, and the &6Liquid Heating Coils&r turn &6Orange&r."]
+	quest.061A51A0EC13CA0F.title: "Building the &c&lFoundry&r"
 	quest.06242EEB80032F27.quest_desc: [
 		"Lets add another clean room to our arsenal! Except this one will not only ensure the room is clean, it will sterilize the environment. "
 		""
@@ -937,8 +940,6 @@
 	quest.0837E35C9C6881B4.quest_subtitle: "Increases RF Capacity and Transfer Rate"
 	quest.0837E35C9C6881B4.title: "Expanded RF Coil"
 	quest.083ABBA1C45FF960.quest_subtitle: "Just a Lawn Mower"
-	quest.083D458032F0325C.quest_desc: ["The &bME Export Bus&f periodically spits items in its whitelist filter out to whatever external storage the bus is facing. Unlike the Import Bus, the Export Bus cannot work without being filtered."]
-	quest.083D458032F0325C.quest_subtitle: "The O"
 	quest.0843A52B84A94ECD.quest_desc: ["The &6&lInfuser&r will need 2 forms of &cEnergy&r. \\n\\n1. is &eForce Fuel&r. This can be added with &eForce Gems&r or even by piping in &eForce Liquid&r. \\n\\n2. is &cRF&r. Currently we are looking for &dMagical&r ways of adding &cRF&r but for now we can use the &eForce Generator&r!"]
 	quest.0843A52B84A94ECD.title: "&eForce Fuel&r and &cEnergy&r"
 	quest.08457BEED799E600.quest_desc: ["These new &7Carts&r are mostly for laying down &6Tracks&r.\n\nThe &7Track Layer&r places down &6Tracks&r while the &7Track Remover&r removes &6Tracks&r.\n\nThe &7Track Relayer&r replaces the &6Tracks&r with different ones and the &7Track UnderCutter&r replaces the blocks beneath the &6Tracks&r."]
@@ -1518,7 +1519,7 @@
 	quest.0DD389A24F5F8CDD.quest_subtitle: "Im a Barbie Girl, In a Barbie world... If you know, you know."
 	quest.0DEED7B2A17BA110.quest_desc: ["Okay this is gonna take a little to explain but it's important. \\n\\n&aBottle O' Enchanting&r can be made a few different ways but one is with &eForce Rod&r and any &5Enchanting Book&r. \\n\\nThen the &bBottle O' Enchanting&r can be used to &6&lInfuse&r with a Book for &bExperience Tome&r. \\n\\n&aThe Experience Tome&r can be used with Right Click to Store &aEXP&r or can be crafted with a &eForce Rod&r to make an &7Upgrade Core&r. \\n\\nThose are needed for the other &6&lInfusions&r, including using &aBottle O' Enchanting&r to create an &aExperience Core&r. Hopefully you understood all that."]
 	quest.0DEED7B2A17BA110.title: "&aExperience Core &fand &aTome"
-	quest.0DF4B01CC5B49E4E.quest_desc: ["With this Blueprint, you can make the basic sword! Reliable damage and reliable speed."]
+	quest.0DF4B01CC5B49E4E.quest_desc: ["With this Cast, you can make the basic sword! Reliable damage and reliable speed."]
 	quest.0DF4B01CC5B49E4E.quest_subtitle: "Good ol' Reliable"
 	quest.0DF9014435C8F4D2.quest_desc: [
 		"You might be wondering why I forced Nickel Zinc Ferrite ingots on you, and this recipe is exactly why! "
@@ -1894,6 +1895,7 @@
 	quest.11AAA1DCB452DFFC.quest_subtitle: "For"
 	quest.11B0B93D725ABE43.quest_desc: ["Silent Gear gear can be repaired using a &9Repair Kit&r.\n\nTo repair an item, place the Repair Kit into a crafting grid, then place the materials needed to repair the tool in with it. This will \"fill\" the Repair Kit.\n\nTo repair the tool, combine the filled Repair Kit with the tool you'd like to repair in a crafting grid."]
 	quest.11B0B93D725ABE43.quest_subtitle: "No Anvils required"
+	quest.11B0B93D725ABE43.title: "Repairing Items"
 	quest.11B1FB0AB2677902.quest_subtitle: "Balsa + Silver Lime"
 	quest.11B8C5F88DCB3BF5.title: "What Happens Next?"
 	quest.11C0233861D3DD0C.quest_desc: [
@@ -2103,8 +2105,6 @@
 	quest.134608BB2B04D96E.quest_desc: ["Chests have 27 slots and can be made into a double chest to store twice that amount."]
 	quest.134608BB2B04D96E.quest_subtitle: "The Chest"
 	quest.134608BB2B04D96E.title: "Vanilla Storage"
-	quest.1348995F64A94396.quest_desc: ["The &bCrafting Monitor&f displays the overall item being crafted, along with the remaining quantity of that item still being crafted.\n\nBoth the base AE2 monitor and the MEGA monitor function identically, but are provided for aesthetic purposes."]
-	quest.1348995F64A94396.quest_subtitle: "Download more VRAM"
 	quest.1348EE74ADF2239A.quest_desc: ["&cVampire Blood&r is a useful Item for a ton of Recipes and &2Leveling up&r as a &bVampire Hunter&r! \\n\\nTo obtain it, we need to kill a &4Vampire &for &4Advanced Vampire&r with a Stake. \\n\\nThen, we can Right Click a &bVampire Hunter&r to open a dialogue with them. This makes it so we can give them the &cVampire Blood&r to train us to &2Level 2&r!"]
 	quest.1348EE74ADF2239A.quest_subtitle: "Lvl 2"
 	quest.1348EE74ADF2239A.title: "How to &2Level up"
@@ -2189,13 +2189,6 @@
 	quest.1409C17773B6A131.title: "Upgrading our Pipez"
 	quest.140DADB32EF10D58.quest_desc: ["Dragon Egg Seeds require a Dragon Egg Crux placed below in order for them to grow."]
 	quest.140DADB32EF10D58.quest_subtitle: "Tier: &56"
-	quest.140DE53DC0FCD9F4.quest_desc: [
-		"The &bME Annihilation Plane&f can be used to automatically break any blocks in front of it and return anything dropped by the block directly to the ME network. "
-		""
-		"As an added bonus, the Annihilation Plane can be enchanted in the same way as a regular digging tool, affecting block drops in the same way as that enchanted tool would. This makes it ideal for processing ore blocks when enchanted with Fortune, for example. "
-		"Any added enchantments significantly increase the amount of energy used by the plane every time a block is broken. Enchanting the plane with &eEfficiency&f will decrease the overall energy use incurred by all other enchantments, while the &eUnbreaking&f enchantment gives the plane the chance to only use any energy sometimes, similarly to Unbreaking on regular tools."
-	]
-	quest.140DE53DC0FCD9F4.quest_subtitle: "GET IN"
 	quest.140DF670162C68DA.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_steeleaf.png width:100 height:150 align:center}"]
 	quest.140DF670162C68DA.title: "&aSteeleaf"
 	quest.141681FE9E524FB0.quest_desc: [
@@ -2368,7 +2361,6 @@
 	quest.15DDD9DAD5AB3536.quest_desc: ["Cold is used to Slow down... well whatever is hit with it! \\n\\nEither yourself with Self, or others with Projectile and Ball. "]
 	quest.15DDD9DAD5AB3536.quest_subtitle: "Frigus"
 	quest.15DDD9DAD5AB3536.title: "Cold"
-	quest.15DE3BF0CBD8E0B4.quest_desc: ["To make your first tool, take your Pickaxe Head part and put it in a crafting grid.\n\nTo create a full pickaxe, you can either add a Stick to the crafting grid, or create your own custom handle using a &9Tool Rod Template&r instead.\n\nNote: You can always search up the templates and then press check it's uses in JEI, then navigate to the \"Gear Crafting\" tab. This will show you how to make gear parts."]
 	quest.15ECBC8E174FA39B.quest_desc: ["Allows you to access your storage wirelessly."]
 	quest.15ECBC8E174FA39B.title: "Wireless Grid"
 	quest.15FEA03A2CDBA33B.quest_desc: ["&b&lThe Other&r has seen dozens of changes over the years but always it has been a realm for adventures! \n\nThere's dozens of new biomes, blocks, and of course structures! \n\nThe Structures are: Piglin Village, Ancient Pyramid, and Dungeon. All containing amazing loot with some things being unique to their structure! \n\nYou can also mine for &3Vibranium&r (and other ores!) or find it and better in the structures! \n\nYou can't set up Quarries or many blocks in &b&lThe Other&r though, no cheesing anything here."]
@@ -2881,8 +2873,6 @@
 	quest.1A96C595CBA42840.title: "Kivi Automation"
 	quest.1AA81C41431FD145.quest_desc: ["Pull..! Pull..! Pull..! \n\nThe Puller is the opposite of the Sender, it pulls items from Inventories into the Router's Buffer. \n\nThe Inventory has to be adjacent to the Router."]
 	quest.1AADF0A1B42AD511.quest_desc: ["Using all of the materials we've gathered so far, we can make the first piece of the &dRailgun&r needed for the &6Star&r!"]
-	quest.1AAF0B31B47AF23D.quest_desc: ["Individual ME devices can also be configured to respond to redstone signals. When upgraded with a &bRedstone Card&f, a device can be configured to do work only when powered with redstone or otherwise as needed.\n\nThis behavior can also apply to entire &osections&r of an ME network by using an &bME Toggle Bus&f. This allows a section of the network on the other side of the bus to come online only when the bus is powered by redstone, or to go offline if using an &einverted&f toggle bus."]
-	quest.1AAF0B31B47AF23D.title: "Redstone-Controlled ME"
 	quest.1AB17923F87AE264.quest_desc: [
 		"The Yeti is a name that strikes fear into all those who explore the Cold! An abominable furry creature that lives in the harshest coldest climate eating anything that dare venture there! \n\nWell not this Yeti, these ones are cute and friendly! They'd rather roll around than eat you. \n\nHeck they don't even fight back and only have 10 Hearts. \n\nOn death they will drop their Fur and String, the former which can be used as a replacement for Wool."
 		"{image:atm:textures/questpics/eternal/starlight_yeti.png width:100 height:100 align:center}"
@@ -3247,7 +3237,6 @@
 	quest.1F733319E9F4DFE5.quest_subtitle: "MV Superconductor"
 	quest.1F7591DB6D8EC1E7.quest_desc: ["Buffs:\n\n - Absorption II (3:00)\n - Speed II (3:00)\n - Resistance II (3:00)\n - Regeneration II (3:00)\n - Strength II (3:00)\n - Haste II (3:00)"]
 	quest.1F7591DB6D8EC1E7.title: "&5Insanium Apple"
-	quest.1F7DFA5AA65F2812.quest_desc: ["The &bAcceleration Card&f, depending on the device being upgraded with it, will either increase the speed at which the device operates or allow the device to carry out more operations in one go.\n\nIn the case of the &eMolecular Assembler&f, a full set of 5 cards reduces the time taken for the MA to fulfil a craft from one second (with no cards) to one &otick&r."]
 	quest.1F81EA5E45424308.quest_desc: [
 		"If you're looking for different ways to get power out of your machines, this is where you can find it! "
 		""
@@ -3477,6 +3466,8 @@
 		"Similar with the &6B&8e&6e&r Cannon, the Crystal Cannon can be: Crafted, found in structures, or traded for with the &5Bee Queen&r. \n\nThis one is used like a Crossbow, if you have &5Honey Crystal Shards&r in your Inventory, Hold Right Click to load a &5Crystal&r and let go to shoot it!"
 		"{image:atm:textures/questpics/bumblezone/bumble_cannon1.png width:75 height:150 align:center}"
 	]
+	quest.2156C00E30424844.quest_desc: ["&4Tanks&r are made for adding Liquids into our &c&lFoundry&r. \\n\\nMostly Fuel. \\n\\nMostly &cLava&r! \\n\\nThat appears to be one of the only ways to actually Fuel the &c&lFoundry&r."]
+	quest.2156C00E30424844.title: "&l&cFoundry&r &4Tanks"
 	quest.215C9C2B2240FAA1.quest_desc: ["&e&lIron's Spells&r &5Electric Armor&r!"]
 	quest.215C9C2B2240FAA1.quest_subtitle: "20"
 	quest.215C9C2B2240FAA1.title: "&5Electromancer Outfit"
@@ -4071,6 +4062,8 @@
 	quest.26D306418545A2D6.title: "&dThe End Game Power Source"
 	quest.26D96EF701A8CA87.quest_desc: ["The &3Replacer Satchel&r is another upgrade to the &8Medium Satchel&r. \\n\\nIt is used in the Satchel Slot and will add 18 Slots. \\n\\nThe unique part of the &3Replacer Satchel&r is that it will replace the &6Broom Brush&r when broken with the first &6Brush&r in its Inventory! \\n\\nVery helpful for long travels."]
 	quest.26D96EF701A8CA87.title: "&3Replacer Satchel"
+	quest.26F9DB31A835B69C.quest_desc: ["&nFoundry&r: &aCheck&r \\n&nLiquid Metal in Foundry&r: &aCheck&r \\n\\nNow how do we get it out? \\n\\nRemember our friend from earlier? The &c&lFoundry&r &bDrain&r? We'll need to acquaint him with our new friend, the &c&lFoundry&r &7Tap&r. \\n\\nPlace the &c&lFoundry&r &7Tap&r on the &bDrain&r, now we can place Blocks beneath it to drain the &7Liquid Metal&r into... \\n\\nBlocks like the &8Casting Bin&r, which will turn about 900mB of &7Liquid Metal&r, into the full &7Metal Block&r. \\n\\nOr the &8Casting Table&r which is what we'll need in order to make..."]
+	quest.26F9DB31A835B69C.title: "Casting Items"
 	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r is a Mod that adds a few very helpful Items. \n\nAll for of course, building! \n\nEach requires &cEnergy&r to work and has a Menu which is pulled up by default &lG&r."]
 	quest.26FADB78B04F592B.title: "&l&aBuilding Gadgets&r"
 	quest.26FEFC5389C6C574.quest_desc: ["The next Level is gained the same way, just this time needing 7,000mB of &cBlood&r. Aka 7 &cBuckets of Blood&r or 8 &cBlood Bottles&r. \\n\\nYou will gain more Health and Speed now that you are &2Level 3&r and this is also when you will start gaining &aAbilities&r! \\n\\nCheck out &aEdit Actions&r to see and bind &aAbilities&r. You can find in the same Menu as where you get the &2Skill Tree&r. \\n\\nAlso part of &2Leveling up&r as a &4Vampire&r, you are now even weaker to the &eSun&r. You will now gain Weakness and Nausea from being in &eSunlight&r. It won't kill you, but it will make you wish you were dead!"]
@@ -4225,7 +4218,6 @@
 		""
 		"This is used for most of the items in the mod."
 	]
-	quest.2897FA291E5A38D8.quest_desc: ["The &bSpatial Anchor&f is a companion device from the Spatial IO lineage that simply functions as a chunk loader. When connected to an ME network, the Anchor will force-load all the chunks occupied by the ME network across all cables and devices, excluding subnetworks, as long as the network remains powered."]
 	quest.289B30DAC960BFF2.quest_desc: ["These can be found in chests inside End Cities."]
 	quest.289B30DAC960BFF2.quest_subtitle: "End City Chests"
 	quest.28B1787B61BB214B.quest_desc: ["Lets take the Epoxy from the IV tier and make some reinforcements for our next tier Processors!"]
@@ -4574,8 +4566,6 @@
 	quest.2BF119DD5D977409.title: "Tier 2 Starlight Charger Catalyst"
 	quest.2BF9B347D1FC037A.quest_desc: ["This can be found by &2brushing&r &aSuspicious Clay&r in the &dAncient City&r."]
 	quest.2BF9B347D1FC037A.title: "&6AllTheModium Upgrades&r"
-	quest.2C04B3BA507D5673.quest_desc: ["&bPatterns&f are what hold an encoded recipe to be fulfilled by a Pattern Provider. To encode a recipe onto a Pattern, the &bME Pattern Encoding Terminal&f must be used.\n\nPatterns can be set to hold either a regular &ecrafting&f recipe, which will require the use of a &eMolecular Assembler&f on the face of its Provider, or a more general '&eprocessing&f' recipe, wherein any input items can be sent out by the provider into some other machine block or specialised processing plant."]
-	quest.2C04B3BA507D5673.title: "Patterns"
 	quest.2C28217E1131A63A.quest_desc: [
 		"Congratulations! "
 		""
@@ -5049,8 +5039,6 @@
 	quest.30DF8297FEEC9F22.quest_subtitle: "Tier: &63"
 	quest.30E6C6825D78B5F1.quest_desc: ["Note: While the &aUpgrade Template&r is not needed to make the initial tool, it will save you a lot of &6Allthemodium Ingots&r!"]
 	quest.30E6C6825D78B5F1.title: "&6Allthemodium Tools&r"
-	quest.30E853CE699E669B.quest_desc: ["Before you can carry out an auto-crafting job, you need a device to actually store the request itself along with any interim items for multi-step crafts. This device is known as a &ecrafting CPU&f.\n\nA crafting CPU is a multiblock structure requiring at least one &bCrafting Storage&f block, optionally along with any other Crafting Unit. The multiblock can be made in any size, but must be a solid cuboid in order to form and function accordingly."]
-	quest.30E853CE699E669B.quest_subtitle: "Download more RAM"
 	quest.30E9255DEC69C061.title: "&4Supremium Tools"
 	quest.30EB438C66324213.quest_desc: ["A Nether Star will do what the Prismarine Shards do but much better. Players no longer need to be near the spawner. As long as its chunk-loaded it will spawn."]
 	quest.30EB438C66324213.title: "Ignore Players"
@@ -5729,7 +5717,7 @@
 		"- Drops Teleporter"
 		"- Mob X-Ray"
 	]
-	quest.37BD61FCD462AA8C.quest_desc: ["We can use the Source! \\n\\nWith the new ME Source Converter we can send Source into it to make AE. \\n\\nBlocks adjacent to the Converter will receive AE when Source is sent to it. So smack that ME Controller next to it and start piping Cables everywhere because the power is back on! \\n\\nFor the Items we need to Charge we can use the Charger Block to give them our newly created AE."]
+	quest.37BD61FCD462AA8C.quest_desc: ["Almost every Machine in AE2 uses Energy, but without &c&lPowah&r, &5&lMekanism&r, &lIndustrial Foregoing&r, &8&lImmersive Engineering&r, &9&lThermal&r, or &7&lModern Industrialization&r how will we make it! \\n\\nWe can use the Source! \\n\\nSimply place the ME Source Converter nexzt to a Machine that needs Energy, to give it some from Source. \\n\\nConfigure a Source Relay to send Source to the Converter and it will automatically generate AE. \\n\\nMost Machines will need AE: Charger, ME Controller, and Growth Panels all need it. You can always use your ME System to move Energy automatically to Machines that are connected."]
 	quest.37BD61FCD462AA8C.title: "Energy from Source"
 	quest.37CA6F9F0226F10E.quest_desc: ["This block stores items for cooking.\n\nYou can also place other kitchen multi-block items on it, like toasters and a Cow in a Jar."]
 	quest.37CA6F9F0226F10E.quest_subtitle: "We need more cooking space"
@@ -6297,8 +6285,6 @@
 	quest.3DCF26B53AE1EBF6.title: "&2The Dark Forest"
 	quest.3DD71B6C4B80FB44.quest_desc: ["The &3Eye of Curse&r will lead you to the &3Frosted Prison&r to fight the &3&lMaledictus&r."]
 	quest.3DD71B6C4B80FB44.title: "&3Eye of Curse"
-	quest.3DDB0DDA7571B2C1.quest_desc: ["The &bME Level Emitter&f, when configured with a specific item and quantity of it to respond to, will emit a redstone signal depending on whether that item stored in the network either falls below, goes above or equals the given quantity.\n\nThis can be used, for example, to automatically switch certain machines on with redstone to auto-craft a resource when it falls below a given minimum amount."]
-	quest.3DDB0DDA7571B2C1.title: "ME Level Emitter"
 	quest.3DDB7C8E61BA048F.quest_subtitle: "Tier: &a2"
 	quest.3DDF87A1E5F5D009.quest_desc: [
 		"In the beginning, you can get by with creating the &7Starter&r and &bBasic&r tier machines using Iron, but you'll eventually need to create energized mats using the &9Energizing Orb&r.\n\nThe &9Energizing Orb&r will energize items using nearby &aEnergizing Rods&r within a 9x9 area around it, creating better materials for you to use to progress through the &eTiers&r in Powah.\n\nTo power the orb, you'll need to attach Energizing Rods to Energy Cables that are being supplied with energy. If you want the Orb to energize faster, either make more rods, upgrade to higher tier rods, or both! To see if the Rods are connected, set your &aWrench&r to link mode and you can link any Rod to the Orb."
@@ -7142,6 +7128,8 @@
 	quest.457CAE66B0FA4CCF.quest_desc: ["All &2Vanilla&r Ores can be found with the Diamond Divination Rod. Being able to find all plus Netherite!"]
 	quest.457DE8C154641437.quest_desc: ["The &9Ritual Brazier&r is used to cast rituals. It can also be used for decoration. If you want to light the Brazier, use a Light spell on it. \n\nTo perform rituals, you'll need Arcane Pedestals as well. As there are so many rituals to cast, make sure to check out each of them using the &6Worn Notebook&r! \n\nThis can be done by holding Ctrl on the Ritual Table while the book is in your inventory."]
 	quest.4586338386F85112.quest_desc: ["You've learned how to make machines do your bidding with steam and you're finally ready to begin adventuring into the world of electronics. Build the Wiremill and brace yourself."]
+	quest.45899579D9B92D91.quest_desc: ["The &aController&r is the heart of the &c&lFoundry&r. \\n\\nEach &c&lFoundry&r will need atleast 1, to be made. \\n\\nWe can use the &c&lFoundry&r to view the GUI of the &c&lFoundry&r. Here we can see the amounts of Liquids within the &c&lFoundry&r. \\n\\nWe can also use it to put and take Items in and out of the &c&lFoundry&r."]
+	quest.45899579D9B92D91.title: "&c&lFoundry&r &aController"
 	quest.459787E9F1029CC6.quest_desc: [
 		"Wires and cables are imperfect and lose some of the energy they transport in the form of heat"
 		""
@@ -7150,7 +7138,6 @@
 		"The exception here are superconductors! They have no energy loss"
 	]
 	quest.459787E9F1029CC6.quest_subtitle: "A meter = one block"
-	quest.4597D3B3BDC2BED5.quest_desc: ["The &bMolecular Assembler&f is AE2's equivalent of an automatic crafting table, required to fulfil any and all &ecrafting&f pattern jobs.\n\nMolecular Assemblers are capable of transferring power and channels to other ME devices connected to it, but will not themselves take up a channel. Up to 6 MAs can be connected to a single Pattern Provider (if employed) to allow for more crafts to be done in parallel.\n\nMAs also each have their own dedicated slot for a single crafting pattern, allowing them to function standalone when powered. When operated in this way, any matching items inserted into the MA will be automatically crafted into the result of the pattern."]
 	quest.45996B848792379E.quest_desc: ["You can Mine &dSal Ammoniac Crystals&r in the &2Overworld&r but it isn't that easy. We'll still need &9Water&r and the Machines to make &dSal Ammoniac&r to make &eAlchemical Sulfur&r. \n\nThe &dCrystals&r are optional but help a ton; with just Water 1000mb will be turned into 100mb of &dSal Ammoniac&r. With 1000mb of &9Water&r and a &dSal Ammoniac Crystal&r we'll instead get 1000mb of &dSal Ammoniac&r. \n\n10 times the production with only a single Item more!"]
 	quest.45996B848792379E.quest_subtitle: "Why do we need Machines if we can just Mine it?"
 	quest.45996B848792379E.title: "Why Machines?"
@@ -8537,15 +8524,6 @@
 	quest.51DBD03FB5F3E26F.quest_desc: ["Now these are some high tier plates! But its reasonable for the Highest tier Machine Hull to require the highest tier plates."]
 	quest.51DBD03FB5F3E26F.quest_subtitle: "High Quality Plates"
 	quest.51DBE688ED630DB1.quest_subtitle: "Tier: &54"
-	quest.51DE3157DE3E57B8.quest_desc: [
-		"Storage is nice and all that, but what good is a storage system if it's clogged up with raw materials needing to be crafted and processed into something and you're still stuck with having to do so manually? "
-		""
-		"AE2's &eauto-crafting&f system begins with the &bME Pattern Provider&f. The Pattern Provider holds certain items called &bPatterns&f (covered in the next quest) which are programmed to hold some recipe that turns input items into a certain output. Up to 9 patterns can fit in one provider. "
-		""
-		"You'll often be making use of multiple pattern providers scattered all throughout your base, which is why it's useful to have a &bPattern Access Terminal&f to remotely access the contents of any and all providers on your wider ME network."
-	]
-	quest.51DE3157DE3E57B8.quest_subtitle: "Order up"
-	quest.51DE3157DE3E57B8.title: "Auto-Crafting"
 	quest.51E2728C5E35A152.quest_desc: ["Froststeel spawns in the Frozen Biomes: Frostfields, Frosty Smogstem Forests, and probably Icey Seas. \n\nIt spawns in Shiverstone which replaces Depthrock in these Biomes. The Shiverstone will act similar to Ice as in it is slippery and slows you down a little. \n\nYou might also find some Nuggets in Munchers bellies!"]
 	quest.51E2728C5E35A152.title: "&bFroststeel&r"
 	quest.51E554305FFEBA1D.quest_desc: ["The &4Blazing Hellshelf&r is another upgrade to the &4Infused Hellshelf&r. \\n\\nIt gives even more &aEterna&r set at &a10&r with a max of &a65&r! Plus &c10% Quanta&r. \\n\\nThese aren't the best for &d&lInfusions&r, but they will work better for other &5Enchantments&r!"]
@@ -8601,12 +8579,6 @@
 	quest.525517F1625A9BCB.title: "&aCollecting &cBlood Stains"
 	quest.5257468DC6C11851.quest_desc: ["It's more like a pickaxe that uses RF/FE."]
 	quest.5257468DC6C11851.quest_subtitle: "An Early-Game Mining Gadget"
-	quest.525F25F4ADE45B50.quest_desc: [
-		"The &bME Formation Plane&f acts similarly to the Storage Bus, but treats the world itself as its storage medium. In other words, it will place down any block in its filter directly in front of itself. "
-		""
-		"This can be useful for situations where a block can be processed simply by placing it and breaking it with a certain tool."
-	]
-	quest.525F25F4ADE45B50.quest_subtitle: "GET OUT"
 	quest.526559F94031FE43.quest_desc: [
 		"The &6Eternal Stella&r has 3 charges, and when right-clicked, can fully repair all of your items in your inventory."
 		""
@@ -8639,9 +8611,6 @@
 	quest.52D3697F1F5625C7.quest_subtitle: "Don't Ask..."
 	quest.52D4FCE72B15BC46.quest_desc: ["Ever want a \"better Bucket\"? Well you can with the Edelwood Bucket! \n\nFor just a few Edelwood Planks you can get a better Bucket, which can hold 4 Buckets of Water or Milk. \n\nYou can also hold 3 Buckets of Lava! It weighs more so you can only hold 3 instead of 4."]
 	quest.52E59FCB39D66BCF.quest_desc: ["One of the best options for \"Passive Power\", the &9Thermal Generator&r will produce FE when placed over a &cHeat Source&r and given a steady supply of water.\n\nThere are currently 3 blocks you can place this over: a Magma block which produces the lowest, a lava source block which is a little better, or a &cBlock of Blazing Crystal&r, which provides the most heat. "]
-	quest.52EB902E76829EBB.quest_desc: ["Silent Gear is a gear mod that makes crafting gear easy.\n\nEach piece of gear is customizable, allowing you to upgrade it with special traits or repair it on the go!\n\nYou can also convert vanilla tools like an Iron Pickaxe to a Silent Gear Iron Pickaxe by putting it in a crafting grid!"]
-	quest.52EB902E76829EBB.quest_subtitle: "Weapons, Tools and Armor"
-	quest.52EB902E76829EBB.title: "Silent Gear"
 	quest.52EC86E03EB50525.quest_desc: [
 		"Intrinsic Ability:"
 		"- Lava Repair"
@@ -9422,7 +9391,6 @@
 	quest.5A9D6672385D3D82.quest_desc: ["Only use 1 Lapis for an Upgrade instead of 4."]
 	quest.5A9D6672385D3D82.quest_subtitle: "Saving Lapis"
 	quest.5A9E8222AEA6EF6F.title: "Charoite Armor"
-	quest.5AA3E5DFECB4AC4D.quest_desc: ["Naturally, AE2 provides its own way to dramatically speed up crystal growth.\n\nPlace these around your Budding Crystals, give them some power, and watch your crystals grow!"]
 	quest.5AAD0E516762BA53.quest_desc: ["Do you feel like you are levitating yet? Might be all that shulker from that Soul Vial."]
 	quest.5AAD0E516762BA53.quest_subtitle: "Prescient Crystal"
 	quest.5AAD299DC9657334.quest_desc: ["&eGold Rings&r go into the Misc Slot. \\n\\nThey are just decoration. They just add 2 &eGold Rings&r near the tip of your &6&lBroom&r. \\n\\nMakes you feel like Sonic but doesn't change your Speed!"]
@@ -9810,8 +9778,6 @@
 	quest.5E62E6F314843E1D.quest_subtitle: "Fusion Reactor MkII"
 	quest.5E63C78CDC44FF95.quest_desc: ["Rotten Blisterberries can't be thrown but when made into Blisterbombs they can be! \n\nYou can even go farther and make Boomgourds which will act like TNT that throws Blisterberries everywhere."]
 	quest.5E63C78CDC44FF95.title: "Explosives!!!"
-	quest.5E6585F7627247E3.quest_desc: ["When applied as an upgrade to any supported device such as an Interface or Export Bus, the &bCrafting Card&f allows the device in question to automatically send out its own crafting requests for a required (filtered) item. Crafting CPUs can be set to respond only to these requests to prevent taking up CPUs meant for player-requested crafts.\n\nWhen the &eLevel Emitter&f is upgraded with the Crafting Card, it can be configured to emit redstone in order to directly facilitate in crafting, by emitting a signal either &owhile&r a crafting job for its given item is detected or specifically &oto&r craft the item. The latter would apply for cases where the only thing needed to make a given item is a redstone signal, without even requiring a crafting pattern."]
-	quest.5E6585F7627247E3.quest_subtitle: "Automation in upgrade form!"
 	quest.5E6D7C1D7957DD4D.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_forgotten.png width:100 height:150 align:center}"]
 	quest.5E6D7C1D7957DD4D.title: "&aForgotten&r"
 	quest.5E71F8A046C60346.quest_desc: ["Whoever told you PneumaticCraft wasn't about generating power?\n\nThe &3Pneumatic Dynamo&r allows you to turn your pressure in FE. Read the tooltip or read about it in the PNC:R to learn how it works."]
@@ -9833,8 +9799,6 @@
 	quest.5E799B92358A8732.title: "Ancient Metals"
 	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
 	quest.5E7CCDE9229A646A.title: "&6AllTheModium&r"
-	quest.5E7E35CCAF1C88EE.quest_desc: ["The &bME Import Bus&f periodically sucks items in from whatever external storage the bus is facing. It can optionally be filtered to only take in certain items from said inventory."]
-	quest.5E7E35CCAF1C88EE.quest_subtitle: "The I"
 	quest.5E90EF7FF530C477.quest_desc: [
 		"Ethanol + Sulfuric Acid in a &eChemical Reactor&r makes Ethylene"
 		""
@@ -10518,9 +10482,6 @@
 	quest.64A09E2E3EF16C31.quest_subtitle: "Banana + Teak"
 	quest.64A42ECF61B1B233.quest_desc: ["The &bNether Star&r is the main drop we care about from the &0&lWither&r. \n\nIt is used for tons of Recipes, the main one most Players know is the &bBeacons&r! \n\nBut I'm going to warn you now, we'll need a ton of these... even for a &dMagic Modpack&r like &d&lArcana&r."]
 	quest.64A42ECF61B1B233.title: "&bNether Star"
-	quest.64AB1E133E218173.quest_desc: ["You can't use Template Boards forever!\n\nBlueprint Paper is used to make Blueprints, which are reusable, unlike Template Boards."]
-	quest.64AB1E133E218173.quest_subtitle: "The Schematic Maker"
-	quest.64AB1E133E218173.title: "&9Blueprint Paper"
 	quest.64B04D1CBC923789.quest_subtitle: "Tier: &b4"
 	quest.64C105E1E2F97900.quest_desc: ["The Spike Mauls are used on normal &6Tracks&r to switch their modes. Very helpful for trying to make intersections!"]
 	quest.64C105E1E2F97900.title: "'Switch em up'"
@@ -11002,7 +10963,6 @@
 	quest.69383DA579901E7E.quest_subtitle: "Let me Axe you this"
 	quest.69439426534EBDC4.quest_desc: ["&bBlazing Grips&r are another Item we can make with &bIgnitium&r! \\n\\nIt is a Curios Item that goes on your Hands. \\n\\nWhen worn, all attacks have a chance of giving the recipient &bBlazing Brand&r. \\n\\nI don't re\\ally know what it does, but it sucks to get from the &b&lIgnis&r."]
 	quest.69439426534EBDC4.title: "&bBlazing Grips"
-	quest.694D7CD9EC663355.quest_subtitle: "Mace I interest you in this?"
 	quest.6950FC974624C6AA.quest_subtitle: "Tier: &63"
 	quest.695889817162EFC7.quest_desc: ["&aEXP&r is very important for &5&lApotheosis Enchanting&r! Every &5Enchant&r requires it! (Why do you think I give it in every Reward?) \\n\\nWith &d&lInfusion&r we can transform &6Honey Bottles&r into &aBottles O' Enchanting&r. Actually we get 3 different &d&lInfusions&r for it! It goes from 1 &aBottle O' Enchanting&r, to 8, to 32! \\n\\nFirst, is for 1 &aBottle&r and needs only 2 &9Echoing Sculkshelves&r. \\n\\nSecond, is for 8 &aBottles&r and needs 5 &9Echoing Sculkshelves&r and 1 &9Soul-Touched Sculkshelf&r. \\n\\nLast, is for 32 &aBottles O' Enchanting&r and will need 5 &9Echoing Sculkshelves&f, 3 &9Soul-Touched&f, and 1 &dDraconic Endshelf&r!"]
 	quest.695889817162EFC7.title: "Crafting &aEXP&r?"
@@ -11071,8 +11031,6 @@
 		"Thats exactly what we have here."
 	]
 	quest.69B74D404B331A14.quest_subtitle: "UHV Superconductor"
-	quest.69B7DE2283B4EE6C.quest_desc: ["The &bCrafting Co-Processing Unit&f helps speed up crafting jobs by allowing pattern providers to either send items out to their connected devices faster or to work concurrently to make multiple required ingredients.\n\nThe base AE2 co-processor provides one co-processor 'thread' to assist this, while the co-processing unit from &dMEGA Cells&f provides 4 threads in a single such block."]
-	quest.69B7DE2283B4EE6C.quest_subtitle: "Download more CPU cores"
 	quest.69D8F6483DACD930.title: "&cTertium Watering Can&r"
 	quest.69E96EE9A9A2F423.quest_desc: [
 		"&cBlood Magic&r is about using &cBlood&r to create magical items. This time, you might even use your own blood."
@@ -11254,6 +11212,8 @@
 	quest.6BB948F44B0950E8.title: "&3Sculk Stone"
 	quest.6BB9490E23CBD287.quest_desc: ["Vials and Sigils are items used to change your weapons sockets, whether to add more or free them up. All are used with your item in a Smithing Table."]
 	quest.6BB9490E23CBD287.title: "Vials and Sigils"
+	quest.6BBC440BD0AD0E93.quest_desc: ["Some people like &9&lSilent Gear&r, while some like &7&lTinker's Construct&r. \\n\\nInstead of choosing between them, we've decided to take the best of both worlds by using &9&lSilent Gear&r and &c&lProductive Metalworks&r! \\n\\n&c&lProductive Metalworks&r will change how we obtain our &9&lSilent&r Items. Instead of using &9Blueprints&r, we'll now need &8Casts&r and a &c&lFoundry&r. \\n\\nTo start making the &c&lFoundry&r, start with &cFire Clay&r."]
+	quest.6BBC440BD0AD0E93.title: "&9&lSilent Gear&r and &c&lProductive Metalworks"
 	quest.6BBF35D29E70FDD4.quest_desc: ["Cataclysm isn't just about bosses, there's plenty of minibosses and mobs that help the bosses as well! Okay maybe it is just about bosses."]
 	quest.6BBF35D29E70FDD4.title: "Other Enemies"
 	quest.6BC0904E03683190.quest_desc: ["Breed &8B&6e&8e&6s&r to get 8 new &8B&6e&8e&6s&r."]
@@ -11780,7 +11740,6 @@
 		"If you have a way to drop items precisely into the crucible, it helps to avoid anything missing in that 4 second time."
 	]
 	quest.704184F62CA78E1E.quest_subtitle: "It's complicated."
-	quest.7043CDA7EBFAF560.quest_desc: ["Coating Smithing Templates are used to coat gear. They can be duplicated by crafting like other Smithing Templates."]
 	quest.7044EAB5EDF32BBC.quest_desc: [
 		"When attached to your system, the &9Crafting Monitor&r allows you to see what items are currently in your crafting queue. "
 		""
@@ -11862,6 +11821,8 @@
 		"Maybe passive these, as we are going to need a lot of them."
 	]
 	quest.71060904C6A86C68.quest_subtitle: "I've Been Framed!!"
+	quest.711826BBCA832EE2.quest_desc: ["&8Casts&r! These are how we'll make our &9&lSilent Gear&r Items! \\n\\nFirst, we'll need &8Steel&r though. Unfortunately without &5&lMekanism&r, &8&lImmersive Engineering&r, or even &lGregtech&r we'll need a new way of Crafting &8Steel&r. \\n\\nThankfully, &c&lProductive Metalworks&r comes with its own way of Crafting &8Steel&r. You can Alloy &0Carbon&r and &7Iron&r to make it! \\n\\nYou'll need a 10/9 ratio of &0Carbon &fto &7Iron&r to get 9 &8Steel&r (&0Carbon&r is just either &0Coal &for &0Charcoal&r). So that means you'll need 10 &0Coal&r and 9 &7Iron Ingots&r to make 9 &8Steel Ingots&r worth! \\n\\nOnce we have our &8Steel&r, we can pour it onto an Item in a &8Casting Table&r to Craft a &8Cast&r. These can then be used on the &8Casting Table&r to pour &7Liquid Metal&r in to make &9&lSilent Gear&r Items!"]
+	quest.711826BBCA832EE2.title: "&8Casts"
 	quest.7119F8C352D057BC.quest_desc: ["Now we're getting to the fun stuff! The Rare items even go up the Elytra! Yeah I would think it's better than Rare but I didn't make this sorting."]
 	quest.711DDD55CEC439E5.quest_desc: ["The &aEmerald Furnace&r, I wonder if Villagers will trade for it? \n \nIt works at 40 Ticks or only 2 Seconds to smelt! Blink and you might miss it. \n \nThese are crafted by &bDiamond Furnace&r and can be made into an &dObsidian Furnace&r."]
 	quest.711DDD55CEC439E5.title: "&aEmerald Furnace"
@@ -12603,7 +12564,6 @@
 	quest.785CB375F25F0715.quest_desc: ["Were almost there, to a completed Circuit Board strong enough for our Quantum Processors!"]
 	quest.785CB375F25F0715.quest_subtitle: "Annealed Copper makes a Come back!"
 	quest.786073B57C901DB7.title: "Pluses Banner Pattern"
-	quest.7860FD3D3273351F.quest_subtitle: "Storing Blueprints!"
 	quest.78656C89EEE80DB5.quest_desc: ["The &n&5Tunnels&r can be placed on belts and they will filter items that pass through them. You can link multiple tunnels by placing them next to each other."]
 	quest.787415570026FFAA.quest_desc: [
 		"These upgrades add enchantments to your Destructor. "
@@ -13005,8 +12965,6 @@
 	quest.7B5A0BFD47D96BDE.quest_desc: ["Used to catch bees that are flying around it.\n\nYou can use a Filter Upgrade to filter out which bees you want to catch, as well as a BaBee Upgrade to only catch baby bees."]
 	quest.7B5A0BFD47D96BDE.quest_subtitle: "Catches Bees"
 	quest.7B5D34650BBD97D9.quest_desc: ["Very rarely in the Starlight Dimension a Meteor Shower might occur. \n\nMost times the Meteors are tiny and disappear before hitting the ground. \n\nBut some are bigger and survive, there you will find Aethersent Ore!"]
-	quest.7B690431CF1B87D0.quest_desc: ["To get started with gear crafting in the early game, we'll need to make some &9Template Boards&r to create our first Template.\n\nTemplates are single-use \"blueprints\" for creating tool parts. Using basic Template Boards, craft yourself a &aPickaxe Template&r.\n\nIf you combine the Pickaxe Template with 3 of most materials, you can create a Pickaxe Head.\n\nNote: The material must have a Silent Gear material tooltip with the main type."]
-	quest.7B690431CF1B87D0.title: "Pickaxe Heads"
 	quest.7B7504F386DABBDD.quest_desc: ["Place this under the soil to allow Dragon Egg Seeds to grow."]
 	quest.7B76EC62E3F7E12C.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_aethersent.png width:100 height:150 align:center}"]
 	quest.7B76EC62E3F7E12C.title: "&5Aethersent&r"
@@ -13692,6 +13650,7 @@
 	task.2A6E713A062510B6.title: "Fueling the Reactor"
 	task.2A7CD3F14D3DC7C5.title: "Unobtainium Armor"
 	task.2ADE9DBE9448AC7F.title: "Silent Gear Pickaxes"
+	task.2AE89914A34BF3AD.title: "Foundry Blocks"
 	task.2B4CDC19D91AFBEE.title: "AllRightsReserved"
 	task.2BA7FC10243AA011.title: "Pressurized Tubes"
 	task.2BC0F5A88E2F03C3.title: "Archwood Logs"
@@ -13910,6 +13869,7 @@
 	task.543A08791D27BC62.title: "Quests By AllTheMods"
 	task.5457CD8C1ABA0B9E.title: "Kill 5 Zombies"
 	task.54A7E248C8A40239.title: "Tier 2 Sigils"
+	task.54EF988F476C9208.title: "Drain"
 	task.5532BB474A625765.title: "Headware"
 	task.55628B1EECBB5E94.title: "Ritual Saplings"
 	task.558649C69096D2D7.title: "Starter Generating Flowers"
