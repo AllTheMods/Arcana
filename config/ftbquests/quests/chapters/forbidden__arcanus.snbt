@@ -474,7 +474,7 @@
 				id: "6D21710E315BC55A"
 				item: {
 					components: {
-						"ftbquests:missing_item": "mob_grinding_utils:spikes"
+						"ftbquests:missing_item": "evilcraft:spiked_plate"
 					}
 					count: 1
 					id: "ftbquests:missing_item"
