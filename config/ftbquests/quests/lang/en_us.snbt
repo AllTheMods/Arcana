@@ -43,6 +43,7 @@
 	chapter.5103E2D95685ADFF.title: "&aChapter 3&r: &6The ATM Star"
 	chapter.5712300EF4E5E846.title: "Pylons"
 	chapter.59395B6806F2A98A.title: "Cataclysm"
+	chapter.5AB62F2D38F02608.title: "Primal Magick"
 	chapter.5AE65E37BB88972A.title: "Hexerei"
 	chapter.5B00676D79306EA2.title: "Welcome"
 	chapter.5B2283AF05DA36DE.title: "Spelled"
@@ -248,7 +249,7 @@
 	quest.0152C49AB74B9D32.title: "The &cFusion Reactor"
 	quest.017194E29D6745E8.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\n\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\n\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.01748C2CD9C97523.quest_desc: ["&cReappearing Blocks&r are like really cool doors. Once right-clicked, they'll disappear for a short time.\n\n&cVanishing Blocks&r will disappear when right-clicked, but they don't come back."]
-	quest.01748C2CD9C97523.title: "&cReappearing & Vanishing Blocks"
+	quest.01748C2CD9C97523.title: "&cReappearing \\& Vanishing Blocks"
 	quest.019311E9D5E55BCB.quest_desc: [
 		"Stumble upon a rare and peaceful &eStarbuncle Shrine&r, a place seemingly dedicated to these adorable creatures. You might notice the central statue has a particularly &6shiny tail&r..."
 		""
@@ -1624,14 +1625,25 @@
 	quest.0BCEF1C14A03592D.quest_subtitle: "Who?"
 	quest.0BCEF1C14A03592D.title: "Taming &6Owls"
 	quest.0BD908937BC6E97B.quest_subtitle: "Kapok + Rosewood"
-	quest.0BDB28B5683E0729.quest_desc: [
-		"School: &6Manipulation&r"
-		"Slams nearby identical item entities together at high speed, attempting to craft them (useful for recipes requiring specific conditions or just compacting) (Check &6Create&r mixing recipes to see the aviable options)."
+    quest.0BDB28B5683E0729.quest_desc: [
+        "School: &6Manipulation&r"
+        "Slams nearby identical item entities together at high speed, attempting to craft them (useful for recipes requiring specific conditions or just compacting) (Check &6Create&r mixing recipes to see the aviable options)."
+        ""
+        "Combine with &eSmelt&r for heated mixing, or &eSuperheat&r for advanced fusion."
+    ]
+    quest.0BDB28B5683E0729.quest_subtitle: "&8Forcing Items Together&r"
+    quest.0BDB28B5683E0729.title: "Combine Items: The &6Fuse&r &bGlyph&r"
+	quest.0BD6365534BF04D5.quest_desc: [
+		"With Lime Chalk, it's time to delve into &5Possesion Rituals&r. These rituals are slightly different from the others because they all require a live sacrifice, usually small mobs such as Chickens, Bees, Bats, etc. However, as rituals get more complicated, they will require larger and larger sacrifices. "
 		""
-		"Combine with &eSmelt&r for heated mixing, or &eSuperheat&r for advanced fusion."
+		"Even if you've placed all of the items needed and the Book of Binding into the Golden Sacrificial Bowl, the Ritual will not begin until you kill the sacrifice on top of the runes."
+		""
+		"It is recommended that you make some sort of mob capture item such as an Empty Soul Gem, Jar, Mob Imprisonment Tool, or Quantum Catcher!"
+		""
+		"The first tier of &5Possession rituals&r is &eHeidryn's Lure&r, which is only used to get mundane items like Skeleton Skulls and End Stone. Because of this, you can skip straight to the second tier of ritual, &aIhagan's Enthrallment&r. "
 	]
-	quest.0BDB28B5683E0729.quest_subtitle: "&8Forcing Items Together&r"
-	quest.0BDB28B5683E0729.title: "Combine Items: The &6Fuse&r &bGlyph&r"
+	quest.0BD6365534BF04D5.quest_subtitle: "Who you gonna call?"
+	quest.0BD6365534BF04D5.title: "&aIhagan's Enthrallment"
 	quest.0BE2E7C9454058C3.quest_desc: [
 		"Part of the beautiful &d&lFloral Meadow&r is a &dCherry Tree&r much older and bigger than the rest. \n\nThe &6B&8e&6e&8s&r have seemed to take a liking to these &dTrees&r and have set up mini &eHives&r next to them full of their young!"
 		"{image:atm:textures/questpics/bumblezone/bumble_cherry.png width:200 height:100 align:center}"
@@ -1783,6 +1795,9 @@
 	quest.0D11A727D3E620EE.quest_desc: ["The last Ritual, needing the most Structure Points at 54! \\n\\nWe'll also need 2 &4Pure Blood Level 5&r and 25 &cHuman Hearts&r. Hey, being powerful ain't cheap! \\n\\nAt &2Level 14&r we'll have 20 Hearts and Armor Points. Along with a very high Speed. The best, we &4Vampires&r, can get!"]
 	quest.0D11A727D3E620EE.quest_subtitle: "Lvl 14"
 	quest.0D11A727D3E620EE.title: "Upgrading to &2Level 14"
+	quest.0D18BBB04693885A.quest_desc: ["Strigeor's Higher Binding is the second tier of &6Infusion Rituals&r. It's used for many different things, but the main things we'll need are the Infused Pickaxe and Gray Paste."]
+	quest.0D18BBB04693885A.quest_subtitle: "The \"Everything\" Ritual"
+	quest.0D18BBB04693885A.title: "&aStrigeor's Higher Binding"
 	quest.0D19FB62C2C1D9F7.quest_desc: ["Once you've got at least 200 &4Mahou&r you might want to make a Boundary of Life Drain. \n\nFor every Mob that dies in that boundary, you get 10 &4Mahou&r back, but this is a SLOW process."]
 	quest.0D19FB62C2C1D9F7.title: "Boundary of Life Drain"
 	quest.0D1A6B32FEB51FAD.quest_desc: [
@@ -2445,6 +2460,8 @@
 		"{image:atm:textures/questpics/hexerei/hex_baba.png width:200 height:100 align:center}"
 	]
 	quest.11A8419376E80A4C.title: "&aBaba Yaga Huts"
+	quest.11A0593C0E2E6A35.quest_desc: ["Using &eEziveus' Spectral Compulsion&r, we can imbue a myriad of different nature blocks to form some &2Nature Paste&r. Combine this Paste with some Impure White Chalk to create Green Chalk."]
+	quest.11A0593C0E2E6A35.title: "&2Green Chalk"
 	quest.11AAA1DCB452DFFC.quest_subtitle: "For"
 	quest.11B0B93D725ABE43.quest_desc: ["Silent Gear gear can be repaired using a &9Repair Kit&r.\n\nTo repair an item, place the Repair Kit into a crafting grid, then place the materials needed to repair the tool in with it. This will \"fill\" the Repair Kit.\n\nTo repair the tool, combine the filled Repair Kit with the tool you'd like to repair in a crafting grid."]
 	quest.11B0B93D725ABE43.quest_subtitle: "No Anvils required"
@@ -5557,6 +5574,16 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_purple2.png width:200 height:100 align:center}"
 	]
 	quest.29C78845B488EDF8.title: "&5Purple Sempiternal Sanctum"
+	quest.29C83B00AC4AFC23.quest_desc: [
+		"Now that you've come this far, you may be asking yourself, what's next? Well, there are so many more things to explore in Occultism! "
+		""
+		"You can see a comprehensive list of every single ritual and item in your &6Dictionary of Spirits&r, you could try going through all the rituals' outcomes to see if you can find something that piques your interest!"
+		""
+		"If you haven't already, you could lay out and decorate three separate ritual areas, one for Summons, one for Possessions, and one for Infusions."
+		""
+		"There's always new ways to use each and every seemingly mundane feature to maximize your experience with the modpack. Happy ritual crafting!"
+	]
+	quest.29C83B00AC4AFC23.title: "What's Next?"
 	quest.29CB5FE47CC34552.quest_desc: ["The Ancient Codex is a Spellbook added by &e&lIron's Spells and Spellbooks&r. \\n\\nWe aren't too worried about its use, only its Crafting! \\n\\n&bArcane Cloths&r and &cNetherite&r can be Crafted, everything else isn't that easy... \\n\\nRuined Books are found within &6Ancient Cities&r. &5Bottle O' Lightning&r is kinda simple, just use an Empty Bottle on a Charged Creeper! &4Blood Vials&r are obtained by burning Mobs in either an Alchemist Cauldron or a normal Cauldron above a Campfire."]
 	quest.29CD5C0A253425D5.quest_desc: [
 		"We just made it so our Multiblock Structures can use &dLuV&r Tier energy. But how about going one step further, and giving them &4ZPM&r tier power?"
@@ -5653,6 +5680,12 @@
 		""
 		"There is an alternate recipe that uses Allyl Chloride and Hypochlorous Acid, if you so choose to go that route"
 	]
+	quest.2A3683BF7E50EF83.quest_desc: [
+		"Most of the items we've needed from the &3Otherworld&r so far just needed some Spiritfire. However, we will need to use the help of the &3Third Eye&r to find the Ore of the &3Otherworld&r."
+		""
+		"We'll also need a special pickaxe to be able to mine it. For this, we'll need to Infuse a Demon into a &dSpirit Attuned Pickaxe Head&r to create a pickaxe that can break this new kind of ore."
+	]
+	quest.2A3683BF7E50EF83.title: "Tools of the Trade: Infused Pickaxe"
 	quest.2A36855EEBE7B996.quest_desc: ["An &9Enhanced Crossbow&r on top of another &9Enhanced Crossbow&r! \\n\\nTwice the Arrows! \\n\\nYou'll need the &2Skill&f: &2Enhanced Weapons&r to Craft and use it."]
 	quest.2A36855EEBE7B996.title: "&9Enhanced Double Crossbow"
 	quest.2A5004EB99AE4F96.quest_desc: [
@@ -5879,26 +5912,27 @@
 	quest.2BC325DEBDD2F5CA.quest_subtitle: "Tier: &bMagical"
 	quest.2BCB788924BBD849.quest_desc: ["My personal favorite and one of the most powerful. \\n\\nThe &bIncinerator&r can be used just like a normal Sword and Enchanted like one! \\nBut when Holding Right Click it does something no normal Sword does. When you Hold and let go of Right Click for a few seconds, massive flames will strike out of the ground in the direction you are looking at, then they will explode. \\n\\nIt is also massive, which not just looks cool, but also gives better Range!"]
 	quest.2BCB788924BBD849.title: "&bThe Incinerator"
-	quest.2BCE76DDF4E72EEA.quest_desc: [
-		"Similar to the standard Forestation ritual, this version specifically places fully grown &dArchwood Trees&r in a &a7x7 circular area&r and applies a bonemeal effect. Does not require &bSource&r."
-		""
-		"&lAugmentations:&r"
-		"*   &dSource Gem:&r Increases the radius by &a+1&r for each gem tossed onto the brazier before activation."
-		"*   &dSpecific Archwood Sapling:&r Augmenting with a sapling of a particular Archwood type (e.g., &cBlazing&r, &bCascading&r) will cause the ritual to spawn resources tied to that specific Archwood's \"biome\" theme within the area."
-	]
-	quest.2BCE76DDF4E72EEA.quest_subtitle: "&8Cultivating Magic Wood&r"
-	quest.2BCE76DDF4E72EEA.title: "Arcane Groves: &dForestation - Archwood Trees&r &dTablet&r"
-	quest.2BD3111832897C24.quest_desc: [
-		"You stand at the threshold of a world brimming with &duntapped magical potential&r."
-		""
-		"&eArs Nouveau&r invites you to become a powerful &dmage&r, mastering the art of &bspellcrafting&r, harnessing the flow of &bmana&r, performing intricate &drituals&r, and commanding loyal &dfamiliars&r."
-		""
-		"Your primary tool will be the &eWorn Notebook&r, your first step towards a customizable &eSpellbook&r. With it, and tools like the &eScribe's Table&r and &eEnchanting Apparatus&r, you will unlock the secrets of glyphs, combine them into potent &bspells&r, and shape reality to your will."
-		""
-		"Embrace the arcane, explore its depths, and let your magical adventure unfold!"
-	]
-	quest.2BD3111832897C24.quest_subtitle: "&8Your Magical Journey Begins&r"
-	quest.2BD3111832897C24.title: "&l&5Welcome to Ars Nouveau&r"
+	quest.2BCFFE0A9638F314.title: "Primal Fonts"
+    quest.2BCE76DDF4E72EEA.quest_desc: [
+        "Similar to the standard Forestation ritual, this version specifically places fully grown &dArchwood Trees&r in a &a7x7 circular area&r and applies a bonemeal effect. Does not require &bSource&r."
+        ""
+        "&lAugmentations:&r"
+        "*   &dSource Gem:&r Increases the radius by &a+1&r for each gem tossed onto the brazier before activation."
+        "*   &dSpecific Archwood Sapling:&r Augmenting with a sapling of a particular Archwood type (e.g., &cBlazing&r, &bCascading&r) will cause the ritual to spawn resources tied to that specific Archwood's \"biome\" theme within the area."
+    ]
+    quest.2BCE76DDF4E72EEA.quest_subtitle: "&8Cultivating Magic Wood&r"
+    quest.2BCE76DDF4E72EEA.title: "Arcane Groves: &dForestation - Archwood Trees&r &dTablet&r"
+    quest.2BD3111832897C24.quest_desc: [
+        "You stand at the threshold of a world brimming with &duntapped magical potential&r."
+        ""
+        "&eArs Nouveau&r invites you to become a powerful &dmage&r, mastering the art of &bspellcrafting&r, harnessing the flow of &bmana&r, performing intricate &drituals&r, and commanding loyal &dfamiliars&r."
+        ""
+        "Your primary tool will be the &eWorn Notebook&r, your first step towards a customizable &eSpellbook&r. With it, and tools like the &eScribe's Table&r and &eEnchanting Apparatus&r, you will unlock the secrets of glyphs, combine them into potent &bspells&r, and shape reality to your will."
+        ""
+        "Embrace the arcane, explore its depths, and let your magical adventure unfold!"
+    ]
+    quest.2BD3111832897C24.quest_subtitle: "&8Your Magical Journey Begins&r"
+    quest.2BD3111832897C24.title: "&l&5Welcome to Ars Nouveau&r"
 	quest.2BD4E8494F2F43E9.title: "Alloy Shovel"
 	quest.2BE364CCE684AD45.quest_desc: ["One block stop for powering your multiblocks at IV!"]
 	quest.2BE4B6F1CCAA36AC.quest_desc: ["The mixer takes multiple materials and mixes them into a new material, very useful for higher quality steels and metal mixtures"]
@@ -6540,12 +6574,16 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_cell.png width:200 height:100 align:center}"
 	]
 	quest.30C12E249F7E2D52.title: "Cell Maze"
+    quest.30C5B597610F4AFB.quest_desc: ["The first and most important item to make using Eziveus' Spectral Compulsion is the Research Fragment Dust. This is used in combination with some crushed Emeralds to create Lime Chalk!"]
+    quest.30C5B597610F4AFB.title: "&aLime Chalk"
 	quest.30C4A05C8B690E2A.quest_desc: [
 		"School: None"
 		"Changes the color of a target entity (like sheep) or compatible block (like wool, concrete) to match the &acolor of the spell&r itself (set in the spellbook). A purely cosmetic effect!"
 	]
 	quest.30C4A05C8B690E2A.quest_subtitle: "&8Dyeing Magic&r"
 	quest.30C4A05C8B690E2A.title: "Color Change: The &dWololo&r &bGlyph&r"
+	quest.30C5B597610F4AFB.quest_desc: ["The first and most important item to make using Eziveus' Spectral Compulsion is the Research Fragment Dust. This is used in combination with some crushed Emeralds to create Lime Chalk!"]
+	quest.30C5B597610F4AFB.title: "&aLime Chalk"
 	quest.30CD69FC601F26B5.quest_desc: ["Now just 1 more processing step before you can finally craft the Naquadah Alloy Frame&l"]
 	quest.30CD69FC601F26B5.quest_subtitle: "Naq Alloy Time!"
 	quest.30D97EABFE772604.quest_desc: ["Now we can push 64Amps from our substations at the ZPM tier!"]
@@ -7560,6 +7598,15 @@
 	quest.39605F1FEB1A5A1C.title: "AllRightsReserved"
 	quest.39615B8E568E0380.quest_desc: ["Take the Yttrium Barrium Cuprate and make wires."]
 	quest.39615B8E568E0380.quest_subtitle: "Yit-Trium? is the Y silent?"
+	quest.39647A2473F6F7D7.quest_desc: [
+		"Our next step is a foray into &6Infusion Rituals&r. These rituals are used to imbue items with the magic of demons."
+		""
+		"The first tier of &6Infusion Rituals&r is &eEziveus' Spectral Compulsion&r. We'll be using this ritual to create several items that you'll need throughout this mod."
+		""
+		"It is recommended to create this ritual in a separate area from your first one, because the three main types of rituals build off each previous tier."
+	]
+	quest.39647A2473F6F7D7.quest_subtitle: "Put some Demon Dust™ on it!"
+	quest.39647A2473F6F7D7.title: "&eEziveus' Spectral Compulsion"
 	quest.3967F4EF19B62390.quest_desc: [
 		"Beyond spells and rituals, the world resonates with unique magical music. Seek out rare &eMusic Discs&r created by Ars Nouveau, Ars Technica, and potentially other magical sources."
 		""
@@ -8872,6 +8919,15 @@
 	quest.429F0EC29D4048C4.quest_desc: ["&7Wax Blend&r is a Craft made by combining &2&lHexerei&r Crops with Glow Berries in a &7&lMortar and Pestle&r. \\n\\nIt can be applied to a &2&lHexerei&r Block that has a Connected Texture, to seperate it from non-waxed Blocks. \\n\\nWhat are some of those Blocks? Here's a list: Window Panes, &0Infused Fabric&r, and &2&lHexerei&r Wood Blocks! \\n\\nYou can use a &0Cloth&r to wipe off &7Wax&r."]
 	quest.429F0EC29D4048C4.quest_subtitle: "Wax on"
 	quest.429F0EC29D4048C4.title: "&7Wax Blend"
+	quest.429B5A81DF6C43FE.quest_desc: [
+		"&6Abras' Open Commanding Conjure&r is used to bring an &cAfrit&r demon into a Pig. Because this ritual is performed without the use of Red Chalk, it's only powerful enough to summon an &9unbound&r demon."
+		""
+		"In particular, this ritual will create an &cAfrit&r-possessed Zombified Piglin, which will drop some Demonic Meat, which is used to craft Pink Chalk"
+		""
+		"&4WARNING: YOU MAY HAVE TO DO THIS ONE MULTIPLE TIMES TO GET ENOUGH DEMONIC MEAT."
+	]
+	quest.429B5A81DF6C43FE.quest_subtitle: "How... Fleshy..."
+	quest.429B5A81DF6C43FE.title: "&6Abras' Open Commanding Conjure"
 	quest.42AAEC41F2BC2474.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_glacite.png width:100 height:150 align:center}"]
 	quest.42AAEC41F2BC2474.title: "&bGlacite&r"
 	quest.42C1C19DACBA292E.quest_desc: [
@@ -9262,6 +9318,7 @@
 		"Yes, Theres a lot that goes into making 1 of these, but try optimizing the Crafting path. Trust, youll give thanks afterwards."
 	]
 	quest.454F2BF7F2E25D83.quest_subtitle: "Compex Energy"
+	quest.4552530C3107E800.title: "Primal Grimoire"
 	quest.45549E52B3CE2D23.quest_desc: ["Scythes are tools that can farm large areas of crops all at once. They can also be used as a fairly good weapon."]
 	quest.4560696EB252478D.quest_desc: [
 		"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. "
@@ -10522,6 +10579,8 @@
 	]
 	quest.4DE719FC2E4C69AB.quest_subtitle: "And so it begins"
 	quest.4DE719FC2E4C69AB.title: "The Steam Age"
+	quest.4DF0D7B85065ADC9.quest_subtitle: "Hack and slash!"
+	quest.4DF0D7B85065ADC9.title: "Tools of the Trade: Butcher's Knife"
 	quest.4DF683461225690F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_iron.png width:100 height:150 align:center}"]
 	quest.4DF683461225690F.title: "&7Iron&r"
 	quest.4DF7E2149F4BD8CC.quest_desc: ["To insert the desired potion, just right click with the &2Primed Pendant&r in hand to open its inventory."]
@@ -11997,6 +12056,7 @@
 		"I gotta go tell Master Splinter about this one..."
 	]
 	quest.57F6323716A0ED24.quest_subtitle: "TMNT"
+	quest.580148D1141446A6.quest_desc: ["&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r! \\\\n\\\\nWithin your World (I made you go to Dark Forests because old &l&6Forbidden \\\\& Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around. \\\\n\\\\nYou can kill them for the Souls that they drop! It is much less efficient though..."]
 	quest.57FBFBA5AC49709F.quest_desc: [
 		"Unlock the ability to summon loyal &dfamiliars&r, magical creatures that offer passive benefits and assistance. The first step is obtaining a &dBound Script&r specific to the creature you wish to summon."
 		""
@@ -12356,6 +12416,28 @@
 	quest.5AAF6CA41209B365.title: "&3Vibranium Tools"
 	quest.5AC1BE754210429E.quest_desc: ["If you want to create a team for you and your friends, use the command &a/ftbteams party create (name of team)&r to create the team!"]
 	quest.5AC497F76A086A5C.title: "&l&9Overworld Bounty:&r&e Witches"
+	quest.5ACE97EE75813006.quest_desc: [
+		"This is the main source of information on &dRituals&r. Here's the basics:"
+		""
+		"&lTiers of Rituals&r:"
+		""
+		"Rituals have (basically) four tiers based on how powerful the Demon that you're invoking is. The first tier is &eFoliot&r, then &aDijini&r, &cAfrit&r, and &9Marid&r. Some rituals fall into in-between tiers, such as the &6Unbound Afrit&r tier."
+		""
+		"T&lypes of Rituals&r:"
+		""
+		"There are five main types of rituals, but we'll only need four for progression. The main three are &9Summoning Rituals&r, &5Possession Rituals&r, and &6Infusion Rituals&r. Each one will be explained the first time that they appear in these quests. The fourth type of ritual is a sort of &dDemon-less&r &dRitual&r, meaning that it uses bits and pieces from all three types to preform a special action without the direct usage of a Demon."
+		""
+		"The fifth type, &eFamiliar Rituals&r, are not needed for progression. But they can still be summon some useful friends to help you out!"
+		""
+		"&lChalks&r:"
+		""
+		"There are two types of Chalks: Foundation Chalks, and Colored Chalks."
+		""
+		"Foundation chalks are used in every single ritual, and each tier higher gets a shade darker, starting with White Chalk and ending with Black Chalk. "
+		""
+		"Colored Chalks are the most commonly used, but the color of the Chalk doesn't directly corelate to its power the same as Foundation Chalks."
+	]
+	quest.5ACE97EE75813006.title: "The Basics of Rituals"
 	quest.5ACC3640304E0B07.quest_desc: [
 		"&dSal Ammoniac&r spawns anywhere between Bedrock and Y 160. "
 		""
@@ -12374,6 +12456,17 @@
 	quest.5AD33290313151D6.quest_subtitle: "Liquid Americium"
 	quest.5AD80D3242DD3F60.quest_desc: ["One of the hardest materials to get in the mod!\n\nThis is also used to create the &6ATM Star&r!"]
 	quest.5AD80D3242DD3F60.title: "&dInsanite Block"
+	quest.5AE80FF518B1BBA6.quest_desc: [
+		"Tired of lugging around Chalks, Candles, Skulls, and Crystals? Just make a Ritual Satchel!"
+		""
+		"By sneak + right-clicking with the Ritual Satchel in your hand, you can fill it with all the materials you need to draw a ritual circle."
+		""
+		"Once you've loaded up the Satchel, simply right-click any preview block to begin (slowly) automatically placing all the runes for the selected ritual. "
+		""
+		"If a piece of chalk inside the bag falls under 40% durability, the enchantment glint on this item will dissapear to signal that it may be time to repair or replace some of your Chalks."
+	]
+	quest.5AE80FF518B1BBA6.quest_subtitle: "Pocket Ritual!"
+	quest.5AE80FF518B1BBA6.title: "Tools of the Trade: Ritual Satchel"
 	quest.5AEE86EB39FD4087.quest_desc: ["The &3Vortex Tube&r seperates pressure into hot and cold air. The cold air goes to the blue side and the hot air goes to the red side."]
 	quest.5AEE86EB39FD4087.quest_subtitle: "Still not RF..."
 	quest.5AEE86EB39FD4087.title: "Heat Production"
@@ -13309,6 +13402,17 @@
 	]
 	quest.6195E0DBDF7DEA21.quest_subtitle: "Special Herbs Volume 7 and 8"
 	quest.6195E0DBDF7DEA21.title: "&9Mandrake Plant"
+	quest.61999669BDE127F9.quest_desc: [
+		"If you haven't noticed already, making and re-making rituals over and over again is very taxing on the durability of your Chalks. "
+		""
+		"If you're worried about your Chalk breaking, but don't feel like doing the entire ritual to create a new chalk over again, then this ritual is for you!"
+		""
+		"Using the power of a &aDijinni&r, you can repair any color of Chalk to it's maximum!"
+		""
+		"Alternatively, you could use something like the &aEternal Stella&r from the Forbidden Arcanus mod to permenantly preserve your Chalks!"
+	]
+	quest.61999669BDE127F9.quest_subtitle: "You break it, &mwe&r Demons fix it!"
+	quest.61999669BDE127F9.title: "Chalk Repair"
 	quest.61A8FAEC4FF18449.quest_desc: ["These can be used to charge items in your inventory, or can be used to increase the overall power capacity of an &7Ender Network&r channel."]
 	quest.61AD2207E770CD7F.quest_desc: ["Allows you to pickup items and experience from furthur away."]
 	quest.61AD2207E770CD7F.quest_subtitle: "Max: 6"
@@ -15282,6 +15386,8 @@
 	]
 	quest.6FD65139CD50A8C0.quest_desc: ["Is that even possible?\n\nIf you wish to automate this process you can use &eProductive Bees&r or &aMystical Agriculture&r. Or I guess you could automate it, with...explosions."]
 	quest.6FD65139CD50A8C0.quest_subtitle: "Tired of blowing stuff up?"
+	quest.6FEED25FFAC4101F.quest_desc: ["Using &aStrigeor's Higher Binding&r, you can create Gray Paste. Smear this on a piece of Impure White Chalk to create Gray Chalk."]
+	quest.6FEED25FFAC4101F.title: "&8Gray Chalk"
 	quest.6FF04DD735346BED.quest_desc: ["Turns Latex into Dry Rubber."]
 	quest.6FF116239EACA390.title: "End Stone 5X"
 	quest.6FF20C2FB977C142.quest_desc: ["Steam is the foundation to your early progression through MI. Take a bucket of water and put it into the furnace with fuel to turn it into steam!"]
@@ -15889,6 +15995,8 @@
 	quest.74015945716FD10A.quest_subtitle: "A configurable hopper"
 	quest.7408CCF998D9CD37.quest_desc: ["A Craftable &eSpell Book&r... yeah it's not easy to craft. \n\nHardest to get would be the Ruined Book, which you can find in &9Ancient City&r Chests. &4Blood Vials&r can be obtained from either putting a Mob (or even yourself) into a Cauldron above a Campfire or an Alchemical Cauldron. &5Bottle O' Lightning&r comes from using a Bottle on a Charged Creeper. \n\nOnce you do all that you can craft the Ancient Codex. Its 12 &3Spell&r Slots is very helpful!"]
 	quest.7408CCF998D9CD37.title: "Ancient Codex"
+	quest.74130EB1E4B8586D.quest_desc: ["Using &aIhagan's Enthrallment&r, you can sacrifice an Allay, Bat, Bee, or Parrot to summon a &6Possessed Bee&r. Upon defeating one, it will drop Cursed Honey, the main ingredient for making Orange Chalk!"]
+	quest.74130EB1E4B8586D.title: "&6Orange Chalk"
 	quest.7413BB136EF9D6C5.quest_desc: ["The Mechanical Drying Basin uses energy to dry"]
 	quest.74200A48498DD7F8.quest_desc: ["Generates power from the sun!"]
 	quest.74200A48498DD7F8.quest_subtitle: "Generates about 51FE/t"
@@ -16867,7 +16975,7 @@
 	]
 	quest.7B3FAF5CA4DD217C.title: "Functional And Generating Flora"
 	quest.7B4A687EB505C2FF.quest_desc: ["&cCarminite Builders&r, when powered with a Redstone signal, will generate temporary blocks in the direction the signal came from.\n\nThe &cCarminite Reactor&r will convert nearby Obsidian and Netherack into &eFalse Gold&r and &3False Diamond&r. After a short period of time, this will suck up nearby blocks and explode, creating &cCarminite Ghastlings&r around it."]
-	quest.7B4A687EB505C2FF.title: "&cCarmanite Builders & Reactors"
+	quest.7B4A687EB505C2FF.title: "&cCarmanite Builders \\& Reactors"
 	quest.7B4AAC741F0A6073.quest_desc: ["Every reactor needs &9Reactor Control Rods&r and &9Fuel Rods&r. These control how fuel is inserted into the reactor.\n\nThe Control Rods are placed on the top face of the reactor. You can also have more than one per reactor, but you must have at least 1. Typically, the more you have, the more fuel the reactor can use and burn. That can mean more overall power, but at the cost of higher burn rates, depending on the setup of your reactor.\n\nFor every Control Rod, you'll need enough Fuel Rods to extend to the base of the reactor. For example, if your reactor is 5 blocks tall, you'll need 3 Fuel Rods extending from each Control Rod.\n\nIf you right-click on a Control Rod, you can control how much fuel is burned in the reactor by inserting or retracting the fuel rods. The further that you extend the rods, the less fuel that will be burned."]
 	quest.7B4AAC741F0A6073.title: "Reactor Control Rods"
 	quest.7B4AF35313D7D779.quest_subtitle: "Tier: &64"
@@ -17490,6 +17598,137 @@
 	quest.7FF3EA602FE7A546.quest_desc: ["The &3Sculk Transmitter&r is a very rare Item we can find within Chests of the &6Ancient Temple&r. \\n\\nOnce you do find one, it'll be your Bestfriend! \\n\\nTo use it, simply Shift Right Click a Block that has a GUI, think of: Chests, Crafting Tables, and Furnaces. Then, the &3Transmitter&r will be bound to that Item. \\n\\nAfter that, we can use the &3Transmitter&r to remotely access that Block from wherever! \\n\\nTo unbind the Block, Shift Right Click the Air with the &3Transmitter&r."]
 	quest.7FF3EA602FE7A546.title: "&3Sculk Transmitter"
 	quest.7FF77463F2A0E210.quest_desc: ["Nightfall Mud can only be found within the Dark Swamps. \n\nYou can make more Blocks out of it!"]
+	quest.38A1295878B68F83.quest_desc: [
+		"No, not that kind."
+		""
+		"&cAfrit Demons&r are Demons of &cFire&r. They are more advanced Demons, which some are friends and some are... not. It all depends on how strongly the ritual can control the &cAfrit&r. "
+		""
+		"Because we don't have access to Red Chalk yet, all we can summon is an &9Unbound&r Demon, meaning it cannot be controlled and will be violent."
+	]
+	quest.38A1295878B68F83.quest_subtitle: "Hot Demons!"
+	quest.38A1295878B68F83.title: "&6Abras' Open Conjure"
+	quest.2E68E1D96B25336D.quest_desc: ["After fighting through a few Demon Possessed Zombified Piglins summoned by &6Abras' Open Commanding Conjure&r, you can use the Demonic Meat dropped by them to craft some Pink Chalk."]
+	quest.2E68E1D96B25336D.title: "&dPink Chalk"
+	quest.67884BFA27870CCE.quest_desc: [
+		"&dOsorin's Unbound Calling&r is the second tier of &dDemon-less rituals&r. The first tier isn't useful for progression at all, it's only used for reviving Familiars and turning Vexes into Allays. "
+		""
+		"This ritual is used to create a ton of rare-ish blocks, items, and materials that you might not be able to (or it's hard to) get otherwise."
+	]
+	quest.67884BFA27870CCE.quest_subtitle: "For the less trial-chamber-inclined of us"
+	quest.67884BFA27870CCE.title: "&dOsorin's Unbound Calling"
+	quest.2960FFE0C53DFEB1.quest_desc: [
+		"&cSevira's Permanent Confinement&r is the third tier of &6Infusion Rituals&r. It's mainly used to create the next level of foundation Chalk, Black Chalk."
+		""
+		"It's also used to create a couple of items that can speed up ritual making and performing by a significant amount."
+	]
+	quest.2960FFE0C53DFEB1.quest_subtitle: "The \"Even More Everything\" Ritual"
+	quest.2960FFE0C53DFEB1.title: "&cSevira's Permanent Confinement"
+	quest.4CE571F942461909.quest_desc: [
+		"The Ritual Satchel is nice, but it takes a long time to place all the blocks. Now that you can perform the &cSevira's Permenant Confinement&r ritual, you can create the Artisanal Ritual Satchel!"
+		""
+		"The Artisanal Ritual Satchel functions nearly identically to the regular Ritual Satchel, except it instantly places all the nessecary items for the ritual, and has the added ability to right-click on Golden Bowl to erase all the Chalk Runes and collect all the other items (Skulls, Candles, and Crystals) and return them to the Satchel."
+		""
+		"No, it doesn't restore the durability of the Chalk."
+	]
+	quest.4CE571F942461909.title: "Tools of the Trade: Artisanal Ritual Satchel"
+
+	quest.6FFFAE334DFAAAAB.quest_desc: [
+		"As you've probably noticed, rituals tend to be... a little slow. But not anymore! Using &cSevira's Permanent Confinement&r, you can create the &bIesnium Ritual Bowl&r. "
+		""
+		"When using this in place of a Golden Ritual Bowl, it greatly reduces how long it takes to perform a ritual, taking it down to one fourth of its original time!"
+	]
+	quest.6FFFAE334DFAAAAB.quest_subtitle: "Super-speed Rituals!"
+	quest.1848F431D0380DA9.quest_desc: [
+		"Similar to the Chalk Repairing function of &aStrigeor's Higher Binding&r, &cSevira's Permanent Confinement&r can be used to repair items using the power of an Afrit Demon."
+		""
+		"This ritual can repair just about anything, so &eDemon Miners&r, tools, and armor can all be restored to their original durability! "
+		""
+		"All items that are repaired using this ritual retain their original properties (affixes, enchantments, etc), so don't worry about your precious enchantments!"
+	]
+	quest.1848F431D0380DA9.quest_subtitle: "Free(ish) durability!"
+	quest.1848F431D0380DA9.title: "Repairing Items"
+	quest.367E891A50991436.quest_desc: ["Using &cSevira's Permanent Confinement&r, we can combine several different Wither materials and some Netherite to create three Witherite Dust. With these, we can create ourselfs the highest form of Foundation Chalk, Black Chalk."]
+	quest.367E891A50991436.title: "Black Chalk"
+	quest.1EB887F8072439A3.quest_desc: ["After using &9Fatma's Incentivized Attraction&r to summon a &9Marid Crusher&r, you can turn Ice, Packed Ice, and Blue Ice into their crushed forms, and use these to create Light Blue Chalk."]
+	quest.1EB887F8072439A3.title: "&bLight Blue Chalk"
+	quest.53DEA3DFEDC4809E.quest_desc: [
+		"Don't worry, this is the last of the Abras series of rituals. It is used to summon a &9Marid&r demon, but even though it uses Red Chalk, it's not powerful enough to &9bind&r the Demon. This means that, unfortunately, you're going to have to fight it."
+		""
+		"This ritual uses a Trident as a sacrifice, which is confusing because most sacrifices are living creatures. So instead of killing a mob on top of the completed ritual circle, you simply throw the Trident at the center bowl to start the ritual."
+	]
+	quest.53DEA3DFEDC4809E.quest_subtitle: "Is it a Bird? Is it a Plane? No, it's an unbound &9Marid&r!"
+	quest.53DEA3DFEDC4809E.title: "&4Abras' Fortified Conjure"
+	quest.03250A0202C25E80.quest_desc: ["After you've successfully slain the &9Unbound Marid&r Demon that you summoned with &4Abras' Fortified Conjure&r, you can use the &9Marid Essence&r that it drops to craft the \"highest\" colored Chalk, Blue Chalk."]
+	quest.03250A0202C25E80.title: "&9Blue Chalk"
+	quest.2CF96A264EB5522C.quest_desc: [
+		"&9Uphyxes' Inverted Tower&r is the maximum tier of &6Infusion Rituals&r. It doesn't have as many uses as the other three tiers, but it's still nessecary for the \"endgame\" of Occultism. "
+		""
+		"Mainly, it's used to create Dragonyst Dust, which is the main ingredient for Magenta Chalk."
+	]
+	quest.2CF96A264EB5522C.quest_subtitle: "Maximum Infusion"
+	quest.2CF96A264EB5522C.title: "&9Uphyxes' Inverted Tower"
+	quest.1BDB369FD243D4C6.quest_desc: [
+		"Arguably the most useful item that you can create in Occultism, the &bIesnium Anvil&r is a super-powerful version of the Vanilla Anvil."
+		""
+		"Created using &9Uphyxes' Inverted Tower&r, it:"
+		""
+		"- Is unbreakable."
+		"- Increases the maximum level of all enchants for anything combined on it by one level."
+		"- Costs half as much xp as the estimate says (rounded down, so if it says 25, it'll cost 12)."
+		"- Has a smaller experience requirement increase for repeated edits on the same item."
+		"- Increases the maximum xp level at which you can edit items (the point at which it says \"Too Expensive!\")."
+	]
+	quest.2AD68066C1948C90.quest_desc: [
+		"That first &eFoliot Crusher&r was cool, but what if I told you that you could summon a demon that gives you 6 dusts per raw ore it crushes?"
+		""
+		"The &9Marid Crusher&r does exactly that. To summon one, you'll need to use &9Fatma's Incentivized Attraction&r. "
+	]
+	quest.2AD68066C1948C90.quest_subtitle: "Maximum Summon"
+	quest.2AD68066C1948C90.title: "&9Fatma's Incentivized Attraction"
+	quest.56EC79AF11B0869E.quest_desc: ["&9Xeovrenth Adjure&r is the maximum tier of &5Possession Rituals&r. It only has two uses: creating Cruelty Essence, the main ingredient in Brown Chalk, and creating an Iesnium Golem, which is basically just an Iron Golem that's immortal and does more damage."]
+	quest.56EC79AF11B0869E.quest_subtitle: "Maximum Possession"
+	quest.56EC79AF11B0869E.title: "&9Xeovrenth Adjure"
+	quest.00A6020BC979947F.quest_desc: ["With your freshly summoned &9Marid Crusher&r, you can break down an Echo Shard and an Iesnium Ingot, which when combined with a Glow Ink Sac creates Cyan Chalk."]
+	quest.00A6020BC979947F.title: "&3Cyan Chalk"
+	quest.3543563DF036D461.quest_desc: ["To create Dragonyst Dust, you'll need to perform &9Uphyxes' Inverted Tower&r. However, to create Magenta Chalk, you'll also need some materials that you can only get through the &9Marid Crusher&r."]
+	quest.3543563DF036D461.title: "&#AD00C8Magenta Chalk"
+	quest.7BCD4A425CF6199B.quest_desc: ["After slaying the Goat of Mercy summoned from &9Xeovrenth Adjure&r, you'll find yourself one Cruelty Essence richer. Combine this with some Cocao Beans to create Brown Chalk."]
+	quest.7BCD4A425CF6199B.title: "&#4E2C00Brown Chalk"
+	quest.0A25276925EB0CBA.quest_desc: [
+		"Once you've gathered every single colored Chalk and Foundation Chalk, you can perform the second &dDemon-less&r type ritual, &dRonaza's Contact&r. This is the ultimate ritual, using everything you've learned so far!"
+		""
+		"It has limited uses, but everything created with this ritual is super powerful!"
+	]
+	quest.0A25276925EB0CBA.quest_subtitle: "With this sacred treasure I summon..."
+	quest.0A25276925EB0CBA.title: "&dRonaza's Contact"
+	quest.690B89D23134B624.quest_desc: [
+		"Grab your chalks, draw your &dRonaza's Contact&r ritual, and get ready to create the ULTIMATE CHALK!"
+		""
+		"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them! "
+	]
+	quest.690B89D23134B624.title: "&cR&6a&ei&an&9b&5o&dw&r Chalk"
+	quest.2FD22502E6481269.quest_desc: ["Using &dRonaza's Contact&r, you can upgrade your Soul Gem to create a Trinity Gem. It's basically just a beefed up version of the Soul Gem that can capture larger enemies, although it still can't contain most bosses."]
+	quest.2FD22502E6481269.title: "Trinity Gem"
+	quest.08697EB269B011FD.quest_desc: [
+		"With &dRonaza's Contact&r, you can upgrade your &bIesnium Sacrificial Bowl&r to the Eldritch Chalice. When used in a ritual, reduces the time it takes to complete... entirely. "
+		""
+		"Yes, the Eldritch Chalice makes it so that all rituals complete instantly!"
+	]
+	quest.54378277B8D28B1D.quest_desc: [
+		"An \"upgrade\" to the Rainbow Chalk, for those who don't like the rapid color-switching runes ruining their tediously crafted aesthetic. "
+		""
+		"Has the same function as the Rainbow Chalk, except all the runes will show up as white."
+	]
+	quest.29C83B00AC4AFC23.quest_desc: [
+		"Now that you've come this far, you may be asking yourself, what's next? Well, there are so many more things to explore in Occultism! "
+		""
+		"You can see a comprehensive list of every single ritual and item in your &6Dictionary of Spirits&r, you could try going through all the rituals' outcomes to see if you can find something that piques your interest!"
+		""
+		"If you haven't already, you could lay out and decorate three separate ritual areas, one for Summons, one for Possessions, and one for Infusions."
+		""
+		"There's always new ways to use each and every seemingly mundane feature to maximize your experience with the modpack. Happy ritual crafting!"
+	]
+	quest.29C83B00AC4AFC23.title: "What's Next?"
 	reward.5990C633ED14DC48.title: "Unbreakable"
 	reward_table.02C75EC051AC00B3.title: "Ars Nouveau: random reward chance"
 	reward_table.06C4634E81851A6C.title: "Reward: Common"
@@ -17500,6 +17739,7 @@
 	reward_table.11204745E52B4C0C.title: "Logs \\& Saplings"
 	reward_table.1EC6956FA2BB2B00.title: "Basic Storage: Rewards"
 	reward_table.2ED4AA3022326907.title: "Vampirism: Vampire 2"
+	reward_table.369A031D554B0BEA.title: "PrimalMagick: Dusts"
 	reward_table.3237804A4D11B9E1.title: "Pottery Shards"
 	reward_table.37D31D4C2B339E4C.title: "Ars Nouveau: Archwood"
 	reward_table.3A3BDBA4E9AD13C4.title: "Reward: Uncommon"
@@ -17552,6 +17792,7 @@
 	task.04E3568175E66B6D.title: "Observe completed Cracker"
 	task.05072073E048223B.title: "Quests By AllTheMods"
 	task.05256FE880D981D5.title: "Vibranium Tools"
+	task.054C63590544B160.title: "Fonts"
 	task.052599C74A1FA6E9.title: "Inventory"
 	task.05A215BE7EE2F35D.title: "Observe Uranium Hexafluoride in a Machine"
 	task.064B1841F9288CC3.title: "Blocks"
@@ -17618,6 +17859,7 @@
 	task.107ADEF19CD50661.title: "Bronze Plate"
 	task.10A16F89D4AD238D.title: "Useful Commands"
 	task.10AA43B1500FAAAA.title: "To &6Everdawn&r!"
+	task.10AAA24C8966F87F.title: "Primal Libraries"
 	task.10B2B54525658C9B.title: "Back"
 	task.11741300813AF742.title: "AllRightsReserved"
 	task.11931CBFE67ADBBB.title: "AllRightsReserved"
