@@ -21,7 +21,7 @@
 			height: 10.0d
 			image: "atm:textures/questpics/ars/ars_nexus_tower.png"
 			rotation: 0.0d
-			width: 6.0d
+			width: 5.0d
 			x: -7.5d
 			y: 4.5d
 		}
@@ -192,6 +192,30 @@
 		{
 			dependencies: ["4D74C41E3E2F32F9"]
 			id: "1878FFA58C5C8A7E"
+			rewards: [
+				{
+					id: "0984372EFECA4AD4"
+					item: {
+						count: 1
+						id: "ars_nouveau:starby_gift"
+					}
+					type: "item"
+				}
+				{
+					id: "2C76FE3F52F864CA"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 4
+					id: "7CB5BE4D820D3B24"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
 			shape: "pentagon"
 			size: 2.0d
 			tasks: [
@@ -1037,6 +1061,22 @@
 		{
 			dependencies: ["1878FFA58C5C8A7E"]
 			id: "255BF9D2A49D8CFC"
+			rewards: [
+				{
+					count: 8
+					id: "3CA8793402F64DCE"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "21BE784C52986A46"
+					type: "xp"
+					xp: 100
+				}
+			]
 			shape: "gear"
 			size: 2.0d
 			tasks: [

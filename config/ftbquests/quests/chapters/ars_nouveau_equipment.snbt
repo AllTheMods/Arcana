@@ -2641,18 +2641,21 @@
 				{
 					id: "5013B2427B0154A2"
 					item: { components: { "minecraft:stored_enchantments": { levels: { "ars_additions:spellweave": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
 					optional_task: true
 					type: "item"
 				}
 				{
 					id: "4082EE48C11803A8"
 					item: { components: { "minecraft:stored_enchantments": { levels: { "ars_additions:spellweave": 2 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
 					optional_task: true
 					type: "item"
 				}
 				{
 					id: "71D670548F7C62BE"
 					item: { components: { "minecraft:stored_enchantments": { levels: { "ars_additions:spellweave": 3 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
 					type: "item"
 				}
 			]
