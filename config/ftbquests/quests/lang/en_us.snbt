@@ -8697,7 +8697,7 @@
 		"&eYellow Dock Bushes&r are also 2 Block tall Bushes spawning in &2Swamps&r. \\n\\nTheir &eFlowers&r are a deep &eYellow&r Color! \\nWhen grown they'll drop their &eFlowers &fand &eLeaves&r. \\n\\nTheir &eFlowers&r are used in making the &6&oEnhanced Brush&r. \\n\\nAnd their &eLeaves&r can be made into the normal &6Brush&r!"
 		"{image:atm:textures/questpics/hexerei/hex_yellow.png width:100 height:125 align:center}"
 	]
-	quest.438FE6188D334F1A.quest_subtitle: "(((99.99999%)))"
+	quest.438FE6188D334F1A.quest_subtitle: "99.99999%"
 	quest.438FE6188D334F1A.title: "&eYellow Dock Bush"
 	quest.439556C571592D81.quest_desc: ["Now that we have broken down the Inert Metal mixure, we have 2 new resources, both of which are extremely valuable to us in the &dLuv&r Tier! Make sure to get a passive line going so we have a constant supply of these resources flowing in!"]
 	quest.439556C571592D81.quest_subtitle: "2 for 1! What a deal!"
@@ -11589,7 +11589,7 @@
 	]
 	quest.57FBFBA5AC49709F.quest_subtitle: "&8Binding Allies to Your Side&r"
 	quest.57FBFBA5AC49709F.title: "Magical Companionship: &dTablet of Binding&r"
-	quest.580148D1141446A6.quest_desc: ["&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r! \n\nWithin your World (I made you go to Dark Forests because old &l&6Forbidden & Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around. \n\nYou can kill them for the Souls that they drop! It is much less efficient though..."]
+	quest.580148D1141446A6.quest_desc: ["&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r! \\n\\nWithin your World (I made you go to Dark Forests because old &l&6Forbidden \\& Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around. \\n\\nYou can kill them for the Souls that they drop! It is much less efficient though..."]
 	quest.580148D1141446A6.title: "Lost Souls"
 	quest.58095E9EBC6FF9B2.title: "Creative Power"
 	quest.5820EDEF71340A1A.quest_desc: [

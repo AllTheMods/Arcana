@@ -863,7 +863,7 @@
 				id: "6B765B1257BF468B"
 				item: {
 					components: {
-						"ftbquests:missing_item": "mob_grinding_utils:delightful_dirt"
+						"ftbquests:missing_item": "minecraft:spawner"
 					}
 					count: 1
 					id: "ftbquests:missing_item"
