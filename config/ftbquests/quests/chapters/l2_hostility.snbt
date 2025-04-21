@@ -1,0 +1,1650 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "l2_hostility"
+	group: "5A4775CCD6D26C80"
+	id: "08B4637944571E39"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "446C441D14889557"
+			rewards: [{
+				id: "1E21A7987210B16C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "268276E6A3A9520F"
+				type: "dimension"
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["446C441D14889557"]
+			id: "56068F49008F2DE9"
+			rewards: [
+				{
+					id: "4C9F1C2A483C2196"
+					type: "xp"
+					xp: 25
+				}
+				{
+					id: "4BC27A7A75DAD943"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "449479A2D89D5AF7"
+				item: { count: 1, id: "l2hostility:hostility_detector" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["56068F49008F2DE9"]
+			id: "0A9B7197379887B0"
+			rewards: [
+				{
+					id: "0FFD142A18E4B319"
+					type: "xp"
+					xp: 25
+				}
+				{
+					id: "7D66251B0B8C8287"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2525DEA3FC3E9A5F"
+				item: { count: 1, id: "l2hostility:detector_glasses" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0A9B7197379887B0"]
+			id: "7ABA566D751AF0D1"
+			rewards: [{
+				id: "11E51FC2DDFA9D9A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3CED314977004BC5"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7ABA566D751AF0D1"]
+			id: "0B6C8AD4A53E6AE2"
+			rewards: [
+				{
+					id: "6E381D167D176675"
+					type: "xp"
+					xp: 25
+				}
+				{
+					id: "090CAA3A1C98147B"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1E3CFD9B7508A6FC"
+				item: { count: 1, id: "l2hostility:charm_of_looting_1" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0B6C8AD4A53E6AE2"]
+			id: "0E00AF20A70A5ACB"
+			rewards: [
+				{
+					id: "481ADE7EEDF0A2E6"
+					type: "xp"
+					xp: 25
+				}
+				{
+					id: "01CB75FD54DD3696"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7F74C3890AD5AF41"
+				item: { count: 1, id: "l2hostility:charm_of_looting_2" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0E00AF20A70A5ACB"]
+			id: "38477E60E8971B02"
+			rewards: [
+				{
+					id: "66A75DEAD97428D0"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "19BF43194607B962"
+					item: {
+						count: 1
+						id: "l2complements:cursed_droplet"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4624E325162EC8F9"
+				item: { count: 1, id: "l2complements:cursed_droplet" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["38477E60E8971B02"]
+			id: "44F8E8B9FF806363"
+			rewards: [
+				{
+					id: "5A6ABF4A640FEEEC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "291EA0F52E5092F4"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "66732A8D65706A16"
+					item: { count: 1, id: "l2complements:wind_capture_bottle" }
+					type: "item"
+				}
+				{
+					id: "0BF4FD316C0931FA"
+					item: { count: 1, id: "l2complements:captured_wind" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["44F8E8B9FF806363"]
+			id: "32AC96224AC6F9F2"
+			rewards: [
+				{
+					id: "0AC0D40477DE0908"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "38E0B6203BBB32E2"
+					item: {
+						count: 1
+						id: "l2hostility:bottle_of_curse"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "715F2830222C7D7E"
+				item: { count: 1, id: "l2hostility:chaos_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["32AC96224AC6F9F2"]
+			id: "1B3978A03AA52CDA"
+			rewards: [
+				{
+					id: "212FEA68F17B666C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "03570E61F412C913"
+					item: {
+						count: 1
+						id: "l2hostility:bottle_of_curse"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1BA1F764CAF169D4"
+				item: { count: 1, id: "l2hostility:charm_of_looting_3" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["32AC96224AC6F9F2"]
+			id: "37392913FDA2895C"
+			rewards: [
+				{
+					id: "4DA515087D06D78C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "05B6D7D199C8E4CC"
+					item: {
+						count: 1
+						id: "l2hostility:bottle_of_curse"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "113167E7D8DC6100"
+				item: { count: 1, id: "l2hostility:curse_of_envy" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["37392913FDA2895C"]
+			id: "38B6C277506D07E2"
+			rewards: [{
+				id: "49AAA5D261FBD6A4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4E3BAA147BF09F4D"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			id: "25C10139D03D5B96"
+			rewards: [{
+				id: "7556F31A92C5B977"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "41914689BC062AF7"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(l2hostility:trait_item)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["37392913FDA2895C"]
+			id: "78F67561A1E0BF77"
+			rewards: [
+				{
+					id: "2F80501217CEB4BB"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "35D8F78F1B333057"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "737199A408B69D49"
+				item: { count: 1, id: "l2hostility:curse_of_gluttony" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["174F6ACD6E1E4FB5"]
+			hide_dependent_lines: true
+			id: "4CB68D192B9BBF49"
+			rewards: [
+				{
+					id: "1F6E922B1A9A0F2C"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "7E8181FAC767366C"
+					item: {
+						count: 1
+						id: "l2hostility:hostility_essence"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "58D312BED4A3779B"
+				item: { count: 1, id: "l2hostility:hostility_essence" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"435DA22D3D33777A"
+				"4CB68D192B9BBF49"
+			]
+			id: "6A3255F2C7F80751"
+			rewards: [
+				{
+					id: "353061C5A778FDEC"
+					type: "xp"
+					xp: 200
+				}
+				{
+					count: 2
+					id: "7E480EB5744E673E"
+					item: {
+						count: 1
+						id: "l2hostility:miracle_powder"
+					}
+					type: "item"
+				}
+				{
+					id: "2845AD806CF39A13"
+					item: {
+						count: 1
+						id: "l2hostility:chaos_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7DBAEE572CC22C46"
+				item: { count: 1, id: "l2hostility:miracle_ingot" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["25C10139D03D5B96"]
+			dependency_requirement: "one_completed"
+			id: "435DA22D3D33777A"
+			rewards: [
+				{
+					id: "497FEF5B7C075894"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "02E87A51C03357EA"
+					item: {
+						count: 1
+						id: "l2hostility:miracle_powder"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "337B8C041DCA3DAC"
+				item: { count: 1, id: "l2hostility:miracle_powder" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6A3255F2C7F80751"]
+			id: "4D790AFFED2BD984"
+			rewards: [
+				{
+					id: "5984B2CD5E2D24D2"
+					type: "xp"
+					xp: 300
+				}
+				{
+					id: "1FFF9FB4E217FD27"
+					item: {
+						count: 1
+						id: "l2hostility:miracle_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0C5BD7C3A763AEB1"
+				item: { count: 1, id: "l2hostility:charm_of_looting_4" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -2.5d
+		}
+		{
+			id: "4741FCDCC76C5FE6"
+			rewards: [{
+				id: "43E9BD952BF36623"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3AB6385F93EA792A"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			id: "081CAAB034E0F308"
+			rewards: [{
+				id: "60DFB10B3D90DCCF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5E1BFD39A6547EBF"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["25C10139D03D5B96"]
+			id: "3F7C12B98EAB1AF2"
+			rewards: [
+				{
+					id: "744BACA44DFE2034"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "7A2E1DF4DFFEA2B0"
+					item: {
+						count: 1
+						id: "l2complements:life_essence"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3403E056DAE04713"
+				item: { count: 1, id: "l2hostility:bottle_of_sanity" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0A9B7197379887B0"]
+			id: "73E792189A12634A"
+			rewards: [{
+				id: "30177F83A6B1561E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "294F5243CC1E1681"
+				item: { count: 1, id: "l2hostility:hostility_orb" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3F7C12B98EAB1AF2"]
+			id: "42C1C19DACBA292E"
+			rewards: [
+				{
+					id: "0319648D54D836C2"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "332FC3BC2B4A660D"
+					item: {
+						count: 1
+						id: "l2hostility:chaos_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0D03512A630539F9"
+				item: { count: 1, id: "l2hostility:curse_of_sloth" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"78F67561A1E0BF77"
+				"38477E60E8971B02"
+			]
+			dependency_requirement: "one_completed"
+			id: "174F6ACD6E1E4FB5"
+			rewards: [
+				{
+					id: "2FC7BAF21027D357"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "20635958DAC96FF3"
+					item: {
+						count: 1
+						id: "l2hostility:bottle_of_curse"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "51E9A2B77ACAC17B"
+				item: { count: 1, id: "l2hostility:bottle_of_curse" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["6A3255F2C7F80751"]
+			id: "1B5C915969D05C71"
+			rewards: [
+				{
+					id: "5BCC57465FEB1CAC"
+					type: "xp"
+					xp: 300
+				}
+				{
+					id: "3EE6ED5A0B4A9BB4"
+					item: {
+						count: 1
+						id: "l2complements:eternium_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6063E2A030B1339B"
+				item: { count: 1, id: "l2hostility:abyssal_thorn" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4D790AFFED2BD984"]
+			id: "31A8CC346C9EE072"
+			rewards: [{
+				id: "1327FF296A51FD6E"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "4584109EB8EAA796"
+				type: "checkmark"
+			}]
+			x: 16.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"38477E60E8971B02"
+				"73E792189A12634A"
+			]
+			id: "2A00EDC4D614726B"
+			rewards: [
+				{
+					id: "7F8BE6566E2197A2"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "177B45DC1F43E467"
+					item: {
+						count: 1
+						id: "l2hostility:hostility_spawner"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2E106735FC25BE7B"
+				item: { count: 1, id: "l2hostility:hostility_spawner" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6A3255F2C7F80751"]
+			id: "0458A38019AB1726"
+			rewards: [
+				{
+					id: "021E47C548F6466D"
+					type: "xp"
+					xp: 300
+				}
+				{
+					id: "22683DED97CE3F83"
+					item: {
+						count: 1
+						id: "l2hostility:miracle_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "460F3A73DF58ECA4"
+				item: { count: 1, id: "l2hostility:curse_of_wrath" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["25C10139D03D5B96"]
+			id: "1D2851247F05307A"
+			rewards: [
+				{
+					id: "2F041FC960FF49BC"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "3DA56A41EFB3B948"
+					item: {
+						count: 1
+						id: "l2hostility:chaos_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "01BEBEF2F85F1F7B"
+				item: { count: 1, id: "l2hostility:curse_of_lust" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["25C10139D03D5B96"]
+			id: "148658B5697EA868"
+			rewards: [
+				{
+					id: "41BE31D7AAB5E504"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "2747D439B78C3F01"
+					item: {
+						count: 1
+						id: "l2hostility:chaos_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55FC3531B9059DA8"
+				item: { count: 1, id: "l2hostility:curse_of_greed" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"73E792189A12634A"
+				"2A00EDC4D614726B"
+			]
+			id: "562ADFA44CDB2ED1"
+			rewards: [{
+				id: "0006C068B40D8E7D"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "3DAD43FF13841AB2"
+					item: { count: 1, id: "minecraft:chorus_fruit" }
+					type: "item"
+				}
+				{
+					id: "41F2A525B2088FDA"
+					item: { count: 1, id: "minecraft:quartz" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:fiery"
+			}
+			id: "3A0641326CF60642"
+			rewards: [{
+				id: "4456A64E82DD2B42"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "22A0A698A776845F"
+					item: { count: 1, id: "l2hostility:fiery" }
+					type: "item"
+				}
+				{
+					id: "45421EF0233A6D76"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:fire_immunity": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:invisible"
+			}
+			id: "1DD4480CF6F521C1"
+			rewards: [{
+				id: "6D5FB8538F0DCBE3"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "58C8CA64D9041F5B"
+					item: { count: 1, id: "l2hostility:invisible" }
+					type: "item"
+				}
+				{
+					id: "02AD1545D23AFBE5"
+					item: { components: { "minecraft:potion_contents": { potion: "l2complements:cleanse" } }, count: 1, id: "minecraft:potion" }
+					match_components: "strict"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "2621CF44130F7A3A"
+					item: { count: 1, id: "l2hostility:ring_of_divinity" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "7A94624FF60E0921"
+					item: { count: 1, id: "l2hostility:detector_glasses" }
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:protection"
+			}
+			id: "63D762B523862754"
+			rewards: [{
+				id: "2D7B24B2507C14D9"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "691F6B5F045B2E52"
+					item: { count: 1, id: "l2hostility:protection" }
+					type: "item"
+				}
+				{
+					id: "19B981EEC9968C97"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:void_touch": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:regenerate"
+			}
+			id: "72825867BBDC6EE8"
+			rewards: [{
+				id: "1E3F5793628D7ACB"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "49E67FEA9812AA70"
+					item: { count: 1, id: "l2hostility:regenerate" }
+					type: "item"
+				}
+				{
+					id: "347E3937C1807B12"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:cursed_blade": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:speedy"
+			}
+			id: "2F5E23782958C4D0"
+			rewards: [{
+				id: "5B4FD534A47B5B90"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "5E9E975F86DBDB12"
+					item: { count: 1, id: "l2hostility:speedy" }
+					type: "item"
+				}
+				{
+					id: "7E64C79942534E86"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2archery:slow": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "5A76E85CD3632195"
+					item: { components: { "minecraft:potion_contents": { potion: "minecraft:slowness" } }, count: 1, id: "minecraft:tipped_arrow" }
+					match_components: "strict"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "1C029AF5B4E817D4"
+					item: { components: { "minecraft:potion_contents": { potion: "minecraft:slowness" } }, count: 1, id: "minecraft:potion" }
+					match_components: "strict"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "63C170B18945E586"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:freezing_thorn": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "07A23835759E38C3"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:freezing_blade": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:shulker"
+			}
+			id: "2124A15257A4DFB7"
+			rewards: [{
+				id: "19CCE0809CCB7C46"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "382F42F3EB95A039"
+					item: { count: 1, id: "l2hostility:shulker" }
+					type: "item"
+				}
+				{
+					id: "4EEF63C0DE629D84"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:projectile_immunity": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:tank"
+			}
+			id: "457AE0F1424D4269"
+			rewards: [{
+				id: "03C29AA6FA585DAF"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "37AD19F57B17EDA3"
+					item: { count: 1, id: "l2hostility:tank" }
+					type: "item"
+				}
+				{
+					id: "7C8FB98C985FB1B9"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:void_touch": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:gravity"
+			}
+			id: "52936B0E7EFD6BFF"
+			rewards: [{
+				id: "7D0D17664C7A279E"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "2B5E92CE72C61A74"
+					item: { count: 1, id: "l2hostility:gravity" }
+					type: "item"
+				}
+				{
+					id: "63EEFE7BBF20CAAA"
+					item: { components: { "minecraft:potion_contents": { potion: "minecraft:slow_falling" } }, count: 1, id: "minecraft:potion" }
+					match_components: "strict"
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:moonwalk"
+			}
+			id: "0AA2EF89E67D4B3F"
+			rewards: [{
+				id: "0AE31BACE983BB7F"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "05179D1062D9508E"
+				item: { count: 1, id: "l2hostility:moonwalk" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:adaptive"
+			}
+			id: "69E284C66BF7DD67"
+			rewards: [{
+				id: "33B40BCA53308B75"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "734D3DD0140A4F2E"
+				item: { count: 1, id: "l2hostility:adaptive" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:counter_strike"
+			}
+			id: "7F52D8B7BFAF0A83"
+			rewards: [{
+				id: "38529DDE672FC52F"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "20C2D99D6C5895D2"
+					item: { count: 1, id: "l2hostility:counter_strike" }
+					type: "item"
+				}
+				{
+					id: "4018D26BAD5702DC"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools/shield)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:reflect"
+			}
+			id: "392C9F2E3A47F031"
+			rewards: [{
+				id: "61345FB73316BBD7"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "129CEA942A7CDC18"
+					item: { count: 1, id: "l2hostility:reflect" }
+					type: "item"
+				}
+				{
+					id: "3848A7A88A95E7EB"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:magic_immunity": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					type: "item"
+				}
+				{
+					id: "4E3782E67A74421D"
+					item: { count: 1, id: "l2hostility:ring_of_divinity" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:grenade"
+			}
+			id: "03C87AE4AE414853"
+			rewards: [{
+				id: "3977120F16507B05"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "4CF513D56BC671D1"
+					item: { count: 1, id: "l2hostility:grenade" }
+					type: "item"
+				}
+				{
+					id: "69F3FC0B7929DEFF"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:explosion_immunity": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					type: "item"
+				}
+				{
+					id: "3AD0B5BFBAC0EA7F"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:projectile_immunity": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:growth"
+			}
+			id: "2B4D12A31F0B1FE9"
+			rewards: [{
+				id: "1A25222907132EA6"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "1E9B1382DC0984BD"
+					item: { count: 1, id: "l2hostility:growth" }
+					type: "item"
+				}
+				{
+					id: "5CAB4E4E192FEC30"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:cursed_blade": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:split"
+			}
+			id: "358976DF9572AAC2"
+			rewards: [{
+				id: "3F8ECB53C3965250"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "10FB95D9C202AB8D"
+					item: { count: 1, id: "l2hostility:split" }
+					type: "item"
+				}
+				{
+					id: "218730DE3C4384C7"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2hostility:split_suppressor": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:reprint"
+			}
+			id: "43734AEB9065F2C5"
+			rewards: [{
+				id: "43251B7E731CAD21"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4FEE994B74BE1DEB"
+				item: { count: 1, id: "l2hostility:reprint" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:erosion"
+			}
+			id: "43B61AAE9DBCDF50"
+			rewards: [{
+				id: "018D750FEF4BD7B1"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "0D85995D41794BAE"
+					item: { count: 1, id: "l2hostility:erosion" }
+					type: "item"
+				}
+				{
+					id: "2043D5C924EBE993"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:hardened": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:corrosion"
+			}
+			id: "35978B2B3C7C848F"
+			rewards: [{
+				id: "3F8E7162CFC74D22"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "61CE7146276629B1"
+					item: { count: 1, id: "l2hostility:corrosion" }
+					type: "item"
+				}
+				{
+					id: "0AE81F793E7839B7"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:hardened": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:drain"
+			}
+			id: "443CE783E0C0A608"
+			rewards: [{
+				id: "248FDD1733498795"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "6DBD8CD132811AF8"
+					item: { count: 1, id: "l2hostility:drain" }
+					type: "item"
+				}
+				{
+					id: "1D32BF9E4990C208"
+					item: { count: 1, id: "l2hostility:ring_of_divinity" }
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:soul_burner"
+			}
+			id: "22DFA181285CEA18"
+			rewards: [{
+				id: "581D2DF1A0D10912"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "1C7D47521EA74394"
+					item: { count: 1, id: "l2hostility:soul_burner" }
+					type: "item"
+				}
+				{
+					id: "0C5BCFEB19D359E9"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:fire_immunity": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					type: "item"
+				}
+				{
+					id: "7CB0A414A04A020F"
+					item: { count: 1, id: "l2hostility:ring_of_divinity" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:freezing"
+			}
+			id: "6B81DF31A94648F7"
+			rewards: [{
+				id: "2BCB8BFB94405E03"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "22834B7FEEDB88DC"
+					item: { count: 1, id: "l2hostility:freezing" }
+					type: "item"
+				}
+				{
+					id: "4AA74FB45046C60E"
+					item: { count: 1, id: "l2hostility:ring_of_divinity" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:dispell"
+			}
+			id: "120242FF52D001D5"
+			rewards: [{
+				id: "255081F90F9A9C9A"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "3707193B035498A2"
+					item: { count: 1, id: "l2hostility:dispell" }
+					type: "item"
+				}
+				{
+					id: "653148BC88E38DAE"
+					item: { count: 1, id: "l2hostility:ring_of_divinity" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "11C6F329950BAC95"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:magic_immunity": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					type: "item"
+				}
+				{
+					id: "56734D27AB70B38E"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools/shield)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:dementor"
+			}
+			id: "7804C2EF9DC5A158"
+			rewards: [{
+				id: "6A3BE18D4E957A1D"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "4AC38C54B80F1FF8"
+					item: { count: 1, id: "l2hostility:dementor" }
+					type: "item"
+				}
+				{
+					id: "54A54AA81E7399AA"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2complements:magic_immunity": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:cursed"
+			}
+			id: "07A07AF9F1A304EE"
+			rewards: [{
+				id: "44DA4EFF91F949C9"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "32E931274EF7BA12"
+					item: { count: 1, id: "l2hostility:cursed" }
+					type: "item"
+				}
+				{
+					id: "76B40D003CA14357"
+					item: { count: 1, id: "l2hostility:ring_of_divinity" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:teleport"
+			}
+			id: "3F146E8AA08976AE"
+			rewards: [{
+				id: "7105F668A959A4CD"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "2E1E84F0FAE57507"
+					item: { count: 1, id: "l2hostility:teleport" }
+					type: "item"
+				}
+				{
+					id: "48BC3030E72416DF"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "primalmagick:enderlock": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:repelling"
+			}
+			id: "0B9616E0360429B1"
+			rewards: [{
+				id: "035B726F68468D4E"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "72E385440B9D02DE"
+					item: { count: 1, id: "l2hostility:repelling" }
+					type: "item"
+				}
+				{
+					id: "46860BFFF1799D8F"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2hostility:insulator": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:pulling"
+			}
+			id: "04F249FAE5FE3AFE"
+			rewards: [{
+				id: "22AB4B12B0BD0E55"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "0FBCDC4A35C8AD83"
+					item: { count: 1, id: "l2hostility:pulling" }
+					type: "item"
+				}
+				{
+					id: "090EFB59D1D895A6"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "l2hostility:insulator": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					match_components: "strict"
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			id: "0DE6E2BA01AA6F88"
+			rewards: [{
+				id: "47A4A5E38A7AEA40"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "55BA4F2DC9D76443"
+					item: { count: 1, id: "l2hostility:blindness" }
+					type: "item"
+				}
+				{
+					id: "72B0711A30FD2E2F"
+					item: { count: 1, id: "l2hostility:nausea" }
+					type: "item"
+				}
+				{
+					id: "16306A39E16B9B74"
+					item: { count: 1, id: "l2hostility:levitation" }
+					type: "item"
+				}
+				{
+					id: "2E4366AD8E15BCCB"
+					item: { count: 1, id: "l2hostility:slowness" }
+					type: "item"
+				}
+				{
+					id: "13E9F9C5DBF026E5"
+					item: { count: 1, id: "l2hostility:weakness" }
+					type: "item"
+				}
+				{
+					id: "46FCF4C00B3BDEA1"
+					item: { count: 1, id: "l2hostility:poison" }
+					type: "item"
+				}
+				{
+					id: "67BA3C361E2D64E6"
+					item: { count: 1, id: "l2hostility:wither" }
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:arena"
+			}
+			id: "2870AB3829F86842"
+			rewards: [{
+				id: "1FBE2B91CFB10B9B"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "7CDC4E3B32D0615E"
+					item: { count: 1, id: "l2hostility:arena" }
+					type: "item"
+				}
+				{
+					id: "3FEED8ED0CE0E813"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools/shield)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["38B6C277506D07E2"]
+			icon: {
+				id: "l2hostility:master"
+			}
+			id: "050248B551D4222E"
+			rewards: [{
+				id: "329BC9DD8DCFFA47"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "055A443D2C576B23"
+				item: { count: 1, id: "l2hostility:master" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 3.0d
+		}
+	]
+}
