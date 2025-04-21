@@ -2310,6 +2310,8 @@
 		"This device draws &bSource&r from nearby standard &eSource Jars&r and condenses it into its stable &bliquid fluid form&r."
 		""
 		"It will automatically output the liquid Source into compatible tanks (like a &eFluid Containment Jar&r) placed directly beneath it. Essential for integrating Source into fluid-based systems or creating &eFluid Sourcelinks&r."
+		""
+		"Have you ever done a cobblestone generator with lava and water? Try replacing the water with a bucket of &dLiquefied Source&r"
 	]
 	quest.112DF1076F6F50A0.quest_subtitle: "&8Liquefying Magic&r"
 	quest.112DF1076F6F50A0.title: "From Essence to Liquid: The &bSource Condenser&r"
