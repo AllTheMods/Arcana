@@ -9125,7 +9125,7 @@
 		"I gotta go tell Master Splinter about this one..."
 	]
 	quest.57F6323716A0ED24.quest_subtitle: "TMNT"
-	quest.580148D1141446A6.quest_desc: ["&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r! \n\nWithin your World (I made you go to Dark Forests because old &l&6Forbidden & Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around. \n\nYou can kill them for the Souls that they drop! It is much less efficient though..."]
+	quest.580148D1141446A6.quest_desc: ["&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r! \\n\\nWithin your World (I made you go to Dark Forests because old &l&6Forbidden \\& Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around. \\n\\nYou can kill them for the Souls that they drop! It is much less efficient though..."]
 	quest.580148D1141446A6.title: "Lost Souls"
 	quest.58095E9EBC6FF9B2.title: "Creative Power"
 	quest.5820EDEF71340A1A.quest_desc: [
