@@ -1231,6 +1231,7 @@
 		"{image:pneumaticcraft:textures/patchouli/oil_pumping.png width:200 height:200 align:right fit:true}"
 	]
 	quest.0A912B2E2BE34920.quest_subtitle: "Drilling for Oil"
+	quest.0A9D5C5D2F4CDCC3.title: "&5Unobtainium Mace"
  	quest.0A9B7197379887B0.quest_desc: [
  		"Some cunning foes possess the &dInvisible&r trait, rendering them completely unseen and hiding their trait icon. To combat this, you'll need &eDetector Glass&r. Craft a pair and equip them in a Curios slot."
  		""
