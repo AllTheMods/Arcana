@@ -2094,7 +2094,7 @@
 		"Once selected with the Ritual Diviner, right click on a Master Ritual Stone until the structure is complete. You will need a bunch of Ritual Stones to perform these rituals. Once the structure is fully built, you can right click the Master Ritual Stone with a Weak Activation Crystal to activate it."
 	]
 	quest.0E8647B8EB4AAC41.quest_desc: ["Passive Mobs -> More Pink Slime.\nHostile Mobs -> More Meat."]
-	quest.0E8647B8EB4AAC41.title: "Pink Slime & Liquid Meat"
+	quest.0E8647B8EB4AAC41.title: "Pink Slime \& Liquid Meat"
 	quest.0E9CE6241CDBC420.quest_desc: ["The &9Ranged Pump&r is so special it gets its own Mod! \n\nThe &9Pump&r will collect &9Water Sources&r beneath it and replace them with Stone. \nIt does need Energy to work though, but it's worth it, it has a huge range! \n\nThe &9Water&r collected in it will need to be Piped out."]
 	quest.0E9CE6241CDBC420.title: "&l&9Ranged Pump"
 	quest.0E9DE6293DF611E1.quest_desc: ["Do you want to make the &aOverworld&r feel more like the &9Twilight Forest&r?\n\nYou can use this powder on animals in the Overworld to convert them into their &9Twilight Forest&r variants.\n\nYou can find this in dungeon chests in the &9Twilight Forest&r."]
@@ -5535,7 +5535,7 @@
 	quest.294177007EEE9856.quest_desc: ["&210&r has everything getting more expensive. To work it'll need 35 Structure Points. \\n\\nIt will then need a &4Pure Blood Level 3&r and 15 &cHuman Hearts&r! That's a lot of &cHearts&r. \\n\\nNow we'll have 19 Hearts and 17 Armor Points!"]
 	quest.294177007EEE9856.quest_subtitle: "Lvl 10"
 	quest.294177007EEE9856.title: "Upgrading to &2Level 10"
-	quest.29434DB0CC2E30E6.quest_desc: ["Combining &cMundabitur Dust&r, &bArcane Crystal Dust&r, &8Charcoal&r, and a &eGold Ingot&r we'll get our first Alloy! The &6Deorum Ingot&r! \n\nThis is the foundational Ingot of &6&lForbidden & Arcanus&r, you will need dozens of it! \n\nIt is especially used for Building Blocks for our Multiblock Machines."]
+	quest.29434DB0CC2E30E6.quest_desc: ["Combining &cMundabitur Dust&r, &bArcane Crystal Dust&r, &8Charcoal&r, and a &eGold Ingot&r we'll get our first Alloy! The &6Deorum Ingot&r! \n\nThis is the foundational Ingot of &6&lForbidden \& Arcanus&r, you will need dozens of it! \n\nIt is especially used for Building Blocks for our Multiblock Machines."]
 	quest.29434DB0CC2E30E6.title: "&6Deorum"
 	quest.2943989C642F93AE.quest_desc: ["Finally! We now have a crafting recipe that gives us 2 LuV processors for 1 Craft! Lets Gooo!"]
 	quest.29448D08C8777425.quest_desc: ["By tonight he'll be sleeping with the Fishes. \n\nThe &cAngler Hat&r helps you Lure Fish in and makes your chances at getting a Rare Drop higher!"]
@@ -6485,7 +6485,7 @@
 	]
 	quest.3017721842588919.title: "Space Stations"
 	quest.3025081DA6D2B398.quest_desc: ["Usually the Router commands the Modules but with this Augment the Module goes rouge! AWOl! Pure anarchy! \n\nIt will listen to it's own Redstone activation rather than the Routers."]
-	quest.3027584AA6138E6D.title: "Conveyor Insertion & Extraction"
+	quest.3027584AA6138E6D.title: "Conveyor Insertion \& Extraction"
 	quest.3029E1E133B91ED8.quest_desc: ["The &n&5Drill&r will break any block in front of it. If it has a connected inventory, the items will be stored in it."]
 	quest.303A3AFA49DAC64F.quest_desc: [
 		"Now we can bring a new Tier of power to our Multiblocks!"
@@ -6907,7 +6907,7 @@
 	quest.338BD467EBE6EE1F.title: "Sentry Armor Trim"
 	quest.339384ADC9CDB944.title: "Knowing"
 	quest.33977CEF056F0A13.quest_subtitle: "Alder + Rowan"
-	quest.339DF320DDCAD98B.title: "Item & Fluid Transport"
+	quest.339DF320DDCAD98B.title: "Item \& Fluid Transport"
 	quest.33A0E06FE5CFD8F3.quest_desc: ["The &9Centrifuge&r is used to process Combs from Bees into useful items and honey! While you can definitely just use a regular &9Centrifuge&r in the beginning, getting a &6Powered Centrifuge&r soon after is a must. This is a faster Centrifuge that runs off of power!\n\nIf you're looking for the best way to process your Combs, the &cHeated Centrifuge&r is even faster and can even process &aComb Blocks&r!\n\nThese can all be made faster by using Speed Upgrades."]
 	quest.33A0E06FE5CFD8F3.quest_subtitle: "Processing Honeycombs"
 	quest.33AADC1B97E9F7A9.quest_desc: ["Minecarts with Chests are Minecarts with Chests in them. You can't ride in these but they can be useful for transporting items across Rail systems."]
@@ -8912,8 +8912,8 @@
 	quest.428C034C78923B6C.quest_desc: ["When powering multiple machines, keep in mind cable loss!"]
 	quest.428C034C78923B6C.title: "MV Energy Converters"
 	quest.42951D14ADCD9332.quest_desc: ["Could I get that with some Mashed Peas with a side of Beans on Toast please Governor?"]
-	quest.42951D14ADCD9332.quest_subtitle: "Fancy some Fish & Chips?"
-	quest.42951D14ADCD9332.title: "Fish & Chips!"
+	quest.42951D14ADCD9332.quest_subtitle: "Fancy some Fish \& Chips?"
+	quest.42951D14ADCD9332.title: "Fish \& Chips!"
 	quest.429785E8F64929CE.quest_desc: ["In order to get to the Starlight Dimension you'll need to find Portal Ruins in the Overworld. \n\nThere you will find a Gatekeeper, Right Click to initiate a conversation and challenge them to a duel! Careful, they are very tough. \n\nOnce you win the duel you'll be gifted a few Items, the Orb of Prophecy being one. Right Click the Portal with the Orb to activate it! Then, walk in to get to the..."]
 	quest.429785E8F64929CE.title: "The Gatekeeper and The Gate"
 	quest.429F0EC29D4048C4.quest_desc: ["&7Wax Blend&r is a Craft made by combining &2&lHexerei&r Crops with Glow Berries in a &7&lMortar and Pestle&r. \\n\\nIt can be applied to a &2&lHexerei&r Block that has a Connected Texture, to seperate it from non-waxed Blocks. \\n\\nWhat are some of those Blocks? Here's a list: Window Panes, &0Infused Fabric&r, and &2&lHexerei&r Wood Blocks! \\n\\nYou can use a &0Cloth&r to wipe off &7Wax&r."]
@@ -12380,7 +12380,7 @@
 	quest.5A5CE509F00A3C29.quest_subtitle: "&8Versatile Enhancement&r"
 	quest.5A5CE509F00A3C29.title: "&7Arcanist Armor - Tier II&r"
 	quest.5A615BB74A5CD332.quest_desc: ["Using the &aReprocessor&r, we can combine everything we've made so far to make a few new ingots.\n\nNote: You might need a &9Fluidizer&r to complete this step!"]
-	quest.5A615BB74A5CD332.title: "Ludicrite & Ridiculite"
+	quest.5A615BB74A5CD332.title: "Ludicrite \& Ridiculite"
 	quest.5A658F239928850E.quest_desc: ["Breaking into LuV! Lets continue progression and find out what &cZPM &7is all about!"]
 	quest.5A658F239928850E.quest_subtitle: "Make &dLuV&r, not War!"
 	quest.5A658F239928850E.title: "I &dLuV &7Progression"
@@ -18134,7 +18134,7 @@
 	task.41EEE559F6402D81.title: "Creative Module"
 	task.41FF171C7D97B574.title: "Chipped Gem Blocks"
 	task.4203F7ED807F3D30.title: "Skeletal Comb"
-	task.4209A06A392362DB.title: "Importer & Exporter GUI"
+	task.4209A06A392362DB.title: "Importer \& Exporter GUI"
 	task.423AF6C6647B1626.title: "Kill 5 Creepers"
 	task.427138127BEBAEAF.title: "Carbon dust"
 	task.429FA8057B666565.title: "Lapis Comb"
