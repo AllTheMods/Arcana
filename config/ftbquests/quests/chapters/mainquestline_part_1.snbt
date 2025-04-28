@@ -937,6 +937,7 @@
 			shape: "octagon"
 			size: 1.25d
 			tasks: [{
+				count: 8L
 				id: "450276777CF78F06"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:flowers))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
@@ -972,48 +973,6 @@
 			}]
 			x: 13.0d
 			y: 3.5d
-		}
-		{
-			dependencies: ["0F3D51FFD2FE8DCB"]
-			id: "317141C52573DFF8"
-			rewards: [
-				{
-					count: 5
-					id: "137CA7E7F2C032BC"
-					item: {
-						count: 1
-						id: "minecraft:cooked_beef"
-					}
-					type: "item"
-				}
-				{
-					id: "653E287AFC23B4F3"
-					item: {
-						components: {
-							"minecraft:potion_contents": {
-								potion: "minecraft:long_slow_falling"
-							}
-						}
-						count: 1
-						id: "minecraft:potion"
-					}
-					type: "item"
-				}
-				{
-					id: "3ADCFD0D3E17B7E5"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "octagon"
-			size: 1.25d
-			tasks: [{
-				id: "57A5FB31CA4AB5D3"
-				item: { count: 1, id: "minecraft:glowstone" }
-				type: "item"
-			}]
-			x: 14.0d
-			y: 2.5d
 		}
 		{
 			dependencies: ["06FECB8380C4B387"]
@@ -1162,6 +1121,9 @@
 		}
 		{
 			dependencies: ["06FECB8380C4B387"]
+			icon: {
+				id: "naturesaura:gold_leaf"
+			}
 			id: "006C1AC70B906CB0"
 			rewards: [
 				{
@@ -1181,8 +1143,8 @@
 			shape: "diamond"
 			size: 1.25d
 			tasks: [{
-				id: "423F3AB596B967A3"
-				item: { count: 1, id: "naturesaura:aura_bloom" }
+				id: "1B4C9EBF16FF3FA0"
+				item: { count: 1, id: "naturesaura:gold_fiber" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -1659,7 +1621,7 @@
 					id: "3E25FDB161A06989"
 					item: {
 						count: 1
-						id: "minecraft:netherite_ingot"
+						id: "minecraft:ancient_debris"
 					}
 					type: "item"
 				}
@@ -1686,7 +1648,7 @@
 				type: "item"
 			}]
 			x: 14.0d
-			y: 3.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["0F3D51FFD2FE8DCB"]

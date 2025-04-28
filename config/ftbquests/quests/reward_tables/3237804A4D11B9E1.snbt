@@ -1,7 +1,7 @@
 {
 	id: "3237804A4D11B9E1"
 	loot_size: 1
-	order_index: 27
+	order_index: 22
 	rewards: [
 		{ id: "65EEFE6A9D17A37C", item: { count: 1, id: "minecraft:angler_pottery_sherd" } }
 		{ id: "60E52836E986812E", item: { count: 1, id: "minecraft:archer_pottery_sherd" } }
@@ -27,4 +27,5 @@
 		{ id: "7FF658778CC52987", item: { count: 1, id: "minecraft:skull_pottery_sherd" } }
 		{ id: "3569838BDA232E29", item: { count: 1, id: "minecraft:snort_pottery_sherd" } }
 	]
+	use_title: true
 }

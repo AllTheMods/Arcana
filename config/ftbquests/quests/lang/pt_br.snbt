@@ -2710,7 +2710,6 @@
 		"Se ainda não o fez, coloque uma torre de destilação em funcionamento para processar um pouco de Liquid Ender Air para obter seu Radon."
 	]
 	quest.21F5EED683499B71.quest_subtitle: "Radônio"
-	quest.21F654C968722841.title: "Sementes de fluorita"
 	quest.2214B7DCE4075A02.quest_desc: [
 		"Para atualizar nosso Altar para o Nível 5, precisaremos de um total de 108 Runas, bem como 4 Blocos Demonite."
 		""
@@ -2723,7 +2722,6 @@
 	quest.2214B7DCE4075A02.title: "O Altar de Nível 5"
 	quest.2226555D9552236E.quest_subtitle: "Aparece na maioria dos ninhos de madeira"
 	quest.2226555D9552236E.title: "Abelha Carpinteira Amarela"
-	quest.222739E77C745519.title: "Sementes de Ósmio"
 	quest.2230244B2CE5851D.quest_desc: [
 		"Tem a capacidade de limpar Cobblestone, Dirt, Netherrack e outros materiais comuns, deixando para trás apenas minérios e recursos finos."
 		""
@@ -6952,7 +6950,6 @@
 	quest.5B36DE3826F26963.quest_desc: ["&n&5Eixos&r transferem potência rotacional sem alterar a velocidade das engrenagens."]
 	quest.5B3CC3F66F2C3DE5.quest_desc: ["&bSeashelves&r são sua introdução ao &5Arcana&r, eles fornecem &52%% Arcana&r e &a1,5 Eterna&r. Melhor que as prateleiras normais, certo? Você precisará de pelo menos 6 deles para a próxima etapa."]
 	quest.5B3CC3F66F2C3DE5.title: "&bPrateleiras&r"
-	quest.5B52389583A70E66.title: "Sementes de Uraninita"
 	quest.5B64384E4CE27851.quest_subtitle: "Veia de ferro com faixas"
 	quest.5B64384E4CE27851.title: "Veia Goethita"
 	quest.5B681BC43371CC5C.quest_subtitle: "Para transferir itens"

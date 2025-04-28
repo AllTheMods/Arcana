@@ -233,8 +233,8 @@
 			image: "atm:textures/questpics/occultism/occultism_title.png"
 			rotation: 0.0d
 			width: 8.4d
-			x: 17.0d
-			y: 0.0d
+			x: 6.0d
+			y: -1.0d
 		}
 		{
 			height: 3.0d
@@ -251,11 +251,11 @@
 			order: -1
 			rotation: -30.0d
 			width: 2.0d
-			x: 38.0d
-			y: 5.0d
+			x: 38.5d
+			y: 5.5d
 		}
 	]
-	order_index: 6
+	order_index: 3
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -693,6 +693,7 @@
 			icon: {
 				id: "occultism:dimensional_mineshaft"
 			}
+			icon_scale: 1.25d
 			id: "172D2A634E849562"
 			min_width: 350
 			rewards: [{
@@ -701,7 +702,7 @@
 				xp: 100
 			}]
 			shape: "hexagon"
-			size: 1.25d
+			size: 1.0d
 			tasks: [
 				{
 					id: "58CEC5830F3C7F46"
@@ -868,8 +869,8 @@
 					type: "checkmark"
 				}
 			]
-			x: 0.5d
-			y: 0.5d
+			x: 4.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["1DE0F289821F55D1"]
@@ -894,8 +895,8 @@
 					type: "item"
 				}
 				{
-					id: "523951BF097BA61F"
-					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:dusts/emerald)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					id: "5548419341B1632F"
+					item: { count: 1, id: "occultism:emerald_dust" }
 					type: "item"
 				}
 			]
@@ -1696,7 +1697,7 @@
 				}
 			]
 			x: 31.0d
-			y: 5.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["2AD68066C1948C90"]
@@ -1717,7 +1718,7 @@
 				}
 			]
 			x: 31.0d
-			y: 11.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["56EC79AF11B0869E"]
@@ -1935,8 +1936,8 @@
 				item: { count: 1, id: "occultism:trinity_gem" }
 				type: "item"
 			}]
-			x: 38.0d
-			y: 5.0d
+			x: 38.5d
+			y: 5.5d
 		}
 		{
 			dependencies: [
@@ -1949,8 +1950,8 @@
 				item: { count: 1, id: "occultism:eldritch_chalice" }
 				type: "item"
 			}]
-			x: 38.0d
-			y: 11.0d
+			x: 38.5d
+			y: 10.5d
 		}
 		{
 			dependencies: [
@@ -1979,7 +1980,7 @@
 				id: "2B54A5BE4392F79C"
 				type: "checkmark"
 			}]
-			x: 44.0d
+			x: 43.5d
 			y: 8.0d
 		}
 		{

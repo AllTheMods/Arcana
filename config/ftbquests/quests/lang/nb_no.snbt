@@ -2713,7 +2713,6 @@
 		"If you haven't already, get a Distillation tower running to process some Liquid Ender Air for its Radon."
 	]
 	quest.21F5EED683499B71.quest_subtitle: "Radon"
-	quest.21F654C968722841.title: "Fluorite Seeds"
 	quest.2214B7DCE4075A02.quest_desc: [
 		"To upgrade our Altar to Tier 5, we'll need a total of 108 Runes, as well as 4 Demonite Blocks."
 		""
@@ -2726,7 +2725,6 @@
 	quest.2214B7DCE4075A02.title: "The Tier 5 Altar"
 	quest.2226555D9552236E.quest_subtitle: "Spawns from most Wood Nests"
 	quest.2226555D9552236E.title: "Yellow Carpenter Bee"
-	quest.222739E77C745519.title: "Osmium Seeds"
 	quest.2230244B2CE5851D.quest_desc: [
 		"Has an ability to clear away Cobblestone, Dirt, Netherrack, and other common materials, leaving behind only ores and fine resources."
 		""
@@ -6950,7 +6948,6 @@
 	quest.5B36DE3826F26963.quest_desc: ["&n&5Shafts&r transfer rotational power without changing the speed of the gears."]
 	quest.5B3CC3F66F2C3DE5.quest_desc: ["&bSeashelves&r are your introduction to &5Arcana&r, they give &52%% Arcana&r and &a1.5 Eterna&r. Better than normal shelves right? You're going to need atleast 6 of them for the next step."]
 	quest.5B3CC3F66F2C3DE5.title: "&bSeashelves&r"
-	quest.5B52389583A70E66.title: "Uraninite Seeds"
 	quest.5B64384E4CE27851.quest_subtitle: "Banded Iron Vein"
 	quest.5B64384E4CE27851.title: "Goethite Vein"
 	quest.5B681BC43371CC5C.quest_subtitle: "For Transferring Items"

@@ -15,7 +15,7 @@
 		x: 5.0d
 		y: -5.0d
 	}]
-	order_index: 3
+	order_index: 4
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -1767,10 +1767,16 @@
 			invisible: true
 			optional: true
 			shape: "circle"
-			tasks: [{
-				id: "0449F81DD0B413B8"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					id: "0449F81DD0B413B8"
+					type: "checkmark"
+				}
+				{
+					id: "3173371129427F06"
+					type: "checkmark"
+				}
+			]
 			x: -1.5d
 			y: 0.0d
 		}

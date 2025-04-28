@@ -4,64 +4,7 @@
 	filename: "artifacts"
 	group: "15E5B587D291A4AA"
 	icon: {
-		components: {
-			"relics:data": {
-				abilities: {
-					abilities: {
-						glider: {
-							extender: {
-								cooldown: 0
-								cooldownCap: 0
-								ticking: 0b
-							}
-							lock: {
-								breaks: 5
-							}
-							points: 0
-							research: {
-								links: { }
-								researched: 0b
-							}
-							stats: {
-								cooldown: {
-									initialValue: 1.90352d
-								}
-								count: {
-									initialValue: 1.89848d
-								}
-							}
-						}
-						shield: {
-							extender: {
-								cooldown: 0
-								cooldownCap: 0
-								ticking: 0b
-							}
-							lock: {
-								breaks: 0
-							}
-							points: 0
-							research: {
-								links: { }
-								researched: 0b
-							}
-							stats: {
-								knockback: {
-									initialValue: 2.49358d
-								}
-							}
-						}
-					}
-				}
-				leveling: {
-					experience: 0
-					level: 0
-					luck: 0
-					points: 0
-				}
-			}
-		}
-		id: "artifacts:umbrella"
+		id: "artifacts:eternal_steak"
 	}
 	id: "7AF827D2D101D343"
 	images: [
@@ -170,7 +113,7 @@
 			y: 12.5d
 		}
 	]
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{

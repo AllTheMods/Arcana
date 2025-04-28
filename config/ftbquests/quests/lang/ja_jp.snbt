@@ -2691,7 +2691,6 @@
 		"まだの場合は、リキッドエンダーエアを処理してラドンを取得するために蒸留タワーを稼働させてください。"
 	]
 	quest.21F5EED683499B71.quest_subtitle: "ラドン"
-	quest.21F654C968722841.title: "フルオライト シード"
 	quest.2214B7DCE4075A02.quest_desc: [
 		"私たちの祭壇をティア5にアップグレードするためには、合計で108個のルーンと4つのデモナイトブロックが必要です。"
 		""
@@ -2704,7 +2703,6 @@
 	quest.2214B7DCE4075A02.title: "ティア5の祭壇"
 	quest.2226555D9552236E.quest_subtitle: "ほとんどのウッドネストから出現"
 	quest.2226555D9552236E.title: "イエローカーペンターミツバチ"
-	quest.222739E77C745519.title: "オスミウム シード"
 	quest.2230244B2CE5851D.quest_desc: [
 		"コブルストーン、ダート、ネザーラックなどの一般的な素材をクリアし、鉱石や貴重なリソースだけを残す能力を持っています。"
 		""
@@ -6903,7 +6901,6 @@
 	quest.5B36DE3826F26963.quest_desc: ["&n&5シャフト&rは、ギアの速度を変えることなく回転力を伝達します。"]
 	quest.5B3CC3F66F2C3DE5.quest_desc: ["&bSeashelves&r は &5Arcana&r の入門です。&52%% Arcana&r と &a1.5 Eterna&r を提供します。普通の本棚より良いですよね？次のステップには少なくとも 6 つ必要です。"]
 	quest.5B3CC3F66F2C3DE5.title: "&bシーシェルフ&r"
-	quest.5B52389583A70E66.title: "ウラニナイト シード"
 	quest.5B64384E4CE27851.quest_subtitle: "縞鉄鉱脈"
 	quest.5B64384E4CE27851.title: "ゲーサイト鉱脈"
 	quest.5B681BC43371CC5C.quest_subtitle: "アイテムを転送するために"

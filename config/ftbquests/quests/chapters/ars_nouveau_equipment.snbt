@@ -26,7 +26,7 @@
 			y: 27.5d
 		}
 	]
-	order_index: 4
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -1307,10 +1307,10 @@
 			y: 22.0d
 		}
 		{
-			dependencies: [
-				"42D8272FA2529800"
-				"59010D7A3D4CB6D4"
-			]
+			dependencies: ["59010D7A3D4CB6D4"]
+			icon: {
+				id: "allthearcanistgear:unobtainium_hat"
+			}
 			id: "4B0C440EFD156EB5"
 			rewards: [{
 				id: "27F8004A60D77293"
@@ -1320,17 +1320,15 @@
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
-				id: "3B9D730E095B7773"
-				type: "checkmark"
+				id: "3676C37829726A60"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:armors)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
 			}]
 			x: -7.0d
 			y: 24.5d
 		}
 		{
-			dependencies: [
-				"2E93963EFCDC8720"
-				"1878FFA58C5C8A7E"
-			]
+			dependencies: ["2E93963EFCDC8720"]
 			id: "7F8213BB04E5CA64"
 			rewards: [{
 				id: "7EF325F6A2762B15"
@@ -1822,6 +1820,9 @@
 			y: 22.0d
 		}
 		{
+			icon: {
+				id: "ars_nouveau:wand"
+			}
 			id: "59010D7A3D4CB6D4"
 			rewards: [{
 				id: "18BE1A4505FB40EE"
@@ -1831,8 +1832,9 @@
 			shape: "hexagon"
 			size: 3.0d
 			tasks: [{
-				id: "72F47BF6A5764F60"
-				type: "checkmark"
+				id: "4A9B9244E9AF8415"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
 			}]
 			x: -2.0d
 			y: 24.5d
@@ -4628,10 +4630,7 @@
 			y: 26.5d
 		}
 		{
-			dependencies: [
-				"42D8272FA2529800"
-				"59010D7A3D4CB6D4"
-			]
+			dependencies: ["59010D7A3D4CB6D4"]
 			id: "4BD55925E27B8BCE"
 			rewards: [{
 				id: "22F32A812BCB1D36"
@@ -5233,6 +5232,23 @@
 			}]
 			x: 7.0d
 			y: 30.0d
+		}
+		{
+			id: "4BE0EA16EC2DDF4E"
+			invisible: true
+			optional: true
+			tasks: [
+				{
+					id: "1A8380E522EF0A63"
+					type: "checkmark"
+				}
+				{
+					id: "56C7F6F7726C4C44"
+					type: "checkmark"
+				}
+			]
+			x: -2.0d
+			y: 22.5d
 		}
 	]
 }
