@@ -4,20 +4,22 @@
 	filename: "l2_hostility"
 	group: "5A4775CCD6D26C80"
 	id: "08B4637944571E39"
-	order_index: 5
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
 			id: "446C441D14889557"
+			min_width: 300
 			rewards: [{
 				id: "1E21A7987210B16C"
 				type: "xp"
 				xp: 10
 			}]
 			tasks: [{
-				dimension: "minecraft:overworld"
-				id: "268276E6A3A9520F"
-				type: "dimension"
+				advancement: "l2hostility:hostility/patchouli"
+				criterion: ""
+				id: "07C0229BC3771C13"
+				type: "advancement"
 			}]
 			x: -6.0d
 			y: -2.5d
@@ -27,17 +29,17 @@
 			id: "56068F49008F2DE9"
 			rewards: [
 				{
-					id: "4C9F1C2A483C2196"
-					type: "xp"
-					xp: 25
-				}
-				{
 					id: "4BC27A7A75DAD943"
 					item: {
 						count: 1
 						id: "minecraft:iron_ingot"
 					}
 					type: "item"
+				}
+				{
+					id: "3D4905DAF0D43B05"
+					type: "xp"
+					xp: 25
 				}
 			]
 			tasks: [{
@@ -53,17 +55,17 @@
 			id: "0A9B7197379887B0"
 			rewards: [
 				{
-					id: "0FFD142A18E4B319"
-					type: "xp"
-					xp: 25
-				}
-				{
 					id: "7D66251B0B8C8287"
 					item: {
 						count: 1
 						id: "minecraft:ender_pearl"
 					}
 					type: "item"
+				}
+				{
+					id: "685E3F7EE0AE3E33"
+					type: "xp"
+					xp: 25
 				}
 			]
 			tasks: [{
@@ -94,17 +96,17 @@
 			id: "0B6C8AD4A53E6AE2"
 			rewards: [
 				{
-					id: "6E381D167D176675"
-					type: "xp"
-					xp: 25
-				}
-				{
 					id: "090CAA3A1C98147B"
 					item: {
 						count: 1
 						id: "minecraft:emerald"
 					}
 					type: "item"
+				}
+				{
+					id: "5E3FD8C24A1BDE12"
+					type: "xp"
+					xp: 50
 				}
 			]
 			tasks: [{
@@ -120,17 +122,17 @@
 			id: "0E00AF20A70A5ACB"
 			rewards: [
 				{
-					id: "481ADE7EEDF0A2E6"
-					type: "xp"
-					xp: 25
-				}
-				{
 					id: "01CB75FD54DD3696"
 					item: {
 						count: 1
 						id: "minecraft:diamond"
 					}
 					type: "item"
+				}
+				{
+					id: "76855EE31718021A"
+					type: "xp"
+					xp: 50
 				}
 			]
 			tasks: [{
@@ -146,17 +148,17 @@
 			id: "38477E60E8971B02"
 			rewards: [
 				{
-					id: "66A75DEAD97428D0"
-					type: "xp"
-					xp: 50
-				}
-				{
 					id: "19BF43194607B962"
 					item: {
 						count: 1
 						id: "l2complements:cursed_droplet"
 					}
 					type: "item"
+				}
+				{
+					id: "26C6293DAD5A7001"
+					type: "xp"
+					xp: 50
 				}
 			]
 			tasks: [{
@@ -172,17 +174,17 @@
 			id: "44F8E8B9FF806363"
 			rewards: [
 				{
-					id: "5A6ABF4A640FEEEC"
-					type: "xp"
-					xp: 100
-				}
-				{
 					id: "291EA0F52E5092F4"
 					item: {
 						count: 1
 						id: "minecraft:phantom_membrane"
 					}
 					type: "item"
+				}
+				{
+					id: "56C895749EF8B759"
+					type: "xp"
+					xp: 100
 				}
 			]
 			tasks: [
@@ -205,11 +207,6 @@
 			id: "32AC96224AC6F9F2"
 			rewards: [
 				{
-					id: "0AC0D40477DE0908"
-					type: "xp"
-					xp: 100
-				}
-				{
 					count: 2
 					id: "38E0B6203BBB32E2"
 					item: {
@@ -217,6 +214,11 @@
 						id: "l2hostility:bottle_of_curse"
 					}
 					type: "item"
+				}
+				{
+					id: "4D970E540F018679"
+					type: "xp"
+					xp: 100
 				}
 			]
 			tasks: [{
@@ -232,11 +234,6 @@
 			id: "1B3978A03AA52CDA"
 			rewards: [
 				{
-					id: "212FEA68F17B666C"
-					type: "xp"
-					xp: 100
-				}
-				{
 					count: 2
 					id: "03570E61F412C913"
 					item: {
@@ -244,6 +241,11 @@
 						id: "l2hostility:bottle_of_curse"
 					}
 					type: "item"
+				}
+				{
+					id: "783672191D971DB3"
+					type: "xp"
+					xp: 100
 				}
 			]
 			tasks: [{
@@ -259,11 +261,6 @@
 			id: "37392913FDA2895C"
 			rewards: [
 				{
-					id: "4DA515087D06D78C"
-					type: "xp"
-					xp: 100
-				}
-				{
 					count: 2
 					id: "05B6D7D199C8E4CC"
 					item: {
@@ -271,6 +268,11 @@
 						id: "l2hostility:bottle_of_curse"
 					}
 					type: "item"
+				}
+				{
+					id: "17835C8A38040FD0"
+					type: "xp"
+					xp: 100
 				}
 			]
 			tasks: [{
@@ -317,11 +319,6 @@
 			id: "78F67561A1E0BF77"
 			rewards: [
 				{
-					id: "2F80501217CEB4BB"
-					type: "xp"
-					xp: 100
-				}
-				{
 					count: 2
 					id: "35D8F78F1B333057"
 					item: {
@@ -329,6 +326,11 @@
 						id: "minecraft:netherite_ingot"
 					}
 					type: "item"
+				}
+				{
+					id: "561CB1EF1C2C05C1"
+					type: "xp"
+					xp: 100
 				}
 			]
 			tasks: [{
@@ -345,17 +347,17 @@
 			id: "4CB68D192B9BBF49"
 			rewards: [
 				{
-					id: "1F6E922B1A9A0F2C"
-					type: "xp"
-					xp: 150
-				}
-				{
 					id: "7E8181FAC767366C"
 					item: {
 						count: 1
 						id: "l2hostility:hostility_essence"
 					}
 					type: "item"
+				}
+				{
+					id: "562F70D4764C2018"
+					type: "xp"
+					xp: 150
 				}
 			]
 			tasks: [{
@@ -374,11 +376,6 @@
 			id: "6A3255F2C7F80751"
 			rewards: [
 				{
-					id: "353061C5A778FDEC"
-					type: "xp"
-					xp: 200
-				}
-				{
 					count: 2
 					id: "7E480EB5744E673E"
 					item: {
@@ -395,6 +392,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "3C9CA5A4FAB345F1"
+					type: "xp"
+					xp: 250
+				}
 			]
 			tasks: [{
 				id: "7DBAEE572CC22C46"
@@ -410,17 +412,17 @@
 			id: "435DA22D3D33777A"
 			rewards: [
 				{
-					id: "497FEF5B7C075894"
-					type: "xp"
-					xp: 200
-				}
-				{
 					id: "02E87A51C03357EA"
 					item: {
 						count: 1
 						id: "l2hostility:miracle_powder"
 					}
 					type: "item"
+				}
+				{
+					id: "07B4C317E679E903"
+					type: "xp"
+					xp: 200
 				}
 			]
 			tasks: [{
@@ -436,17 +438,17 @@
 			id: "4D790AFFED2BD984"
 			rewards: [
 				{
-					id: "5984B2CD5E2D24D2"
-					type: "xp"
-					xp: 300
-				}
-				{
 					id: "1FFF9FB4E217FD27"
 					item: {
 						count: 1
 						id: "l2hostility:miracle_ingot"
 					}
 					type: "item"
+				}
+				{
+					id: "569A497C1626BD34"
+					type: "xp"
+					xp: 250
 				}
 			]
 			tasks: [{
@@ -458,6 +460,7 @@
 			y: -2.5d
 		}
 		{
+			dependencies: ["446C441D14889557"]
 			id: "4741FCDCC76C5FE6"
 			rewards: [{
 				id: "43E9BD952BF36623"
@@ -468,10 +471,11 @@
 				id: "3AB6385F93EA792A"
 				type: "checkmark"
 			}]
-			x: -6.0d
-			y: -5.5d
+			x: -7.5d
+			y: -3.0d
 		}
 		{
+			dependencies: ["446C441D14889557"]
 			id: "081CAAB034E0F308"
 			rewards: [{
 				id: "60DFB10B3D90DCCF"
@@ -482,18 +486,13 @@
 				id: "5E1BFD39A6547EBF"
 				type: "checkmark"
 			}]
-			x: -6.0d
-			y: -4.5d
+			x: -7.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["25C10139D03D5B96"]
 			id: "3F7C12B98EAB1AF2"
 			rewards: [
-				{
-					id: "744BACA44DFE2034"
-					type: "xp"
-					xp: 150
-				}
 				{
 					id: "7A2E1DF4DFFEA2B0"
 					item: {
@@ -501,6 +500,11 @@
 						id: "l2complements:life_essence"
 					}
 					type: "item"
+				}
+				{
+					id: "4EB4F976CAA3979F"
+					type: "xp"
+					xp: 150
 				}
 			]
 			tasks: [{
@@ -532,17 +536,17 @@
 			id: "42C1C19DACBA292E"
 			rewards: [
 				{
-					id: "0319648D54D836C2"
-					type: "xp"
-					xp: 150
-				}
-				{
 					id: "332FC3BC2B4A660D"
 					item: {
 						count: 1
 						id: "l2hostility:chaos_ingot"
 					}
 					type: "item"
+				}
+				{
+					id: "6603C4C765164631"
+					type: "xp"
+					xp: 150
 				}
 			]
 			tasks: [{
@@ -562,17 +566,17 @@
 			id: "174F6ACD6E1E4FB5"
 			rewards: [
 				{
-					id: "2FC7BAF21027D357"
-					type: "xp"
-					xp: 100
-				}
-				{
 					id: "20635958DAC96FF3"
 					item: {
 						count: 1
 						id: "l2hostility:bottle_of_curse"
 					}
 					type: "item"
+				}
+				{
+					id: "1E1299FF290EA99D"
+					type: "xp"
+					xp: 100
 				}
 			]
 			tasks: [{
@@ -632,17 +636,17 @@
 			id: "2A00EDC4D614726B"
 			rewards: [
 				{
-					id: "7F8BE6566E2197A2"
-					type: "xp"
-					xp: 100
-				}
-				{
 					id: "177B45DC1F43E467"
 					item: {
 						count: 1
 						id: "l2hostility:hostility_spawner"
 					}
 					type: "item"
+				}
+				{
+					id: "4DBB373C8AB98F65"
+					type: "xp"
+					xp: 100
 				}
 			]
 			tasks: [{
@@ -658,17 +662,17 @@
 			id: "0458A38019AB1726"
 			rewards: [
 				{
-					id: "021E47C548F6466D"
-					type: "xp"
-					xp: 300
-				}
-				{
 					id: "22683DED97CE3F83"
 					item: {
 						count: 1
 						id: "l2hostility:miracle_ingot"
 					}
 					type: "item"
+				}
+				{
+					id: "7E6A7C91889CDDAF"
+					type: "xp"
+					xp: 250
 				}
 			]
 			tasks: [{
@@ -684,17 +688,17 @@
 			id: "1D2851247F05307A"
 			rewards: [
 				{
-					id: "2F041FC960FF49BC"
-					type: "xp"
-					xp: 150
-				}
-				{
 					id: "3DA56A41EFB3B948"
 					item: {
 						count: 1
 						id: "l2hostility:chaos_ingot"
 					}
 					type: "item"
+				}
+				{
+					id: "69D3D98961F0E5A9"
+					type: "xp"
+					xp: 150
 				}
 			]
 			tasks: [{
@@ -710,17 +714,17 @@
 			id: "148658B5697EA868"
 			rewards: [
 				{
-					id: "41BE31D7AAB5E504"
-					type: "xp"
-					xp: 150
-				}
-				{
 					id: "2747D439B78C3F01"
 					item: {
 						count: 1
 						id: "l2hostility:chaos_ingot"
 					}
 					type: "item"
+				}
+				{
+					id: "1B78611E8F505EED"
+					type: "xp"
+					xp: 150
 				}
 			]
 			tasks: [{
@@ -764,9 +768,9 @@
 			}
 			id: "3A0641326CF60642"
 			rewards: [{
-				id: "4456A64E82DD2B42"
+				id: "609A68C841925CB6"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -791,9 +795,9 @@
 			}
 			id: "1DD4480CF6F521C1"
 			rewards: [{
-				id: "6D5FB8538F0DCBE3"
+				id: "0A359386EDD3EB3B"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -831,9 +835,9 @@
 			}
 			id: "63D762B523862754"
 			rewards: [{
-				id: "2D7B24B2507C14D9"
+				id: "3E38E4CBE538DE2C"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -858,9 +862,9 @@
 			}
 			id: "72825867BBDC6EE8"
 			rewards: [{
-				id: "1E3F5793628D7ACB"
+				id: "0EEB8CB0C310D40C"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -885,9 +889,9 @@
 			}
 			id: "2F5E23782958C4D0"
 			rewards: [{
-				id: "5B4FD534A47B5B90"
+				id: "1E632CC2CBE5DD90"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -941,9 +945,9 @@
 			}
 			id: "2124A15257A4DFB7"
 			rewards: [{
-				id: "19CCE0809CCB7C46"
+				id: "1D369367C8089806"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -968,9 +972,9 @@
 			}
 			id: "457AE0F1424D4269"
 			rewards: [{
-				id: "03C29AA6FA585DAF"
+				id: "0B7617484C4FA124"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -995,9 +999,9 @@
 			}
 			id: "52936B0E7EFD6BFF"
 			rewards: [{
-				id: "7D0D17664C7A279E"
+				id: "6925CCBDC8346E76"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1024,9 +1028,9 @@
 			}
 			id: "0AA2EF89E67D4B3F"
 			rewards: [{
-				id: "0AE31BACE983BB7F"
+				id: "3A7B630DCDC0B5DA"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [{
@@ -1044,9 +1048,9 @@
 			}
 			id: "69E284C66BF7DD67"
 			rewards: [{
-				id: "33B40BCA53308B75"
+				id: "1182AC23EA8C3C09"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [{
@@ -1064,9 +1068,9 @@
 			}
 			id: "7F52D8B7BFAF0A83"
 			rewards: [{
-				id: "38529DDE672FC52F"
+				id: "6A64C320EC3ED6AC"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1091,9 +1095,9 @@
 			}
 			id: "392C9F2E3A47F031"
 			rewards: [{
-				id: "61345FB73316BBD7"
+				id: "44766AB32B69822D"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1125,9 +1129,9 @@
 			}
 			id: "03C87AE4AE414853"
 			rewards: [{
-				id: "3977120F16507B05"
+				id: "28D249DD56D59AF2"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1160,9 +1164,9 @@
 			}
 			id: "2B4D12A31F0B1FE9"
 			rewards: [{
-				id: "1A25222907132EA6"
+				id: "6A748D5DEB9C8173"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1188,9 +1192,9 @@
 			}
 			id: "358976DF9572AAC2"
 			rewards: [{
-				id: "3F8ECB53C3965250"
+				id: "3BFB7ECAF94C3D12"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1216,9 +1220,9 @@
 			}
 			id: "43734AEB9065F2C5"
 			rewards: [{
-				id: "43251B7E731CAD21"
+				id: "501423C5F6C78033"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [{
@@ -1236,9 +1240,9 @@
 			}
 			id: "43B61AAE9DBCDF50"
 			rewards: [{
-				id: "018D750FEF4BD7B1"
+				id: "23D98ECA33A28B3F"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1263,9 +1267,9 @@
 			}
 			id: "35978B2B3C7C848F"
 			rewards: [{
-				id: "3F8E7162CFC74D22"
+				id: "0084CAFF74B28EEA"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1290,9 +1294,9 @@
 			}
 			id: "443CE783E0C0A608"
 			rewards: [{
-				id: "248FDD1733498795"
+				id: "7E677F3A3A9B1C1F"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1317,9 +1321,9 @@
 			}
 			id: "22DFA181285CEA18"
 			rewards: [{
-				id: "581D2DF1A0D10912"
+				id: "138B12C7595A8BF4"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1351,9 +1355,9 @@
 			}
 			id: "6B81DF31A94648F7"
 			rewards: [{
-				id: "2BCB8BFB94405E03"
+				id: "53664F5F30327592"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1378,9 +1382,9 @@
 			}
 			id: "120242FF52D001D5"
 			rewards: [{
-				id: "255081F90F9A9C9A"
+				id: "10555D5B1DED219B"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1418,9 +1422,9 @@
 			}
 			id: "7804C2EF9DC5A158"
 			rewards: [{
-				id: "6A3BE18D4E957A1D"
+				id: "320BBEB9799EC5B5"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1446,9 +1450,9 @@
 			}
 			id: "07A07AF9F1A304EE"
 			rewards: [{
-				id: "44DA4EFF91F949C9"
+				id: "6C346026166E6D7D"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1473,9 +1477,9 @@
 			}
 			id: "3F146E8AA08976AE"
 			rewards: [{
-				id: "7105F668A959A4CD"
+				id: "5AC996E15179DA70"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1501,9 +1505,9 @@
 			}
 			id: "0B9616E0360429B1"
 			rewards: [{
-				id: "035B726F68468D4E"
+				id: "67118EDAC9F4697D"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1529,9 +1533,9 @@
 			}
 			id: "04F249FAE5FE3AFE"
 			rewards: [{
-				id: "22AB4B12B0BD0E55"
+				id: "264D727A4454D232"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1554,9 +1558,9 @@
 			dependencies: ["38B6C277506D07E2"]
 			id: "0DE6E2BA01AA6F88"
 			rewards: [{
-				id: "47A4A5E38A7AEA40"
+				id: "4C0C8F53C3FADFD4"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1606,9 +1610,9 @@
 			}
 			id: "2870AB3829F86842"
 			rewards: [{
-				id: "1FBE2B91CFB10B9B"
+				id: "4FC3442B12E561DA"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [
@@ -1633,9 +1637,9 @@
 			}
 			id: "050248B551D4222E"
 			rewards: [{
-				id: "329BC9DD8DCFFA47"
+				id: "42514C8E2B748CB2"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			shape: "diamond"
 			tasks: [{
@@ -1645,6 +1649,24 @@
 			}]
 			x: 9.5d
 			y: 3.0d
+		}
+		{
+			id: "6839ECB9713AA2D5"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [
+				{
+					id: "4FE1BCCD079A9E93"
+					type: "checkmark"
+				}
+				{
+					id: "3FABFB5AAE2B43F8"
+					type: "checkmark"
+				}
+			]
+			x: -6.0d
+			y: -4.0d
 		}
 	]
 }

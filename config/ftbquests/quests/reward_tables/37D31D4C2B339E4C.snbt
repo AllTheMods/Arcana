@@ -1,7 +1,7 @@
 {
 	id: "37D31D4C2B339E4C"
 	loot_size: 1
-	order_index: 25
+	order_index: 20
 	rewards: [
 		{ id: "5DE2E263BB4C7AE3", item: { count: 1, id: "ars_nouveau:purple_archwood_sapling" } }
 		{ id: "35A34DDBBBCECAF9", item: { count: 1, id: "ars_elemental:yellow_archwood_sapling" } }
@@ -57,4 +57,5 @@
 			}
 		}
 	]
+	use_title: true
 }

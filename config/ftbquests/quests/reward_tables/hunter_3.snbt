@@ -1,7 +1,7 @@
 {
 	id: "4C4D55CE591EA4F5"
 	loot_size: 1
-	order_index: 20
+	order_index: 15
 	rewards: [
 		{
 			count: 15

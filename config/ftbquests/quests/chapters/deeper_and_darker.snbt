@@ -160,7 +160,7 @@
 			y: 8.0d
 		}
 	]
-	order_index: 2
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -1322,7 +1322,7 @@
 				type: "checkmark"
 			}]
 			x: -1.0d
-			y: 1.5d
+			y: 0.0d
 		}
 	]
 }

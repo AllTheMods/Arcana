@@ -1,7 +1,7 @@
 {
 	id: "02C75EC051AC00B3"
 	loot_size: 1
-	order_index: 26
+	order_index: 21
 	rewards: [
 		{
 			id: "78A4A291E99FA290"
@@ -11,6 +11,14 @@
 			}
 			weight: 0.01f
 		}
-		{ id: "452F424C4F053557", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{
+			id: "452F424C4F053557"
+			item: {
+				count: 1
+				id: "minecraft:gold_nugget"
+			}
+			random_bonus: 4
+		}
 	]
+	use_title: true
 }
