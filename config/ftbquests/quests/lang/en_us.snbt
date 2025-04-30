@@ -10,6 +10,7 @@
 	chapter.0AB4F9AED808DE48.title: "Modular Routers"
 	chapter.0E81CBCD6B1D1895.title: "Apothic Spawners"
 	chapter.0F96DC3563DA78EF.title: "Mystical Agriculture"
+	chapter.100C477F4E63F20A.title: "Create"
 	chapter.11919EBB416B2BD0.title: "Relics"
 	chapter.12AD9789D962B179.title: "Apothic Enchanting"
 	chapter.13B172FA69904D9F.title: "Deeper and Darker"
@@ -2730,7 +2731,13 @@
 	]
 	quest.12E727EDF49C1C2E.quest_subtitle: "&8Mending and Curing&r"
 	quest.12E727EDF49C1C2E.title: "Healing Aura: The &aRestoration&r &dTablet&r"
-	quest.12ED1EE85E146A4B.quest_desc: ["Harvester Pylons work as a very simple Auto-Farm. Put the Pylon on or in the Water Source and it will automatically harvest and replant Crops that are fully grown in the set area around it. \n\nThe area can be set to 3x3, 5x5, 7x7, or 9x9 Blocks around the Pylon. \n\nIt will need a Hoe to use on the Plants and will need an Inventory like a chest above it to put the Crops. Do all that and if it's turned On it will start farming!\n\n(Careful when using a lot of modifiers with it like Lilypads or fertilizer as when it goes very fast farming it can be a TPS eater)."]
+	quest.12ED1EE85E146A4B.quest_desc: [
+		"Harvester Pylons work as a very simple Auto-Farm. Put the Pylon on or in the Water Source and it will automatically harvest and replant Crops that are fully grown in the set area around it. "
+		""
+		"The area can be set to 3x3, 5x5, 7x7, or 9x9 Blocks around the Pylon. "
+		""
+		"It will need a Hoe to use on the Plants and will need an Inventory like a chest above it to put the Crops. Do all that and if it's turned On it will start farming!"
+	]
 	quest.12EF38830108D02B.quest_desc: ["Kill 32 normal Spiders."]
 	quest.12F24C9C6D2AF887.quest_desc: ["Two buckets of &boxygen&r plus the &bferrite mixture dust&r in your &eElectric Blast Furnace&r gets you the ingot - no cooling necessary!"]
 	quest.12F3A604329EC604.quest_subtitle: "Increases the Efficiency of Machines"
@@ -3424,7 +3431,7 @@
 		"Passive Mobs -> More Pink Slime"
 		"Hostile Mobs -> More Meat"
 	]
-	quest.18246A48C20B29D8.quest_desc: ["The Infusion Pylon works similar as a Beacon just much better and cheaper! \nWhen a Potion Effect is put in by a Potion Filter, it will continuously give you the Potion Effect while you're in the set Chunk area."]
+	quest.18246A48C20B29D8.quest_desc: ["The Infusion Pylon works similar as a Beacon just much better and cheaper! \\nWhen a Potion Effect is put in by a Potion Filter, it will continuously give you the Potion Effect no matter where you are! \\n\\nYou heard me right, no longer is there a set radius for the Infusion Pylon, now it will reach you wherever."]
 	quest.1827DEEA2DF1B144.quest_desc: ["Welcome to the Food and Farming chapter!\n\nHere, you'll find different ways for you to grow and make food!"]
 	quest.1827DEEA2DF1B144.title: "Food and Farming"
 	quest.182EBB06B81BDF98.quest_desc: ["Greatly decreases the amount of Mana a Mana Burst carries and dramatically increases the burst's speed and distance."]
@@ -12759,7 +12766,17 @@
 	quest.5C26EBA2F58F28F1.quest_subtitle: "Red Delicious Apple + Cherry"
 	quest.5C2B30655A44227F.quest_desc: ["Oh did you think &5&lEternal Starlight&r will have you get all these Metals the easy way? \n\nHA! don't be stupid. You'll have to fight Bosses, dig through Mud, and look for Meteor Showers!"]
 	quest.5C2B30655A44227F.title: "&5&lEternal Starlight&r Metals"
-	quest.5C2C29ECA67F9B49.quest_desc: ["With the Lifeless Filter you will never have to worry about any Mob spawns within a 25x25 Block area. \n\nThat's enough to cover every distance Mobs spawn near the player. Hostile or Passive. \n\nThis includes every Y Level as well, above or below the Pylon, so no more worrying about lighting up caves! \n\nThere's no Whitelisting with this Filter, it will prevent every Mob Spawn."]
+	quest.5C2C29ECA67F9B49.quest_desc: [
+		"With the Lifeless Filter you will never have to worry about any Mob spawns within a 25x25 Chunk area. "
+		""
+		"This doesn't include Forced Spawns though, that is Mobs spawned from Spawners or even Spawn Eggs!"
+		""
+		"The 25x25 will cover every distance Mobs spawn near the player. Hostile or Passive. "
+		""
+		"This includes every Y Level as well, above or below the Pylon, so no more worrying about lighting up caves! "
+		""
+		"There's no Whitelisting with this Filter, it will prevent every Mob Spawn."
+	]
 	quest.5C2C29ECA67F9B49.quest_subtitle: "Finally peace and quiet. "
 	quest.5C3030860804B318.quest_desc: ["As much as I hate Birch, atleast now the &2Forests&r have some use! \\n\\nThat use being another Tree, the &eWitch Hazel Tree&r!"]
 	quest.5C3030860804B318.title: "Visit a &2Birch Forest"
