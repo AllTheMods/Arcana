@@ -25,7 +25,7 @@
         "result": "deny"
       },  
       {
-        "mob": "beardeddragons:locust",
+        "mob": "bearded_dragons:locust",
         "when": "onjoin",
         "result": "deny"
       },  
