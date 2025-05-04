@@ -9,7 +9,7 @@ ServerEvents.recipes(ATM => {
         accept_mirrored: false,
         pattern: [
             '    A    ',
-            '   AJA   ',
+            '   ANA   ',
             'AAAJFJAAA',
             'AJJCDEJJA',
             ' AMBIHMA ',
@@ -20,10 +20,10 @@ ServerEvents.recipes(ATM => {
         ],
         key: {
             A: Ingredient.of('allthemodium:unobtainium_allthemodium_alloy_block').toJson(),
-            B: Ingredient.of('vampirism:hunter_intel_9').toJson(),
+            B: Ingredient.of('glimmeringtales:thunderstorm').toJson(),
             C: Ingredient.of('the_bumblezone:essence_of_the_bees').toJson(),
             D: Ingredient.of('vampirism:pure_blood_4').toJson(),
-            E: Ingredient.of('allthewizardgear:unobtainium_mage_helmet').toJson(),
+            E: Ingredient.of('primalmagick:pixie_basic_hallowed').toJson(),
             F: Ingredient.of('occultism:eldritch_chalice').toJson(),
             G: Ingredient.of('allthearcanistgear:unobtainium_hat').toJson(),
             H: Ingredient.of('allthearcanistgear:unobtainium_spell_book').toJson(),
@@ -31,7 +31,9 @@ ServerEvents.recipes(ATM => {
             J: Ingredient.of('allthecompressed:nether_star_block_1x').toJson(),
             K: Ingredient.of('deeperdarker:soul_elytra').toJson(),
             L: Ingredient.of('allthewizardgear:unobtainium_spell_book').toJson(),
-            M: Ingredient.of('allthemodium:unobtainium_vibranium_alloy_block').toJson()
+            M: Ingredient.of('allthemodium:unobtainium_vibranium_alloy_block').toJson(),
+            N: Ingredient.of('allthemodium:vibranium_allthemodium_alloy_block').toJson()
+
         },
         result: Item.of('allthetweaks:atm_star').toJson()
     }).id('kubejs:atm_star')
