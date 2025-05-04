@@ -25,6 +25,11 @@
         "result": "deny"
       },  
       {
+        "mob": "beardeddragons:locust",
+        "mincount": 1,
+        "result": "deny"
+      },  
+      {
         "mob": "mythsandlegends:imp",
         "when": "onjoin",
         "result": "deny"
