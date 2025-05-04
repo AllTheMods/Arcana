@@ -26,7 +26,7 @@
       },  
       {
         "mob": "beardeddragons:locust",
-        "mincount": 1,
+        "when": "onjoin",
         "result": "deny"
       },  
       {
