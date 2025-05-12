@@ -339,8 +339,8 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_oven.png width:100 height:100 align:center}"
 	]
 	quest.02593CD4B4AE814C.title: "Desalination Plant"
-	quest.025A68F7B4788055.quest_desc: ["To get the Unobtainium Arcanist Hat, we'll need an Elemental Hat. Any Element, it doesn't matter! \\n\\nEach are made in a similar way. You'll upgrade an Ars Hat with a Mark of Mastery, 2 Elemental Essence, and a Netherite Ingot. \\n\\nIt can be made with a Sorceror's, Mage's, or Archmage's Hat. \\n\\nThe Mark of Mastery is a very hard Item to acquire. You'll need a Wilden Tribute, all Elemental Essences, plus Abjuration, Conjuration, and Manipulation Essences, along with Anima Essence! \\n\\nIt also requires a ton of Source to make every single one of those Items and the Hat itself."]
-	quest.025A68F7B4788055.title: "Elemental Hats"
+	quest.025A68F7B4788055.quest_desc: ["To get the &5Unobtainium Arcanist Hat&r, we'll need an &2Elemental Hat&r. Any &2Element&r, it doesn't matter! \\n\\nEach are made in a similar way. You'll upgrade an &dArs Hat&r with a &eMark of Mastery&r, 2 &2Elemental Essence&r, and a &cNetherite Ingot&r. \\n\\nIt can be made with a &dSorceror's&f, &dMage's&f, or &dArchmage's Hat&r. \\n\\nThe &eMark of Mastery&r is a very hard Item to acquire. You'll need a &5Wilden Tribute&r, all &2Elemental Essences&r, plus &dAbjuration&f, &bConjuration&f, and &6Manipulation Essences&f, along with &9Anima Essence&r! \\n\\nIt also requires a ton of &dSource&r to make every single one of those Items and the &dHat&r itself."]
+	quest.025A68F7B4788055.title: "&2Elemental Hats"
 	quest.0262E0D49A12F817.quest_subtitle: "Upgrades!"
 	quest.0263F546EA02AD7E.quest_desc: [
 		"School: &6Manipulation&r"
@@ -613,6 +613,8 @@
 	quest.04665EFC3A37250E.quest_desc: ["Kill 8 &7Silverfish&r."]
 	quest.046C417B2ADF3AA7.quest_desc: ["Cards have their limits. Item Extration can only extract 8 items per Operation. Fluid Extract at only 5 Buckets. God knows with Chemical and Energy. \n\nThis is Modded &2&lMinecraft&r these limits won't suffice we need to Overclock them. \n\nThrow some Overclockers in the top right of the Card and it'll upgrade the cap they can transfer!"]
 	quest.046C417B2ADF3AA7.quest_subtitle: "Max: 4"
+	quest.047973571C039ED2.quest_desc: ["Now to start our &6Ritual&r. Place the &bRitual Bell&r and &cIncense Brazier&r connected to &7Refined Salt&r that is connected to the &6Altar&r. \\n\\nThen, place the &bMana Salt&f, &eHallowed Shard&f, &9Creature Rune&f, and &9Summon Rune&r on the Pedestals. \\n\\nOnce you are ready, use your &6Wand&r on the &6Ritual Altar&r to start it. It will tell you that the &6Ritual&r has started and a ball of Energy will appear above it. \\n\\nThe &6Ritual&r will slowly start taking the Items and might ask of you to interact with the Props. Right Click the &bRitual Bell&r to make it ring, or put &cIncense &finto the &cIncense Brazier&r and Right Click it to light it. \\n\\nOnce all is done, you will get your &eHallowed Pixie&r!"]
+	quest.047973571C039ED2.title: "&eHallowed Pixie"
 	quest.0480DF316ACF12DA.quest_subtitle: "Western Hemlock + Jungle"
 	quest.048BD38532A1DDCF.quest_subtitle: "Holds a max of 1M LP"
 	quest.048DC7487156240A.quest_desc: [
@@ -919,6 +921,8 @@
 	quest.062AA943A1629A86.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
 	quest.0631F054A9B97A40.title: "Creating Runes"
 	quest.063F5023D56CA6B1.quest_desc: ["Once you've got polyethylene set up, you can switch to making machine hulls in the Assembler to save on some materials"]
+	quest.06480C731E286A40.quest_desc: ["&5Lightning Dragons&r are the newest and hardest Dragons to find! \\n\\nTheir &5Roosts &fand &5Caves&r can be found in Jungles, Savannahs, or Badlands. They look very similar to &cFire Dragon Nests&r with Piles of Copper and the &5Crackled Stone&r looking a lot like &cCharred Stone&r! \\n\\nLevel 1-3 &5Lightning Dragons&r will spawn in &5Roosts&r above the ground (but below Trees) while Levels 4-5 spawn in &5Caves&r underground. Also &5Lightning Dragons&r are Nocturnal, they will Sleep during Day and be awake during Night unlike the other Dragons. \\n\\nWhen you ambush them, they will furiously attack you. Like the other Dragons they'll follow you at Mach 5 to make sure you are dead. Just this one can zap you with &5Lightning&r! \\n\\nIf you can kill them, use an Empty Hand to Right Click their &5Scales&f, &5Flesh&f, and &5Hearts&r off of them! Or use an Empty Bottle to get &5Lightning Dragon Blood&r, but nothing else."]
+	quest.06480C731E286A40.title: "Slay a &5Lightning Dragon"
 	quest.064BBCC379A69748.quest_desc: ["This one is around twice as good as a vanilla furnace, and is more efficient to boot! While it gets outclassed by other furnace mods, for a strictly MI playthrough this furnace is incredibly strong!"]
 	quest.0650996C7818ADB5.quest_desc: ["The Heat Generator has 2 modes to generate power:\n\n&9Passive:&r Surrounding the generator with lava source or flowing blocks creates passive power by creating heat. Place one lava source block on top, and let it flow over the sides. Make sure to connect pipes first!\n\n&9Active:&r Placing combustible materials such as coal or wood into the generator will burn the fuel to create power."]
 	quest.0650996C7818ADB5.quest_subtitle: "Basic Power Gen"
@@ -2229,6 +2233,8 @@
 	quest.0F55D0B4D5094EDB.quest_desc: ["While making a lot of the questlines for ATM7, the Trader Villager thought it'd be funny to constantly push me around in the quest screen.\n\n\"Take them out. All of them.\"\n\n- AlfredGG \n\n\"I second this!\" \n\n- Toshiba"]
 	quest.0F55D0B4D5094EDB.quest_subtitle: "\"This is Personal\" - AlfredGG"
 	quest.0F55D0B4D5094EDB.title: "Kill The Trader Villager and His Annoying Llamas"
+	quest.0F6547179BB45030.quest_desc: ["The &bIce Dragon&r is considered the weakest of the Dragons, but its Environment and &bIcy Breath&r definitely prove that wrong! \\n\\n&bIce Dragons&r will spawn in any Snowy or Cold Biome. You might struggle to find their &bRoosts&r above ground and definitely their &bCaves&r underground. Both are made of Snow, Ice, and Silver Piles. \\n\\nLevels 1-3 will spawn in the &bRoosts&r while Levels 4-5 will spawn in &bCaves&r! \\n\\nWhen you start fighting them they will Slice you with their Claws, Bite down on you, and even &bFreeze&r you with their &bIce Breath&r... definitely try to avoid that one! \\n\\nOnce killed, you can Right Click their Corpse to get their &bScales&f, &bFlesh&f, and &bHeart&r! Or if you do it with a Bottle you can get &bIce Dragon Blood&r."]
+	quest.0F6547179BB45030.title: "Slay an &bIce Dragon"
 	quest.0F6FB959B352121D.quest_desc: [
 		"Have you been having any voltage issues? Well, this wire will help!"
 		""
@@ -2731,13 +2737,7 @@
 	]
 	quest.12E727EDF49C1C2E.quest_subtitle: "&8Mending and Curing&r"
 	quest.12E727EDF49C1C2E.title: "Healing Aura: The &aRestoration&r &dTablet&r"
-	quest.12ED1EE85E146A4B.quest_desc: [
-		"Harvester Pylons work as a very simple Auto-Farm. Put the Pylon on or in the Water Source and it will automatically harvest and replant Crops that are fully grown in the set area around it. "
-		""
-		"The area can be set to 3x3, 5x5, 7x7, or 9x9 Blocks around the Pylon. "
-		""
-		"It will need a Hoe to use on the Plants and will need an Inventory like a chest above it to put the Crops. Do all that and if it's turned On it will start farming!"
-	]
+	quest.12ED1EE85E146A4B.quest_desc: ["Harvester Pylons work as a very simple Auto-Farm. Put the Pylon on or in the Water Source and it will automatically harvest and replant Crops that are fully grown in the set area around it. \n\nThe area can be set to 3x3, 5x5, 7x7, or 9x9 Blocks around the Pylon. \n\nIt will need a Hoe to use on the Plants and will need an Inventory like a chest above it to put the Crops. Do all that and if it's turned On it will start farming!\n\n(Careful when using a lot of modifiers with it like Lilypads or fertilizer as when it goes very fast farming it can be a TPS eater)."]
 	quest.12EF38830108D02B.quest_desc: ["Kill 32 normal Spiders."]
 	quest.12F24C9C6D2AF887.quest_desc: ["Two buckets of &boxygen&r plus the &bferrite mixture dust&r in your &eElectric Blast Furnace&r gets you the ingot - no cooling necessary!"]
 	quest.12F3A604329EC604.quest_subtitle: "Increases the Efficiency of Machines"
@@ -2924,6 +2924,8 @@
 		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
 	]
 	quest.144BB025516E0994.title: "&3Vibranium Ingot&r"
+	quest.144BF1BF2E1CDDFA.quest_desc: ["In order to get &9Runes&r we'll need to Carve them. In order to Carve them we'll need a &9Runecarving Table&r. \\n\\nThe Items needed to Craft the &9Table&f is a &bDiamond Sword&f, &7Stone Slab&f, and a &6Wood Table&r. &6Wood Tables&r are made from a couple &6Planks &fand &6Wood Slabs&r! \\n\\nYou'll also need to learn &aBasic Runeworking&r and have 5 Mana in &2&lEarth&r, &9&lSea&r, &b&lSky&r, &e&lSun&r, and &7&lMoon&r. \\n\\nOnce it is Crafted, place it down and use it just like a Stone Cutter!"]
+	quest.144BF1BF2E1CDDFA.title: "&9Runecarving"
 	quest.144ECED643031A9A.quest_desc: ["Glowing Mushrooms are huge Mushroom plants you can find in the Scarlet Forests! \n\nThey function just like Brown or Red Mushrooms just these ones Glow much brighter! \n\n(If you didn't know Brown and Red Mushrooms actually emit a Light Source level of 1)."]
 	quest.14518D5C1786DE65.quest_subtitle: "&f5&r &4Damage&r"
 	quest.1452D9CF827782B5.quest_desc: ["Arctic Gear is made with Arctic Fur. Arctic Fur is dropped from Winter Wolves and Yetis! \n\nNo, you can't shear either of them. \n\nThe Gear can be dyed like &7Leather Armor&r!"]
@@ -3238,6 +3240,8 @@
 		"{image:atm:textures/questpics/railcraft/rail_junction.png width:100 height:100 align:center}"
 	]
 	quest.170118E3C3C072E5.title: "&6Junction Tracks"
+	quest.1704A63FE432D406.quest_desc: ["&cFire Dragons&r are the most common we see through all media, the stereotype of Dragons is one using its &cFiery Breath&r, to burn down whole Villages! \\n\\nSo of course, we'll need to kill a few of them! \\n\\n&cFire Dragons&r spawn in Warm Biomes besides a few where &5Lightning Dragons&r spawn. They can have Level 1-3 spawn in &cRoosts&r above the surface, or having Level 4-5 spawn in &cCaves&r well below the surface. \\n\\nYou can tell it is a &cFire Dragon's Nest&f by the &cCharred Blocks&r and Copper Piles! \\n\\nThey'll give quite a fight! Blasting you with their &cFire Breath&r, Flying and Grabbing you, Smacking and Biting you. They'll do anything to kill you so prepare to defend yourself! \\n\\nOnce you kill it, its Corpse will drop to the ground, where you can Right Click it with an Empty Hand to get &cScales&f, &cFlesh&f, and &cHearts&r. Or Right Click with an Empty Bottle to only get &cFire Dragon Blood&r!"]
+	quest.1704A63FE432D406.title: "Slay a &cFire Dragon"
 	quest.1705175C20CE91DD.quest_desc: ["Eclipse Alloy is a new material added by JDT. Eclipse Alloy is aquired by performing Goo Spread on Netherite Blocks using tier four goo. Eclipse Alloy Ore is affected by fortune."]
 	quest.1705175C20CE91DD.title: "Eclipse Alloy"
 	quest.1710B3D05215A71E.quest_desc: [
@@ -3431,7 +3435,7 @@
 		"Passive Mobs -> More Pink Slime"
 		"Hostile Mobs -> More Meat"
 	]
-	quest.18246A48C20B29D8.quest_desc: ["The Infusion Pylon works similar as a Beacon just much better and cheaper! \\nWhen a Potion Effect is put in by a Potion Filter, it will continuously give you the Potion Effect no matter where you are! \\n\\nYou heard me right, no longer is there a set radius for the Infusion Pylon, now it will reach you wherever."]
+	quest.18246A48C20B29D8.quest_desc: ["The Infusion Pylon works similar as a Beacon just much better and cheaper! \nWhen a Potion Effect is put in by a Potion Filter, it will continuously give you the Potion Effect while you're in the set Chunk area."]
 	quest.1827DEEA2DF1B144.quest_desc: ["Welcome to the Food and Farming chapter!\n\nHere, you'll find different ways for you to grow and make food!"]
 	quest.1827DEEA2DF1B144.title: "Food and Farming"
 	quest.182EBB06B81BDF98.quest_desc: ["Greatly decreases the amount of Mana a Mana Burst carries and dramatically increases the burst's speed and distance."]
@@ -4136,6 +4140,7 @@
 	quest.1DE0F289821F55D1.quest_desc: ["Now that we have a Foliot Crusher, we can &muse&r politely ask it to crush down some &eEnd Stone&r and &9Obsidian&r for us. We'll use these to make some new Chalk!"]
 	quest.1DE0F289821F55D1.title: "&aChalking It Up"
 	quest.1DE3E93C00845162.quest_desc: ["&bFreezing Core&r will give you more recipes with &bFreezing&r Items. \\n\\nLike &bSnowballs&r from &aSlimeballs&r! \\n\\nStill needs Fuel."]
+	quest.1DE3E93C00845162.title: "&bFreezing Core"
 	quest.1DE8B0C9A7195720.quest_desc: [
 		"Once you've finished placing in all of the required blocks to build the Reactor, it should give off red particles to show that it is complete.\n\nRight clicking anywhere on the Reactor will open up the &aInterface&r. This will have all of the information you need to run the Reactor properly, as well as two buttons to turn on and off the Reactor.\n\nOn the left, you have 2 tanks: One for &bCoolant&r and one for &3Fissile Fuel&r. On the right, you have one for &8Nuclear Waste&r, and one for &bHeated Coolant&r, which will most likely be &bSteam&r.\n\nThe &cTemperature&r bar will show you how hot the Reactor is. After a certain temp, the Reactor will start taking &4Damage&r, which will eventually cause the Reactor to explode.\n\nTo adjust the &cBurn Rate&r of the Fissile Fuel and see more statistics, click on the (I) tab on the left side. Here, you can adjust the Rate Limit, which controls how much fuel the Reactor burns per tick.\n"
 		"{image:atm:textures/questpics/mek/reactor_interface_1.png width:200 height:150 align:1}"
@@ -4661,6 +4666,8 @@
 	quest.221C9EDA651144BA.quest_subtitle: "Necklace"
 	quest.221C9EDA651144BA.title: "&3Charm of Sinking&r"
 	quest.221F2BEB4FB44F45.quest_desc: ["If you haven't noticed the trend, this does the same as the Bronze Cutting Machine with a few more recipes!"]
+	quest.2224C9A047244CA4.quest_desc: ["To get our special &9Runes&r we'll need to learn the &aRunes&r in the &8Grimoire&r and our &9Runecarving Table&r to make them. \\n\\nIf you're actually following the Quests you should already have the &9Runecarving Table&r, so research those &aRunes&r as well! \\n\\nNow that we are researched, we can give our &9Table&f a &9Lapis Lazuli&f and a &7Stone Slab&r to make a &9Rune&r. \\n\\nWe'll need to choose which &9Rune&r you want in a similar way to the &7Stone Cutter&r, just click the one you want and it'll be made! \\n\\nClick the &9Summon Rune&f and &9Creature Rune&r."]
+	quest.2224C9A047244CA4.title: "&9Summon &fand &9Creature Rune"
 	quest.2226555D9552236E.quest_subtitle: "Spawns from most Wood Nests"
 	quest.222D08F43B995FED.quest_subtitle: "Try and dent this"
 	quest.2230244B2CE5851D.quest_desc: [
@@ -6743,6 +6750,8 @@
 	quest.3143588D93FC7999.quest_desc: ["This is what you went through that trouble for! The Steam Quarry is a void miner that uses the Drill durability to mine ores from nowhere! Pretty good! This one takes a bit to build, though. Remember to use the Bronze Wrench if you get confused."]
 	quest.314E41B84C8DD464.quest_desc: ["This is arguably one of the most important blocks added by Apotheosis, the Enchantment Library. You put Books in and they collect over time and can be taken out anytime. Warning 1. It has limits, high limits but limits 2. It can only take out the highest level put in regardless of how many are in."]
 	quest.314E41B84C8DD464.title: "Enchantment Library"
+	quest.315305F278A8377D.quest_desc: ["For our 1 &5Rune&r we'll need 4? That doesn't sound like a fair exchange but okay! \\n\\nWe'll need a few more of those &3Crystals&r to make our &bIce Rune&f, &dCoral Reef Rune&f, and 2 &5Thunder Runes&r. \\n\\nThe &bCrystal of Winterstorm&r can be made with 8 &bIce&f to get our &bIce Rune&r. \\n\\nThe &dCoral Reef Rune&r will need the &9Crystal of Ocean&r along with the 5 different Coral Blocks: &dBrain&f, &5Bubble&f, &4Fire&f, &eHorn&f, and &9Tube&r. \\n\\nLast is our 2 for 1 on &5Thunder Runes&r. Each cost 1 &5Crystal of Thunder&r and 8 &5Struck Logs&r."]
+	quest.315305F278A8377D.title: "Runes!"
 	quest.3155E4212045BC8E.quest_desc: [
 		"The Obsidian Nest will lure in Draconic Bees when placed in the End."
 		""
@@ -7025,6 +7034,11 @@
 	quest.33F44B87C5496158.title: "&1Draco Tools"
 	quest.33F4A7613764A016.quest_desc: ["Works like Importers do, only they export instead."]
 	quest.33F4A7613764A016.quest_subtitle: "Exporting"
+	quest.33FB9C2A7A179BBC.quest_desc: [
+		"In order to do fancy &6Rituals&r in &lPrimal Magick&r we'll need a few Blocks! \\n\\nCrafting these Items aren't at all difficult so I won't focus on those. Instead I'll focus on how to actually use them. \\n\\nPlace the &6Ritual Altar&r in the middle, this won't have any Items on it but it will connect to every other Block as well as having the Product spawn on it. \\n\\nNext, is our Offering Pedestals. These will be where we place our Offerings. The Pedestals can be placed next to the &6Altar&r but in order to connect Props we'll need atleast a Block of space to place our Salt. \\n\\nAfter, the Pedestals is Props. Some &6Rituals&r require Props which can be placed nearby the &6Altar&r and will needed to be connected via... \\n\\n&7Refined Salt&r! In order to connect the Pedestals and Props to the &6Altar&r we'll need to place &7Refined Salt&r on the Ground to connect them. The &7Refined Salt&r is placed like &4Redstone&r, and will light up when a connection to the &6Altar&r is made."
+		"{image:atm:textures/questpics/chap3/chap3_primal.png width:100 height:100 align:center}"
+	]
+	quest.33FB9C2A7A179BBC.title: "&6Rituals"
 	quest.3406646DF9585AB8.quest_desc: ["Silicon dust, water, methane, and chlorine combine in your &eChemical Reactor&r on &aProgram 2&r to make this "]
 	quest.3406646DF9585AB8.quest_subtitle: "Try saying this 3 times fast"
 	quest.341486C9F277FEB7.title: "Reactor (Spirited)"
@@ -8186,7 +8200,7 @@
 	]
 	quest.3CAD0701EC16C2D8.title: "Dark Swamp"
 	quest.3CB6DC5B09C62CFE.quest_desc: ["&5Ender Gates&r are used to transfer power wirelessly to and from an adjacent block into the &7Ender Network&r.\n\nThink of these like wireless access points to your wireless network of power.\n\nNote: You can only add &apower storage capacity&r using an Ender Cell."]
-	quest.3CB76ABD14AAF4EB.quest_desc: ["You'll need 15 &bCompressed X1 Nether Star Blocks&r. \\n\\nIf each &bCompressed X1 Nether Star Block&r is 9 &bNether Star Blocks&r, then you'll need 135 &bNether Star Blocks&r. \\n\\nAnd if every &bNether Star Block&r is 9 &bNether Stars&r, then you'll need... 1,215 &bNether Stars&r... \\n\\nNow you see why I'm making you farm them?"]
+	quest.3CB76ABD14AAF4EB.quest_desc: ["You'll need 14 &bCompressed X1 Nether Star Blocks&r. \\n\\nIf each &bCompressed X1 Nether Star Block&r is 9 &bNether Star Blocks&r, then you'll need 126 &bNether Star Blocks&r. \\n\\nAnd if every &bNether Star Block&r is 9 &bNether Stars&r, then you'll need... 1,134 &bNether Stars&r... \\n\\nNow you see why I'm making you farm them?"]
 	quest.3CB76ABD14AAF4EB.title: "15 &bCompressed X1 Nether Star Blocks&r"
 	quest.3CB7884B7B32CF00.quest_desc: [
 		"Getting your first &bEther Gas&r might be a little bit scary.\n\n&bEther Gas&r is made from drilling a Wither, using a Fluid Drill with a &5Purple Lens&r."
@@ -8403,6 +8417,7 @@
 	quest.3E76BC1D0FC3E9A8.quest_desc: ["Tons of the Items in &cMr Crayfish's&r Mod use Energy! \n\nTo power them you'll need an Electricity Generator. These take Coal or other Furnace Fuels to power up! \n\nThen, you'll need a Wrench to connect the Generator to your Blocks that need Energy. \n\nWhen the Generator is turned on with the Switch at the top and it has Fuel, it will power anything connected."]
 	quest.3E76BC1D0FC3E9A8.title: "Electric Set"
 	quest.3E78FA34A7D40044.quest_subtitle: "&fTier 2&r"
+	quest.3E7943617E1636D7.quest_desc: ["Rock Salt comes from Mining or Smelting Rock Salt Ore. \\n\\nRock Salt Ore spawns in any Biome Underground. \\n\\nThat's pretty much it!"]
 	quest.3E7CCA957469739D.quest_desc: [
 		"An adorable, purely &ecosmetic&r Curio for players that resembles a &bSea Bunny&r."
 		""
@@ -8680,6 +8695,8 @@
 	quest.3FF97A4B5029C0E7.title: "&7Scroll of Weapon Projectiles"
 	quest.3FFF9018DA2A2763.quest_desc: ["Once we start burning up Fissile Fuel in the reactor, we'll get heated &bCoolant&r and &8Nuclear Waste&r.\n\nThis is where the Radiation kicks in. As long as it stays &osafely in some container or machine&r, you won't have any spills....right?\n\nThe best way to store any Radioactive substance is using a &2Radioactive Waste Barrel&r. These will safely store the waste, while slowly decaying the gas without causing a Radiation spill. You don't want your Nuclear Waste sitting in your Reactor as it causes it to produce more heat, so set a port to &aoutput Waste&r and ship it to a barrel!\n\n&9Important Note&r: Breaking &nany&r machine, barrel, pipe, or &oanything&r that has a Radioactive gas inside of it &cwill cause a Radiation leak&r. That includes the products of Nuclear Waste, like Polonium or Plutonium."]
 	quest.3FFF9018DA2A2763.title: "Dealing with &8Nuclear Waste"
+	quest.4000239DCA5A8094.quest_desc: ["The &5Crystal of Thunder&r will be needed to make &5Thunder Runes&r and our &5Thunderstorm Rune&r. \\n\\nWe should already have our &6Rituals&r ready, same with getting our &5Struck Logs&f and &3Crystal of Nature&f and &2Earth&r. \\nWe just need to worry about the other &3Crystals&r: &9Ocean&f, &bWinterstorm&f, and &cFlame&r! \\n\\nThe &9Crystal of Ocean&r is made from 8 &3Prismarine Blocks&r and a &3Conduit&r in a &6Ritual&r. \\n\\n&bCrystal of Winterstorm&r is made from a &3Crystal of Nature&r surrounded by 4 &bIce Blocks&f, 2 &bPacked Ice&f, and 2 &bBlue Ice&r. But... we need it powered! So collect Powder Snow with that &bCrystal&r to fill it! \\n\\n&cCrystal of Flame&r is made with 8 &cMagma Blocks&f and a &3Crystal of Nature&r. It will also need to fed, just this time with &cLava&r."]
+	quest.4000239DCA5A8094.title: "&5Crystal of Thunder"
 	quest.4007DFA7CC3A5FF2.quest_desc: ["To save you from having this &oentire quest section&r covered with filter upgrades, take a look at the Sophisticated Backpack upgrades\n\nYou'll need to make the Sophisticated Storage equivalent, but they function about the same."]
 	quest.4007DFA7CC3A5FF2.quest_subtitle: "The Base for Upgrades"
 	quest.40096ED0B04C3EC5.quest_desc: ["The must-need for all Spawners. When it says ignores all conditions, it means most. Ignores light levels, blocks needing for spawning, and biomes. Space conditions are still needed though, like slimes needing 3x3 area to spawn, and same goes with players needing to be nearby."]
@@ -10148,6 +10165,17 @@
 		"{image:atm:textures/questpics/railcraft/rail_electric_speed.png width:150 height:100 align:center}"
 	]
 	quest.4A44623D8A307473.title: "&6High Speed Electric Tracks"
+	quest.4A492FE61EB7CAE8.quest_desc: [
+		"We'll need to kill quite a few &cFire Dragons&r to get our &cFire Dragon Forge&r. \\nFirst, we'll need &7Dragon Bones&f from &7Dragon Skeletons&f to make our 8 &7Dragon Bone Blocks&r. \\n\\nThen, we'll need a ton of &cScales&f and a &cDragon Heart&r to make the other Blocks. The Scale color doesn't matter, as long as it is from a &cFire Dragon&r! \\n\\nThe &cDragon Forge&r is a 3x3x3 Structure that will be ready for use immediately after Building it. To build it, follow these Steps!"
+		"{image:atm:textures/questpics/chap3/chap3_fire1.png width:100 height:100 align:center}"
+		"Step 1: place a Cross of 5 &cFire Dragon Forge Bricks&r. Then, place &7Dragon Bone Blocks&r in each of the corners to make a 3x1x3. "
+		"{image:atm:textures/questpics/chap3/chap3_fire2.png width:100 height:100 align:center}"
+		"Step 2: put the &cFire Dragon Forge Core&r in the dead center and place the &cFire Dragon Forge Aperature&r next to it on the side you want the front to be. Then, you can fill in the rest of that layer with &cFire Dragon Forge Bricks&r. "
+		"{image:atm:textures/questpics/chap3/chap3_fire3.png width:100 height:100 align:center}"
+		"Step 3: repeat the first Step just on top of the second layer!"
+		"{image:atm:textures/questpics/chap3/chap3_fire4.png width:100 height:100 align:center}"
+	]
+	quest.4A492FE61EB7CAE8.title: "&cFire Dragon Forge"
 	quest.4A4C71C43519D5FE.quest_desc: [
 		"To summon the boss of &4&lThe Nether&r, we need to gather a few Items first. "
 		""
@@ -10285,7 +10313,12 @@
 	]
 	quest.4B2146C9527C54E7.quest_desc: ["Obviously now that you are in Chapter 2, you have beaten &2&lVanilla Minecraft&r! \n\nBy now you should have &5Netherite&r and have killed all the bosses &2&lMinecraft&r has. So what's next? \n\n&6&lAllthemodium&r is what's next! In order to start getting &6Allthemodium&r though you will need &5Netherite&r. Let's start there!"]
 	quest.4B2146C9527C54E7.title: "&6&lAllthemodium"
+	quest.4B2352B055D51D7C.quest_desc: ["Wanna combine the strongest Material in Modded &2&lMinecraft&r with the... third? Then, you'll need some &bIcey Dragons &fand &bDragon Forges&r! \\n\\nBefore we do all of that though, let's prepare our Molten Metals. \\n\\nTake some &6AllTheModium&f and &5Unobtainium&r Ingots and &9Soul Lava&r which spawns in Structures in &b&lThe Other&r. Then, use the Ingots in the &c&lFoundry&r with the &9Soul Lava&r as a Fuel Source to Melt them! \\n\\nOnce Melted, pour them into Buckets. Then, our Buckets of Molten Metals can be placed within the &bIce Dragon Forge&r. \\n\\nWith an &bIce Dragon&r (friendly or not) nearby, they will automatically power the &bForge&r!"]
+	quest.4B2352B055D51D7C.quest_subtitle: "Freeze AllTheModium and Unobtainium to each other"
+	quest.4B2352B055D51D7C.title: "&5Unobtainium&f-&6AllTheModium&f Alloy Block"
 	quest.4B3F20E5C7E3BCFB.quest_desc: ["Primal Coal is a new material added by JDT. Primal Coal is aquired by performing Goo Spread on Coal Blocks using tier one goo or higher. Primal Coal Ore is affected by fortune."]
+	quest.4B4335D3D140C88B.quest_desc: ["Okay let's go over this. \\n\\n&5&nCrystal of Thunder&r: &a&oCheck&r. \\n\\n&n4 Runes&r: &a&oCheck&r. \\n\\n&3Poseidite&r? What the &5Struck&r is that? \\n\\nWe can get &3Poseidite&r by Smelting a &3Trident&r in a Furnace. That seems like a very cruel Recipe, thankfully &5&lApotheosis&r makes it easier to Craft!"]
+	quest.4B4335D3D140C88B.title: "&5Rune: Thunderstorm"
 	quest.4B4F5341D6DBDD19.quest_desc: ["Keep your breathing underwater, once your bubbles go down to 5 they will be refilled! It also allows you to see much more easily underwater!"]
 	quest.4B4F5341D6DBDD19.quest_subtitle: "Max: 1"
 	quest.4B51189C36B8D291.quest_desc: [
@@ -10754,6 +10787,11 @@
 		"The tools are also super fast and pack a mean punch with high base damage."
 	]
 	quest.4E178CCAC7F85F54.title: "&6Allthemodium&r &dTools and Armor&r"
+	quest.4E1957EEC79218DC.quest_desc: [
+		"Now... it is ready! \\n\\nCraft all the Items needed. \\n\\nThen, place Mechanical Crafters in the arrangement shown in the Picture and give them &dRotational Power&r. "
+		"{image:atm:textures/questpics/chap2/chap3_create.png width:100 height:100 align:center}"
+		"Once you place all the Items in the Mechanical Crafters (in the right order) it will create the &6&lATM Star&r! \\n\\nBut what's next..."
+	]
 	quest.4E1957EEC79218DC.title: "&6&lATM Star"
 	quest.4E1D5EC061A4AE55.quest_desc: ["A copper ingot and 63mB of oxygen in your arc furnace will make an annealed copper ingot"]
 	quest.4E1E31EDD544EE10.quest_subtitle: "64,000mb"
@@ -11341,6 +11379,9 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_green2.png width:200 height:100 align:center}"
 	]
 	quest.516ECA0396621C32.title: "&aGreen Sempiternal Sanctum"
+	quest.5177A629813BDF0D.quest_desc: ["Before we start Alloying everything, we'll need our Molten Metals! \\n\\nGrab a ton of &6AllTheModium&f and &3Vibranium&r as well as some &9Soul Lava&r from &b&lThe Other&r. Melt the &6AllTheModium&r with our &9Soul Lava&r in the &c&lFoundry&r and then pour it into a Bucket. Repeat this with our &3Vibranium&r to have our Molten Metals ready! \\n\\nNow, place our Buckets of our &3Molten Vibranium&f and &6AllTheModium&r into the &cFire Dragon Forge&r. \\n\\nOnce they are in, our &cFire Dragon&r at hand should Power it up! It can be either a Tamed &cFire Dragon&f or a &cWild Fire Dragon&r that is Chained up nearby with Sticky Chains, either work!"]
+	quest.5177A629813BDF0D.quest_subtitle: "Melt together AllTheModium and Vibranium"
+	quest.5177A629813BDF0D.title: "&3Vibranium&f-&6AllTheModium&f Alloy Block"
 	quest.517F0135926B15EE.quest_desc: ["All simple machines come with redstone controll, and some come with filtering."]
 	quest.5180CDD196518F64.quest_desc: [
 		"The &6Strap Iron Tracks&r, like the &6Abandoned Tracks&r, are perfect for the cheapskates. They go much slower than the other &6tracks&r but no risk of derailment!"
@@ -11404,6 +11445,17 @@
 	quest.51EA6B1452883AB2.title: "&aLinear Chasis"
 	quest.5202A68E811D0E4A.quest_desc: ["To get an &6&oEnhanced Brush&r we'll need a &6&oWet Enhanced Brush&r. \\n\\nThese are made with a few Flowers and a Basic &6Brush&r. \\n\\nOnce &cDry&r we can use them with our &6&lBroom&r. \\n\\nThe &6&oEnhanced Brush&r isn't any faster than normal &6Brushes&r, but they have twice the Durability!"]
 	quest.5202A68E811D0E4A.title: "&6&oEnhanced Broom Brush"
+	quest.520B26EE983CDC6D.quest_desc: [
+		"Get ready for a ton of furious fighting, we'll need quite a few &5Lightning Dragons&r killed for our &5Lightning Dragon Forge&r! \\n\\nFirst, we'll need &7Dragon Bones&f from &7Dragon Skeletons&f to make our 8 &7Dragon Bone Blocks&r. \\n\\nThen, we'll need a ton of &5Scales &fand a &5Dragon Heart&r to make the other Blocks. The &5Scale&r color doesn't matter, as long as it is &5Lightning Dragon Scales&r! \\n\\nThe &5Dragon Forge&r is a 3x3x3 Structure that will be ready for use immediately after Building it. To build it, follow these Steps! "
+		"{image:atm:textures/questpics/chap3/chap3_light1.png width:100 height:100 align:center}"
+		"Step 1: place a Cross of 5 &5Lightning Dragon Forge Bricks&r. Then, place &7Dragon Bone Blocks&r in each of the corners to make a 3x1x3."
+		"{image:atm:textures/questpics/chap3/chap3_light2.png width:100 height:100 align:center}"
+		"Step 2: put the &5Lightning Dragon Forge Core&r in the dead center and place the &5Lightning Dragon Forge Aperature&r next to it on the side you want the front to be. Then, you can fill in the rest of that layer with &5Lightning Dragon Forge Bricks&r. "
+		"{image:atm:textures/questpics/chap3/chap3_light3.png width:100 height:100 align:center}"
+		"Step 3: repeat the first Step just on top of the second layer!"
+		"{image:atm:textures/questpics/chap3/chap3_light4.png width:100 height:100 align:center}"
+	]
+	quest.520B26EE983CDC6D.title: "&5Lightning Dragon Forge"
 	quest.520EFA7F446AFBF2.quest_desc: ["&3Lubricant&r can be used to make Drill Bits."]
 	quest.520EFA7F446AFBF2.quest_subtitle: "Producing Lube!"
 	quest.520EFA7F446AFBF2.title: "Lubricant"
@@ -11794,6 +11846,17 @@
 	]
 	quest.54D8B9CB3F98040F.title: "&dI Think We're Ready"
 	quest.54DE8AAAE2181F18.quest_desc: ["The Moonring Greatsword needs to be crafted from drops by both Bosses! Obviously making it the hardest to get and the most powerful! \n\nIt works like a normal Sword, just before 1.9. It can block attacks like a shield, but it can't be spammed for full damage."]
+	quest.54DF40142076AD03.quest_desc: [
+		"Hope you don't mind the Cold, we'll need a lot of dead &bIce Dragons&r for the &bIce Dragon Forge&r! \\n\\nFirst, we'll need &7Dragon Bones&f from &7Dragon Skeletons&f to make our 8 &7Dragon Bone Blocks&r. \\n\\nThen, we'll need a ton of &bScales &fand a &bDragon Heart&r to make the other Blocks. The &bScale&r color doesn't matter, they're all pretty similar anyways! \\n\\nThe &bDragon Forge&r is a 3x3x3 Structure that will be ready for use immediately after Building it. To build it, follow these Steps! "
+		"{image:atm:textures/questpics/chap3/chap3_ice1.png width:100 height:100 align:center}"
+		"Step 1: place a Cross of 5 &bIce Dragon Forge Bricks&r. Then, place &7Dragon Bone Blocks&r in each of the corners to make a 3x1x3. "
+		"{image:atm:textures/questpics/chap3/chap3_ice2.png width:100 height:100 align:center}"
+		"Step 2: put the &bIce Dragon Forge Core&r in the dead center and place the &bIce Dragon Forge Aperature&r next to it on the side you want the front to be. Then, you can fill in the rest of that layer with &bIce Dragon Forge Bricks&r. "
+		"{image:atm:textures/questpics/chap3/chap3_ice3.png width:100 height:100 align:center}"
+		"Step 3: repeat the first Step just on top of the second layer!"
+		"{image:atm:textures/questpics/chap3/chap3_ice4.png width:100 height:100 align:center}"
+	]
+	quest.54DF40142076AD03.title: "&bIce Dragon Forge"
 	quest.54E4F00AD20D7096.quest_subtitle: "Tier: &b4"
 	quest.54E6C0D1BB442184.quest_desc: ["In order to get &eSpells&r you'll need Powdered Items. \n\nTo get Powdered Items you'll need a &9Mortar and Pestle&r."]
 	quest.54E6C0D1BB442184.title: "&9Mortar and Pestle"
@@ -12432,8 +12495,6 @@
 		"We need this to craft a component. Im sure you got this one as well."
 	]
 	quest.59908911C4FFF223.quest_subtitle: "16 Amps"
-	quest.5996C218C78E4511.quest_desc: ["The way you &2Level Up&r as a &bHunter&r after &2Level 4&r is with &5Hunter Intel&r. To Craft &2Level 14&r version, we'll need a few different things. \\n\\nWe'll first need to be &2Level 13 &bHunter&r. \\n\\nThen, we can combine 25 &4Vampire Fangs&r, a Book, a &5Vampire Book&r, and 2 &4Level 5 Pure Blood&r in a &9Hunter Research Table&r."]
-	quest.5996C218C78E4511.title: "&5Hunter Intel Level 14"
 	quest.599BABC83E76A711.quest_desc: [
 		"You'll smelt this and flatten it into &bFoils&r to make the delicate layers that comprise the &dAdvanced SMD Capacitor&r"
 		""
@@ -12512,6 +12573,8 @@
 	quest.5A26738AC904DC39.quest_desc: ["13 Spellslots!"]
 	quest.5A26738AC904DC39.title: "&6Allthemodium Spell Book"
 	quest.5A2908437EC43AC6.quest_subtitle: "Tier: &54"
+	quest.5A373ECCAAFC6675.quest_desc: ["&bMana Salts&r will be needed for our little &eHallowed Pixies&r. \\n\\nTo Craft it we'll need &4Redstone Dust&r and &lPrimal&r &bDust&r. These are both Mined to get. \\n\\nNext, we'll need &7Refined Salt&r. Smelt Rock Salt to get &7Refined Salt&r. This means we can Smelt Rock Salt Ore twice to get &7Refined Salt&r. \\n\\nWait we can't just Craft it yet? We'll need to learn &aManaweaving&r from our &8Grimoire&r. \\n\\nWe won't be set with just learning of course though we'll also need 5 &2&lEarth&r, &9&lSea&r, &a&lSky&r, &e&lSun&r, and &7&lMoon&r Mana!"]
+	quest.5A373ECCAAFC6675.title: "&bMana Salts"
 	quest.5A38E9F68570F7F3.quest_desc: [
 		"Valid Upgrades:"
 		"- Run Speed"
@@ -12563,6 +12626,12 @@
 	quest.5A9D6672385D3D82.quest_desc: ["Only use 1 Lapis for an Upgrade instead of 4."]
 	quest.5A9D6672385D3D82.quest_subtitle: "Saving Lapis"
 	quest.5A9E8222AEA6EF6F.title: "Charoite Armor"
+	quest.5AA1EA3598E69D82.quest_desc: [
+		"Don't worry, these Recipes aren't too scary. We will just need to &5zap&r an &5Amethyst Block&f and a &9Lapis Lazuli&r to get some Crystals! The rest of the Items are &2&lVanilla&r. \\n\\nWe'll need 1 &6Ritual Matrix&r which acts as the center Block, along with 8 &6Ritual Altars&r. \\n\\nThen, place the &6Ritual Matrix&r in the center with each of the &6Ritual Altars&r a 1 Block gap away. Like in this picture!"
+		"{image:atm:textures/questpics/chap3/chap3_glimmer.png width:100 height:100 align:center}"
+		"After that, follow the Recipes in EMI and place the Items accordingly. The center Item will go in the &6Ritual Matrix&r and the rest will be on the &6Altars&r. \\n\\nOnce all Items are in, use a &3Wand&r on the &6Matrix&r to start it."
+	]
+	quest.5AA1EA3598E69D82.title: "&6Rituals"
 	quest.5AAD0E516762BA53.quest_desc: ["Do you feel like you are levitating yet? Might be all that shulker from that Soul Vial."]
 	quest.5AAD0E516762BA53.quest_subtitle: "Prescient Crystal"
 	quest.5AAD299DC9657334.quest_desc: ["&eGold Rings&r go into the Misc Slot. \\n\\nThey are just decoration. They just add 2 &eGold Rings&r near the tip of your &6&lBroom&r. \\n\\nMakes you feel like Sonic but doesn't change your Speed!"]
@@ -12766,17 +12835,7 @@
 	quest.5C26EBA2F58F28F1.quest_subtitle: "Red Delicious Apple + Cherry"
 	quest.5C2B30655A44227F.quest_desc: ["Oh did you think &5&lEternal Starlight&r will have you get all these Metals the easy way? \n\nHA! don't be stupid. You'll have to fight Bosses, dig through Mud, and look for Meteor Showers!"]
 	quest.5C2B30655A44227F.title: "&5&lEternal Starlight&r Metals"
-	quest.5C2C29ECA67F9B49.quest_desc: [
-		"With the Lifeless Filter you will never have to worry about any Mob spawns within a 25x25 Chunk area. "
-		""
-		"This doesn't include Forced Spawns though, that is Mobs spawned from Spawners or even Spawn Eggs!"
-		""
-		"The 25x25 will cover every distance Mobs spawn near the player. Hostile or Passive. "
-		""
-		"This includes every Y Level as well, above or below the Pylon, so no more worrying about lighting up caves! "
-		""
-		"There's no Whitelisting with this Filter, it will prevent every Mob Spawn."
-	]
+	quest.5C2C29ECA67F9B49.quest_desc: ["With the Lifeless Filter you will never have to worry about any Mob spawns within a 25x25 Block area. \n\nThat's enough to cover every distance Mobs spawn near the player. Hostile or Passive. \n\nThis includes every Y Level as well, above or below the Pylon, so no more worrying about lighting up caves! \n\nThere's no Whitelisting with this Filter, it will prevent every Mob Spawn."]
 	quest.5C2C29ECA67F9B49.quest_subtitle: "Finally peace and quiet. "
 	quest.5C3030860804B318.quest_desc: ["As much as I hate Birch, atleast now the &2Forests&r have some use! \\n\\nThat use being another Tree, the &eWitch Hazel Tree&r!"]
 	quest.5C3030860804B318.title: "Visit a &2Birch Forest"
@@ -12799,10 +12858,14 @@
 	]
 	quest.5C47935A3B2877FF.quest_subtitle: "Mekanism's Energy Transfer Pipe"
 	quest.5C47935A3B2877FF.title: "&9Using Mekanism:&r &a Basic Universal Cable&r"
+	quest.5C4D6253655A4A6F.quest_desc: ["&eHallowed Items&r aren't found in &2&lWorld&r, they're actually Crafted for! \\n\\nIt starts off with &eDust&r that we get from using &eHumming Artifacts&r in a &7Calcinator&r. \\nTo make a &7Calcinator&r Craft an &7Essence Furnace&r (made by using a &6Wand&f on a &7Furnace&r) with 5 Marble Blocks and 3 Dust. \\n\\nDon't know where &eHumming Artifacts&r come from? They are Chest Loot from Structures all around our &2&lWorlds&r!"]
+	quest.5C4D6253655A4A6F.title: "&7Calcinating&r?"
 	quest.5C56452BE7879D0A.quest_desc: ["{atm9.quest.enchant.desc.negative}"]
 	quest.5C56452BE7879D0A.title: "{atm9.quest.enchant.negative}"
 	quest.5C590DB2F3D935E5.quest_desc: ["The Seed Reprocessor can convert essence seeds back into essences."]
 	quest.5C590DB2F3D935E5.quest_subtitle: "Recycling!"
+	quest.5C5E1C36B9F8A91B.quest_desc: ["&l&bIce &fand &cFire&r is all about Mythical Creatures, most importantly Dragons! \\n\\nThese fearsome beasts spawn all over the &2&lOverworld&r (thankfully away from Spawn). They guard their Roosts above ground and their Caves below it! \\n\\nThey have different Levels with the higher it is, the stronger they are. But hey that also means more Loot. "]
+	quest.5C5E1C36B9F8A91B.title: "&l&bIce &fand &cFire"
 	quest.5C6709350BEF4050.quest_desc: [
 		"Voidshimmer Goo is the third tier of goo added by JDT and requires End materials to craft."
 		""
@@ -13864,6 +13927,8 @@
 		"These Sparks can only see the inventory directly beneath it, but can only access items from its top side. Each Spark can also see every item in the Corporea network, and can be accessed by other Corporea blocks, like the Funnel or Index."
 	]
 	quest.634E71DBAE81D197.title: "&dThe Corporea Network&r"
+	quest.63520659D39A0F1E.quest_desc: ["We missed &lTinkers&r so much that &aLobsterJonn&r made his own! &c&lProductive Metalworks&r! \\n\\nThis gorgeous Mod adds the new Multiblock named &c&lThe Foundry&r. We will be needing to use it to make our Alloys! \\nFirst, you'll need to Craft each of these Blocks as well as either &cFire Bricks&f or &cFoundry Glass&r. \\n\\nThe &6Liquid Heating Coils&r will be the Floor of the &c&lFoundry&r and will heat it up. \\n\\nThe &aController&f, &bDrain&f, and &4Tank&r will make up parts of the Walls. The &aController&r is used to view Liquid Levels and add Items. &bDrain&r will interact with Taps and Buckets to take out Liquids. &4Tanks&r will give us a place to put our Fuel for the &c&lFoundry&r. \\n\\nThen, the rest of the walls will be made of either &cFire Bricks&r or &cFoundry Glass&r. The corners of the &c&lFoundry&r won't matter and neither does the size!"]
+	quest.63520659D39A0F1E.title: "&c&lThe Foundry"
 	quest.6353A39CBEE599A0.quest_desc: ["You like combining Inventories and making a way of viewing and interacting with all those Inventories with a few simple &6Machines&r similar to &b&lAE2&r and &7&lSophisticated Storage&r? \\n\\nThen, you'll need some &eStock Links&r! \\n\\n&eStock Links&r can be placed on &ePackagers&r to connect to the Inventory the &ePackager&r is connected to. When first placed, a new &eStock Network&r will be created. \\n\\nThese can connect to Chests, Barrels, and even &eVaults&r! \\n\\nYou can also Right Click another &eStock Link&r with a &eStock Link&r in hand to tune them to the same &eNetwork&r. When the new &eStock Link&r is placed onto another &ePackager&r, its Inventory Block will be added to the same &eNetwork&r. \\n\\nIf you'd like to Interact with these &eNetworks&r you'll need other Blocks!"]
 	quest.6353A39CBEE599A0.title: "&eStock Link"
 	quest.635620A03E3505BF.quest_desc: ["I don't wanna know how you got these."]
@@ -14560,6 +14625,8 @@
 	quest.688C911ECFB2F134.quest_desc: ["Within the &2Dark Forest&r, you'll find the &8Dark Tower&r.\n\nTo enter, look for the reappearing blocks at the base. Find your way through the maze all the way to the final floor to fight the &cUr-Ghast&r.\n\nThe &cUr-Ghast&r is recommended to kill with a ranged weapon. There are 4 Ghast traps found on the boss floor, which can be used to damage the &cUr-Ghast&r.\n\nThese are charged with &cGhastling&r kills, then activating with Redstone. You don't have to use them, but they can prove useful."]
 	quest.688C911ECFB2F134.quest_subtitle: "Dark Carmonite Tower"
 	quest.688C911ECFB2F134.title: "&cTears of Fire"
+	quest.68937957647A1079.quest_desc: ["&6Wands&r are very important for Interacting with the World and with Blocks! \\n\\nThe most basic &6Wand &fis the &6Mundane Wand&r, just Craft it with a Stick and a &bDust&r! \\n\\nYou don't know how to get the &bDust&r? Just visit any &lPrimal Magick&r Shrine, and Mine below the &9Water&r. Here you'll find Ore that will Drop these &bDusts&r. \\n\\nNow that we have our &6Wand&r, we can Hold Right Click while viewing certain Blocks to change them into new ones. \\n\\nUse it on a &6Crafting Table&r to make an &3Arcane Workbench&r. Try it on a &7Furnace&r to make an &7Essence Furnace&r."]
+	quest.68937957647A1079.title: "&6Wands &rand Machines"
 	quest.6893D537716AA748.quest_desc: ["&dCogwheels&r (&dCogs&r) are the next Block needed to use &dRotational Power&r! They can connect to &8Shafts&r or other &dCogs&r to move the &dRotational Power&r. \\n\\nThere is two versions of &dCogs&r: regular &dCogs &fand &dLarge Cogs&r. They will both act the same in the sense of &dRotational Power&r but there is also a few changes! \\nRegular &dCogs&r can connect to other &dCogs&r adjacent to them. This will move the &dRotational Power&r into a whole different direction. When this happens the direction of the second &dCog&r will be reversed. If the first &dCog&r is rotating &e&oClockwise&r, the second one will rotate &9&oCounter-Clockwise&r. \\n\\n&dLarge Cogs&r are a little more difficult to use than &dCogs&r. They can't connect to other &dLarge Cogs&r adjacent, rather they can only connect to &dCogs&r that are diagonal to them! \\n\\nMost &6Machines&r will need &dRotational Power&r from connecting &dCogs&r. You'll recognize if the &6Machine&r has an internal &dCog&r, that is what must be moved in order to use the &6Machine&r. "]
 	quest.6893D537716AA748.quest_subtitle: "I just call them Cogs"
 	quest.6893D537716AA748.title: "&dCogwheels&r!"
@@ -15371,6 +15438,8 @@
 	quest.6E3D53D1C4569A89.title: "&aExperience Pump Upgrade"
 	quest.6E4C3B87FABE9EFA.quest_subtitle: "Copper + Tin"
 	quest.6E4C3B87FABE9EFA.title: "Bronze Bee"
+	quest.6E5522A423C74902.quest_desc: ["I hope you got a &8Grimoire&r, because we'll definitely need one! \\n\\nThis little special &8Book&r will act as your Ingame Guide and Textbook for all things &lPrimal Magick&r! \\n\\nYou'll need to read through many of the Chapters in order to gain Knowledge to continue on in the Mod. You'll also need to find and discover Items and Structures to advance as well. \\n\\nSounds like it works both ways and that you'll definitely need to keep this &8Book&r on you!"]
+	quest.6E5522A423C74902.title: "&lPrimal Magick"
 	quest.6E5954C257726F86.quest_desc: ["Filtering per mod can be very helpful.\n\nTo use it, put an item in from a certain mod, then it will show the mod name, and hit the Plus button to add it!"]
 	quest.6E6D9527AC093199.quest_desc: [
 		"This step is easy, we just &eCentrifuge&r our Residue and we're left with Iridium Chloride and some sludge"
@@ -16578,6 +16647,9 @@
 	quest.76F14C2B866B4EAD.title: "The &3&lOtherside"
 	quest.76F675A898EAB4E8.quest_desc: ["&dSal Ammoniac&r is a critical part of &eAlchemical Sulfur&r which is what we will use to make and reproduce Items. \n\nTo get &dSal Ammoniac&r we'll need some &9Water&r. "]
 	quest.76F675A898EAB4E8.title: "&dSal Ammoniac"
+	quest.76F69C44F0F00414.quest_desc: ["Of course to combine the strongest Materials we'll need to kill the strongest &5Dragons&r! Actually quite a few of them, I highly doubt you can make AND Power a &5Lightning Forge&r with 1 &5Dragon&r! \\n\\nHopefully you're following the Quests by now we should have the &5Dragons&r dealt with, now we need to worry about our Molten Metals. \\n\\nTake some &3Vibranium&f and &5Unobtainium&r, along with some &9Soul Lava&r from &b&lThe Other&r and use them in a &c&lFoundry&r to Melt the Metals! \\n\\nAfter that, pour the Metals into a Bucket and place that very hot Bucket into a &5Lightning Dragon Forge&r. \\n\\nIf there is a friendly or unfriendly &5Lightning Dragon&f near the &5Lightning Forge&r, they will Power it and we will get our Alloy Block!"]
+	quest.76F69C44F0F00414.quest_subtitle: "Zap Vibranium and Unobtainium to stick to one another"
+	quest.76F69C44F0F00414.title: "&5Unobtainium&f-&3Vibranium&f Alloy Block"
 	quest.770C0975CA61CE46.quest_desc: ["Glacite can be found deep underground in the Permafrost Forests. \n\nIt can be used to craft Armor and Tools which help against Freezing damage!"]
 	quest.770ED8E5FEC6D59A.quest_desc: ["These blocks are Corrosion proof, and its a good thing, as they will be used to make the Large Brewing Vat. "]
 	quest.770ED8E5FEC6D59A.quest_subtitle: "Corrosive Materials? No thanks."
@@ -16795,6 +16867,8 @@
 	]
 	quest.78A8E67954D8BE0D.quest_subtitle: "&8Precise Aiming&r"
 	quest.78A8E67954D8BE0D.title: "Directional Casting: The &dAdjustable Spell Turret&r"
+	quest.78A91C417387474B.quest_desc: ["Welcome to &5&lGlimmering Tales&r! A wonderful Magic Mod designed a whole lot around &5Lightning&r! \\n\\nYou'll need to find Struck Logs, which can spawn in the &2&lOverworld&r in Struck Trees. \\n\\nYou can also make Struck Logs by having Logs get struck by &5Lightning&r. \\n\\nWhen you set a Struck Log on Fire, &5Lightning&r will strike it. This will be helpful for many many many recipes here. \\n\\nHeck you can even use other Mods to help you get &5Lightning&r! This Mod isn't picky!"]
+	quest.78A91C417387474B.title: "&5&lGlimmering Tales"
 	quest.78AA7BFABBFB9973.quest_desc: ["&2&lNature's&r &eSpell Book&r. \n\nIt has 10 &3Spells&r and gives a boost to &2Nature Spells&r! \n\nYou need a Rotten Spell Book to craft it though..."]
 	quest.78AA7BFABBFB9973.title: "&2Druidic Tome"
 	quest.78B7FC6A868F5C4D.quest_desc: ["You have to either find these in structures in the &6&lBumblezone&r or you can trade with the &5Bee Queen&r to get one! \n\nWhile wearing it you can hold Space Bar to fly for a little. \n\nExcept like a &6B&8e&6e&r the Wings are too small to keep your fat little body off the ground."]
@@ -17512,10 +17586,13 @@
 	quest.7D6AC042FFD0B6D6.quest_desc: ["&aDistill&r your &eLightly Steam Cracked Naphtha&r to acquire &0Benzene&r"]
 	quest.7D6B4AEF806AF62E.quest_desc: ["100% way too fast! Try not to die!"]
 	quest.7D6B4AEF806AF62E.quest_subtitle: "Max: 1"
-	quest.7D73CE6654EDEC25.quest_desc: ["Now that we have our Elemental Hats we can throw them in a Smithing Table with our Ingots and Upgrades to get up the Unobtainium Arcanist Hat! \\n\\nThank God, no more Source!"]
+	quest.7D73CE6654EDEC25.quest_desc: ["Now that we have our &2Elemental Hats&r we can throw them in a Smithing Table with our &5Ingots&f and &5Upgrades&r to get up the &5Unobtainium &dArcanist Hat&r! \\n\\nThank God, no more &dSource&r!"]
+	quest.7D73CE6654EDEC25.title: "&5Unobtanium &dArcanist Hat"
 	quest.7D7983F39E6E818D.title: "Tier: &9Niotic"
 	quest.7D7BD1458CF12021.quest_desc: ["It is a Desert of course there's Cacti! \n\nThe Cacti when fully grown can grow Fruit on top of them!"]
 	quest.7D7DC3C695CD7236.quest_subtitle: "Silver Lime + Spruce"
+	quest.7D81E6542A9E033F.quest_desc: ["With Smelting the &eHumming Artifacts&r we can finally get &eHallowed Dust&r. \\n\\nWe can then use Quartz to get some Quartz Sliver. Combine a Quartz Sliver with 8 &eDust&f to get 1 &eHallowed Shard&r. \\n\\nWe can keep combining them with a bunch of other crap to get even better &eHallowed Items&r... but we only care about the &eHallowed Pixie&r. \\n\\nWhich only needs a &eHallowed Shard&r!"]
+	quest.7D81E6542A9E033F.title: "&eHallowed Shard"
 	quest.7D81F2381516204D.quest_subtitle: "Needed for Finished PCBs"
 	quest.7D81F2381516204D.title: "Transistors"
 	quest.7D8ECACF214324D6.quest_desc: [
@@ -17897,6 +17974,7 @@
 	task.04048BE5351DB782.title: "Exploration Mod Diamond Swords"
 	task.0427B441A750316F.title: "Gold Chests"
 	task.0449F81DD0B413B8.title: "AllRightsReserved"
+	task.04AC153E87068211.title: "Tier 4 Upgrade Tome"
 	task.04CFF2F4E5B3813B.title: "Observed a Completed Large Chemical Bath"
 	task.04E3568175E66B6D.title: "Observe completed Cracker"
 	task.05072073E048223B.title: "Quests By AllTheMods"
@@ -18052,6 +18130,7 @@
 	task.200CE35BF3C04F6F.title: "Copper Chests"
 	task.201F519941A2C7F4.title: "AllRightsReserved"
 	task.20210147BF5613E5.title: "Exploration Mod Iron Swords"
+	task.20293039D23A1C69.title: "Look at it!"
 	task.20374000F8ADE952.title: "Macaw's Trapdoors"
 	task.212593A31F2A6572.title: "Bundle"
 	task.212BB84583FE4B8B.title: "Farmer Bee"
@@ -18236,6 +18315,7 @@
 	task.41910A3BC6C0E838.title: "Prudentium Tools"
 	task.41914689BC062AF7.title: "Any #l2hostility:trait_item"
 	task.41EEE559F6402D81.title: "Creative Module"
+	task.41EFD59D330CB3DF.title: "Tier 1 Upgrade Tome"
 	task.41FF171C7D97B574.title: "Chipped Gem Blocks"
 	task.4203F7ED807F3D30.title: "Skeletal Comb"
 	task.4209A06A392362DB.title: "Importer  Exporter GUI"
@@ -18254,6 +18334,7 @@
 	task.44A3CDE54F2A5149.title: "Gaia Trinkets"
 	task.44CEA28EBD6C0898.title: "AllRightsReserved"
 	task.450276777CF78F06.title: "Flowers"
+	task.4520105CF287F0A8.title: "Tier 6 Upgrade Tome"
 	task.452736994864F623.title: "Visit a Shimmer River"
 	task.452B65E139D9E12D.title: "Kill 1 Wilden Chimera"
 	task.4584109EB8EAA796.title: "&l&bApex Survivor"
@@ -18466,6 +18547,7 @@
 	task.6B772FA03562537D.title: "Go to Y level 1"
 	task.6BD970777103D55D.title: "Stairs"
 	task.6C12449632AD53DC.title: "Track Kits"
+	task.6C2AFD1962CA9879.title: "Tier 3 Upgrade Tome"
 	task.6C3887D42B6B2122.title: "Familiars"
 	task.6C841FAADFD094AC.title: "Automation"
 	task.6C974DF242CFDB8E.title: "Locate an Ancient Pyramid"
@@ -18511,6 +18593,7 @@
 	task.73B56F2139A98F77.title: "AllRightsReserved"
 	task.740E35A5781E43A7.title: "Steel Ingot"
 	task.7419B8F86A7FBF4E.title: "Spell Focus"
+	task.74A663D446EB9FE2.title: "Tier 5 Upgrade Tome"
 	task.74CA4DE423248784.title: "Wall Lamps"
 	task.7536DA5A948671F2.title: "Observe completed Vacuum Freezer"
 	task.75924053D6F5B242.title: "Spatial Storage Cells"
@@ -18526,6 +18609,7 @@
 	task.775A7E11D20688CD.title: "High-Flux RF Coil"
 	task.77EF6FE6C54C104A.title: "Arc Furnace"
 	task.7830C98BD32DB5F2.title: "Lead Comb"
+	task.78737128AE13B456.title: "Tier 2 Upgrade Tome"
 	task.78D7794707E4BD83.title: "Crops"
 	task.78ECC6C98CA985D7.title: "Macaw's Fences and Walls"
 	task.78F0D5822BF96CA9.title: "Regions Unexplored Logs"
@@ -18546,6 +18630,7 @@
 	task.7C6F7EF2B3AC2824.title: "AllRightsReserved"
 	task.7C88F80D05E62AC7.title: "Iron Furnaces"
 	task.7C91AC93D782A4BE.title: "Stage 2 EBF"
+	task.7CAD90E06B12B64C.title: "Tier 7 Upgrade Tome"
 	task.7D9A58EBADE91F54.title: "Inferium Tools"
 	task.7DE03D4A420D1028.title: "Visit a Dark Temple"
 	task.7E0D9E6342295AB0.title: "Foreword on Channels"
