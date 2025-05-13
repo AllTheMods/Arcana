@@ -412,6 +412,9 @@
 			}]
 			shape: "rsquare"
 			tasks: [{
+				icon: {
+					id: "forcecraft:infuser"
+				}
 				id: "20293039D23A1C69"
 				observe_type: 0
 				timer: 0L
@@ -519,11 +522,12 @@
 			}]
 			shape: "square"
 			tasks: [{
-				id: "7CB3001E90E2C38D"
-				observe_type: 0
-				timer: 0L
-				to_observe: "forcecraft:infuser"
-				type: "observation"
+				icon: {
+					id: "forcecraft:upgrade_tome"
+				}
+				id: "41EFD59D330CB3DF"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"forcecraft:upgrade_book\":{points:0,progressCache:\"\",recipesUsed:[],tier:\"1\"}}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
 			}]
 			x: 10.5d
 			y: 0.0d
@@ -620,11 +624,12 @@
 			}]
 			shape: "rsquare"
 			tasks: [{
-				id: "7984895239ADA9D4"
-				observe_type: 0
-				timer: 0L
-				to_observe: "forcecraft:infuser"
-				type: "observation"
+				icon: {
+					id: "forcecraft:upgrade_tome"
+				}
+				id: "78737128AE13B456"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"forcecraft:upgrade_book\":{points:0,progressCache:\"\",recipesUsed:[],tier:\"1\"}}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
 			}]
 			x: 13.0d
 			y: 0.0d
@@ -849,11 +854,12 @@
 			}]
 			shape: "square"
 			tasks: [{
-				id: "701A9BEEF741F399"
-				observe_type: 0
-				timer: 0L
-				to_observe: "forcecraft:infuser"
-				type: "observation"
+				icon: {
+					id: "forcecraft:upgrade_tome"
+				}
+				id: "6C2AFD1962CA9879"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"forcecraft:upgrade_book\":{points:0,progressCache:\"\",recipesUsed:[],tier:\"3\"}}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
 			}]
 			x: 15.5d
 			y: 0.0d
@@ -944,6 +950,9 @@
 				"3243507A885417F6"
 				"42898C43BE437012"
 			]
+			icon: {
+				id: "forcecraft:infuser"
+			}
 			id: "7A2CC1EAB820E466"
 			rewards: [{
 				id: "3BF4D03381327AEA"
@@ -952,8 +961,11 @@
 			}]
 			shape: "rsquare"
 			tasks: [{
-				id: "6846007DBDB897F7"
-				item: { count: 1, id: "forcecraft:infuser" }
+				icon: {
+					id: "forcecraft:upgrade_tome"
+				}
+				id: "04AC153E87068211"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"forcecraft:upgrade_book\":{points:0,progressCache:\"\",recipesUsed:[],tier:\"4\"}}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 17.5d
@@ -1039,11 +1051,12 @@
 			}]
 			shape: "square"
 			tasks: [{
-				id: "0304101729E1CF81"
-				observe_type: 0
-				timer: 0L
-				to_observe: "forcecraft:infuser"
-				type: "observation"
+				icon: {
+					id: "forcecraft:upgrade_tome"
+				}
+				id: "74A663D446EB9FE2"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"forcecraft:upgrade_book\":{points:0,progressCache:\"\",recipesUsed:[],tier:\"5\"}}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
 			}]
 			x: 20.0d
 			y: 0.0d
@@ -1128,11 +1141,12 @@
 			}]
 			shape: "rsquare"
 			tasks: [{
-				id: "6B5E230884D79A73"
-				observe_type: 0
-				timer: 0L
-				to_observe: "forcecraft:infuser"
-				type: "observation"
+				icon: {
+					id: "forcecraft:upgrade_tome"
+				}
+				id: "4520105CF287F0A8"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"forcecraft:upgrade_book\":{points:0,progressCache:\"\",recipesUsed:[],tier:\"6\"}}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
 			}]
 			x: 22.5d
 			y: 0.0d
@@ -1217,11 +1231,12 @@
 			}]
 			shape: "square"
 			tasks: [{
-				id: "26AF144A982589DA"
-				observe_type: 0
-				timer: 0L
-				to_observe: "forcecraft:infuser"
-				type: "observation"
+				icon: {
+					id: "forcecraft:upgrade_tome"
+				}
+				id: "7CAD90E06B12B64C"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"forcecraft:upgrade_book\":{points:0,progressCache:\"\",recipesUsed:[],tier:\"7\"}}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
 			}]
 			x: 25.0d
 			y: 0.0d
