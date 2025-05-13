@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "gear"
 	filename: "create"
-	group: ""
+	group: "0C9C9B01123A3A54"
 	icon: {
 		id: "create:large_cogwheel"
 	}
@@ -950,7 +950,7 @@
 			y: -8.5d
 		}
 	]
-	order_index: 0
+	order_index: 1
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
