@@ -6,7 +6,8 @@
     "minecraft:boat",
     "minecraft:chest_minecart",
     "minecraft:chest_boat",
-    "minecraft:trial_spawner"
+    "minecraft:trial_spawner",
+    "hexerei:candle_dipper"
 
   ]
 }
