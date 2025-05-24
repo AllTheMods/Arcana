@@ -151,7 +151,7 @@
 	quest.00A6020BC979947F.quest_desc: ["With your freshly summoned &9Marid Crusher&r, you can break down an Echo Shard and an Iesnium Ingot, which when combined with a Glow Ink Sac creates Cyan Chalk."]
 	quest.00A6020BC979947F.title: "&3Cyan Chalk"
 	quest.00A91BD731486644.quest_subtitle: "Ceylon Ebony + Sour Cherry"
-	quest.00AC7CC291A3E590.quest_desc: ["You've probably (definitely) seen structures around the world with what looks like Beacons coming out of them. They're made of cobblestone, have 4 legs supporting them, kinda high in the air! \n\nHopefully you know it but they're called &8Dark Temples&r and they have an &aEnviromental Accumulator&r which we need. \n\nYou'll have to wait for Thunderstorm to happen to fill your Weather Container. Then, you can make your &3Lightning Bomb&r!"]
+	quest.00AC7CC291A3E590.quest_desc: ["You've probably (definitely) seen structures around the world with what looks like Beacons coming out of them. They're made of cobblestone, have 4 legs supporting them, kinda high in the air! \n\nHopefully you know it but they're called &8Dark Temples&r and they have an &aEnvironmental Accumulator&r which we need. \n\nYou'll have to wait for Thunderstorm to happen to fill your Weather Container. Then, you can make your &3Lightning Bomb&r!"]
 	quest.00AC7CC291A3E590.title: "&3Lightning Bomb"
 	quest.00B7DD3AFC94B037.quest_subtitle: "Beech + Alder"
 	quest.00BA4B74737AB39E.quest_desc: ["&5Cursed Cores&r are a rare Drop from &5&lPossessed Armors&r. \\n\\nHow rare? They are so rare after killing a dozen I didn't believe that &5&lPossessed Armors&r drop them! \\n\\nThanks to the Wiki I now know that they do drop them. \\n\\nYou'll need a &5Cursed Core&r for each piece of &5Bound Soul Armor&r!"]
@@ -203,12 +203,12 @@
 	quest.00FF2CA7BA326007.quest_subtitle: "Mandarin + Wild Cherry"
 	quest.01046CFBD7411AA6.quest_subtitle: "Tier: &54"
 	quest.0104C2E2E30B966B.quest_desc: [
-		"Is the &cBlood Chest&r not working fast enough? Do you have too many items that need to be repaired? You can make a &cColossal Blood Chest&r to solve these problems.\n\nTo build one, you need to make 25 &9Reinforced Undead Planks&r. Using these, you want to make a 3x3x3 hollow cube, then place a &cColossal Blood Chest&r block to close off the multiblock structure. If done right, you'll have a massive &cBlood Chest&r you can now use. Some might call is colossal.\n\nThis also allows you to upgrade it using &6Promises&r.\n"
+		"Is the &cBlood Chest&r not working fast enough? Do you have too many items that need to be repaired? You can make a &cColossal Blood Chest&r to solve these problems.\n\nTo build one, you need to make 25 &9Reinforced Undead Planks&r. Using these, you want to make a 3x3x3 hollow cube, then place a &cColossal Blood Chest&r block to close off the multiblock structure. If done right, you'll have a massive &cBlood Chest&r you can now use. Some might call it colossal.\n\nThis also allows you to upgrade it using &6Promises&r.\n"
 		"{image:atm:textures/questpics/evilcraft/bloodchest.png width:250 height:200 align:1}"
 	]
 	quest.0104C2E2E30B966B.quest_subtitle: "Blood Chest Sr"
 	quest.0104C2E2E30B966B.title: "&aColossal Repairs"
-	quest.010607466D565B53.quest_desc: ["Like get in touch with Mother Nature man. \n\nWith &aRooted Boots&r nature is your Bestfriend! When standing on Grass you will Regenerate Hearts. Also when you Eat Food when standing on Grass it will act as if you Bonemealed it."]
+	quest.010607466D565B53.quest_desc: ["Like get in touch with Mother Nature man. \n\nWith &aRooted Boots&r nature is your Best Friend! When standing on Grass you will Regenerate Hearts. Also when you Eat Food when standing on Grass it will act as if you Bonemealed it."]
 	quest.010607466D565B53.quest_subtitle: "Feet"
 	quest.010607466D565B53.title: "&aRooted Boots"
 	quest.0107D516E038E0DB.quest_desc: ["The &eLich Tower&r is home to the &eLich&r! The fight has 3 phases:\n\nPhase 1: The &eLich&r surrounds himself in shields, and attacks you with &5Ender Pearls&r that shoot out like Ghast fireballs. Reflect them back to the &eLich&r to break his shields! As his shields break, he'll send out duplicates to distract you.\n\nPhase 2: The &eLich&r switches scepters to summon Zombies to help him in the fight. With his defenses down, you will be able to melee him!\n\nPhase 3: Once all of the charges are spent on his Scepter, he will switch to a &eGolden Sword&r and go berserk. Kill him fast!"]
@@ -221,7 +221,7 @@
 	quest.01119871B1D5C576.title: "&6Village"
 	quest.0115271C840CD387.quest_desc: ["Time to upgrade that boiler perhaps?"]
 	quest.0115271C840CD387.quest_subtitle: "So much steam"
-	quest.011F787E620DE9E8.quest_desc: ["To set the Mob Filter you just have to click the Mob you never want to see again, with the Mob Filter. \n\nEach Filter can only hold 1 Mob so if you want Zombies, Skeletons, Spiders, Creepers, and Endermen to no longer spawn you'll need 5 Mob Filters. \n\nYou can exchange the Mob in it by simplying clicking a different Mob with it."]
+	quest.011F787E620DE9E8.quest_desc: ["To set the Mob Filter you just have to click the Mob you never want to see again, with the Mob Filter. \n\nEach Filter can only hold 1 Mob so if you want Zombies, Skeletons, Spiders, Creepers, and Endermen to no longer spawn you'll need 5 Mob Filters. \n\nYou can exchange the Mob in it by simply clicking a different Mob with it."]
 	quest.011F787E620DE9E8.quest_subtitle: "He's uninvited!"
 	quest.012366E4E4095FC4.quest_desc: [
 		"Filter Casings are necessary to actually filter out bad particulates from the air and make the room &eclean&r"
@@ -260,7 +260,7 @@
 	quest.01AFC11EAAB6CB3B.title: "&eBone Reptile Armor"
 	quest.01B13BBB41BBB460.quest_desc: ["&cUtherium Armor&r has same stats as Netherite Armor! \n\nWithout needing a Smithing Template!"]
 	quest.01B13BBB41BBB460.title: "&cUtherium&r Armor"
-	quest.01C1300BE92F2145.quest_desc: ["&c&lImps&r fly around everywhere in &c&lThe Nether&r. \\n\\nThey are very similar in size and actions to a Vex, they are small and fly through Blocks. \\n\\nInstead of Iron Swords though, &c&lImps&r have &3Tridents&r! I think they are supposed to be Pitchforks. \\n\\n&c&lImps&r also have 7 &4Hearts of Health&r and can Shoot &cFireballs &flike &cBlazes&r. When killed will split into 2 &c&lImp Clones&r! \\n\\nEach &c&lImp Clone&r looks like half an &c&lImp&r. They also have 3 and a half &4Hearts&r. Thankfully they don't split anymore, these will just die!"]
+	quest.01C1300BE92F2145.quest_desc: ["&c&lImps&r fly around everywhere in &c&lThe Nether&r. \\n\\nThey are very similar in size and actions to a Vex, they are small and fly through Blocks. \\n\\nInstead of Iron Swords though, &c&lImps&r have &3Tridents&r! I think they are supposed to be pitchforks. \\n\\n&c&lImps&r also have 7 &4Hearts of Health&r and can Shoot &cFireballs &flike &cBlazes&r. When killed will split into 2 &c&lImp Clones&r! \\n\\nEach &c&lImp Clone&r looks like half an &c&lImp&r. They also have 3 and a half &4Hearts&r. Thankfully they don't split anymore, these will just die!"]
 	quest.01C1300BE92F2145.title: "&c&lImps"
 	quest.01C5D8357D8B0D62.quest_desc: ["If you know how a Detector Rail works then this Module will be explanatory for you. \n\nBasically if a certain Item is in the Router, it will emit a Redstone Signal out of the Router. \n\nIn the Module you can set the Item, where the Signal comes from, and how strong a Signal."]
 	quest.01CF1A9D9F29AFF7.quest_subtitle: "Pomelo + Orange"
@@ -304,7 +304,7 @@
 	quest.02057E81D8139BAE.title: "&aSuiting Up"
 	quest.02089D95AA679502.quest_subtitle: "Drops from the Arachnarch's Loot Bag"
 	quest.020E6AF37A0421C8.quest_desc: [
-		"The Water Tank is like having a barrel outside. Just this barrel is much bigger. It collects water and can hold water for Steam Locomotives. \n\nThe amount of water is makes is dependent on the biome and visible to the sky. \n\nIt's made by a 3x3x3 Water Tank blocks with the center being hollow."
+		"The Water Tank is like having a barrel outside. Just this barrel is much bigger. It collects water and can hold water for Steam Locomotives. \n\nThe amount of water it makes is dependent on the biome and visible to the sky. \n\nIt's made by a 3x3x3 Water Tank blocks with the center being hollow."
 		"{image:atm:textures/questpics/railcraft/rail_tank.png width:100 height:100 align:center}"
 	]
 	quest.020E6AF37A0421C8.title: "Water Tank"
@@ -339,7 +339,7 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_oven.png width:100 height:100 align:center}"
 	]
 	quest.02593CD4B4AE814C.title: "Desalination Plant"
-	quest.025A68F7B4788055.quest_desc: ["To get the &5Unobtainium Arcanist Hat&r, we'll need an &2Elemental Hat&r. Any &2Element&r, it doesn't matter! \\n\\nEach are made in a similar way. You'll upgrade an &dArs Hat&r with a &eMark of Mastery&r, 2 &2Elemental Essence&r, and a &cNetherite Ingot&r. \\n\\nIt can be made with a &dSorceror's&f, &dMage's&f, or &dArchmage's Hat&r. \\n\\nThe &eMark of Mastery&r is a very hard Item to acquire. You'll need a &5Wilden Tribute&r, all &2Elemental Essences&r, plus &dAbjuration&f, &bConjuration&f, and &6Manipulation Essences&f, along with &9Anima Essence&r! \\n\\nIt also requires a ton of &dSource&r to make every single one of those Items and the &dHat&r itself."]
+	quest.025A68F7B4788055.quest_desc: ["To get the &5Unobtainium Arcanist Hat&r, we'll need an &2Elemental Hat&r. Any &2Element&r, it doesn't matter! \\n\\nEach are made in a similar way. You'll upgrade an &dArs Hat&r with a &eMark of Mastery&r, 2 &2Elemental Essence&r, and a &cNetherite Ingot&r. \\n\\nIt can be made with a &dSorcerer's&f, &dMage's&f, or &dArchmage's Hat&r. \\n\\nThe &eMark of Mastery&r is a very hard Item to acquire. You'll need a &5Wilden Tribute&r, all &2Elemental Essences&r, plus &dAbjuration&f, &bConjuration&f, and &6Manipulation Essences&f, along with &9Anima Essence&r! \\n\\nIt also requires a ton of &dSource&r to make every single one of those Items and the &dHat&r itself."]
 	quest.025A68F7B4788055.title: "&2Elemental Hats"
 	quest.0262E0D49A12F817.quest_subtitle: "Upgrades!"
 	quest.0263F546EA02AD7E.quest_desc: [
@@ -466,7 +466,7 @@
 	quest.030CD26C3629D856.title: "Celebratory Sparkles: The &cFirework&r &bGlyph&r"
 	quest.03250A0202C25E80.quest_desc: ["After you've successfully slain the &9Unbound Marid&r Demon that you summoned with &4Abras' Fortified Conjure&r, you can use the &9Marid Essence&r that it drops to craft the \"highest\" colored Chalk, Blue Chalk."]
 	quest.03250A0202C25E80.title: "&9Blue Chalk"
-	quest.032B654201E71618.quest_desc: ["These &cTrack Kits&r are for using entities with your &7Carts&r (Entities aka Mobs). \n\nThe &cEmbarking Kit&r will pick up any Mobs nearby and put them in a &7Cart&r. \nThe &cDisembarking Kit&r unloads Mobs from the &7Carts&r. \nThe &cDumping Kit&r will drop the mobs in the &7Carts&r below the &6tracks&r its on."]
+	quest.032B654201E71618.quest_desc: ["These &cTrack Kits&r are for using entities with your &7Carts&r (Entities aka Mobs). \n\nThe &cEmbarking Kit&r will pick up any Mobs nearby and put them in a &7Cart&r. \nThe &cDisembarking Kit&r unloads Mobs from the &7Carts&r. \nThe &cDumping Kit&r will drop the mobs in the &7Carts&r below the &6tracks&r it's on."]
 	quest.032B654201E71618.title: "&cTrack Kits&r for moving entities"
 	quest.033BF8D12E32A5E5.quest_desc: ["Take that Ruthenium Dust and get to mixing! "]
 	quest.033BF8D12E32A5E5.quest_subtitle: "All Mixed Up"
@@ -483,7 +483,7 @@
 	quest.034FC4BCCCD7D154.quest_subtitle: "Tier 3 Base Upgrade"
 	quest.035C52EF63AD23A7.quest_desc: ["Hence the name of the mod, &lRailCraft&r, and what it revolves around, &5Trains&r, &6Rails&r are pretty important. \n\nThe &2Vanilla&r ones work for lots of these but come on we all know they suck. Upgraded ones will need some more special items for their recipes! Craft them! (They might require using machines to make the items so check out that part of the quest!)"]
 	quest.035C52EF63AD23A7.title: "&6&lRails&r!"
-	quest.036D5767E07005BC.quest_desc: ["&bDrains&r are what we'll use to extract our the &7Liquid Metals&r. Yes, it is unfortunately too hot for our Hands or Buckets. \\n\\nConnect the &c&lFoundry&r &7Tap&r to the &bDrain&r, to drain out the &7Liquid Metals&r when Right Clicking the Tap. \\n\\nYou can also view the amounts of Liquids in the &c&lFoundry&r when viewing the &bDrain&r!"]
+	quest.036D5767E07005BC.quest_desc: ["&bDrains&r are what we'll use to extract out the &7Liquid Metals&r. Yes, it is unfortunately too hot for our Hands or Buckets. \\n\\nConnect the &c&lFoundry&r &7Tap&r to the &bDrain&r, to drain out the &7Liquid Metals&r when Right Clicking the Tap. \\n\\nYou can also view the amounts of Liquids in the &c&lFoundry&r when viewing the &bDrain&r!"]
 	quest.036D5767E07005BC.title: "&c&lFoundry&r &bDrains"
 	quest.0373198D54FA6B93.quest_subtitle: "Double it Up"
 	quest.037415D5B965E214.quest_desc: ["This upgrade makes it so the Backpack can't die."]
@@ -527,14 +527,14 @@
 	quest.03B5D467E76C5B8A.quest_subtitle: "More like futile dust"
 	quest.03B842E4A2A6B2C9.quest_subtitle: "Good for manganese"
 	quest.03B842E4A2A6B2C9.title: "Grossular Vein"
-	quest.03C40D6A5D722543.quest_desc: ["Variable Cards are necessary for starting Interactions like Importing Items. You will put them in one of the slots of the Importer to add them. \n\nFrom there you can edit everything via the + Button. You can change how much is Importer, which Item Slot, which Channel, practically everything with just that Card. \n\nIf you're like me just wanting to move items, nothing too fancy just put it in and maybe change the Limit for how much is moved."]
+	quest.03C40D6A5D722543.quest_desc: ["Variable Cards are necessary for starting Interactions like Importing Items. You will put them in one of the slots of the Importer to add them. \n\nFrom there you can edit everything via the + Button. You can change how much is Imported, which Item Slot, which Channel, practically everything with just that Card. \n\nIf you're like me just wanting to move items, nothing too fancy just put it in and maybe change the Limit for how much is moved."]
 	quest.03C475ABEFF04DEF.quest_desc: ["This lens will redirect any Mana Spreaders or entities it collides with to face towards the block or entity that fired the burst."]
 	quest.03C54B07106091DD.quest_desc: ["&cSmelter Prism&r is probably the most used Item from these Rituals, like how it is needed for the &6&lATM Star&r! \n\nYou'll need 4 &cBlaze Powder&r, 2 &8Coal&r, and a block of &bArcane Crystal&r to make it. And don't forget the &3Elementarium&r Relic! \nObviously and what you are most likely wanting the &cSmelter Prism&r for is the &6&lATM Star&r. It can also be used with Tools to Smelt the Items that they break: Raw Ore to Ingots, Logs to Charcoal, Sand to Glass. \n\nYou can also use it for Furnace Fuel, but it kinda sucks. Which is dumb because the name suggests it would be better!"]
 	quest.03C54B07106091DD.title: "&cSmelter Prism"
 	quest.03C756EB123CA953.quest_desc: [
 		"We'll use this to upgrade the Medium Power Integrated Circuit (&aMPIC&r) Wafer to the High Power (&6HPIC&r) variant, allowing for larger energy hatches!"
 		""
-		"This will need to go into your &bCleanroom&r to run the recipe"
+		"This will need to go into your &bCleanroom&r to run the recipe."
 	]
 	quest.03C78165C5CBD9E1.quest_desc: ["The 16k Storage Disk can store 16000 items."]
 	quest.03C78165C5CBD9E1.title: "&a16k Storage Part"
@@ -606,10 +606,10 @@
 	]
 	quest.0458A38019AB1726.quest_subtitle: "&8Immunity and Vengeance&r"
 	quest.0458A38019AB1726.title: "&cCurse of Wrath's Fury"
-	quest.0460DDEEFDEB0AAF.quest_desc: ["Divination Rods are our Tools we use to contact the spirits to find certain Items. \n\nFirst, you'll need to select the Block or Item by either Shift Right Clicking it with the Rod, or crafting the Rod with its &eAlchemical Sulfur&r!\n\nBy holding them and holding Right Click the Rod will look for a selected Item. It will make a noise and the Rod will light up for how close the Block or Item is. \n\nIf close enough an orb might appear showing you the way to the Item."]
+	quest.0460DDEEFDEB0AAF.quest_desc: ["Divination Rods are our Tools we use to contact the spirits to find certain Items. \n\nFirst, you'll need to select the Block or Item by either Shift Right Clicking it with the Rod, or crafting the Rod with its &eAlchemical Sulfur&r!\n\nBy holding them and holding Right Click, the Rod will look for a selected Item. It will make a noise and the Rod will light up for how close the Block or Item is. \n\nIf close enough an orb might appear showing you the way to the Item."]
 	quest.0460DDEEFDEB0AAF.title: "Divination Rods"
 	quest.04636DE704AD7B0B.quest_desc: ["Ever feel like the Autoclave just wasn't enough for you? Well then this multiblock will fill that void! This large structure is a direct replacement for the single block Autoclave!"]
-	quest.04636DE704AD7B0B.quest_subtitle: "Lets make some Crystals! LCC"
+	quest.04636DE704AD7B0B.quest_subtitle: "Let's make some Crystals! LCC"
 	quest.04665EFC3A37250E.quest_desc: ["Kill 8 &7Silverfish&r."]
 	quest.046C417B2ADF3AA7.quest_desc: ["Cards have their limits. Item Extraction can only extract 8 items per Operation. Fluid Extract at only 5 Buckets. God knows with Chemical and Energy. \n\nThis is Modded &2&lMinecraft&r these limits won't suffice we need to Overclock them. \n\nThrow some Overclockers in the top right of the Card and it'll upgrade the cap they can transfer!"]
 	quest.046C417B2ADF3AA7.quest_subtitle: "Max: 4"
@@ -637,7 +637,7 @@
 		"- Run Speed"
 		"- Walk Speed"
 	]
-	quest.04A2E60351356107.quest_desc: ["There is 3 &6&lBrooms&r we can make, each with a different Recipe. \\n\\n&aWillow&r is cheapest and slowest, &eWitch Hazel&r is a little more expensive but is faster, and &4Mahagony&r is the most expensive and quickest. \\n\\nAll &6&lBrooms&r are ridden the same way though, you can sit on it with Right Click, like a boat. You can then move forward with W or backward with S. You can also turn with A and D. To elevate you can hold SPACE and to lower we can use CTRL. \\n\\nIn order to float and move your &6&lBroom&r will need a &6Brush&r. After Crafting the &6&lBroom&r they will already have one, but they do have Durability and will need to be replaced. \\n\\nTo replace it, open your Inventory to find the &6&lBroom's&r Inventory. Here we can add and replace different Items in the 3 Slots. Misc, Satchel, and &6Brush&r."]
+	quest.04A2E60351356107.quest_desc: ["There are 3 &6&lBrooms&r we can make, each with a different Recipe. \\n\\n&aWillow&r is cheapest and slowest, &eWitch Hazel&r is a little more expensive but is faster, and &4Mahagony&r is the most expensive and quickest. \\n\\nAll &6&lBrooms&r are ridden the same way though, you can sit on it with Right Click, like a boat. You can then move forward with W or backward with S. You can also turn with A and D. To elevate you can hold SPACE and to lower we can use CTRL. \\n\\nIn order to float and move your &6&lBroom&r will need a &6Brush&r. After Crafting the &6&lBroom&r they will already have one, but they do have Durability and will need to be replaced. \\n\\nTo replace it, open your Inventory to find the &6&lBroom's&r Inventory. Here we can add and replace different Items in the 3 Slots. Misc, Satchel, and &6Brush&r."]
 	quest.04A2E60351356107.title: "&6&lBrooms"
 	quest.04A371896B1E0CEC.quest_desc: [
 		"Refine the wire 1 more time, and we will have the Fine wire we need for the ZPM Field Generator."
@@ -653,7 +653,7 @@
 		""
 		"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
 	]
-	quest.04B40BB107F14330.quest_desc: ["The &4Meat Shredder&r is a Melee weapon you can make from &4Witherite&r. \\n\\nIt has two attacks, either using Left Click or Right Click. \\n\\nWhen you Left Click it'll use the &4Meat Shredder&r like an Axe, hitting them once from a decent range. \\n\\nWhen you hit Right Click it will repeatedly shred them with it's Saw, doing much quicker Damage from closer."]
+	quest.04B40BB107F14330.quest_desc: ["The &4Meat Shredder&r is a Melee weapon you can make from &4Witherite&r. \\n\\nIt has two attacks, either using Left Click or Right Click. \\n\\nWhen you Left Click it'll use the &4Meat Shredder&r like an Axe, hitting them once from a decent range. \\n\\nWhen you hit Right Click it will repeatedly shred them with its Saw, doing much quicker Damage from closer."]
 	quest.04B40BB107F14330.quest_subtitle: "Straight outta Fallout 3 DLC The Pitt"
 	quest.04B40BB107F14330.title: "&4Meat Shredder"
 	quest.04B6E31120663EB2.quest_subtitle: "Tier: &a2"
@@ -680,7 +680,7 @@
 	quest.04C94741762FE59E.quest_desc: ["Healing is pretty simple. \\n\\nWhen used on your Self, you'll instantly Regenerate some Health. \\n\\nIt can also be used in a Projectile or Ball to do the same Healing. \\n\\nNot happy with the amount of Health you gain? Try using the Power Spell with it!"]
 	quest.04C94741762FE59E.quest_subtitle: "Sanitatem"
 	quest.04C94741762FE59E.title: "Healing"
-	quest.04D0543FE2820F64.quest_desc: ["Flax String can be used in replace of normal String."]
+	quest.04D0543FE2820F64.quest_desc: ["Flax String can be used in place of normal String."]
 	quest.04D0543FE2820F64.quest_subtitle: "Who needs Spiders anyway?"
 	quest.04D0543FE2820F64.title: "Flax String"
 	quest.04D9F6587EF8D9B7.quest_desc: ["The &9Potion Jar&r stores up to 100 potions. You can remove them by using an empty bottle or a potion flask on the jar. \n\nWixies will use these jars during Potion Autocrafting."]
@@ -729,7 +729,7 @@
 		"{image:atm:textures/questpics/chap3/creative_forge5.png width:200 height:100 align:center}"
 		"Last is placing a few more Hatches! We'll need them!"
 	]
-	quest.050CCE5D1DD6B21E.title: "&c&lAutomatic Hepheastus Forge"
+	quest.050CCE5D1DD6B21E.title: "&c&lAutomatic Hephaestus Forge"
 	quest.050CD33E92601651.quest_desc: [
 		"&c&lTier 1&r not enough for you? Then, you'll need to upgrade it! \n\nPut an Edelwood Plank in the center Slot of the &6&lForge&r and place 4 &bArcane Crystals&r and 4 Spawner Scrap onto the Pedestals. \n\nSmack it with a Gavel and your &c&lTier 1&r will upgrade into a &3&lTier 2 &6Forge&r! \n\nNow, new Rituals will be available, the &6&lForge&r can hold more Essences, and you can use a second Relics!"
 		"{image:atm:textures/questpics/forbidden/forbidden_tier1.png width:100 height:100 align:center}"
@@ -761,7 +761,7 @@
 	quest.051E0C85E7B71CE0.title: "The &9Metal&r Age"
 	quest.052BE1D845794702.quest_subtitle: "Teak + Acacia"
 	quest.053483E3349B2F8A.quest_desc: [
-		"This structure looks similar to the Hanging Gardens, but there's only one Garden and it's massive. You'll know it's the &bBlue Sempiternal Sanctum&r by the &bBlue&r in the &bLuminescent Ancient Wax&r. \n\nGo into the structure and follow the way to the bottom room, (careful of Sentry Watchers) there you will find &bBlue Essence&r. \n\nWalk into it and get ready to hold your breathe. You'll need to fight off hordes of Drowneds, Guardians, and Elder Guardians underwater. Once all are dead you'll get..."
+		"This structure looks similar to the Hanging Gardens, but there's only one Garden and it's massive. You'll know it's the &bBlue Sempiternal Sanctum&r by the &bBlue&r in the &bLuminescent Ancient Wax&r. \n\nGo into the structure and follow the way to the bottom room, (careful of Sentry Watchers) there you will find &bBlue Essence&r. \n\nWalk into it and get ready to hold your breath. You'll need to fight off hordes of Drowneds, Guardians, and Elder Guardians underwater. Once all are dead you'll get..."
 		"{image:atm:textures/questpics/bumblezone/bumble_blue1.png width:200 height:100 align:center}"
 		"{image:atm:textures/questpics/bumblezone/bumble_blue2.png width:200 height:100 align:center}"
 	]
@@ -10519,7 +10519,7 @@
 		"- Blazegold"
 		"- Blaze Ember"
 	]
-	quest.4C5CFA45D9B4F6D3.quest_desc: ["Indigo Mushrooms are apparently bestfriends with Smogstem and will spawn mainly with them! "]
+	quest.4C5CFA45D9B4F6D3.quest_desc: ["Indigo Mushrooms are apparently best friends with Smogstem and will spawn mainly with them! "]
 	quest.4C647369D976E67E.quest_desc: ["This &c&lStaff&r has 3 Modes: Beam, AOE, or Big Explosion, each changed via Shift Right Click! (Don't worry all cause Explosions!) \n\nBeam works as foretold, it'll shoot a giant Beam to where you are pointing, annihlating every Block and Mob in its way! \n\nAOE summons a dozen circles in front of you, each shooting an Explosive blast to where it is aimed. \n\nBig Explosion is the most fun Mode, simply Hold Right Click at a target... keep holding. It'll take a little bit, once all the lines are done growing. Then, release! \n\nBOOM! a massive nuke will go off! Destroying a giant area, so don't use near your base. Infact don't use any of these Modes near it..."]
 	quest.4C647369D976E67E.title: "&c&lExplosive Mana Condensation"
 	quest.4C6B73322F56BE73.quest_desc: [
@@ -17071,7 +17071,7 @@
 	]
 	quest.79C0286813FA778A.quest_desc: ["Each Inscriber Press will be used with the Inscriber to make a new Item, these being: \\n\\nInscriber Silicon Press, presses Silicon into Printed Silicon. \\n\\nInscriber Logic Press, will take Gold Ingots into Printed Logic Circuits. \\n\\nInscriber Calculation Press, will press Certus Quartz into Printed Calculation Circuits. \\n\\nAnd Inscriber Engineering Press, will make Printed Engineering Circuits out of Diamonds!"]
 	quest.79C0286813FA778A.title: "Inscriber Presses"
-	quest.79C1105A84B8BF8F.quest_desc: ["Variable Cards are necessary for starting Interactions like Importing Items. You will put them in one of the slots of the Importer to add them.\n\nFrom there you can edit everything via the + Button. You can change how much is Importer, which Item Slot, which Channel, practically everything with just that Card.\n\nIf you're just wanting to move items, nothing too fancy just put it in and maybe change the Limit for how much is moved."]
+	quest.79C1105A84B8BF8F.quest_desc: ["Variable Cards are necessary for starting Interactions like Importing Items. You will put them in one of the slots of the Importer to add them.\n\nFrom there you can edit everything via the + Button. You can change how much is Imported, which Item Slot, which Channel, practically everything with just that Card.\n\nIf you're just wanting to move items, nothing too fancy just put it in and maybe change the Limit for how much is moved."]
 	quest.79C1105A84B8BF8F.title: "Variable Cards"
 	quest.79C4CF8D7312FC28.quest_desc: ["The best Vanilla gets! &5Netherite&r! Don't worry you won't need Smithing Template for it, just a lotta &5Netherite&r. \n \nIt smelts an item every 5 Ticks which means 4 Items Smelted every Second. Yes it's no longer S.P.S. (Seconds per Smelt) it's now S.P.S. (Smelts per Seconds). \n \nCrafted from &dObsidian Furnace&r... wait this isn't the final Furnace?"]
 	quest.79C4CF8D7312FC28.title: "&5Netherite Furnace&r"
@@ -17909,7 +17909,7 @@
 	quest.7FE2EED58AB791E8.quest_desc: ["Note: This accepts Tree Oil, Creosote Oil, and Refined Fuel."]
 	quest.7FE2EED58AB791E8.quest_subtitle: "Generates Power using Liquid Fuel!"
 	quest.7FE969CB4B419FC6.quest_subtitle: "Also works for items, gases, liquids, and heat."
-	quest.7FF3EA602FE7A546.quest_desc: ["The &3Sculk Transmitter&r is a very rare Item we can find within Chests of the &6Ancient Temple&r. \\n\\nOnce you do find one, it'll be your Bestfriend! \\n\\nTo use it, simply Shift Right Click a Block that has a GUI, think of: Chests, Crafting Tables, and Furnaces. Then, the &3Transmitter&r will be bound to that Item. \\n\\nAfter that, we can use the &3Transmitter&r to remotely access that Block from wherever! \\n\\nTo unbind the Block, Shift Right Click the Air with the &3Transmitter&r."]
+	quest.7FF3EA602FE7A546.quest_desc: ["The &3Sculk Transmitter&r is a very rare Item we can find within Chests of the &6Ancient Temple&r. \\n\\nOnce you do find one, it'll be your Best Friend! \\n\\nTo use it, simply Shift Right Click a Block that has a GUI, think of: Chests, Crafting Tables, and Furnaces. Then, the &3Transmitter&r will be bound to that Item. \\n\\nAfter that, we can use the &3Transmitter&r to remotely access that Block from wherever! \\n\\nTo unbind the Block, Shift Right Click the Air with the &3Transmitter&r."]
 	quest.7FF3EA602FE7A546.title: "&3Sculk Transmitter"
 	quest.7FF77463F2A0E210.quest_desc: ["Nightfall Mud can only be found within the Dark Swamps. \n\nYou can make more Blocks out of it!"]
 	reward.5990C633ED14DC48.title: "Unbreakable"
