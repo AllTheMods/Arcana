@@ -142,7 +142,7 @@
 		"{image:atm:textures/questpics/railcraft/rail_oven.png width:100 height:100 align:center}"
 	]
 	quest.008D186B4E0ED14F.title: "Steam Oven"
-	quest.008DBEF8893F1B63.quest_desc: ["Of all the elements, Helium is the most stable; it will not burn or react with other elements. Helium has the lowst melting point and boiling points. It exists as a gas, except under extreme conditions where it can be transitioned into the 4th State of Matter, Plasma."]
+	quest.008DBEF8893F1B63.quest_desc: ["Of all the elements, Helium is the most stable; it will not burn or react with other elements. Helium has the lowest melting point and boiling points. It exists as a gas, except under extreme conditions where it can be transitioned into the 4th State of Matter, Plasma."]
 	quest.008DBEF8893F1B63.quest_subtitle: "Massive Multiblock"
 	quest.009041EBAD28D526.quest_subtitle: "Now were at 4x"
 	quest.00A17728A387B426.quest_desc: ["Wood Nests are used to lure Carpenter Bees and the Blue Banded Bee.\n\nDark Oak Nests lures 3 different bees.\n\nThese can be placed in any Overworld Biome."]
