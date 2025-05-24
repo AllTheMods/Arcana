@@ -5355,7 +5355,7 @@
 	quest.275C8C12FBF4E27B.quest_subtitle: "&8Light as a...&r"
 	quest.275C8C12FBF4E27B.title: "Gentle Landing: &eThread of Feather&r"
 	quest.275D97BF0CE9DCD4.quest_subtitle: "Tier: &b3"
-	quest.276863E70FBE7139.quest_desc: ["Congratulations, you've manage to go further than most people with Modern Industrialization. But this is only the beginning of your journy. Prepare to embrace the age of early Electricity."]
+	quest.276863E70FBE7139.quest_desc: ["Congratulations, you've manage to go further than most people with Modern Industrialization. But this is only the beginning of your journey. Prepare to embrace the age of early Electricity."]
 	quest.277464BE6F96C082.quest_desc: [
 		"Parallelizing Hatches are going to be incredibly Important, especially moving forward with Large multiblock Structures!"
 		""
@@ -5417,9 +5417,9 @@
 	]
 	quest.27F9DA49D6DD9F35.quest_subtitle: "&8Releasing Stored Energy&r"
 	quest.27F9DA49D6DD9F35.title: "Overload: The &eDischarge&r &bGlyph&r"
-	quest.27FD46A8C958D259.quest_desc: ["Totem of Death Recall is a one time use time that allows a player to teleport back to thier location of death."]
+	quest.27FD46A8C958D259.quest_desc: ["Totem of Death Recall is a one time use item that allows a player to teleport back to thier location of death."]
 	quest.27FEF80A08AF43C2.quest_desc: [
-		"The &6B&8e&6e&r colored Sanctum! \n\nGo through the structure, I recommened not touching anything Lever, Button, Tripwire, or Pressure Plate wise or it might be deadly! \n\nOnce you get to the &eYellow Essence&r get ready for some running! \n\nYou'll need to run and jump through &eElectric Rings&r. Once you do it, more will spawn! Just keep doing it for a long time and hopefully someday you'll finish it."
+		"The &6B&8e&6e&r colored Sanctum! \n\nGo through the structure, I recommended not touching anything Lever, Button, Tripwire, or Pressure Plate wise or it might be deadly! \n\nOnce you get to the &eYellow Essence&r get ready for some running! \n\nYou'll need to run and jump through &eElectric Rings&r. Once you do it, more will spawn! Just keep doing it for a long time and hopefully someday you'll finish it."
 		"{image:atm:textures/questpics/bumblezone/bumble_yellow1.png width:200 height:100 align:center}"
 		"{image:atm:textures/questpics/bumblezone/bumble_yellow2.png width:200 height:100 align:center}"
 	]
@@ -5509,7 +5509,7 @@
 	]
 	quest.28A4DC57A502DE00.quest_subtitle: "&8Pinpointing Structures&r"
 	quest.28A4DC57A502DE00.title: "Finding Landmarks: The &dTablet of Locate Structure&r"
-	quest.28B1787B61BB214B.quest_desc: ["Lets take the Epoxy from the IV tier and make some reinforcements for our next tier Processors!"]
+	quest.28B1787B61BB214B.quest_desc: ["Let's take the Epoxy from the IV tier and make some reinforcements for our next tier Processors!"]
 	quest.28B1787B61BB214B.quest_subtitle: "So many uses for Epoxy!"
 	quest.28BF66D1B8CD4D44.quest_desc: ["&dBrooms&r can be made using Broom Parts. Every Broom is made up of 3 parts: a Rod, a Cap, and a Brush.\n\nEach part can be crafted by combing the bare part with certain items to give them specific modifiers. As there are too many modifiers to type out, make sure to check the guide book for more info!\n\nTo craft your Broom, simply place each part into the crafting table. The Broom will require Blood to function properly."]
 	quest.28BF66D1B8CD4D44.quest_subtitle: "Broom Broom"
@@ -5688,7 +5688,7 @@
 	quest.29ED1116682B0D10.quest_desc: [
 		"With some smooth stone slabs, stone, soul shards and your unholy symbol (portrayed in book), you will upgrade your altar and Effigy."
 		"Your effigy requires the Unholy Symbol and Gold inlays with the stone, to make Elder Statue"
-		"Wiht soul shard, stone slabs, stone and Pewter Inlay, make some Altars."
+		"With soul shard, stone slabs, stone and Pewter Inlay, make some Altars."
 	]
 	quest.29ED1116682B0D10.quest_subtitle: "Authentic Stone from Deep South"
 	quest.29EE878BC8D3A742.quest_desc: [
@@ -5918,7 +5918,7 @@
 	]
 	quest.2B27E4E04A628C60.title: "Speeding Everything Up!"
 	quest.2B29E9AB9447E1C6.quest_desc: [
-		"Now this is a Multiblock Machine! \n\nTo get Items back from &eAlchemical Sulfur&r we'll need to Incubate them. This requires The Incubator with all 3 Vessels adjacent to it. The order doesn't matter just as long as they are touching the bottom half. \n\nOnce it has all the Items in the Vessels and Heat it will start Incubating your Items! You'll know it's working when Smoke particles come out from it."
+		"Now this is a Multiblock Machine! \n\nTo get Items back from &eAlchemical Sulfur&r we'll need to Incubate them. This requires The Incubator with all 3 Vessels adjacent to it. The order doesn't matter just as long as they are touching the bottom half. \n\nOnce it has all the Items in the Vessels and Heat, it will start Incubating your Items! You'll know it's working when Smoke particles come out from it."
 		"{image:atm:textures/questpics/theurgy/theurgy_incubator.png width:200 height:200 align:center}"
 	]
 	quest.2B31E6C1707D8195.quest_desc: ["The next thing to make to allow for wireless network access is the &bME Wireless Access Point&f. The Access Point is used to open the network to wireless access via a &ewireless terminal&f, and has a set (finite) range depending on how many &bWireless Boosters&f are inserted into the access point."]
