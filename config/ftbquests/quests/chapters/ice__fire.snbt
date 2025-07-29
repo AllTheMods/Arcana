@@ -35,15 +35,7 @@
 			rotation: 0.0d
 			width: 3.0d
 			x: 0.0d
-			y: -17.0d
-		}
-		{
-			height: 1.0d
-			image: "atm:textures/questpics/iceandfire/iaf_title_myrmex.png"
-			rotation: 0.0d
-			width: 4.0d
-			x: 0.0d
-			y: -7.0d
+			y: -9.0d
 		}
 		{
 			height: 1.0d
@@ -226,24 +218,8 @@
 			image: "atm:textures/questpics/iceandfire/iaf_amphithere.png"
 			rotation: 0.0d
 			width: 4.0d
-			x: 6.0d
+			x: 5.5d
 			y: -8.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/iceandfire/iaf_desert.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: -3.0d
-			y: -9.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/iceandfire/iaf_jungle.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: 3.0d
-			y: -9.0d
 		}
 		{
 			height: 2.0d
@@ -299,7 +275,7 @@
 			rotation: 90.0d
 			width: 5.0d
 			x: -4.0d
-			y: -26.0d
+			y: -21.0d
 		}
 		{
 			height: 1.0d
@@ -307,15 +283,15 @@
 			rotation: 0.0d
 			width: 4.0d
 			x: 0.0d
-			y: -30.0d
+			y: -27.5d
 		}
 		{
 			height: 1.0d
 			image: "atm:textures/questpics/iceandfire/iaf_title_lightningdragon.png"
 			rotation: 90.0d
 			width: 6.0d
-			x: 4.0d
-			y: -26.0d
+			x: 4.5d
+			y: -21.0d
 		}
 		{
 			height: 3.0d
@@ -323,7 +299,7 @@
 			rotation: 0.0d
 			width: 5.0d
 			x: -4.5d
-			y: -21.5d
+			y: -17.0d
 		}
 		{
 			height: 3.0d
@@ -331,15 +307,15 @@
 			rotation: 0.0d
 			width: 5.0d
 			x: 4.5d
-			y: -21.5d
+			y: -17.0d
 		}
 		{
 			height: 3.0d
 			image: "atm:textures/questpics/iceandfire/iaf_icedragon.png"
 			rotation: 0.0d
 			width: 5.0d
-			x: 0.0d
-			y: -31.5d
+			x: 0.5d
+			y: -25.5d
 		}
 	]
 	order_index: 2
@@ -1377,7 +1353,7 @@
 				type: "structure"
 			}]
 			x: -1.5d
-			y: -20.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["6800E0113DE9A4DB"]
@@ -1421,7 +1397,7 @@
 				type: "structure"
 			}]
 			x: 0.0d
-			y: -20.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["6800E0113DE9A4DB"]
@@ -1465,7 +1441,7 @@
 				type: "structure"
 			}]
 			x: 1.5d
-			y: -20.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["6800E0113DE9A4DB"]
@@ -1509,7 +1485,7 @@
 				type: "structure"
 			}]
 			x: -1.5d
-			y: -23.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["6800E0113DE9A4DB"]
@@ -1553,7 +1529,7 @@
 				type: "structure"
 			}]
 			x: 0.0d
-			y: -23.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["6800E0113DE9A4DB"]
@@ -1597,7 +1573,7 @@
 				type: "structure"
 			}]
 			x: 1.5d
-			y: -23.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["7FA9EA93602A98EC"]
@@ -1641,7 +1617,7 @@
 				}
 			]
 			x: -1.5d
-			y: -21.5d
+			y: -17.0d
 		}
 		{
 			dependencies: ["70AD5D79881EE1B5"]
@@ -1685,7 +1661,7 @@
 				}
 			]
 			x: 0.0d
-			y: -21.5d
+			y: -17.0d
 		}
 		{
 			dependencies: ["42626A0CD814353D"]
@@ -1729,7 +1705,7 @@
 				}
 			]
 			x: 1.5d
-			y: -21.5d
+			y: -17.0d
 		}
 		{
 			dependencies: ["43630EF0B85AE7E1"]
@@ -1785,7 +1761,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -24.0d
+			y: -19.5d
 		}
 		{
 			dependencies: ["70099F9B69F9D055"]
@@ -1841,7 +1817,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -24.0d
+			y: -19.5d
 		}
 		{
 			dependencies: ["1CB063BBEC35712B"]
@@ -1897,85 +1873,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: -24.0d
-		}
-		{
-			dependencies: ["1FC3999F4C5661C5"]
-			icon: {
-				components: {
-					"ftbquests:icon": "atm:textures/questpics/iceandfire/iaf_desert.png"
-				}
-				id: "ftbquests:custom_icon"
-			}
-			id: "1D67C14558CA5AC5"
-			rewards: [
-				{
-					count: 10
-					id: "53678E6EDDFF8A0A"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_resin_desert"
-					}
-					type: "item"
-				}
-				{
-					count: 5
-					id: "7E34385BEF1706C3"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_resin_sticky_desert"
-					}
-					type: "item"
-				}
-			]
-			shape: "rsquare"
-			size: 1.5d
-			tasks: [{
-				id: "21AB0B60A7612E11"
-				structure: "iceandfire:myrmex_hive_desert"
-				type: "structure"
-			}]
-			x: -1.0d
-			y: -5.0d
-		}
-		{
-			dependencies: ["7EDC9A211593626C"]
-			icon: {
-				components: {
-					"ftbquests:icon": "atm:textures/questpics/iceandfire/iaf_jungle.png"
-				}
-				id: "ftbquests:custom_icon"
-			}
-			id: "429594F8622959F1"
-			rewards: [
-				{
-					count: 10
-					id: "2B4C0B2898612C96"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_resin_jungle"
-					}
-					type: "item"
-				}
-				{
-					count: 5
-					id: "40C0DC8A18D94BED"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_resin_sticky_jungle"
-					}
-					type: "item"
-				}
-			]
-			shape: "rsquare"
-			size: 1.5d
-			tasks: [{
-				id: "242DB0EA255B11C2"
-				structure: "iceandfire:myrmex_hive_jungle"
-				type: "structure"
-			}]
-			x: 1.0d
-			y: -5.0d
+			y: -19.5d
 		}
 		{
 			dependencies: ["33321AEEBBED1DFD"]
@@ -2104,7 +2002,7 @@
 				}
 			]
 			x: -2.5d
-			y: -27.0d
+			y: -22.5d
 		}
 		{
 			dependencies: [
@@ -2164,7 +2062,7 @@
 				}
 			]
 			x: 0.0d
-			y: -27.5d
+			y: -23.0d
 		}
 		{
 			dependencies: [
@@ -2224,7 +2122,7 @@
 				}
 			]
 			x: 2.5d
-			y: -27.0d
+			y: -22.5d
 		}
 		{
 			dependencies: ["666FFDFDB7C869F5"]
@@ -2386,7 +2284,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: -13.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["2B84A4377688B189"]
@@ -2658,7 +2556,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -13.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["33321AEEBBED1DFD"]
@@ -2742,7 +2640,7 @@
 				type: "advancement"
 			}]
 			x: 1.5d
-			y: -14.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["6009E239E2E15236"]
@@ -2879,7 +2777,7 @@
 				type: "advancement"
 			}]
 			x: -0.5d
-			y: -15.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["13CE1CD406024431"]
@@ -3010,7 +2908,7 @@
 				type: "advancement"
 			}]
 			x: 0.5d
-			y: -15.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["33321AEEBBED1DFD"]
@@ -3071,7 +2969,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -14.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["617C6D6C35B4917D"]
@@ -3148,302 +3046,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -19.0d
-		}
-		{
-			dependencies: [
-				"429594F8622959F1"
-				"1D67C14558CA5AC5"
-			]
-			dependency_requirement: "one_completed"
-			id: "1ACE902F970BA75A"
-			rewards: [
-				{
-					count: 3
-					id: "0DEAFEE024D59EDD"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_desert_resin"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "11E98B5CA613C418"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_jungle_resin"
-					}
-					type: "item"
-				}
-				{
-					id: "10B1AB7F84FC290F"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			shape: "pentagon"
-			tasks: [{
-				advancement: "iceandfire:iceandfire/kill_myrmex"
-				criterion: ""
-				id: "3815AC4E82456AC8"
-				type: "advancement"
-			}]
-			x: -1.5d
-			y: -6.5d
-		}
-		{
-			dependencies: [
-				"429594F8622959F1"
-				"1D67C14558CA5AC5"
-			]
-			dependency_requirement: "one_completed"
-			id: "53ED9D6E23424C64"
-			rewards: [
-				{
-					count: 3
-					id: "35914F61A687C8F3"
-					item: {
-						count: 1
-						id: "minecraft:emerald"
-					}
-					type: "item"
-				}
-				{
-					id: "1B8542C4861A1912"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			shape: "pentagon"
-			tasks: [{
-				id: "0577B4FD806B6B5F"
-				item: { count: 1, id: "iceandfire:lectern" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: -6.5d
-		}
-		{
-			dependencies: [
-				"1ACE902F970BA75A"
-				"53ED9D6E23424C64"
-			]
-			dependency_requirement: "one_completed"
-			id: "32CA76393F030EAD"
-			rewards: [
-				{
-					count: 9
-					id: "6E9871836BB76879"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_desert_resin"
-					}
-					type: "item"
-				}
-				{
-					count: 9
-					id: "1D10BA9EEC70C545"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_jungle_resin"
-					}
-					type: "item"
-				}
-				{
-					id: "6F279939DD63A53D"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			shape: "gear"
-			tasks: [{
-				id: "1D01ACAD1CB28C4F"
-				item: { components: { "ftbfiltersystem:filter": "or(item(iceandfire:myrmex_desert_resin)item(iceandfire:myrmex_jungle_resin))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: -6.0d
-		}
-		{
-			dependencies: ["32CA76393F030EAD"]
-			id: "722F90E78B2808E0"
-			rewards: [
-				{
-					count: 5
-					id: "539AA5105675F1FE"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_desert_chitin"
-					}
-					type: "item"
-				}
-				{
-					count: 5
-					id: "3FE16ED80F23FD84"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_jungle_chitin"
-					}
-					type: "item"
-				}
-				{
-					id: "33FABA362EEC2FFF"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			shape: "diamond"
-			tasks: [
-				{
-					id: "4BE2854EE4D3D5E3"
-					item: { components: { "ftbfiltersystem:filter": "or(item(iceandfire:myrmex_desert_chitin)item(iceandfire:myrmex_jungle_chitin))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					type: "item"
-				}
-				{
-					id: "04573B0E5996CA2F"
-					item: { count: 1, id: "iceandfire:myrmex_stinger" }
-					type: "item"
-				}
-			]
-			x: 0.0d
-			y: -8.0d
-		}
-		{
-			dependencies: ["722F90E78B2808E0"]
-			id: "3BC2ED21998E583E"
-			rewards: [
-				{
-					id: "4571E3C7E76EB893"
-					item: {
-						components: {
-							"minecraft:stored_enchantments": {
-								levels: {
-									"minecraft:protection": 4
-								}
-							}
-						}
-						count: 1
-						id: "minecraft:enchanted_book"
-					}
-					type: "item"
-				}
-				{
-					id: "50251A1E02732B44"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				id: "6CF0D767431D57DC"
-				item: { components: { "ftbfiltersystem:filter": "or(item(iceandfire:myrmex_desert_helmet)item(iceandfire:myrmex_desert_chestplate)item(iceandfire:myrmex_desert_leggings)item(iceandfire:myrmex_desert_boots)item(iceandfire:myrmex_jungle_helmet)item(iceandfire:myrmex_jungle_chestplate)item(iceandfire:myrmex_jungle_leggings)item(iceandfire:myrmex_jungle_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -1.5d
-			y: -9.0d
-		}
-		{
-			dependencies: ["722F90E78B2808E0"]
-			id: "4E8EC7BB36CDE5A8"
-			rewards: [
-				{
-					id: "6FE444B1DA2A904B"
-					item: {
-						components: {
-							"minecraft:stored_enchantments": {
-								levels: {
-									"minecraft:bane_of_arthropods": 10
-								}
-							}
-						}
-						count: 1
-						id: "minecraft:enchanted_book"
-					}
-					type: "item"
-				}
-				{
-					id: "707E9774F7B38E2B"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				id: "207622848CBAF8AD"
-				item: { components: { "ftbfiltersystem:filter": "or(item(iceandfire:myrmex_desert_sword)item(iceandfire:myrmex_desert_shovel)item(iceandfire:myrmex_desert_pickaxe)item(iceandfire:myrmex_desert_axe)item(iceandfire:myrmex_desert_hoe)item(iceandfire:myrmex_jungle_sword)item(iceandfire:myrmex_jungle_shovel)item(iceandfire:myrmex_jungle_pickaxe)item(iceandfire:myrmex_jungle_axe)item(iceandfire:myrmex_jungle_hoe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -0.5d
-			y: -9.5d
-		}
-		{
-			dependencies: ["722F90E78B2808E0"]
-			id: "66601CE8C154322A"
-			rewards: [
-				{
-					id: "36FE35808284C9ED"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_desert_egg"
-					}
-					type: "item"
-				}
-				{
-					id: "2989503B62A4351D"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_jungle_egg"
-					}
-					type: "item"
-				}
-				{
-					id: "6022031517BCA113"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				id: "6F84118F663F0F90"
-				item: { components: { "ftbfiltersystem:filter": "or(item(iceandfire:myrmex_desert_swarm)item(iceandfire:myrmex_jungle_swarm))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: -9.0d
-		}
-		{
-			dependencies: ["722F90E78B2808E0"]
-			id: "224DB94562904A13"
-			rewards: [
-				{
-					count: 10
-					id: "70E0B626F9A42584"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_desert_resin_block"
-					}
-					type: "item"
-				}
-				{
-					count: 10
-					id: "0A37EBF3ED6DC62E"
-					item: {
-						count: 1
-						id: "iceandfire:myrmex_jungle_resin_block"
-					}
-					type: "item"
-				}
-				{
-					id: "5B6A99AEF2F67BDD"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				id: "3528EEE29A21B3A9"
-				item: { components: { "ftbfiltersystem:filter": "or(item(iceandfire:myrmex_desert_staff)item(iceandfire:myrmex_jungle_staff))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 0.5d
-			y: -9.5d
+			y: -14.5d
 		}
 		{
 			dependencies: ["765CD913CC3896B2"]
@@ -3459,7 +3062,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: -25.0d
+			y: -20.5d
 		}
 		{
 			dependencies: ["0B3AC4E923332AC6"]
@@ -3475,7 +3078,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -25.5d
+			y: -21.0d
 		}
 		{
 			dependencies: ["1042A0DC0A9321BB"]
@@ -3502,7 +3105,7 @@
 				type: "location"
 			}]
 			x: 2.5d
-			y: -25.0d
+			y: -20.5d
 		}
 		{
 			dependencies: ["33321AEEBBED1DFD"]
@@ -3521,7 +3124,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -14.0d
+			y: -6.0d
 		}
 		{
 			dependencies: [
@@ -3564,7 +3167,7 @@
 				}
 			]
 			x: -1.0d
-			y: -26.5d
+			y: -22.0d
 		}
 		{
 			dependencies: [
@@ -3598,7 +3201,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: -26.5d
+			y: -22.0d
 		}
 		{
 			dependencies: ["3166CA00032C18F7"]
@@ -3634,7 +3237,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -12.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["176D31AF1B0925AA"]
@@ -3679,7 +3282,7 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: -28.0d
+			y: -23.5d
 		}
 		{
 			dependencies: ["45068FB6758D3BA1"]
@@ -3724,7 +3327,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -29.0d
+			y: -24.5d
 		}
 		{
 			dependencies: ["210542B036255FBF"]
@@ -3769,7 +3372,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: -28.0d
+			y: -23.5d
 		}
 		{
 			dependencies: [
