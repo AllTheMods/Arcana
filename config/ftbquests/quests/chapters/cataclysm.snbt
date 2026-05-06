@@ -611,7 +611,7 @@
 			rewards: [{
 				id: "478A8E7656398BD5"
 				type: "xp"
-				xp: 100
+				xp: 50
 			}]
 			shape: "none"
 			tasks: [{
@@ -630,9 +630,9 @@
 			icon_scale: 1.75d
 			id: "0496E8E786262464"
 			rewards: [{
-				id: "2C2CD4E098E4EA6D"
+				id: "6CC34D0AAD73A9FB"
 				type: "xp"
-				xp: 100
+				xp: 10
 			}]
 			shape: "none"
 			tasks: [{

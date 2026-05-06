@@ -47,6 +47,7 @@
 		{
 			hide_dependent_lines: true
 			id: "7A3E3E61B660645F"
+			min_width: 250
 			rewards: [
 				{
 					count: 3
@@ -58,9 +59,9 @@
 					type: "item"
 				}
 				{
-					id: "74C68A6DE11E74A2"
-					type: "xp_levels"
-					xp_levels: 1
+					id: "76444ACC165687F8"
+					type: "xp"
+					xp: 50
 				}
 			]
 			shape: "diamond"
@@ -1156,9 +1157,9 @@
 					type: "item"
 				}
 				{
-					id: "27F8BA2BDDF7087A"
-					type: "xp_levels"
-					xp_levels: 3
+					id: "7B35184EC6B5DECD"
+					type: "xp"
+					xp: 100
 				}
 			]
 			shape: "hexagon"

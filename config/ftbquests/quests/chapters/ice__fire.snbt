@@ -3,6 +3,9 @@
 	default_quest_shape: "circle"
 	filename: "ice__fire"
 	group: "5DB9CE6F9A446FB4"
+	icon: {
+		id: "iceandfire:manuscript"
+	}
 	id: "5D8E83698AEF1092"
 	images: [
 		{
@@ -369,7 +372,8 @@
 			dependencies: ["121DE9824813D558"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/gorgon.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:gorgon"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -453,7 +457,8 @@
 			dependencies: ["136C40D8350651DC"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/siren.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:siren"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -558,7 +563,8 @@
 			dependencies: ["6ECB27052FCB874E"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/hippocampus.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:hippocampus"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -603,7 +609,8 @@
 			dependencies: ["6ECB27052FCB874E"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/sea_serpent.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:sea_serpent"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -701,7 +708,8 @@
 			dependencies: ["0FE94BE5ADB6E595"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/hydra.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:hydra"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -787,7 +795,7 @@
 			tasks: [{
 				count: 4L
 				id: "05F354B18789BB1A"
-				item: { count: 8, id: "iceandfire:hydra_arrow" }
+				item: { count: 1, id: "iceandfire:hydra_arrow" }
 				type: "item"
 			}]
 			x: 5.0d
@@ -832,7 +840,8 @@
 			dependencies: ["435890CE1A1B3C04"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/cyclops.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:cyclops"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -926,7 +935,8 @@
 			dependencies: ["7EDC9A211593626C"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/amphithere.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:amphithere"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -1059,7 +1069,8 @@
 			dependencies: ["661114AFCBBD5F28"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/ghost.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:ghost"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -1156,7 +1167,8 @@
 			dependencies: ["5E45C9C2D72EDBCC"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/pixie.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:pixie"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -1912,7 +1924,8 @@
 			dependencies: ["5C02160C4D3F683A"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/stymphalian_bird.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:stymphalian_bird"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -1981,7 +1994,7 @@
 				{
 					count: 8L
 					id: "0E9B4F4A00E26E63"
-					item: { count: 4, id: "iceandfire:dragon_bone_block" }
+					item: { count: 1, id: "iceandfire:dragon_bone_block" }
 					type: "item"
 				}
 				{
@@ -2041,13 +2054,13 @@
 				{
 					count: 8L
 					id: "58AF4278D8C796E8"
-					item: { count: 8, id: "iceandfire:dragon_bone_block" }
+					item: { count: 1, id: "iceandfire:dragon_bone_block" }
 					type: "item"
 				}
 				{
 					count: 17L
 					id: "0FA90251FC56217A"
-					item: { count: 17, id: "iceandfire:dragonforge_ice_brick" }
+					item: { count: 1, id: "iceandfire:dragonforge_ice_brick" }
 					type: "item"
 				}
 				{
@@ -2101,13 +2114,13 @@
 				{
 					count: 8L
 					id: "290E080FC208757E"
-					item: { count: 8, id: "iceandfire:dragon_bone_block" }
+					item: { count: 1, id: "iceandfire:dragon_bone_block" }
 					type: "item"
 				}
 				{
 					count: 17L
 					id: "3F28CACFA8B8D68A"
-					item: { count: 17, id: "iceandfire:dragonforge_lightning_brick" }
+					item: { count: 1, id: "iceandfire:dragonforge_lightning_brick" }
 					type: "item"
 				}
 				{
@@ -2577,7 +2590,8 @@
 			dependencies: ["112DDD64524144D9"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/hippogryph.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:hippogryph"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -2783,7 +2797,8 @@
 			dependencies: ["13CE1CD406024431"]
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/iceandfire/cockatrice.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:cockatrice"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -3058,7 +3073,7 @@
 			}]
 			tasks: [{
 				id: "3E3EBDB1D26C3117"
-				item: { count: 9, id: "minecraft:netherrack" }
+				item: { count: 1, id: "minecraft:netherrack" }
 				type: "item"
 			}]
 			x: -2.5d

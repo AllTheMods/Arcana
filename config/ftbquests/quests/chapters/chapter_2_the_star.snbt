@@ -855,11 +855,18 @@
 					xp_levels: 1
 				}
 			]
-			tasks: [{
-				id: "61646103599D590C"
-				item: { count: 1, id: "ars_nouveau:drygmy_shard" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "06813C73F793E153"
+					item: { count: 1, id: "mysticalagriculture:nether_star_seeds" }
+					type: "item"
+				}
+				{
+					id: "18F0AD3D36AF82E0"
+					item: { count: 1, id: "mysticalagradditions:nether_star_crux" }
+					type: "item"
+				}
+			]
 			x: 4.5d
 			y: 4.0d
 		}
@@ -950,6 +957,9 @@
 				"2224C9A047244CA4"
 				"33FB9C2A7A179BBC"
 			]
+			icon: {
+				id: "primalmagick:pixie_basic_hallowed"
+			}
 			id: "047973571C039ED2"
 			rewards: [
 				{
@@ -1121,7 +1131,7 @@
 				{
 					count: 8L
 					id: "3E16AB651759FEAC"
-					item: { count: 4, id: "iceandfire:dragon_bone_block" }
+					item: { count: 1, id: "iceandfire:dragon_bone_block" }
 					type: "item"
 				}
 				{
@@ -1180,13 +1190,13 @@
 				{
 					count: 8L
 					id: "351A4DC7D83E2E68"
-					item: { count: 8, id: "iceandfire:dragon_bone_block" }
+					item: { count: 1, id: "iceandfire:dragon_bone_block" }
 					type: "item"
 				}
 				{
 					count: 17L
 					id: "52AF75EBF24EA019"
-					item: { count: 17, id: "iceandfire:dragonforge_ice_brick" }
+					item: { count: 1, id: "iceandfire:dragonforge_ice_brick" }
 					type: "item"
 				}
 				{
@@ -1239,13 +1249,13 @@
 				{
 					count: 8L
 					id: "3E3BAD699D557F40"
-					item: { count: 8, id: "iceandfire:dragon_bone_block" }
+					item: { count: 1, id: "iceandfire:dragon_bone_block" }
 					type: "item"
 				}
 				{
 					count: 17L
 					id: "4A3577BD49AE3CEE"
-					item: { count: 17, id: "iceandfire:dragonforge_lightning_brick" }
+					item: { count: 1, id: "iceandfire:dragonforge_lightning_brick" }
 					type: "item"
 				}
 				{
@@ -1291,7 +1301,7 @@
 				{
 					count: 8L
 					id: "5370114ED45B28E7"
-					item: { count: 8, id: "glimmeringtales:ritual_altar" }
+					item: { count: 1, id: "glimmeringtales:ritual_altar" }
 					type: "item"
 				}
 				{
@@ -1387,7 +1397,7 @@
 				{
 					count: 2L
 					id: "67B4A3213DD4896B"
-					item: { count: 2, id: "glimmeringtales:thunder" }
+					item: { count: 1, id: "glimmeringtales:thunder" }
 					type: "item"
 				}
 				{
@@ -1428,6 +1438,30 @@
 		}
 		{
 			dependencies: ["6E5522A423C74902"]
+			icon: {
+				components: {
+					"primalmagick:capability_mana_storage": {
+						allowedSources: [
+							"primalmagick:hallowed"
+							"primalmagick:sun"
+							"primalmagick:blood"
+							"primalmagick:sea"
+							"primalmagick:sky"
+							"primalmagick:infernal"
+							"primalmagick:moon"
+							"primalmagick:void"
+							"primalmagick:earth"
+						]
+						capacity: 2500
+						mana: {
+							sources: { }
+						}
+						maxExtract: 2147483647
+						maxReceive: 2147483647
+					}
+				}
+				id: "primalmagick:mundane_wand"
+			}
 			id: "68937957647A1079"
 			rewards: [
 				{
@@ -1454,13 +1488,13 @@
 					type: "item"
 				}
 				{
-					id: "0A98F601EC1FBF1F"
-					item: { components: { "primalmagick:capability_mana_storage": { allowedSources: [ "primalmagick:hallowed", "primalmagick:sun", "primalmagick:blood", "primalmagick:sea", "primalmagick:sky", "primalmagick:infernal", "primalmagick:moon", "primalmagick:void", "primalmagick:earth" ], capacity: 2500, mana: { sources: { } }, maxExtract: 2147483647, maxReceive: 2147483647 } }, count: 1, id: "primalmagick:mundane_wand" }
+					id: "12CE22E0B9F4B3FD"
+					item: { count: 1, id: "minecraft:furnace" }
 					type: "item"
 				}
 				{
-					id: "12CE22E0B9F4B3FD"
-					item: { count: 1, id: "minecraft:furnace" }
+					id: "0A98F601EC1FBF1F"
+					item: { components: { "primalmagick:capability_mana_storage": { allowedSources: [ "primalmagick:hallowed", "primalmagick:sun", "primalmagick:blood", "primalmagick:sea", "primalmagick:sky", "primalmagick:infernal", "primalmagick:moon", "primalmagick:void", "primalmagick:earth" ], capacity: 2500, mana: { sources: { } }, maxExtract: 2147483647, maxReceive: 2147483647 } }, count: 1, id: "primalmagick:mundane_wand" }
 					type: "item"
 				}
 			]
@@ -1749,6 +1783,9 @@
 		}
 		{
 			dependencies: ["3E7943617E1636D7"]
+			icon: {
+				id: "primalmagick:ritual_altar"
+			}
 			id: "33FB9C2A7A179BBC"
 			rewards: [
 				{
@@ -1779,13 +1816,13 @@
 				{
 					count: 4L
 					id: "4C975A968C148B84"
-					item: { count: 4, id: "primalmagick:offering_pedestal" }
+					item: { count: 1, id: "primalmagick:offering_pedestal" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "34A3701552350C58"
-					item: { count: 4, id: "primalmagick:refined_salt" }
+					item: { count: 1, id: "primalmagick:refined_salt" }
 					type: "item"
 				}
 			]

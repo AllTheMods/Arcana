@@ -2279,11 +2279,7 @@
 	]
 	quest.0F85FAD266906C7C.quest_subtitle: "&8Apprentice Level Magic&r"
 	quest.0F85FAD266906C7C.title: "Advancing Your Studies: The &dMage's Spell Book&r"
-	quest.0F89BF19C8036D83.quest_desc: [
-		"This device allows you to bind the effect of an active &eRitual Brazier&r to a &anew location&r within &a15 blocks&r."
-		""
-		"Use the &eDominion Wand&r first on the source &eRitual Brazier&r, then on the &eRelay&r to establish the link. Multiple Relays can be connected to the same Brazier, extending its influence. Note: Any &bSource&r consumed by the ritual is drawn from jars near the &loriginal Brazier's&r location, not the Relay."
-	]
+	quest.0F89BF19C8036D83.quest_desc: ["This device allows you to bind the effect of an active &eRitual Brazier&r to a &anew location&r within &a15 blocks&r.\\n\\nUse the &eDominion Wand&r first on the source &eRitual Brazier&r, then on the &eRelay&r to establish the link. Multiple rituals can be connected to the same Relay, extending its influence. Note: Any &bSource&r consumed by the ritual is drawn from jars near the &loriginal Brazier's&r location, not the Relay."]
 	quest.0F89BF19C8036D83.quest_subtitle: "&8Remote Ritual Projection&r"
 	quest.0F89BF19C8036D83.title: "Extending Ritual Effects: The &dRitual Brazier Relay&r"
 	quest.0F89BFD4A3F63A48.quest_desc: ["Some mobs (mostly monsters) need certain Light Levels to spawn. Hostile ones needing lower levels and passive needing higher ones. Using a Soul Lantern makes it so you never have to worry about Light Levels as it ignores them! This does not ignore other requirements for spawning like livestock animals needing Grass."]
@@ -4355,8 +4351,8 @@
 	quest.1F55A483008F74FE.quest_desc: ["Has 4 slots for Constructing."]
 	quest.1F55A483008F74FE.title: "Ultra Constructor"
 	quest.1F58AA51814C7568.quest_desc: ["&n&5Super Glue&r can be used to attach blocks to each other to move them with pistons or other means."]
-	quest.1F60DD25F21531BF.quest_desc: ["For the full set of &5Soul Bound Armor&r you'll need 3 &5Cursed Cores&r and 21 &5Soul Bound Ingots&r. \\n\\nThe full set has 19 Armor Points which is one below &cNetherite&r. It also has 8 Armor Toughness which is 2/3 of &cNetherites&r. \\n\\nOne part it has over &cNetherite&r is more Knockback Resistance! \\n\\nIt also has buffs if you have the full set equipped. When it is &eDaytime&r you'll get Strength I. At &9Nighttime&r you'll get Strength II! \\n\\nWhat about &dDusk&r? I can't tell you!"]
-	quest.1F60DD25F21531BF.title: "&5Bound Soul Armor"
+	quest.1F60DD25F21531BF.quest_desc: ["For the full set of &5Soul Bound Armor&r you'll need 3 &5Cursed Cores&r and 21 &5Soul Bound Ingots&r.\\n\\nThe full set has 19 Armor Points which is one below &cNetherite&r. It also has 8 Armor Toughness which is 2/3 of &cNetherites&r.\\n\\nOne part it has over &cNetherite&r is more Knockback Resistance!\\n\\nIt also has buffs if you have the full set equipped. When it is &eDaytime&r you'll get Strength I. At &9Nighttime&r you'll get Strength II!"]
+	quest.1F60DD25F21531BF.title: "&5Ironshade Armor"
 	quest.1F6C8117F3CED939.title: "&6Allthemodium Bow"
 	quest.1F70FA8231DF1D0A.quest_desc: [
 		"A powerful &5Form&r that allows you to cast spells on a target stored within a &dReliquary&r (from Ars Additions)."
@@ -8354,8 +8350,8 @@
 	]
 	quest.3CAD0701EC16C2D8.title: "Dark Swamp"
 	quest.3CB6DC5B09C62CFE.quest_desc: ["&5Ender Gates&r are used to transfer power wirelessly to and from an adjacent block into the &7Ender Network&r.\n\nThink of these like wireless access points to your wireless network of power.\n\nNote: You can only add &apower storage capacity&r using an Ender Cell."]
-	quest.3CB76ABD14AAF4EB.quest_desc: ["You'll need 14 &bCompressed X1 Nether Star Blocks&r. \\n\\nIf each &bCompressed X1 Nether Star Block&r is 9 &bNether Star Blocks&r, then you'll need 126 &bNether Star Blocks&r. \\n\\nAnd if every &bNether Star Block&r is 9 &bNether Stars&r, then you'll need... 1,134 &bNether Stars&r... \\n\\nNow you see why I'm making you farm them?"]
-	quest.3CB76ABD14AAF4EB.title: "15 &bCompressed X1 Nether Star Blocks&r"
+	quest.3CB76ABD14AAF4EB.quest_desc: ["You'll need 14 &bNether Star Block 1xs&r. \\n\\nIf each &bCompressed Nether Star Block&r is 9 &bNether Star Blocks&r, then you'll need 126 &bNether Star Blocks&r. \\n\\nAnd if every &bNether Star Block&r is 9 &dNether Stars&r, then you'll need... 1,134 &dNether Stars&r..."]
+	quest.3CB76ABD14AAF4EB.title: "14 &bCompressed 1x Nether Star Blocks&r"
 	quest.3CB7884B7B32CF00.quest_desc: [
 		"Getting your first &bEther Gas&r might be a little bit scary.\n\n&bEther Gas&r is made from drilling a Wither, using a Fluid Drill with a &5Purple Lens&r."
 		""
@@ -9360,7 +9356,7 @@
 	]
 	quest.43630EF0B85AE7E1.title: "&cFire Dragon Cave"
 	quest.4365BCF6B7A91D24.title: "Something isn't quite right....."
-	quest.436867D6E3637E1E.quest_desc: ["&dPatrick &aStar&r is only the most important part of the &6&lATM Star&r! He gives it, its shape! It wouldn't be the &6&lATM Star&r without &dPatrick &aStar&r. \\n\\nTo Craft him, we'll need the &6Mechanical Crafters&r mentioned in the previous Quest. We'll put all the Concretes into the &6Crafters&r and yes unfortunately the pattern matters... \\n\\nTo Craft him you'll need exactly: 11 &dPink Concrete&r, 5 &dPink Concrete Powder&r, 13 &5Magenta Concrete&r, 8 &5Magenta Concrete&r, 8 &2Green Concrete&r, 8 &2Green Concrete Powder&r, and 2 &aLime Concrete&r."]
+	quest.436867D6E3637E1E.quest_desc: ["&dPatrick &aStar&r is only the most important part of the &6&lATM Star&r! He gives it, its shape! It wouldn't be the &6&lATM Star&r without &dPatrick &aStar&r. \\n\\nTo Craft him, we'll need the &6Mechanical Crafters&r mentioned in the previous Quest. We'll put all the Concretes into the &6Crafters&r and yes unfortunately the pattern matters... \\n\\nTo Craft him you'll need exactly: 11 &dPink Concrete&r, 5 &dPink Concrete Powder&r, 13 &5Magenta Concrete&r, 8 &5Magenta Concrete Powder&r, 8 &2Green Concrete&r, 8 &2Green Concrete Powder&r, and 2 &aLime Concrete&r."]
 	quest.436867D6E3637E1E.title: "&dPatrick &aStar"
 	quest.436E4E3515BCCDE9.quest_desc: ["With the &bCloud in a Bottle&r equipped you can hit Space Bar twice to double jump! Very helpful for parkour! \n\nAlso increases the height you can fall from, like &dBunny Hoppers&r!"]
 	quest.436E4E3515BCCDE9.quest_subtitle: "Belt"
@@ -14351,6 +14347,7 @@
 		"Establish dominance over your domain with rituals designed to protect, repel, detect, and even displace unwanted entities."
 		""
 		"Create safe havens free from &chostile spawns&r, automatically strike down intruders with &elightning&r, disintegrate monsters into pure &aexperience&r, push creatures away, reveal hidden threats, or forcibly &5teleport&r beings to predetermined locations. Secure your territory and manage its inhabitants through powerful ritual magic."
+		"{@pagebreak}"
 	]
 	quest.648439041AEE9D53.quest_subtitle: "&8Controlling Your Surroundings&r"
 	quest.648439041AEE9D53.title: "&l&dRituals of Warding \\& Influence&r"
@@ -15461,7 +15458,7 @@
 	quest.6C76AB8A6110C0C7.quest_desc: ["The &4Blazing Hellshelf&r is an upgrade to the &4Infused Hellshelf&r. It increases max &aEterna&r to &a30&r. The negative Enchanting Clue makes it a little worse for normal Enchanting, instead we can use it for better Infusion."]
 	quest.6C76AB8A6110C0C7.title: "&4Blazing Hellshelf&r"
 	quest.6C832BFE4D07D897.quest_subtitle: "Leaves an AoE Cloud that damages living mobs"
-	quest.6C905CC5F4341985.quest_desc: ["&d&lArs Nouveau&r is one of the most popular &dMagic Mods&r out there! \\n\\nIt is a very important Mod here in &d&lAllTheMagic: Arcana&r, especially its &dSource&r. \\n\\nIt has a Quest Page you can check out to learn more!"]
+	quest.6C905CC5F4341985.quest_desc: ["&d&lArs Nouveau&r is one of the most popular &dMagic Mods&r out there! \\n\\nIt is a very important mod here in &d&lAll the Magic - Arcana&r, especially its &dSource&r. \\n\\nIt has a Quest Page you can check out to learn more!"]
 	quest.6C905CC5F4341985.title: "&d&lArs Nouveau"
 	quest.6C9191DA4B1039D6.quest_desc: ["Menril Berries give you Night Vision for a short amount of time when eaten."]
 	quest.6C93314ED31E3F34.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &eYellow Color&r."]
@@ -15988,7 +15985,7 @@
 		"With this ingot, now we can make some high tier components!"
 	]
 	quest.702CE73E39E4D4BD.quest_subtitle: "Things are complicated..."
-	quest.703BBF0C13959FC5.quest_desc: ["&nChecklist:&r \n\n&cNetherite Armor&r- &aCheck&r \n\nKilled &3&lWarden&r- &aCheck&r \n\nWith that Chapter 1 is finished. Chapter 2 starts where we just killed the &3&lWarden&r at, the &3Deep Dark&r. \n\nWe are going to want to look for a nice new Ore called &6AllTheModium&r. The Potion might help find it!"]
+	quest.703BBF0C13959FC5.quest_desc: ["&nChecklist:&r\\n\\n&cNetherite Armor&r - &aCheck&r\\n\\nKilled &3&lWarden&r - &aCheck&r\\n\\nWith that Chapter 1 is finished. Chapter 2 starts where we just killed the &3&lWarden&r at, the &3Deep Dark&r.\\n\\nWe are going to want to look for a nice new Ore called &6Allthemodium&r. The Potion might help find it!"]
 	quest.703BBF0C13959FC5.title: "To be Continued..."
 	quest.703BDCDC88DD813C.quest_desc: [
 		"Valid Upgrades:"
@@ -16219,8 +16216,8 @@
 	quest.71C0768E8276EA6E.quest_desc: ["Sorry to jump a bit far into &b&lOccultism&r with this Quest, but trust me we need a lot of Quest space for these! \\n\\nBefore we worry about the &8Eldritch Chalice&r we'll need the &bIesnium Sacrificial Bowl&r. \\n\\nThe Book of Binding Bound to an Afrit, &bIesnium Block&r, &5Spirit Attuned Crystal&r, and &eGolden Sacrifical Bowls&r are all Crafting Recipes. \\n\\nThe other two need Rituals, one with a Book bound to Afrit and the other a Book bound to Foliot. \\n\\nAfrit Essence needs the Book Afrit with &4Netherrack&r, &7Gunpowder&r, Quartz, and Flint and Steel. It will also need a Cow for Sacrifice. This Ritual will summon an Afrit Entity which can be killed for its &cEssence&r. \\n\\n&aResearch Fragment Dust&r needs the Book Foliot, &aEmerald Dust&r, and 2 &aBottle O' Enchanting&r."]
 	quest.71C0768E8276EA6E.title: "&bIesnium Sacrificial Bowl"
 	quest.71C58666D4BC2508.quest_desc: ["Works like Flint and Steel!"]
-	quest.71C9A4B28726A997.quest_desc: ["In order to get a ton of &bNether Stars&r we'll need some way of mass Farming. This is where the &6Drygmy&r comes in handy! \\n\\nFirst, we'll need &6Drygmy Tokens&r. We can find them in Chests, or Drop a Wilden Horn near a wild &6Drygmy&r to get one! \\n\\nThen, we can Craft a &6Drygmy Charm&r. Use the &6Charm&r on a &2Mossy Cobblestone&r to summon a Stonehenge Block which is the home of the &6Drygmy&r! \\n\\nNow, with &dSource&r and a Block Inventory nearby, the &6Drygmy&r will automatically collect Items from Mobs nearby. \\n\\nI can't tell you the best Farms for these, I recommend looking to Youtube and Google for those!"]
-	quest.71C9A4B28726A997.title: "&6Drygmy&r Farming"
+	quest.71C9A4B28726A997.quest_desc: ["Although not the only way to farm &dNether Stars&r, &aMystical Agriculture&r offers a fairly easy method to produce a large amount of them.\\n\\nAll you need are &bNether Star Seeds&r planted on Farmland with a &bNether Star Crux&r placed underneath the Farmland.\\n\\nYou can set up some pretty insane &aFarms&r to make the process very fast!"]
+	quest.71C9A4B28726A997.title: "&dNether Star&r Farming"
 	quest.71D133BA3EC6F4FD.quest_desc: ["The Extrator will \"grow\" the block or item beneath it and move it to an inventory above it.\n\nThis can be used for a Cobblestone generator that works with many types of stone, an Amethyst generator, or even a Dragon Egg generator, along with others!"]
 	quest.71D133BA3EC6F4FD.quest_subtitle: "Farming for Rocks! (and More)"
 	quest.71D4B261AF487062.quest_desc: [
@@ -17399,8 +17396,8 @@
 	quest.79C9875A1A494762.quest_desc: ["If you'd rather not use &9Corrupt Souls&r to grow Edelwood, you can rest on Luck! \n\nThe Wandering Trader has a chance of selling Growing Edelwood to you, which can be planted to grow Edelwood. \n\nWandering Trader is very random though, try using Trader Carpets to atleast know where he'll spawn!"]
 	quest.79C9875A1A494762.quest_subtitle: "From Wandy T'"
 	quest.79C9875A1A494762.title: "Buying Edelwood"
-	quest.79D2617E01481281.quest_desc: ["We got some Budding Certus now time for Certus Certus! \\n\\nThe Certus Quartz Crystals grow like Amethyst Crystals, with 4 stages. \\n\\nThe fully grown stage will drop Certus Quartz while the ones before it will drop Certus Dust. \\n\\nDon't worry we can automate this later!"]
-	quest.79D2617E01481281.title: "Certus Quartz"
+	quest.79D2617E01481281.quest_desc: ["We've got some Budding Certus, now it's time for &bCertus Quartz&r!\\n\\nThe &bCertus Quartz Crystals&r grow like &dAmethyst Crystals&r, with 4 stages.\\n\\nThe fully grown stage will drop &bCertus Quartz&r while the ones before it will drop &bCertus Dust&r.\\n\\n&bCertus Quartz&r can also be automated later on via &eProductive Bees&r or &aMystical Agriculture&r."]
+	quest.79D2617E01481281.title: "&bCertus Quartz"
 	quest.79D3055DE0EEA6B0.quest_desc: ["&d&lArs Elemental&r &cFire Armor&r!"]
 	quest.79D3055DE0EEA6B0.quest_subtitle: "15"
 	quest.79D3055DE0EEA6B0.title: "&cPyromancer Outfit"
@@ -17475,7 +17472,7 @@
 	quest.7A359C1F5E041C4F.title: "&bMana&r"
 	quest.7A3DD8CAD6A5692D.quest_subtitle: "Red Delicious Apple + Sugar Maple"
 	quest.7A3E3E61B660645F.quest_desc: [
-		"With just a &9Lapis Lazuli &fand a &7Book&r we can get our start to &bSpell Crafting&r, from &c&lSpelled&r! \\n\\nCurrently you won't be able to use it, you'll need &eAdjectives&r to be able to. Regardless I'll still teach you how to use it! \\n\\nWhen you finally get Knowledge on &eAdjectives&r, we can open our &9Spell Book&r with Right Click. This will give us a ton of options. \\n\\nAt the top is a sorted list of our &eAdjectives&r. We'll have whichever we unlocked, plus by Default the 4 Options for &bSpells&r. These will be discussed on the 2nd Page! \\n\\nThen, we can either Type the &eAdjective&r into the Text Bar, or we can Click an &eAdjective&r in the List, then Click Select to add it. We can see the added &bSpells&r in the &9Spell Book&r Icon. This will also tell you what you missed. \\n\\nAfter, when your &9Spell Book&r is ready, Click the top right to Name your &9Spell Book&r. This will set the &9Spell Book&r to whatever you choose, and can't be undone. "
+		"With just an &dAmethyst Shard&r and a &7Book&r we can get our start to &bSpell Crafting&r, from &c&lSpelled&r! \\n\\nCurrently you won't be able to use it, you'll need &eAdjectives&r to be able to. Regardless I'll still teach you how to use it! \\n\\nWhen you finally get Knowledge on &eAdjectives&r, we can open our &9Spell Book&r with Right Click. This will give us a ton of options. \\n\\nAt the top is a sorted list of our &eAdjectives&r. We'll have whichever we unlocked, plus by Default the 4 Options for &bSpells&r. These will be discussed on the 2nd Page! \\n\\nThen, we can either Type the &eAdjective&r into the Text Bar, or we can Click an &eAdjective&r in the List, then Click Select to add it. We can see the added &bSpells&r in the &9Spell Book&r Icon. This will also tell you what you missed. \\n\\nAfter, when your &9Spell Book&r is ready, Click the top right to Name your &9Spell Book&r. This will set the &9Spell Book&r to whatever you choose, and can't be undone. "
 		"{@pagebreak}"
 		"The 4 Default Options for &bSpells&r are: Projectile, Ball, Self, and Self. \\n\\nProjectile, will send your &bSpell&r right in the direction you are looking, like a Fireball! I recommend using this for Explosive. \\n\\nBall, is similar to Projectile but will drop in distance. Similar to an Arrow or a Snowball. Not best for Range but still fun! \\n\\nSelf and Self, both apply the &bSpell&r directly to you! I don't know why there is 2... I'd recommend using Protecting for these instead of Fiery!"
 	]
@@ -17908,7 +17905,7 @@
 	quest.7D6AC042FFD0B6D6.quest_desc: ["&aDistill&r your &eLightly Steam Cracked Naphtha&r to acquire &0Benzene&r"]
 	quest.7D6B4AEF806AF62E.quest_desc: ["100% way too fast! Try not to die!"]
 	quest.7D6B4AEF806AF62E.quest_subtitle: "Max: 1"
-	quest.7D73CE6654EDEC25.quest_desc: ["Now that we have our &2Elemental Hats&r we can throw them in a Smithing Table with our &5Ingots&f and &5Upgrades&r to get up the &5Unobtainium &dArcanist Hat&r! \\n\\nThank God, no more &dSource&r!"]
+	quest.7D73CE6654EDEC25.quest_desc: ["Now that we have our &2Elemental Hats&r we can throw them in a Smithing Table with our &5Ingots&f and &5Upgrades&r to get up the &5Unobtainium &dArcanist Hat&r!"]
 	quest.7D73CE6654EDEC25.title: "&5Unobtanium &dArcanist Hat"
 	quest.7D7983F39E6E818D.title: "Tier: &9Niotic"
 	quest.7D7BD1458CF12021.quest_desc: ["It is a Desert of course there's Cacti! \n\nThe Cacti when fully grown can grow Fruit on top of them!"]
@@ -18412,6 +18409,7 @@
 	task.1884D3DA3CCC1439.title: "AllRightsReserved"
 	task.18DA9065596F9097.title: "Modded Metal Iron Pickaxes"
 	task.18EC832FAB41B252.title: "Quests By AllTheMods"
+	task.192BB74D84D804BB.title: "Hats"
 	task.194C02E800F974D6.title: "Vibranium Arcanist Armor"
 	task.195338A3977C682E.title: "Mystical Agriculture Blocks"
 	task.1960B985B54B9FBD.title: "Power Cables"
@@ -18521,7 +18519,6 @@
 	task.2D0212699F99459F.title: "My First Network"
 	task.2D783271D8830D0E.title: "Steam Boilers"
 	task.2DA0BD7B2834A560.title: "Witherproof Blocks"
-	task.2DC16263246EA77F.title: "For your friends"
 	task.2E04D0F6EEABE677.title: "Drawers"
 	task.2E3BC536B8A9FD91.title: "Unobtainium Mage Armor"
 	task.2E3FF129C3668DD8.title: "Induction Providers"
@@ -18533,6 +18530,7 @@
 	task.2ECDBD1D085A4480.title: "Quests By AllTheMods"
 	task.2F0F73982BB388C5.title: "Quests By AllTheMods"
 	task.2F28B803C75DA3B2.title: "Kill 1 Elder Guardian"
+	task.2F36A18A7B170B25.title: "Calcinators"
 	task.2F608F433D9A3363.title: "Expanded RF Coil"
 	task.2F94B8FED9BF6698.title: "Macaw's Holidays"
 	task.3007461CFCC0A013.title: "AllRightsReserved"
@@ -18709,6 +18707,7 @@
 	task.4BF92CAB53EAFC26.title: "Salt Dust"
 	task.4C5435BE5560E71B.title: "AllRightsReserved"
 	task.4C6370D2B7EF8685.title: "AllRightsReserved"
+	task.4C722E42E2394713.title: "Hats"
 	task.4CAF79C3D1E35958.title: "Powering the Forge"
 	task.4CC5C3088A4F5C7D.title: "Voltage Loss"
 	task.4CCB830CFDD43B5E.title: "AllRightsReserved"
