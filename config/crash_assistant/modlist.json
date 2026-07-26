@@ -516,13 +516,13 @@
     "curseForgeHash": 1100427039,
     "modrinthHash": "fa2a13a7cf076baa4aec71f3404464a0cd46d5eb"
   },
-  "carryon-neoforge-1.21.1-2.2.5.8.jar": {
-    "jarName": "carryon-neoforge-1.21.1-2.2.5.8.jar",
+  "carryon-neoforge-1.21.1-2.2.6.13.jar": {
+    "jarName": "carryon-neoforge-1.21.1-2.2.6.13.jar",
     "modId": "carryon",
     "name": "Carry On",
-    "version": "2.2.5",
-    "curseForgeHash": 2888397093,
-    "modrinthHash": "198182d51b788ce262b922537edeeddf27c5353d"
+    "version": "2.2.6",
+    "curseForgeHash": 2141538795,
+    "modrinthHash": "2ceb0d9284525b6cb2a214c88cf6511cab91f601"
   },
   "cataclysm_spellbooks-1.1.12-1.21.jar": {
     "jarName": "cataclysm_spellbooks-1.1.12-1.21.jar",
@@ -780,13 +780,13 @@
     "curseForgeHash": 933317947,
     "modrinthHash": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
   },
-  "cyclopscore-1.21.1-neoforge-1.29.1-1045.jar": {
-    "jarName": "cyclopscore-1.21.1-neoforge-1.29.1-1045.jar",
+  "cyclopscore-1.21.1-neoforge-1.29.1-1057.jar": {
+    "jarName": "cyclopscore-1.21.1-neoforge-1.29.1-1057.jar",
     "modId": "cyclopscore",
     "name": "Cyclops Core",
     "version": "1.29.1",
-    "curseForgeHash": 1617689446,
-    "modrinthHash": "5a09638ceb695d53ad3a5a673e9eb262602d7196"
+    "curseForgeHash": 466326991,
+    "modrinthHash": "233799acd91950c56cd8b9cf22477e046cae3018"
   },
   "Data_Anchor-neoforge-1.21.1-2.0.0.14.jar": {
     "jarName": "Data_Anchor-neoforge-1.21.1-2.0.0.14.jar",
@@ -1452,13 +1452,13 @@
     "curseForgeHash": 2727815281,
     "modrinthHash": "385e4937144b20c6cbf103945a73066f8dc1bc74"
   },
-  "jei-1.21.1-neoforge-19.39.0.371.jar": {
-    "jarName": "jei-1.21.1-neoforge-19.39.0.371.jar",
+  "jei-1.21.1-neoforge-19.39.0.372.jar": {
+    "jarName": "jei-1.21.1-neoforge-19.39.0.372.jar",
     "modId": "jei",
     "name": "Just Enough Items",
-    "version": "19.39.0.371",
-    "curseForgeHash": 632965153,
-    "modrinthHash": "8d9995a181fc24890a5a90cbbb9e45fd86d4641e"
+    "version": "19.39.0.372",
+    "curseForgeHash": 715301577,
+    "modrinthHash": "6e703a82a229d269855c3e0260c38aebc7f01abb"
   },
   "journeymap-neoforge-1.21.1-6.0.1.jar": {
     "jarName": "journeymap-neoforge-1.21.1-6.0.1.jar",

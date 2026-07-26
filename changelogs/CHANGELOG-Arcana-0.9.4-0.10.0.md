@@ -33,6 +33,7 @@ Relics updated to 0.12, which reworked how relic abilities are stored. Its quest
 - Fixed a startup failure from Potions Master oresight powders being registered twice, and the errors from them being added to its creative tab twice; the mod now provides both itself (LobsterJonn)
 - Added the missing recipe item to all 18 Potions Master ore configs, so oresight powder recipes show a real ingredient (LobsterJonn)
 - You no longer start with the Silent Gear blueprint package or material book (LobsterJonn)
+- Removed the recipes for Elemental Synergies' Vocaloid cosmetic armour sets and hid them from the recipe viewer (LobsterJonn)
 - Stopped shipping 833 config files that only held default values, so updated mods use their own current defaults instead of frozen copies (LobsterJonn)
 
 </blockquote>
@@ -124,7 +125,7 @@ Updated mods:
 - botanytrees (21.1.1 > 21.1.7)
 - byzantine (46 > 51)
 - camol (1.21.1-0.3.0 > 1.21.1-0.3.1)
-- carryon (2.2.4 > 2.2.5)
+- carryon (2.2.4 > 2.2.6)
 - cataclysm (3.16 > 3.32)
 - cataclysm_spellbooks (1.1.10-1.21 > 1.1.12-1.21)
 - cognition (2.4.10 > 2.4.13)
@@ -196,7 +197,7 @@ Updated mods:
 - jade (15.10.4+neoforge > 15.10.5+neoforge)
 - jamlib (1.3.5+1.21.1 > 1.3.6+1.21.1)
 - jearchaeology (1.21.1-1.1.6 > 1.21.1-1.2.0)
-- jei (19.27.0.340 > 19.39.0.371)
+- jei (19.27.0.340 > 19.39.0.372)
 - journeymap (1.21.1-6.0.0-beta.53 > 1.21.1-6.0.1)
 - jupiter (2.3.3-bugfix > 2.3.7)
 - keybindbundles (1.3.1 > 1.4.0)
