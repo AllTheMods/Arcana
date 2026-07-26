@@ -1,0 +1,44 @@
+{
+  "values": [
+	{
+      "id": "vampirism:vampire",
+      "required": false
+    },
+	{
+      "id": "vampirism:vampire_baron",
+      "required": false
+    },
+	{
+      "id": "vampirism:hunter_trainer",
+      "required": false
+    },
+	{
+      "id": "vampirism:advanced_vampire",
+      "required": false
+    },
+	{
+      "id": "vampirism:advanced_hunter",
+      "required": false
+    },
+	{
+      "id": "vampirism:vampire_hunter",
+      "required": false
+    },
+	{
+      "id": "vampirism:hunter",
+      "required": false
+    },
+	{
+      "id": "werewolves:werewolf_beast",
+      "required": false
+    },
+	{
+      "id": "werewolves:werewolf_survivalist",
+      "required": false
+    },
+	{
+      "id": "werewolves:alpha_werewolf",
+      "required": false
+    }
+  ]
+}
