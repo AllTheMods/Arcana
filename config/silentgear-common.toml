@@ -6,7 +6,7 @@
 		#When joining a new world, should players be given a blueprint package?
 		#The blueprint package gives some blueprints when used (right-click).
 		#To change what is given, override the starter_blueprints loot table.
-		spawn_with_starter_blueprints = true
+		spawn_with_starter_blueprints = false
 
 	#Repair kit configs
 	[item.repair_kits]
