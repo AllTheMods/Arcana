@@ -426,42 +426,7 @@
 		}
 		{
 			dependencies: ["120D24467ABF3A6E"]
-			icon: {
-				components: {
-					"relics:data": {
-						abilities: {
-							abilities: {
-								power: {
-									extender: {
-										cooldown: 0
-										cooldownCap: 0
-										ticking: 0b
-									}
-									lock: {
-										breaks: 5
-									}
-									points: 0
-									research: {
-										links: { }
-										researched: 0b
-									}
-									stats: {
-										amount: {
-											initialValue: 0.94682d
-										}
-									}
-								}
-							}
-						}
-						leveling: {
-							experience: 0
-							level: 0
-							luck: 0
-							points: 0
-						}
-					}
-				}
-				id: "artifacts:power_glove"
+			icon: { id: "artifacts:power_glove"
 			}
 			id: "71F1B741136A3A11"
 			rewards: [{
