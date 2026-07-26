@@ -1,5 +1,5 @@
 #List of default presets to disable.
-disabledDefaultPresets = []
+disabledDefaultPresets = ["actuallyadditions", "betterendforge", "betternether", "biomeswevegone", "buzzier_bees", "byg", "cinderscapes", "corn_delight", "croptopia", "culturaldelights", "endergetic", "expandeddelight", "extradelight", "fruitsdelight", "ic2", "minecraft_earth_mod", "mynethersdelight", "nethers_delight", "outer_end", "quark", "rusticdelight", "simplefarming", "snowyspirit", "supplementaries", "theabyss", "thermal", "trailandtales_delight", "tropicraft", "youkaishomecoming"]
 #List of optional presets to enable.
 enabledOptionalPresets = []
 #List of names the merchant can have.
