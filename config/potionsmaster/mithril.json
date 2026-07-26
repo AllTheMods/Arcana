@@ -3,5 +3,6 @@
     "oretag": "c:ores/mithril",
     "color": -7405569,
     "drawing": false,
-    "order": 0
+    "order": 0,
+    "recipeItem": "irons_spellbooks:raw_mithril"
 }

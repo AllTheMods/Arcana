@@ -3,5 +3,6 @@
     "oretag": "c:ores/dark_gem",
     "color": -28929,
     "drawing": false,
-    "order": 0
+    "order": 0,
+    "recipeItem": "evilcraft:dark_gem"
 }
