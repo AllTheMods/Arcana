@@ -161,7 +161,7 @@
 			y: 4.5d
 		}
 	]
-	order_index: 4
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -201,15 +201,22 @@
 		{
 			dependencies: ["10475AA810359836"]
 			id: "67FCE021E2A2C50C"
-			rewards: [{
-				count: 2
-				id: "02FE5733D5C8D546"
-				item: {
-					count: 1
-					id: "waystones:waystone"
+			rewards: [
+				{
+					count: 2
+					id: "02FE5733D5C8D546"
+					item: {
+						count: 1
+						id: "waystones:waystone"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "048CE90B55AAFB21"
+					type: "xp"
+					xp: 100
+				}
+			]
 			tasks: [{
 				id: "1748EE5E360AB366"
 				item: { count: 1, id: "hexerei:dowsing_rod" }
@@ -225,9 +232,9 @@
 			}
 			id: "306E61765D9FFE11"
 			rewards: [{
-				id: "0F2F1E15AEA65F0B"
-				type: "xp_levels"
-				xp_levels: 1
+				id: "114D918EBD8B3EC5"
+				type: "xp"
+				xp: 10
 			}]
 			shape: "pentagon"
 			size: 1.3d
@@ -246,9 +253,9 @@
 			}
 			id: "6BF1CB65EC38E5F2"
 			rewards: [{
-				id: "060CC1CB844E0E08"
-				type: "xp_levels"
-				xp_levels: 1
+				id: "024AFF0790147356"
+				type: "xp"
+				xp: 10
 			}]
 			shape: "pentagon"
 			size: 1.3d
@@ -267,9 +274,9 @@
 			}
 			id: "5C3030860804B318"
 			rewards: [{
-				id: "31EBAE19849D40F2"
-				type: "xp_levels"
-				xp_levels: 1
+				id: "66089C63C18B7DA3"
+				type: "xp"
+				xp: 10
 			}]
 			shape: "pentagon"
 			size: 1.3d
@@ -367,6 +374,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "5A079FAD2B76C416"
+					type: "xp"
+					xp: 50
+				}
 			]
 			shape: "hexagon"
 			tasks: [{
@@ -416,9 +428,9 @@
 			}
 			id: "16ECFBDD1A4137C0"
 			rewards: [{
-				id: "67BAFB003A9EF99A"
-				type: "xp_levels"
-				xp_levels: 1
+				id: "0CBAF08ED09068F8"
+				type: "xp"
+				xp: 10
 			}]
 			shape: "pentagon"
 			size: 1.3d
@@ -437,9 +449,9 @@
 			}
 			id: "3D152937B2226040"
 			rewards: [{
-				id: "4906C55B6E1A5E0B"
-				type: "xp_levels"
-				xp_levels: 3
+				id: "32C8E7F6DCB69B34"
+				type: "xp"
+				xp: 50
 			}]
 			shape: "octagon"
 			tasks: [{
@@ -457,9 +469,9 @@
 			}
 			id: "715B9E2049188C56"
 			rewards: [{
-				id: "752C6E3B6E0F1841"
-				type: "xp_levels"
-				xp_levels: 3
+				id: "6D71751E2ADC93A7"
+				type: "xp"
+				xp: 50
 			}]
 			shape: "octagon"
 			tasks: [{
@@ -477,9 +489,9 @@
 			}
 			id: "5F148FADD83DF829"
 			rewards: [{
-				id: "131B61B30E9411B6"
-				type: "xp_levels"
-				xp_levels: 3
+				id: "58999275FC9F5911"
+				type: "xp"
+				xp: 50
 			}]
 			shape: "octagon"
 			tasks: [{
@@ -497,9 +509,9 @@
 			}
 			id: "06CF4D8470D0F132"
 			rewards: [{
-				id: "5D741B84CBC82855"
-				type: "xp_levels"
-				xp_levels: 3
+				id: "69180AEBCA3163AF"
+				type: "xp"
+				xp: 50
 			}]
 			shape: "octagon"
 			tasks: [{
@@ -1343,7 +1355,7 @@
 			size: 1.2d
 			tasks: [{
 				id: "377640973EC22C95"
-				item: { count: 3, id: "hexerei:seed_mixture" }
+				item: { count: 1, id: "hexerei:seed_mixture" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -1772,9 +1784,9 @@
 			}
 			id: "11A8419376E80A4C"
 			rewards: [{
-				id: "4C59833D5D7A8D41"
-				type: "xp_levels"
-				xp_levels: 3
+				id: "4CCBFE2BA00E4409"
+				type: "xp"
+				xp: 50
 			}]
 			shape: "octagon"
 			tasks: [{

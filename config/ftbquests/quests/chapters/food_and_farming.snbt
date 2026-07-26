@@ -344,13 +344,13 @@
 				{
 					count: 10L
 					id: "611CC8005150DC9B"
-					item: { count: 10, id: "minecraft:feather" }
+					item: { count: 1, id: "minecraft:feather" }
 					type: "item"
 				}
 				{
 					count: 5L
 					id: "0CAC6A36AC5A6708"
-					item: { count: 5, id: "minecraft:chicken" }
+					item: { count: 1, id: "minecraft:chicken" }
 					type: "item"
 				}
 			]

@@ -1279,19 +1279,6 @@
 			id: "1F31EBF49079F9D3"
 			rewards: [
 				{
-					id: "258A2613DADF4920"
-					type: "xp_levels"
-					xp_levels: 2
-				}
-				{
-					id: "482EB089D051A610"
-					item: {
-						count: 1
-						id: "creeperoverhaul:cave_creeper_spawn_egg"
-					}
-					type: "item"
-				}
-				{
 					count: 64
 					id: "425CF0235A15267D"
 					item: {
@@ -1299,6 +1286,11 @@
 						id: "minecraft:gunpowder"
 					}
 					type: "item"
+				}
+				{
+					id: "72DE5B2BAE73B6E8"
+					type: "xp"
+					xp: 100
 				}
 			]
 			tasks: [
@@ -1408,19 +1400,6 @@
 			id: "570223A03231DF8C"
 			rewards: [
 				{
-					id: "7B7B782BEDF53330"
-					type: "xp_levels"
-					xp_levels: 2
-				}
-				{
-					id: "309FE3D88633DEB8"
-					item: {
-						count: 1
-						id: "endermanoverhaul:cave_enderman_spawn_egg"
-					}
-					type: "item"
-				}
-				{
 					count: 16
 					id: "43E622AE47323E2A"
 					item: {
@@ -1430,13 +1409,9 @@
 					type: "item"
 				}
 				{
-					count: 8
-					id: "3EBF039B52EE3B68"
-					item: {
-						count: 1
-						id: "endermanoverhaul:soul_pearl"
-					}
-					type: "item"
+					id: "19DC3AD14488D0BD"
+					type: "xp"
+					xp: 100
 				}
 			]
 			tasks: [
@@ -1629,7 +1604,8 @@
 		{
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/undergarden/forgotten_guardian.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "undergarden:forgotten_guardian"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -1759,7 +1735,8 @@
 		{
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/undergarden/rotbeast.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "undergarden:rotbeast"
 				}
 				id: "ftbquests:custom_icon"
 			}

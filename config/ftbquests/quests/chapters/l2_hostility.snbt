@@ -3,6 +3,12 @@
 	default_quest_shape: ""
 	filename: "l2_hostility"
 	group: "5A4775CCD6D26C80"
+	icon: {
+		components: {
+			"patchouli:book": "l2hostility:hostility_guide"
+		}
+		id: "patchouli:guide_book"
+	}
 	id: "08B4637944571E39"
 	order_index: 2
 	quest_links: [ ]

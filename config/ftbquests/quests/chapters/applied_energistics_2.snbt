@@ -1310,6 +1310,8 @@
 			y: -0.5d
 		}
 		{
+			dependencies: ["2893F483C10293E6"]
+			hide_dependency_lines: true
 			id: "37BD61FCD462AA8C"
 			rewards: [
 				{
@@ -1519,6 +1521,8 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["2893F483C10293E6"]
+			hide_dependency_lines: true
 			id: "1A7EC2D776DB9CB9"
 			rewards: [{
 				id: "511B9127539E452D"

@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "myths_and_legends"
 	group: "5DB9CE6F9A446FB4"
+	icon: {
+		id: "mythsandlegends:altar_of_the_dead"
+	}
 	id: "75CBE8EF966D3D4E"
 	images: [
 		{
@@ -78,7 +81,7 @@
 			y: 2.5d
 		}
 	]
-	order_index: 2
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
@@ -97,9 +100,9 @@
 					type: "item"
 				}
 				{
-					id: "7B728A2C34744D4B"
-					type: "xp_levels"
-					xp_levels: 1
+					id: "54E9FFA8E8F1DFFB"
+					type: "xp"
+					xp: 50
 				}
 			]
 			shape: "hexagon"
@@ -168,9 +171,9 @@
 			dependencies: ["09B67E9AF3526F7A"]
 			id: "00BA4B74737AB39E"
 			rewards: [{
-				id: "7D471DF7F0561A99"
-				type: "xp_levels"
-				xp_levels: 2
+				id: "7D8DAC1FC8250F7B"
+				type: "xp"
+				xp: 50
 			}]
 			shape: "diamond"
 			tasks: [{
@@ -188,30 +191,30 @@
 			]
 			id: "1F60DD25F21531BF"
 			rewards: [{
-				id: "01909C037B72D23C"
-				type: "xp_levels"
-				xp_levels: 5
+				id: "3A3E6EE82A9AF7F5"
+				type: "xp"
+				xp: 100
 			}]
 			shape: "rsquare"
 			tasks: [
 				{
 					id: "0D0556241920C9EF"
-					item: { count: 1, id: "mythsandlegends:bound_soul_helmet" }
+					item: { count: 1, id: "mythsandlegends:ironshade_helmet" }
 					type: "item"
 				}
 				{
 					id: "01122D0BCEF55AA0"
-					item: { count: 1, id: "mythsandlegends:bound_soul_chestplate" }
+					item: { count: 1, id: "mythsandlegends:ironshade_chestplate" }
 					type: "item"
 				}
 				{
 					id: "70507D48B110B0FB"
-					item: { count: 1, id: "mythsandlegends:bound_soul_leggings" }
+					item: { count: 1, id: "mythsandlegends:ironshade_leggings" }
 					type: "item"
 				}
 				{
 					id: "3A7CA6B7B92F1E7D"
-					item: { count: 1, id: "mythsandlegends:bound_soul_boots" }
+					item: { count: 1, id: "mythsandlegends:ironshade_boots" }
 					type: "item"
 				}
 			]
@@ -244,7 +247,7 @@
 		{
 			dependencies: ["226B713ABCFCB82A"]
 			icon: {
-				id: "mythsandlegends:altar_of_the_dead_item"
+				id: "mythsandlegends:altar_of_the_dead"
 			}
 			id: "207E47A6BC1C2DEF"
 			rewards: [
@@ -310,9 +313,9 @@
 			dependencies: ["29D75BF1AE9696CF"]
 			id: "0654D3E54E0B6AA8"
 			rewards: [{
-				id: "177AD4D716560656"
-				type: "xp_levels"
-				xp_levels: 5
+				id: "073488FADB42A157"
+				type: "xp"
+				xp: 100
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -373,9 +376,9 @@
 			dependencies: ["01C1300BE92F2145"]
 			id: "2DC069BA4FB411AA"
 			rewards: [{
-				id: "4ABF0EB6FB8DD7D6"
-				type: "xp_levels"
-				xp_levels: 5
+				id: "07603302CDC2D606"
+				type: "xp"
+				xp: 100
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -520,9 +523,9 @@
 			dependencies: ["36FBD0D50EE17459"]
 			id: "791D6A56DBFE02FD"
 			rewards: [{
-				id: "50E0DB2318C8050D"
-				type: "xp_levels"
-				xp_levels: 5
+				id: "5FE75BCC14FC624A"
+				type: "xp"
+				xp: 100
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -537,9 +540,9 @@
 			dependencies: ["36FBD0D50EE17459"]
 			id: "7A2486750091942D"
 			rewards: [{
-				id: "180D35647CC0157F"
-				type: "xp_levels"
-				xp_levels: 5
+				id: "2DF300F88506D4EB"
+				type: "xp"
+				xp: 100
 			}]
 			shape: "rsquare"
 			tasks: [{

@@ -140,7 +140,7 @@
 			y: 3.0d
 		}
 	]
-	order_index: 2
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
@@ -387,13 +387,13 @@
 				{
 					count: 48L
 					id: "1F69FA94F4B3CB37"
-					item: { count: 48, id: "forbidden_arcanus:polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone" }
 					type: "item"
 				}
 				{
 					count: 9L
 					id: "22ECC8138C9286AD"
-					item: { count: 9, id: "forbidden_arcanus:gilded_chiseled_polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:gilded_chiseled_polished_darkstone" }
 					type: "item"
 				}
 				{
@@ -405,7 +405,7 @@
 				{
 					count: 8L
 					id: "5F985E5DA92CF2C5"
-					item: { count: 8, id: "forbidden_arcanus:darkstone_pedestal" }
+					item: { count: 1, id: "forbidden_arcanus:darkstone_pedestal" }
 					type: "item"
 				}
 				{
@@ -473,11 +473,8 @@
 			rewards: [{
 				id: "6D21710E315BC55A"
 				item: {
-					components: {
-						"ftbquests:missing_item": "evilcraft:spiked_plate"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "evilcraft:spiked_plate"
 				}
 				type: "item"
 			}]
@@ -1098,7 +1095,7 @@
 				{
 					count: 2L
 					id: "2F6E6A8E20D0884E"
-					item: { count: 2, id: "forbidden_arcanus:arcane_crystal_block" }
+					item: { count: 1, id: "forbidden_arcanus:arcane_crystal_block" }
 					type: "item"
 				}
 				{
@@ -1202,13 +1199,13 @@
 				{
 					count: 8L
 					id: "1A8C2612F1B274EF"
-					item: { count: 8, id: "forbidden_arcanus:polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone" }
 					type: "item"
 				}
 				{
 					count: 17L
 					id: "7534ED761938BADE"
-					item: { count: 17, id: "forbidden_arcanus:polished_darkstone_bricks" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone_bricks" }
 					type: "item"
 				}
 				{
