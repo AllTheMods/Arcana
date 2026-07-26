@@ -1142,22 +1142,22 @@
 			tasks: [
 				{
 					id: "7FE454AB1A3D8C04"
-					item: { count: 1, id: "eternal_starlight:swamp_silver_helmet" }
+					item: { count: 1, id: "eternal_starlight:deepsilver_helmet" }
 					type: "item"
 				}
 				{
 					id: "336F743A90D79EA5"
-					item: { count: 1, id: "eternal_starlight:swamp_silver_chestplate" }
+					item: { count: 1, id: "eternal_starlight:deepsilver_chestplate" }
 					type: "item"
 				}
 				{
 					id: "4FD31875EE131079"
-					item: { count: 1, id: "eternal_starlight:swamp_silver_leggings" }
+					item: { count: 1, id: "eternal_starlight:deepsilver_leggings" }
 					type: "item"
 				}
 				{
 					id: "0B2D12F2EEAE26B5"
-					item: { count: 1, id: "eternal_starlight:swamp_silver_boots" }
+					item: { count: 1, id: "eternal_starlight:deepsilver_boots" }
 					type: "item"
 				}
 			]
@@ -2384,7 +2384,7 @@
 			shape: "circle"
 			tasks: [{
 				id: "53E8D3055F57BC80"
-				item: { count: 1, id: "eternal_starlight:swamp_silver_ingot" }
+				item: { count: 1, id: "eternal_starlight:deepsilver_ingot" }
 				type: "item"
 			}]
 			x: 18.5d
