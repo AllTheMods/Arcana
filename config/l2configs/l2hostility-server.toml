@@ -1,5 +1,6 @@
 enableEntitySpecificDatapack = true
 enableStructureSpecificDatapack = true
+enableEquipmentDatapack = true
 
 [scaling]
 	# Default: 0.03
@@ -64,17 +65,17 @@ enableStructureSpecificDatapack = true
 	# Default: 0.085
 	# Range: 0.0 ~ 1.0
 	equipmentDropRate = 0.085
-	#Max number of traits on mobs
 	# Default: 9
 	# Range: 1 ~ 100
 	maxTraitCount = 9
+	enableAdaptiveLeveling = true
 
 [difficulty]
 	# Default: 2000
-	# Range: 100 ~ 100000
+	# Range: 1 ~ 100000
 	maxPlayerLevel = 2000
 	# Default: 3000
-	# Range: 100 ~ 100000
+	# Range: 1 ~ 100000
 	maxMobLevel = 3000
 	# Default: 30
 	# Range: 1 ~ 100000
@@ -155,13 +156,13 @@ enableStructureSpecificDatapack = true
 	# Default: 0.02
 	# Range: 0.0 ~ 1.0
 	gluttonyBottleDropRate = 0.02
-	# Default: 0.05
+	# Default: 0.02
 	# Range: 0.0 ~ 1.0
 	wrathDamageBonus = 0.01
-	# Default: 0.02
+	# Default: 0.005
 	# Range: 0.0 ~ 1.0
 	prideDamageBonus = 0.01
-	# Default: 0.02
+	# Default: 0.005
 	# Range: 0.0 ~ 1.0
 	prideHealthBonus = 0.01
 	# Default: 0.5
@@ -173,7 +174,7 @@ enableStructureSpecificDatapack = true
 	# Default: 100
 	# Range: 0 ~ 1000
 	nidhoggurExtraLevel = 100
-	# Default: 0.01
+	# Default: 0.005
 	# Range: 0.0 ~ 10.0
 	nidhoggurDropFactor = 0.01
 	nidhoggurCapAtItemMaxStack = false
@@ -332,21 +333,36 @@ enableStructureSpecificDatapack = true
 	# Default: 24
 	# Range: 0 ~ 100
 	arenaRange = 24
-	#Damage Bonus Factor for dispell-affected damage
 	#Example: 0.5 means +2% per level damage bonus becoming +1% per level
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
 	dispellDamageFactor = 0.5
-	#Damage Bonus Factor for dementor-affected damage
 	#Example: 0.5 means +2% per level damage bonus becoming +1% per level
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
 	dementorDamageFactor = 0.5
-	#Damage Bonus Factor for grenade damage
 	#Example: 0.5 means +2% per level damage bonus becoming +1% per level
 	# Default: 0.25
 	# Range: 0.0 ~ 1.0
 	grenadeDamageFactor = 0.25
+	#Example: 0.5 means +2% per level damage bonus becoming +1% per level
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	killerAuraDamageFactor = 0.5
+	#Magic damage will take a log with base of this config number
+	#Example: 1.1 means 100 -> 48, 1000 -> 72
+	#Example: 2 means 16 -> 4, 1024 -> 10
+	#Example: 10 means 100 -> 2, 1000000 -> 6
+	# Default: 2.0
+	# Range: 1.01 ~ 100.0
+	dispellDamageReductionBase = 2.0
+	#Non-Magic damage will take a log with base of this config number
+	#Example: 1.1 means 100 -> 48, 1000 -> 72
+	#Example: 2 means 16 -> 4, 1024 -> 10
+	#Example: 10 means 100 -> 2, 1000000 -> 6
+	# Default: 2.0
+	# Range: 1.01 ~ 100.0
+	dementorDamageReductionBase = 2.0
 
 [toggle]
 	allow_tank = true

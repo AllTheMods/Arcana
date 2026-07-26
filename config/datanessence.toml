@@ -24,3 +24,7 @@
 	# Default: 24
 	# Range: 1 ~ 64
 	wireDistanceLimit = 24
+	#How many fuel ticks one point of Essence is worth in the Twining Lantern.
+	# Default: 20
+	# Range: 1 ~ 1200
+	twiningLanternFuelRatio = 20

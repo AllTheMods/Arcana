@@ -286,6 +286,8 @@
 		# Default: 0.10000000149011612
 		# Range: 0.0 ~ 1.0
 		smallAttackDamageMultiplier = 0.10000000149011612
+		#If the sword finisher works on players
+		swordFinisherOnPlayer = true
 
 	[balance.vampire_refinements]
 		#For every kill the rage duration is extended by this amount. In seconds.
@@ -328,6 +330,9 @@
 		# Default: 16
 		# Range: > 0
 		darkBloodProjectileAOERange = 16
+		# Default: 0.5
+		# Range: 1.0 ~ 1.7976931348623157E308
+		teleportCooldownMod = 1.0
 
 	[balance.minions]
 		#Time in seconds a minion needs to recover from death.
@@ -466,6 +471,8 @@
 		# Default: 0.2
 		# Range: 0.0 ~ 3.0
 		smallAttackSpeedModifier = 0.2
+		#Allow killing players
+		instantKill1Player = true
 
 	[balance.vampireActions]
 		#In seconds

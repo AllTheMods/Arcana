@@ -1,12 +1,6 @@
 ["Generic Values"]
 	#Whether dying resets Age
 	deathReset = true
-	#If enabled, ageing will require the player to be of a specified lord level
-	lordLevelRequirement = false
-	#If lordLeveLRequirement is enabled, this defines the minimum lord level required to age
-	# Default: 5
-	# Range: 1 ~ 5
-	lordLevelRankRequirement = 5
 	#Requires 'death reset' to be enabled, if this config is set to a value > 0 then only that many age ranks will be lost on death, instead of all ranks.
 	# Default: 0
 	# Range: 0 ~ 5
@@ -25,15 +19,15 @@
 	sireingMechanic = false
 	#How much a petty hunt is worth. These are things like basic versions of vampires or hunters
 	# Default: 1
-	# Range: 0 ~ 99
+	# Range: 0 ~ 999999999
 	pettyHuntWorth = 1
 	#How much a common hunt is worth. These are things like advanced vampires or advanced hunters
 	# Default: 3
-	# Range: 0 ~ 99
+	# Range: 0 ~ 999999999
 	commonHuntWorth = 3
 	#How much a greater hunt is worth. These are things like vampire barons 
 	# Default: 5
-	# Range: 0 ~ 99
+	# Range: 0 ~ 999999999
 	greaterHuntWorth = 5
 	#How many points worth of hunted entities are needed to increase Age Rank. Count is reset on Rank Up
 	huntedforNextAge = [20, 40, 80, 160, 250]
@@ -100,8 +94,6 @@
 	ageAffectTradePrices = [1.0, 1.1, 1.25, 1.5, 1.75, 2.0]
 	#If enabled, vampire rage will nullify increased damage from generic vampire weakness reduction
 	rageModeWeaknessToggle = true
-	#How much each rank reduces/increases generic vampire weakness damage sources (such as Fire) in terms of how much the damage is divided by. Set all to 1 to have no change, use decimal values to increase damage
-	genericVampireWeaknessReduction = [1.0, 1.0, 0.95, 0.9, 0.8, 0.75]
 	#How much each rank reduces/increases Sun Damage in terms of how much the sun damage is divided by. Set all to 1 to have no change, use decimal values to increase sun damage
 	sunDamageReduction = [1.0, 1.25, 1.5, 1.75, 2.0, 2.5]
 	#How much time in ticks for a player to advance to the next Age Rank. Count is reset on Rank Up
@@ -168,3 +160,19 @@
 	# Default: 6
 	# Range: 0 ~ 6
 	goldenAppleNoEatRank = 6
+	#This defines the minimum lord level, for vampires, required to age, 0 to not require a lord level
+	# Default: 0
+	# Range: 0 ~ 5
+	vampireLordLevelRankRequirement = 0
+	#Cooldown for step assist action
+	# Default: 0
+	# Range: > 0
+	stepAsisstCooldown = 0
+	#Duration for step assist action
+	# Default: 2147483647
+	# Range: > 0
+	stepAsisstDuration = 2147483647
+	#How much each rank reduces/increases fire damage sources in terms of how much the damage is divided by. Set all to 1 to have no change, use decimal values to increase damage
+	fireWeaknessReduction = [1.0, 1.0, 0.95, 0.9, 0.8, 0.75]
+	#How much each rank reduces/increases holy water damage sources in terms of how much the damage is divided by. Set all to 1 to have no change, use decimal values to increase damage
+	holyWaterWeaknessReduction = [1.0, 1.0, 0.95, 0.9, 0.8, 0.75]

@@ -1,6 +1,0 @@
-#The maximun intensity of screen shakes (0 to disable)
-# Default: 20
-# Range: 0 ~ 100
-screen_shake_threshold = 20
-#Entities bleed ? 
-blood = true

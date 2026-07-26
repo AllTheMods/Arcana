@@ -91,7 +91,7 @@ defaultNotUnlockable = true
 	# Range: > 1
 	nobleFlankCooldown = 15
 	#Flank max distance
-	# Default: 200
+	# Default: 300
 	# Range: 1 ~ 1000
 	nobleFlankMaxDistance = 200
 	#Multiplier for armour in bat form with requisite skill
@@ -118,6 +118,8 @@ defaultNotUnlockable = true
 	nobleLordSlayerMinLordRank = 2
 	#Blood Thirst increase/decrease for each bloodline rank. Attribute Multiplier
 	nobleBloodThirstMult = [0.1, 0.15, 0.25, 0.35]
+	#If true, flank only works on entities that cannot see the player
+	nobleFlankSightRequirement = true
 
 	#Noble bloodline configurable values
 	[noble_bloodline.noble_mobs]
@@ -549,3 +551,7 @@ defaultNotUnlockable = true
 	bloodBottleFrenzyDuration = [30, 60, 120, 150, 200]
 	#Multipliers for blood exhaustion at each blood knight rank. Attribute Multiplier
 	bloodknightBloodThirstMultiplier = [-0.25, -0.35, -0.5, -0.75]
+	#By default, vampires can bite other vampire players without being bloodknights themselves. With this enabled, only bloodknights can drink blood from other vampire players
+	playerBitingOnlyForBloodknight = false
+	#If set to false, bloodknight player biting will not give blood frenzy
+	playerBitingGivesFrenzy = false
