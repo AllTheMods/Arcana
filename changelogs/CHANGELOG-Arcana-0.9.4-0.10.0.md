@@ -35,6 +35,8 @@ Relics updated to 0.12, which reworked how relic abilities are stored. Its quest
 - You no longer start with the Silent Gear blueprint package or material book (LobsterJonn)
 - Removed the recipes for Elemental Synergies' Vocaloid cosmetic armour sets and hid them from the recipe viewer (LobsterJonn)
 - Stopped shipping 833 config files that only held default values, so updated mods use their own current defaults instead of frozen copies (LobsterJonn)
+- Fixed erroring tags (LobsterJonn)
+- Disabled Farming for Blockheads compat for mods not installed (LobsterJonn)
 
 </blockquote>
 
