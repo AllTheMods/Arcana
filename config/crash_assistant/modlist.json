@@ -21,6 +21,14 @@
     "curseForgeHash": 2865319449,
     "modrinthHash": "e99898b3e9c32bf6ac757e7ad50247746622cdfc"
   },
+  "aero_additions-1.2.8.jar": {
+    "jarName": "aero_additions-1.2.8.jar",
+    "modId": "aero_additions",
+    "name": "SnackPirate\u0027s Aeromancy Additions",
+    "version": "1.2.8",
+    "curseForgeHash": 3079423735,
+    "modrinthHash": "dee32c9fa84a9b3796e39846608f8f77591ea56f"
+  },
   "AkashicTome-1.8-30.jar": {
     "jarName": "AkashicTome-1.8-30.jar",
     "modId": "akashictome",
@@ -564,6 +572,14 @@
     "curseForgeHash": 2871381177,
     "modrinthHash": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
   },
+  "cobweb-neoforge-1.21-1.4.0.jar": {
+    "jarName": "cobweb-neoforge-1.21-1.4.0.jar",
+    "modId": "cobweb",
+    "name": "Cobweb",
+    "version": "1.4.0",
+    "curseForgeHash": 3953893040,
+    "modrinthHash": "5ae5dbf4184a62b9ff5bd31f6f8ba62943dd197d"
+  },
   "Cognition-v2.4.13-1.21.1.jar": {
     "jarName": "Cognition-v2.4.13-1.21.1.jar",
     "modId": "cognition",
@@ -804,6 +820,14 @@
     "curseForgeHash": 4266201355,
     "modrinthHash": "d682687ec41236092c5206a21e2ed34bdb7f6b79"
   },
+  "discerning_the_eldritch-1.4.3-1.21.jar": {
+    "jarName": "discerning_the_eldritch-1.4.3-1.21.jar",
+    "modId": "discerning_the_eldritch",
+    "name": "Discerning The Eldritch",
+    "version": "1.4.3-1.21",
+    "curseForgeHash": 2168225220,
+    "modrinthHash": "e9c5621f57058094c87ca601055f9ac8b892d3d9"
+  },
   "dnejei-1.21.1-0.4.0.jar": {
     "jarName": "dnejei-1.21.1-0.4.0.jar",
     "modId": "dnejei",
@@ -859,6 +883,14 @@
     "version": "1.21.1-1.1.42",
     "curseForgeHash": 2208091056,
     "modrinthHash": "bde2278d0c216916ff5a780c9f3acfb50ebee9e5"
+  },
+  "elemental_synergies-1.1.1.jar": {
+    "jarName": "elemental_synergies-1.1.1.jar",
+    "modId": "elemental_synergies",
+    "name": "Elemental Synergies",
+    "version": "1.1.1",
+    "curseForgeHash": 2469665797,
+    "modrinthHash": "94b5fb92d2029735f8eb8cded259743e7eb24569"
   },
   "elementalcraft-7.1.3.jar": {
     "jarName": "elementalcraft-7.1.3.jar",
@@ -1244,6 +1276,14 @@
     "curseForgeHash": 3645289497,
     "modrinthHash": "df98ba2cf46bf93cae9c8082d30ead9fb369bbda"
   },
+  "gtbcs_geomancy_plus-1.1.0-1.21.1.jar": {
+    "jarName": "gtbcs_geomancy_plus-1.1.0-1.21.1.jar",
+    "modId": "gtbcs_geomancy_plus",
+    "name": "GTBC\u0027s Geomancy Plus",
+    "version": "1.1.0-1.21.1",
+    "curseForgeHash": 3986042053,
+    "modrinthHash": "67e9652799f35f1fbd09968da6f400d0229f5599"
+  },
   "gtbcs_spell_lib-1.5.0-1.21.1.jar": {
     "jarName": "gtbcs_spell_lib-1.5.0-1.21.1.jar",
     "modId": "gtbcs_spell_lib",
@@ -1275,6 +1315,14 @@
     "version": "0.3.6+tides-of-phenua",
     "curseForgeHash": 3838072107,
     "modrinthHash": "d317697cbb65329d652331353d57d3f3ad8072dd"
+  },
+  "hazennstuff-1.4.0.14.jar": {
+    "jarName": "hazennstuff-1.4.0.14.jar",
+    "modId": "hazennstuff",
+    "name": "Hazen N Stuff",
+    "version": "1.4.0.14",
+    "curseForgeHash": 3909802033,
+    "modrinthHash": "3be20bacb44c1923348ab6f61b685eec6aacfdcd"
   },
   "hazentouvelib-1.0.8.jar": {
     "jarName": "hazentouvelib-1.0.8.jar",
@@ -1419,6 +1467,14 @@
     "version": "1.21.1-6.0.1",
     "curseForgeHash": 1782832755,
     "modrinthHash": "41989e3f82ab332c242b02253a95e06bcdcfafc1"
+  },
+  "jumpboat-1.21.0-1.0.5.jar": {
+    "jarName": "jumpboat-1.21.0-1.0.5.jar",
+    "modId": "jumpboat",
+    "name": "Jumpy Boats",
+    "version": "1.21.0-1.0.5",
+    "curseForgeHash": 4016135692,
+    "modrinthHash": "8fa562264f3ffd030773b2744ff6b42c52080ce6"
   },
   "jupiter-2.3.7-1.21.1-neoforge.jar": {
     "jarName": "jupiter-2.3.7-1.21.1-neoforge.jar",
@@ -1761,6 +1817,14 @@
     "curseForgeHash": 845432825,
     "modrinthHash": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
   },
+  "mowziesmobs-1.21.1-1.8.2.jar": {
+    "jarName": "mowziesmobs-1.21.1-1.8.2.jar",
+    "modId": "mowziesmobs",
+    "name": "Mowzie\u0027s Mobs",
+    "version": "1.8.2",
+    "curseForgeHash": 3287288940,
+    "modrinthHash": "d64475cd77444b056ece6472c79d40293dc63c6c"
+  },
   "multipiston-1.2.58-1.21.1.jar": {
     "jarName": "multipiston-1.2.58-1.21.1.jar",
     "modId": "multipiston",
@@ -2049,6 +2113,14 @@
     "curseForgeHash": 2925099531,
     "modrinthHash": "f3c4f098e50b519a186230c328bad20f91659044"
   },
+  "prometheus-neoforge-1.21-1.2.5.jar": {
+    "jarName": "prometheus-neoforge-1.21-1.2.5.jar",
+    "modId": "prometheus",
+    "name": "Prometheus",
+    "version": "1.2.5",
+    "curseForgeHash": 2723556800,
+    "modrinthHash": "c4ef1020569a1dfc5bb161221449d7cf13b597cb"
+  },
   "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar": {
     "jarName": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
     "modId": "puzzleslib",
@@ -2313,6 +2385,14 @@
     "curseForgeHash": 1733245886,
     "modrinthHash": "b36fa724fe925e715d8b13929d5789125e97e81b"
   },
+  "soul-fire-d-neoforge-1.21-6.1.0.jar": {
+    "jarName": "soul-fire-d-neoforge-1.21-6.1.0.jar",
+    "modId": "soul_fire_d",
+    "name": "Soul Fire\u0027d",
+    "version": "6.1.0",
+    "curseForgeHash": 2650814569,
+    "modrinthHash": "877002a5aa386f9011ebc4eb3360a7647ac359d9"
+  },
   "spark-1.10.124-neoforge.jar": {
     "jarName": "spark-1.10.124-neoforge.jar",
     "modId": "spark",
@@ -2464,6 +2544,14 @@
     "version": "1.2.0",
     "curseForgeHash": 3428339686,
     "modrinthHash": "6866d898938bdde1a17fadee16983c0c6071eac6"
+  },
+  "tunes_n_tomes-1.1.0-HOTFIX.jar": {
+    "jarName": "tunes_n_tomes-1.1.0-HOTFIX.jar",
+    "modId": "tunes_n_tomes",
+    "name": "Tunes \u0027n Tomes Mod",
+    "version": "1.1.0-HOTFIX",
+    "curseForgeHash": 3609775563,
+    "modrinthHash": "6cac45631ea63577f8eeeab454e1df0ce8f78386"
   },
   "twilightforest-1.21.1-4.8.3345-universal.jar": {
     "jarName": "twilightforest-1.21.1-4.8.3345-universal.jar",
