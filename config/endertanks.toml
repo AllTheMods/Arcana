@@ -1,0 +1,57 @@
+# Default: 1500
+# Range: 250 ~ 10000
+info_line_change_delay = 1500
+in_world_coloring = true
+full_stack_linking = true
+
+#List Entry Format <modId>:<item> or tag|<tagId>
+[upgrade_items]
+	convert_to_personal = ["tag|c:gems/diamond"]
+	convert_to_team = ["tag|c:gems/emerald"]
+	small_capacity = ["tag|c:ender_pearls"]
+	large_capacity = ["minecraft:ender_eye"]
+	pump_capacity = ["minecraft:piston"]
+	small_capacity_singleuse = []
+	large_capacity_singleuse = []
+	pump_capacity_singleuse = []
+
+#Adjust Available Storage
+[capacity_settings]
+	# Default: 32
+	# Range: 4 ~ 128
+	tank_size_min = 32
+	# Default: 256
+	# Range: 4 ~ 512
+	tank_size_max = 256
+	# Default: 8
+	# Range: 2 ~ 16
+	small_capacity_upgrade = 8
+	# Default: 16
+	# Range: 4 ~ 32
+	large_capacity_upgrade = 16
+	# Default: 4
+	# Range: 0 ~ 8
+	max_pump_upgrades = 4
+	tanks_start_with_pump = true
+
+#Configure Usability and Interactions
+[access_settings]
+	public_tanks = true
+	personal_tanks = true
+	team_tanks = true
+	public_buckets = true
+	personal_buckets = true
+	team_buckets = true
+	public_automation = true
+	personal_automation = true
+	team_automation = true
+	personal_edit_lock = true
+	team_edit_lock = true
+	personal_link_lock = true
+	team_link_lock = true
+	personal_use_lock = false
+	team_use_lock = false
+
+#Mod integration can be disabled to solve compatibility issues, remove unwanted/unneeded features, etc.
+[integration]
+	store_mekanism_chemicals = true

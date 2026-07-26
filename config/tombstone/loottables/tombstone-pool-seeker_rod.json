@@ -1,0 +1,69 @@
+{
+  "rolls": 1.0,
+  "bonus_rolls": 0.0,
+  "name": "tombstone:seeker_rod",
+  "entries": [
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "name": "tombstone:essence_of_undeath",
+      "weight": 5,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "name": "tombstone:receptacle_of_soul",
+      "weight": 15,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "name": "tombstone:gemstone_of_familiar",
+      "weight": 25,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:delayed_nbt_loot"
+        }
+      ],
+      "name": "tombstone:receptacle_of_familiar",
+      "weight": 25,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "id": "tombstone:restoration",
+          "function": "minecraft:set_potion"
+        }
+      ],
+      "name": "minecraft:potion",
+      "weight": 10,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "ancient": true,
+          "function": "tombstone:random_scroll_buff"
+        }
+      ],
+      "name": "tombstone:strange_scroll",
+      "weight": 20,
+      "type": "minecraft:item"
+    }
+  ]
+}

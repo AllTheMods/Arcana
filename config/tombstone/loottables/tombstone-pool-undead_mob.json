@@ -1,0 +1,75 @@
+{
+  "rolls": 1.0,
+  "bonus_rolls": 0.0,
+  "name": "tombstone:undead_mob",
+  "entries": [
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        },
+        {
+          "count": {
+            "min": 1.0,
+            "max": 2.0,
+            "type": "minecraft:uniform"
+          },
+          "add": false,
+          "function": "minecraft:set_count"
+        }
+      ],
+      "name": "tombstone:grave_dust",
+      "weight": 100,
+      "type": "minecraft:item"
+    },
+    {
+      "name": "minecraft:bundle",
+      "weight": 20,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "name": "tombstone:bag_of_seeds",
+      "weight": 10,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:delayed_nbt_loot"
+        }
+      ],
+      "name": "tombstone:magic_scroll",
+      "weight": 20,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "name": "tombstone:essence_of_undeath",
+      "weight": 5,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "name": "tombstone:ritual_flute",
+      "weight": 5,
+      "type": "minecraft:item"
+    },
+    {
+      "weight": 840,
+      "type": "minecraft:empty"
+    }
+  ]
+}

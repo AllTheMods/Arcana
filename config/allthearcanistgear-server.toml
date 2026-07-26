@@ -1,0 +1,223 @@
+[armor_config]
+	_comment = "A world restart is needed after changing these config options."
+
+	[armor_config.allthemodium]
+		_comment = "Config for Allthemodium armor"
+
+		[armor_config.allthemodium.armor_values]
+			#Hat
+			# Default: 4
+			# Range: > 0
+			hat = 4
+			#Robes
+			# Default: 9
+			# Range: > 0
+			robes = 9
+			#Leggings
+			# Default: 7
+			# Range: > 0
+			leggings = 7
+			#Boots
+			# Default: 4
+			# Range: > 0
+			boots = 4
+			#Toughness
+			# Default: 4
+			# Range: > 0
+			toughness = 4
+			#Knockback Resistance
+			# Default: 0.0
+			# Range: 0.0 ~ 2.147483647E9
+			knockback_resistance = 0.0
+
+		[armor_config.allthemodium.arcanist_stats]
+			#Max Mana Bonus
+			# Default: 200
+			# Range: > 0
+			mana_boost = 200
+			#Mana Regen Bonus
+			# Default: 6.0
+			# Range: 0.0 ~ 2.147483647E9
+			mana_regen = 6.0
+			#Spell Power Bonus
+			# Default: 6.0
+			# Range: 0.0 ~ 2.147483647E9
+			spell_power = 6.0
+
+		[armor_config.allthemodium.capabilities]
+			#Should Helmet Prevent Drowning?
+			prevent_drowning = true
+			#Should Helmet Prevent Kinetic Damage?
+			prevent_kinetic = true
+			#Should Chestplate Prevent Fire Damage?
+			prevent_fire = true
+			#Should Chestplate Prevent Dragon's Breath Damage?
+			prevent_dragons_breath = false
+			#Should Leggings Prevent Wither?
+			prevent_wither = false
+			#Should Leggings Prevent Levitation?
+			prevent_levitation = false
+			#Should Boots Prevent Fall Damage?
+			prevent_fall_damage = true
+
+		[armor_config.allthemodium.allthemodium_spellbook]
+			_comment = "Config for Allthemodium spellbook"
+			#How many bonus glyph slots should the spell book provide?
+			# Default: 2
+			# Range: 0 ~ 990
+			bonus_glyphs = 2
+			#What damage multiplier should be applied when `allthearcanistgear:bonus_damage` entities are hurt?
+			# Default: 1.100000023841858
+			# Range: 1.0 ~ 10.0
+			bonus_damage_multiplier = 1.100000023841858
+
+	[armor_config.vibranium]
+		_comment = "Config for Vibranium armor"
+
+		[armor_config.vibranium.armor_values]
+			#Hat
+			# Default: 6
+			# Range: > 0
+			hat = 6
+			#Robes
+			# Default: 11
+			# Range: > 0
+			robes = 11
+			#Leggings
+			# Default: 9
+			# Range: > 0
+			leggings = 9
+			#Boots
+			# Default: 6
+			# Range: > 0
+			boots = 6
+			#Toughness
+			# Default: 5
+			# Range: > 0
+			toughness = 5
+			#Knockback Resistance
+			# Default: 0.0
+			# Range: 0.0 ~ 2.147483647E9
+			knockback_resistance = 0.0
+
+		[armor_config.vibranium.arcanist_stats]
+			#Max Mana Bonus
+			# Default: 325
+			# Range: > 0
+			mana_boost = 325
+			#Mana Regen Bonus
+			# Default: 9.0
+			# Range: 0.0 ~ 2.147483647E9
+			mana_regen = 9.0
+			#Spell Power Bonus
+			# Default: 9.0
+			# Range: 0.0 ~ 2.147483647E9
+			spell_power = 9.0
+
+		[armor_config.vibranium.capabilities]
+			#Should Helmet Prevent Drowning?
+			prevent_drowning = true
+			#Should Helmet Prevent Kinetic Damage?
+			prevent_kinetic = true
+			#Should Chestplate Prevent Fire Damage?
+			prevent_fire = true
+			#Should Chestplate Prevent Dragon's Breath Damage?
+			prevent_dragons_breath = false
+			#Should Leggings Prevent Wither?
+			prevent_wither = true
+			#Should Leggings Prevent Levitation?
+			prevent_levitation = false
+			#Should Boots Prevent Fall Damage?
+			prevent_fall_damage = true
+
+		[armor_config.vibranium.vibranium_spellbook]
+			_comment = "Config for Vibranium spellbook"
+			#How many bonus glyph slots should the spell book provide?
+			# Default: 5
+			# Range: 0 ~ 990
+			bonus_glyphs = 5
+			#What damage multiplier should be applied when `allthearcanistgear:bonus_damage` entities are hurt?
+			# Default: 1.2000000476837158
+			# Range: 1.0 ~ 10.0
+			bonus_damage_multiplier = 1.2000000476837158
+
+	[armor_config.unobtainium]
+		_comment = "Config for Unobtainium armor"
+
+		[armor_config.unobtainium.armor_values]
+			#Hat
+			# Default: 8
+			# Range: > 0
+			hat = 8
+			#Robes
+			# Default: 13
+			# Range: > 0
+			robes = 13
+			#Leggings
+			# Default: 11
+			# Range: > 0
+			leggings = 11
+			#Boots
+			# Default: 8
+			# Range: > 0
+			boots = 8
+			#Toughness
+			# Default: 6
+			# Range: > 0
+			toughness = 6
+			#Knockback Resistance
+			# Default: 0.0
+			# Range: 0.0 ~ 2.147483647E9
+			knockback_resistance = 0.0
+
+		[armor_config.unobtainium.arcanist_stats]
+			#Max Mana Bonus
+			# Default: 450
+			# Range: > 0
+			mana_boost = 450
+			#Mana Regen Bonus
+			# Default: 12.0
+			# Range: 0.0 ~ 2.147483647E9
+			mana_regen = 12.0
+			#Spell Power Bonus
+			# Default: 12.0
+			# Range: 0.0 ~ 2.147483647E9
+			spell_power = 12.0
+
+		[armor_config.unobtainium.capabilities]
+			#Should Helmet Prevent Drowning?
+			prevent_drowning = true
+			#Should Helmet Prevent Kinetic Damage?
+			prevent_kinetic = true
+			#Should Chestplate Prevent Fire Damage?
+			prevent_fire = true
+			#Should Chestplate Prevent Dragon's Breath Damage?
+			prevent_dragons_breath = true
+			#Should Leggings Prevent Wither?
+			prevent_wither = true
+			#Should Leggings Prevent Levitation?
+			prevent_levitation = true
+			#Should Boots Prevent Fall Damage?
+			prevent_fall_damage = true
+
+		[armor_config.unobtainium.unobtainium_spellbook]
+			_comment = "Config for Unobtainium spellbook"
+			#How many bonus glyph slots should the spell book provide?
+			# Default: 10
+			# Range: 0 ~ 990
+			bonus_glyphs = 10
+			#What damage multiplier should be applied when `allthearcanistgear:bonus_damage` entities are hurt?
+			# Default: 1.2999999523162842
+			# Range: 1.0 ~ 10.0
+			bonus_damage_multiplier = 1.2999999523162842
+
+	[armor_config.creative_spellbook]
+		_comment = "Config for Creative spellbook"
+		#How many bonus glyph slots should the spell book provide?
+		# Default: 10
+		# Range: 0 ~ 990
+		bonus_glyphs = 10
+		#What damage multiplier should be applied when `allthearcanistgear:bonus_damage` entities are hurt?
+		# Default: 1.2999999523162842
+		# Range: 1.0 ~ 10.0
+		bonus_damage_multiplier = 1.2999999523162842

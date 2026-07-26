@@ -1,0 +1,40 @@
+in_world_coloring = true
+full_stack_linking = true
+curios_trinkets = true
+
+#List Entry Format <modId>:<item> or tag|<tagId>
+[upgrade_items]
+	convert_to_personal = ["tag|c:gems/diamond"]
+	convert_to_team = ["tag|c:gems/emerald"]
+	small_capacity = ["tag|c:ender_pearls"]
+	large_capacity = ["minecraft:ender_eye"]
+	small_capacity_singleuse = []
+	large_capacity_singleuse = []
+
+#Adjust Available Storage
+[capacity_settings]
+	# Default: 9
+	# Range: 9 ~ 27
+	chest_size_min = 9
+	# Default: 27
+	# Range: 9 ~ 54
+	chest_size_max = 27
+
+#Configure Usability and Interactions
+[access_settings]
+	ender_pouch = true
+	public_chests = true
+	personal_chests = true
+	team_chests = true
+	public_bags = true
+	personal_bags = true
+	team_bags = true
+	public_automation = true
+	personal_automation = true
+	team_automation = true
+	personal_edit_lock = true
+	team_edit_lock = true
+	personal_link_lock = true
+	team_link_lock = true
+	personal_use_lock = false
+	team_use_lock = false

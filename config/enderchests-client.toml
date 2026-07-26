@@ -1,0 +1,23 @@
+#Select A GUI Style
+[gui_style]
+	#Allowed Values: DEFAULT, VANILLA
+	ender_chest = "DEFAULT"
+
+#Input Prefixes; Decimal[0d, none], Hex[0x, #], Octal[0o, 0], Binary[0b]
+[color_values]
+	white = "0xFFFFFF"
+	orange = "0xDD854B"
+	magenta = "0xBD61C5"
+	light_blue = "0x7E99D0"
+	yellow = "0xC4B82E"
+	lime = "0x49BD3D"
+	pink = "0xD89AAA"
+	gray = "0x464646"
+	light_gray = "0xA9AFAF"
+	cyan = "0x337895"
+	purple = "0x8946C2"
+	blue = "0x323E9A"
+	brown = "0x563822"
+	green = "0x3A4E1E"
+	red = "0xA53A35"
+	black = "0x262626"

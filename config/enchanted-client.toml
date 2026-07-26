@@ -1,0 +1,2 @@
+#Render cat familiars with their original fur colour rather than all black
+original_cat_type = false

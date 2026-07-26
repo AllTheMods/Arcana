@@ -1,0 +1,10 @@
+#X-Offset of the age rank indicator from the center in pixels
+# Default: 50
+# Range: -250 ~ 250
+ageRankOffsetX = 50
+#Y-Offset of the age rank indicator from the bottom in pixels
+# Default: 47
+# Range: 0 ~ 270
+ageRankOffsetY = 47
+#Whether to show Tainted Age rank on GUI. Defaults to showing it
+showTaintedAgeRank = true

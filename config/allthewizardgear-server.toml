@@ -1,0 +1,90 @@
+	#Changing armor values requires world restart
+	[ArmorConfig.allthemodium]
+		#Allthemodium's Armor Values, in the form of [boots, leggings, chestplate, helmet]. Default: [4, 7, 9, 4]
+		armorValues = [4, 7, 9, 4]
+		#Allthemodium's Armor Toughness. Default: 4
+		toughness = 4
+		#Allthemodium's Knockback Resistance. Default: 0.0
+		knockbackResistance = 0.0
+		#Allthemodium's Max Mana. Default: 200
+		maxMana = 200
+		#Allthemodium's Spell Power. Default: 0.2 (+20%)
+		spellPower = 0.2
+		#Allthemodium's Mana Regen. Default: 0.05
+		manaRegen = 0.05
+		#Allthemodium's Helmet Prevents Drowning. Default: true
+		helmetPreventsDrowning = true
+		#Allthemodium's Helmet Prevents Elytra Damage. Default: true
+		helmetPreventsElytraDamage = true
+		#Allthemodium's Chestplate Prevents Fire Damage. Default: true
+		chestplatePreventsFire = true
+		#Allthemodium's Chestplate Prevents Dragon Breath. Default: false
+		chestplatePreventsDragonBreath = false
+		#Allthemodium's Leggings Prevent Wither. Default: false
+		leggingsPreventWither = false
+		#Allthemodium's Leggings Prevent Levitation. Default: false
+		leggingsPreventLevitation = false
+		#Allthemodium's Boots Prevent Fall Damage. Default: true
+		bootsPreventFallDamage = true
+		#Allthemodium's Armor makes Piglins Neutral (like gold armor). Default: true
+		makesPiglinsNeutral = true
+
+	[ArmorConfig.vibranium]
+		#Vibranium's Armor Values, in the form of [boots, leggings, chestplate, helmet]. Default: [6, 9, 11, 6]
+		armorValues = [6, 9, 11, 6]
+		#Vibranium's Armor Toughness. Default: 5
+		toughness = 5
+		#Vibranium's Knockback Resistance. Default: 0.0
+		knockbackResistance = 0.0
+		#Vibranium's Max Mana. Default: 325
+		maxMana = 325
+		#Vibranium's Spell Power. Default: 0.3 (+30%)
+		spellPower = 0.3
+		#Vibranium's Mana Regen. Default: 0.1
+		manaRegen = 0.1
+		#Vibranium's Helmet Prevents Drowning. Default: true
+		helmetPreventsDrowning = true
+		#Vibranium's Helmet Prevents Elytra Damage. Default: true
+		helmetPreventsElytraDamage = true
+		#Vibranium's Chestplate Prevents Fire Damage. Default: true
+		chestplatePreventsFire = true
+		#Vibranium's Chestplate Prevents Dragon Breath. Default: false
+		chestplatePreventsDragonBreath = false
+		#Vibranium's Leggings Prevent Wither. Default: true
+		leggingsPreventWither = true
+		#Vibranium's Leggings Prevent Levitation. Default: false
+		leggingsPreventLevitation = false
+		#Vibranium's Boots Prevent Fall Damage. Default: true
+		bootsPreventFallDamage = true
+		#Vibranium's Armor makes Piglins Neutral (like gold armor). Default: true
+		makesPiglinsNeutral = true
+
+	[ArmorConfig.unobtainium]
+		#Unobtainium's Armor Values, in the form of [boots, leggings, chestplate, helmet]. Default: [8, 11, 13, 8]
+		armorValues = [8, 11, 13, 8]
+		#Unobtainium's Armor Toughness. Default: 6
+		toughness = 6
+		#Unobtainium's Knockback Resistance. Default: 0.0
+		knockbackResistance = 0.0
+		#Unobtainium's Max Mana. Default: 450
+		maxMana = 450
+		#Unobtainium's Spell Power. Default: 0.4 (+40%)
+		spellPower = 0.4
+		#Unobtainium's Mana Regen. Default: 0.15
+		manaRegen = 0.15
+		#Unobtainium's Helmet Prevents Drowning. Default: true
+		helmetPreventsDrowning = true
+		#Unobtainium's Helmet Prevents Elytra Damage. Default: true
+		helmetPreventsElytraDamage = true
+		#Unobtainium's Chestplate Prevents Fire Damage. Default: true
+		chestplatePreventsFire = true
+		#Unobtainium's Chestplate Prevents Dragon Breath. Default: true
+		chestplatePreventsDragonBreath = true
+		#Unobtainium's Leggings Prevent Wither. Default: true
+		leggingsPreventWither = true
+		#Unobtainium's Leggings Prevent Levitation. Default: true
+		leggingsPreventLevitation = true
+		#Unobtainium's Boots Prevent Fall Damage. Default: true
+		bootsPreventFallDamage = true
+		#Unobtainium's Armor makes Piglins Neutral (like gold armor). Default: true
+		makesPiglinsNeutral = true

@@ -25,21 +25,6 @@
         "result": "deny"
       },  
       {
-        "mob": "bearded_dragons:locust",
-        "when": "onjoin",
-        "result": "deny"
-      },  
-      {
-        "mob": "mythsandlegends:imp",
-        "when": "onjoin",
-        "result": "deny"
-      },  
-      {
-        "mob": "mythsandlegends:imp_clone",
-        "when": "onjoin",
-        "result": "deny"
-      },
-      {
         "dimension": "allthemodium:the_other",
         "mob": "minecraft:pillager",
         "mincount": {

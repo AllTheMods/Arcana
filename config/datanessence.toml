@@ -1,0 +1,26 @@
+#Values able to be adjusted to fit your modpack's balance, or personal tastes.
+[balancing]
+	#The base, un-upgraded rate that Fluid Nodes can transfer, in mB per tick. (Also applies to Chemical Nodes if Mekanism is installed)
+	# Default: 125
+	# Range: 1 ~ 1000000
+	fluidNodeTransfer = 50
+	#The base, un-upgraded rate that all Essence Nodes can transfer per tick.
+	# Default: 50
+	# Range: 1 ~ 1000000
+	essenceNodeTransfer = 50
+	#The base, un-upgraded rate that Item Nodes can transfer, in items per tick.
+	# Default: 4
+	# Range: 1 ~ 64
+	itemNodeTransfer = 4
+	#The capacity for all Essence Batteries.
+	# Default: 10000
+	# Range: 1 ~ 1000000
+	essenceBatteryMax = 10000
+	#Connection limit for all Nodes - a Node cannot have more Wires than this.
+	# Default: 4
+	# Range: 1 ~ 50
+	maxNodeWires = 4
+	#Distance limit for wire length, in blocks.
+	# Default: 24
+	# Range: 1 ~ 64
+	wireDistanceLimit = 24

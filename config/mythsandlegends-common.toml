@@ -1,0 +1,249 @@
+[mobs]
+	#Enable or disable Imp
+	disable = false
+
+[imp]
+	#Health for Imp
+	# Default: 5.0
+	# Range: 2.5 ~ 1.7976931348623157E308
+	health = 5.0
+	#Damage for Imp
+	# Default: 3.0
+	# Range: 1.5 ~ 1.7976931348623157E308
+	damage = 3.0
+	#Flying Speed for Imp
+	# Default: 0.6
+	# Range: 0.5 ~ 1.7976931348623157E308
+	flying_speed = 0.6
+
+[imp_clone]
+	#Health for Imp Clone
+	# Default: 2.5
+	# Range: 1.25 ~ 1.7976931348623157E308
+	health = 2.5
+	#Damage for Imp Clone
+	# Default: 1.5
+	# Range: 0.75 ~ 1.7976931348623157E308
+	damage = 1.5
+	#Flying Speed for Imp Clone
+	# Default: 0.6
+	# Range: 0.5 ~ 1.7976931348623157E308
+	flying_speed = 0.6
+
+[gargoyle]
+	#Health for Gargoyle
+	# Default: 60.0
+	# Range: 30.0 ~ 1.7976931348623157E308
+	health = 60.0
+	#Damage for Gargoyle
+	# Default: 6.0
+	# Range: 4.0 ~ 1.7976931348623157E308
+	damage = 6.0
+	#Attack Knockback for Gargoyle
+	# Default: 1.2
+	# Range: 0.5 ~ 2.0
+	attack_knockback = 1.2
+	#Knockback Resistance for Gargoyle
+	# Default: 1.0
+	# Range: 0.3 ~ 1.0
+	knockback_resistance = 1.0
+
+[black_charro]
+	#Health for Black Charro
+	# Default: 350.0
+	# Range: 300.0 ~ 1.7976931348623157E308
+	health = 350.0
+	#Armor for Black Charro
+	# Default: 0.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	armor = 0.0
+	#Damage for Black Charro
+	# Default: 5.0
+	# Range: 3.0 ~ 1.7976931348623157E308
+	damage = 5.0
+	#Movement for Black Charro
+	# Default: 0.35
+	# Range: 0.3 ~ 1.7976931348623157E308
+	movement = 0.35
+	#Knockback Resistance for Black Charro
+	# Default: 0.5
+	# Range: 0.25 ~ 1.7976931348623157E308
+	knockback_resistance = 0.5
+
+[condemned]
+	#Health for Condemned Soul
+	# Default: 12.0
+	# Range: 8.0 ~ 1.7976931348623157E308
+	health = 12.0
+	#Damage for Condemned Soul
+	# Default: 2.0
+	# Range: 2.0 ~ 1.7976931348623157E308
+	damage = 2.0
+
+[possessed_armor]
+	#Health for Possessed Armor
+	# Default: 30.0
+	# Range: 15.0 ~ 1.7976931348623157E308
+	health = 30.0
+	#Armor value for Possessed Armor
+	# Default: 8.0
+	# Range: 4.0 ~ 1.7976931348623157E308
+	armor = 8.0
+	#Armor toughness for Possessed Armor
+	# Default: 8.0
+	# Range: 4.0 ~ 1.7976931348623157E308
+	armor_toughness = 8.0
+	#Damage for Possessed Armor
+	# Default: 2.0
+	# Range: 6.0 ~ 1.7976931348623157E308
+	damage = 6.0
+	#Attack Knockback for Possessed Armor
+	# Default: 1.0
+	# Range: 0.4 ~ 1.7976931348623157E308
+	attack_knockback = 1.0
+	#Knockback Resistance for Possessed Armor
+	# Default: 1.0
+	# Range: 0.4 ~ 1.7976931348623157E308
+	knockback_resistance = 1.0
+
+[possessed_armor_archer]
+	#Health for Possessed Armor Archer
+	# Default: 30.0
+	# Range: 15.0 ~ 1.7976931348623157E308
+	health = 30.0
+	#Armor value for Possessed Armor Archer
+	# Default: 8.0
+	# Range: 4.0 ~ 1.7976931348623157E308
+	armor = 8.0
+	#Armor toughness for Possessed Armor Archer
+	# Default: 8.0
+	# Range: 4.0 ~ 1.7976931348623157E308
+	armor_toughness = 8.0
+	#Damage for Possessed Armor Archer
+	# Default: 2.0
+	# Range: 6.0 ~ 1.7976931348623157E308
+	damage = 6.0
+	#Attack Knockback for Possessed Armor Archer
+	# Default: 1.0
+	# Range: 0.4 ~ 1.7976931348623157E308
+	attack_knockback = 1.0
+	#Knockback Resistance for Possessed Armor Archer
+	# Default: 1.0
+	# Range: 0.4 ~ 1.7976931348623157E308
+	knockback_resistance = 1.0
+
+[possessed_armor_inquisitor]
+	#Health for Possessed Armor Inquisitor
+	# Default: 120.0
+	# Range: 120.0 ~ 1.7976931348623157E308
+	health = 120.0
+	#Armor value for Possessed Armor Inquisitor
+	# Default: 12.0
+	# Range: 10.0 ~ 1.7976931348623157E308
+	armor = 12.0
+	#Armor toughness for Possessed Armor Inquisitor
+	# Default: 12.0
+	# Range: 10.0 ~ 1.7976931348623157E308
+	armor_toughness = 12.0
+	#Damage for Possessed Armor Inquisitor
+	# Default: 8.0
+	# Range: 6.0 ~ 1.7976931348623157E308
+	damage = 8.0
+	#Attack Knockback for Possessed Armor Inquisitor
+	# Default: 1.0
+	# Range: 0.6 ~ 1.7976931348623157E308
+	attack_knockback = 1.0
+	#Knockback Resistance for Possessed Armor Inquisitor
+	# Default: 1.0
+	# Range: 0.6 ~ 1.7976931348623157E308
+	knockback_resistance = 1.0
+
+[alp]
+	#Health for Alp
+	# Default: 10.0
+	# Range: 10.0 ~ 1.7976931348623157E308
+	health = 10.0
+
+[abaddon]
+	#Health for Abaddon
+	# Default: 45.0
+	# Range: 35.0 ~ 1.7976931348623157E308
+	health = 45.0
+	#Armor value for Abaddon
+	# Default: 3.5
+	# Range: 3.5 ~ 1.7976931348623157E308
+	armor = 3.5
+	#Damage for Abaddon
+	# Default: 6.5
+	# Range: 5.0 ~ 1.7976931348623157E308
+	damage = 6.5
+
+[scorched_sentinel]
+	#Health for Scorched Sentinel
+	# Default: 35.0
+	# Range: 30.0 ~ 1.7976931348623157E308
+	health = 35.0
+	#Damage for Scorched Sentinel
+	# Default: 6.0
+	# Range: 5.0 ~ 1.7976931348623157E308
+	damage = 6.0
+
+[karakondjul]
+	#Health for Karakondjul
+	# Default: 50.0
+	# Range: 35.0 ~ 1.7976931348623157E308
+	health = 50.0
+	#Armor for Karakondjul
+	# Default: 5.0
+	# Range: 2.5 ~ 1.7976931348623157E308
+	armor = 5.0
+	#Armor Toughness for Karakondjul
+	# Default: 2.5
+	# Range: 1.5 ~ 1.7976931348623157E308
+	armor_toughness = 2.5
+	#Damage for Karakondjul
+	# Default: 5.5
+	# Range: 5.0 ~ 1.7976931348623157E308
+	damage = 5.5
+	#Knockback Resistance for Karakondjul
+	# Default: 0.3
+	# Range: 0.2 ~ 1.7976931348623157E308
+	knockback_resistance = 0.3
+
+[lampad]
+	#Health for Lampad
+	# Default: 30.0
+	# Range: 35.0 ~ 1.7976931348623157E308
+	health = 35.0
+	#Armor for Lampad
+	# Default: 2.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	armor = 2.0
+	#Damage for Lampad
+	# Default: 6.0
+	# Range: 5.0 ~ 1.7976931348623157E308
+	damage = 6.0
+
+[candle_keeper]
+	#Health for Candle Keeper
+	# Default: 80.0
+	# Range: 20.0 ~ 1.7976931348623157E308
+	health = 80.0
+	#Damage for Candle Keeper
+	# Default: 6.0
+	# Range: 4.0 ~ 1.7976931348623157E308
+	damage = 6.0
+
+[amarok]
+	#Health for Amarok
+	# Default: 100.0
+	# Range: 50.0 ~ 1.7976931348623157E308
+	health = 100.0
+	#Armor for Amarok
+	# Default: 4.0
+	# Range: 2.0 ~ 6.0
+	armor = 4.0
+	#Damage for Amarok
+	# Default: 8.0
+	# Range: 6.0 ~ 1.7976931348623157E308
+	damage = 8.0

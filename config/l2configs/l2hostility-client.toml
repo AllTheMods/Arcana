@@ -1,0 +1,23 @@
+showTraitOverHead = true
+showLevelOverHead = true
+# Default: 32
+# Range: 0 ~ 128
+overHeadRenderDistance = 32
+# Default: 0.0
+# Range: -100.0 ~ 100.0
+overHeadRenderOffset = 0.0
+overHeadRenderFullBright = true
+# Default: 11184810
+# Range: > -2147483648
+overHeadLevelColor = 11184810
+# Default: 16733525
+# Range: > -2147483648
+overHeadLevelColorAbyss = 16733525
+showOnlyWhenHovered = false
+# Default: 32
+# Range: 1 ~ 256
+glowingRangeHidden = 32
+# Default: 16
+# Range: 1 ~ 256
+glowingRangeNear = 16
+showUndyingParticles = true

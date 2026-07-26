@@ -1,0 +1,105 @@
+{
+  "gameplay": {
+    "//": "Options related to the usage of botany pots.",
+    "value": {
+      "elite_botany_pot_speed_multiplier": {
+        "//": [
+          "The speed multiplier of the elite botany pot. Increasing this value will make   ",
+          "crops grow faster.                                                              "
+        ],
+        "//default": 2,
+        "value": 2
+      },
+      "elite_botany_pot_output_multiplier": {
+        "//": [
+          "The output multiplier of the elite botany pot. Increasing this value will make  ",
+          "more crops drop.                                                                "
+        ],
+        "//default": 2,
+        "value": 2
+      },
+      "ultra_botany_pot_speed_multiplier": {
+        "//": [
+          "The speed multiplier of the ultra botany pot. Increasing this value will make   ",
+          "crops grow faster.                                                              "
+        ],
+        "//default": 6,
+        "value": 6
+      },
+      "ultra_botany_pot_output_multiplier": {
+        "//": [
+          "The output multiplier of the ultra botany pot. Increasing this value will make  ",
+          "more crops drop.                                                                "
+        ],
+        "//default": 3,
+        "value": 3
+      },
+      "mega_botany_pot_speed_multiplier": {
+        "//": [
+          "The speed multiplier of the mega botany pot. Increasing this value will make    ",
+          "crops grow faster.                                                              "
+        ],
+        "//default": 10,
+        "value": 10
+      },
+      "mega_botany_pot_output_multiplier": {
+        "//": [
+          "The output multiplier of the mega botany pot. Increasing this value will make   ",
+          "more crops drop.                                                                "
+        ],
+        "//default": 4,
+        "value": 4
+      }
+    }
+  },
+  "recipes": {
+    "//": "Options related to various recipes in the game.",
+    "value": {
+      "craft_elite_basic_pots": {
+        "//": "Determines if elite basic botany pots may be crafted.",
+        "//default": true,
+        "value": true
+      },
+      "craft_elite_hopper_pots": {
+        "//": "Determines if elite hopper pots may be crafted.",
+        "//default": true,
+        "value": true
+      },
+      "craft_elite_wax_pots": {
+        "//": "Determines if elite wax pots may be crafted.",
+        "//default": true,
+        "value": true
+      },
+      "craft_ultra_basic_pots": {
+        "//": "Determines if ultra basic botany pots may be crafted.",
+        "//default": true,
+        "value": true
+      },
+      "craft_ultra_hopper_pots": {
+        "//": "Determines if ultra hopper pots may be crafted.",
+        "//default": true,
+        "value": true
+      },
+      "craft_ultra_wax_pots": {
+        "//": "Determines if ultra wax pots may be crafted.",
+        "//default": true,
+        "value": true
+      },
+      "craft_mega_basic_pots": {
+        "//": "Determines if mega basic botany pots may be crafted.",
+        "//default": true,
+        "value": true
+      },
+      "craft_mega_hopper_pots": {
+        "//": "Determines if mega hopper pots may be crafted.",
+        "//default": true,
+        "value": true
+      },
+      "craft_mega_wax_pots": {
+        "//": "Determines if mega wax pots may be crafted.",
+        "//default": true,
+        "value": true
+      }
+    }
+  }
+}

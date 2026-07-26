@@ -1,0 +1,389 @@
+{
+  "info": {
+    "world": {
+      "id": "world",
+      "trial": {
+        "skeleton": {
+          "id": "skeleton",
+          "cooldown": 36000,
+          "mobs": {
+            "1": [
+              "minecraft:skeleton",
+              "minecraft:skeleton",
+              "minecraft:skeleton"
+            ],
+            "2": [
+              "minecraft:skeleton",
+              "minecraft:skeleton",
+              "minecraft:skeleton"
+            ],
+            "3": [
+              "minecraft:skeleton",
+              "minecraft:skeleton"
+            ],
+            "4": [
+              "minecraft:skeleton",
+              "minecraft:skeleton"
+            ]
+          },
+          "rewards": {
+            "1": {
+              "chance": 0.2,
+              "rewards": [
+                "minecraft:baked_potato:3"
+              ]
+            },
+            "2": {
+              "chance": 0.15,
+              "rewards": [
+                "minecraft:cooked_chicken:2"
+              ]
+            }
+          }
+        },
+        "stray": {
+          "id": "stray",
+          "cooldown": 36000,
+          "mobs": {
+            "1": [
+              "minecraft:stray",
+              "minecraft:stray",
+              "minecraft:stray"
+            ],
+            "2": [
+              "minecraft:stray",
+              "minecraft:stray",
+              "minecraft:stray"
+            ],
+            "3": [
+              "minecraft:stray",
+              "minecraft:stray"
+            ],
+            "4": [
+              "minecraft:stray",
+              "minecraft:stray"
+            ]
+          },
+          "rewards": {
+            "1": {
+              "chance": 0.2,
+              "rewards": [
+                "minecraft:baked_potato:3"
+              ]
+            },
+            "2": {
+              "chance": 0.15,
+              "rewards": [
+                "minecraft:cooked_chicken:2"
+              ]
+            }
+          }
+        },
+        "husk": {
+          "id": "husk",
+          "cooldown": 36000,
+          "mobs": {
+            "1": [
+              "minecraft:husk",
+              "minecraft:husk",
+              "minecraft:husk"
+            ],
+            "2": [
+              "minecraft:husk",
+              "minecraft:husk",
+              "minecraft:husk"
+            ],
+            "3": [
+              "minecraft:husk",
+              "minecraft:husk"
+            ],
+            "4": [
+              "minecraft:husk",
+              "minecraft:husk"
+            ]
+          },
+          "rewards": {
+            "1": {
+              "chance": 0.2,
+              "rewards": [
+                "minecraft:baked_potato:3"
+              ]
+            },
+            "2": {
+              "chance": 0.15,
+              "rewards": [
+                "minecraft:cooked_chicken:2"
+              ]
+            }
+          }
+        },
+        "pyro_1": {
+          "id": "pyro_1",
+          "cooldown": 36000,
+          "mobs": {
+            "1": [
+              "minecraft:husk",
+              "minecraft:husk",
+              "minecraft:husk"
+            ],
+            "2": [
+              "minecraft:husk",
+              "minecraft:husk",
+              "minecraft:husk"
+            ],
+            "3": [
+              "minecraft:husk",
+              "minecraft:husk"
+            ],
+            "4": [
+              "minecraft:husk",
+              "minecraft:husk"
+            ]
+          },
+          "rewards": {
+            "1": {
+              "chance": 0.2,
+              "rewards": [
+                "minecraft:baked_potato:3"
+              ]
+            },
+            "2": {
+              "chance": 0.15,
+              "rewards": [
+                "minecraft:cooked_chicken:2"
+              ]
+            }
+          }
+        },
+        "cryo_boss": {
+          "id": "cryo_boss",
+          "cooldown": 36000,
+          "mobs": {
+            "1": [
+              "minecraft:stray",
+              "minecraft:stray",
+              "minecraft:stray"
+            ],
+            "2": [
+              "minecraft:skeleton",
+              "minecraft:skeleton",
+              "minecraft:skeleton"
+            ],
+            "3": [
+              "minecraft:zombie",
+              "minecraft:zombie"
+            ],
+            "4": [
+              "minecraft:vindicator",
+              "minecraft:zombie"
+            ]
+          },
+          "rewards": {
+            "1": {
+              "chance": 0.2,
+              "rewards": [
+                "etheria:frostbound_wish:8"
+              ]
+            },
+            "2": {
+              "chance": 0.8,
+              "rewards": [
+                "etheria:frostbound_wish:6"
+              ]
+            }
+          }
+        },
+        "zombie": {
+          "id": "zombie",
+          "cooldown": 36000,
+          "mobs": {
+            "1": [
+              "minecraft:zombie",
+              "minecraft:zombie",
+              "minecraft:zombie"
+            ],
+            "2": [
+              "minecraft:zombie",
+              "minecraft:zombie",
+              "minecraft:zombie"
+            ],
+            "3": [
+              "minecraft:zombie",
+              "minecraft:zombie"
+            ],
+            "4": [
+              "minecraft:zombie",
+              "minecraft:zombie"
+            ]
+          },
+          "rewards": {
+            "1": {
+              "chance": 0.2,
+              "rewards": [
+                "minecraft:baked_potato:3"
+              ]
+            },
+            "2": {
+              "chance": 0.15,
+              "rewards": [
+                "minecraft:cooked_chicken:2"
+              ]
+            }
+          }
+        },
+        "cryo_1": {
+          "id": "cryo_1",
+          "cooldown": 36000,
+          "mobs": {
+            "1": [
+              "minecraft:stray",
+              "minecraft:stray",
+              "minecraft:stray"
+            ],
+            "2": [
+              "minecraft:stray",
+              "minecraft:stray",
+              "minecraft:stray"
+            ],
+            "3": [
+              "minecraft:stray",
+              "minecraft:stray"
+            ],
+            "4": [
+              "minecraft:stray",
+              "minecraft:stray"
+            ]
+          },
+          "rewards": {
+            "1": {
+              "chance": 0.2,
+              "rewards": [
+                "minecraft:baked_potato:3"
+              ]
+            },
+            "2": {
+              "chance": 0.15,
+              "rewards": [
+                "minecraft:cooked_chicken:2"
+              ]
+            }
+          }
+        },
+        "spider": {
+          "id": "spider",
+          "cooldown": 36000,
+          "mobs": {
+            "1": [
+              "minecraft:spider",
+              "minecraft:spider",
+              "minecraft:spider"
+            ],
+            "2": [
+              "minecraft:spider",
+              "minecraft:spider",
+              "minecraft:spider"
+            ],
+            "3": [
+              "minecraft:spider",
+              "minecraft:spider"
+            ],
+            "4": [
+              "minecraft:spider",
+              "minecraft:spider"
+            ]
+          },
+          "rewards": {
+            "1": {
+              "chance": 0.2,
+              "rewards": [
+                "minecraft:baked_potato:3"
+              ]
+            },
+            "2": {
+              "chance": 0.15,
+              "rewards": [
+                "minecraft:cooked_chicken:2"
+              ]
+            }
+          }
+        },
+        "pyro_boss": {
+          "id": "pyro_boss",
+          "cooldown": 36000,
+          "mobs": {
+            "1": [
+              "minecraft:husk",
+              "minecraft:husk",
+              "minecraft:husk"
+            ],
+            "2": [
+              "minecraft:skeleton",
+              "minecraft:skeleton",
+              "minecraft:skeleton"
+            ],
+            "3": [
+              "minecraft:zombie",
+              "minecraft:zombie"
+            ],
+            "4": [
+              "minecraft:wither_skeleton",
+              "minecraft:zombie"
+            ]
+          },
+          "rewards": {
+            "1": {
+              "chance": 0.2,
+              "rewards": [
+                "etheria:blazing_wish:8"
+              ]
+            },
+            "2": {
+              "chance": 0.8,
+              "rewards": [
+                "etheria:blazing_wish:6"
+              ]
+            }
+          }
+        },
+        "creeper": {
+          "id": "creeper",
+          "cooldown": 36000,
+          "mobs": {
+            "1": [
+              "minecraft:creeper",
+              "minecraft:creeper",
+              "minecraft:creeper"
+            ],
+            "2": [
+              "minecraft:creeper",
+              "minecraft:creeper",
+              "minecraft:creeper"
+            ],
+            "3": [
+              "minecraft:creeper",
+              "minecraft:creeper"
+            ],
+            "4": [
+              "minecraft:creeper",
+              "minecraft:creeper"
+            ]
+          },
+          "rewards": {
+            "1": {
+              "chance": 0.2,
+              "rewards": [
+                "minecraft:baked_potato:3"
+              ]
+            },
+            "2": {
+              "chance": 0.15,
+              "rewards": [
+                "minecraft:cooked_chicken:2"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

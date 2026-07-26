@@ -1,0 +1,181 @@
+["Base Hunter Ageing"]
+	#Whenever there is a list with 6 values you can change, the first value refers to a player with Age 0 Rank. The final value therefore refers to an Age 5 Player
+	#Whether hunters can age.
+	hunterAgeing = true
+	#Change to select Ageing type. Valid Options include: HUNTING
+	ageingMethod = "HUNTING"
+	#The level at which the age mechanic begins
+	# Default: 14
+	# Range: 0 ~ 14
+	levelToBeginAgeMechanic = 14
+	#Whether hunters receive increased mining speed based on age
+	hunterMiningSpeed = true
+	#At what age should a hunter be able to use Seniority Oil
+	# Default: 2
+	# Range: 0 ~ 5
+	seniorityOilAge = 2
+	#At what age should a hunter gain Step Assist
+	# Default: 4
+	# Range: 0 ~ 6
+	hunterStepAssistAge = 4
+	#At what age should a hunter gain Faster Regeneration
+	# Default: 3
+	# Range: 0 ~ 5
+	fasterRegeneration = 3
+	#How much a petty hunt is worth. These are things like basic versions of vampires
+	# Default: 1
+	# Range: 0 ~ 99
+	pettyHuntWorth = 1
+	#How much a common hunt is worth. These are things like advanced vampires
+	# Default: 3
+	# Range: 0 ~ 99
+	commonHuntWorth = 3
+	#How much a greater hunt is worth. These are things like vampire barons
+	# Default: 5
+	# Range: 0 ~ 99
+	greaterHuntWorth = 5
+	#How many points worth of hunted entities are needed to increase Age Rank. Count is reset on Rank Up
+	huntedforNextAge = [20, 40, 80, 160, 250]
+	#Max Health Increase for each rank. This is addition, not multiplier based
+	maxHealthIncrease = [0.0, 1.0, 1.0, 2.0, 2.0, 4.0]
+	#How much faster a hunter is at each age rank. This is additive, not a multiplier
+	movementSpeedBonus = [0.0, 0.0125, 0.015, 0.02, 0.025, 0.035]
+	#How much XP gain is divided by based on age rank. Decimal numbers can be used to instead make it an XP multiplier
+	xpGainReduction = [1.0, 1.0, 1.25, 1.5, 1.75, 2.0]
+	#How much food exhaustion is multiplied by based on age
+	fasterExhaustionMultiplier = [1.0, 1.0, 1.25, 1.5, 2.0, 2.5]
+	#How much more damage seniority oil does to each age rank
+	seniorityOilDamageBonus = [0.0, 0.0, 0.1, 0.2, 0.4, 0.6]
+	#How much each age rank increases damage by adding on to base damage. This extra damage only applies to enemy faction creatures. Set all to 0 to disable completely.
+	ageEnemyFactionDamageIncrease = [0.0, 0.0, 2.0, 2.0, 4.0, 4.0]
+
+["Tainted Blood"]
+	#The next few configs apply to the Tainted Blood mechanic for hunters. When there is a list of values, the first value will refer to a cumulative age (base age rank + tainted age rank) of 0 and the second to last value 10. The last value, 11, is only possible if the hunter has underwent permanent tainted transformation and is age rank 5.
+	#Whether tainted blood mechanic is enabled
+	taintedBloodAvailable = true
+	#Whether the sun affects tainted blood hunters
+	sunAffectTainted = true
+	#The speed at which sun effect negative effects are gained.
+	taintedSunAgePenaltyGainSpeedMultiplier = [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 4, 8]
+	#At what tainted blood cumulative age is a hunter affected by the sun
+	# Default: 9
+	# Range: 0 ~ 11
+	taintedSunAffectAge = 9
+	#How many ticks before a hunter eligible for sun damage gains weakness effect
+	# Default: 1200
+	# Range: > 1
+	sunWeaknessTicks = 1200
+	#How many ticks before a hunter eligible for sun damage gains slowness effect
+	# Default: 1800
+	# Range: > 1
+	sunSlownessTicks = 1800
+	#How many ticks before a hunter eligible for sun damage gains slowness three effect
+	# Default: 2800
+	# Range: > 1
+	sunSlownessTwhreeTicks = 2800
+	#How many ticks before a hunter eligible for sun damage begins to take damage
+	# Default: 3600
+	# Range: > 1
+	sunDamageTicks = 3600
+	#Sun Damage amount
+	# Default: 2.5
+	# Range: 1.0 ~ 100.0
+	baseSunDamageAmount = 2.5
+	#How many ticks before a hunter eligible for sun damage gains blindness effect
+	# Default: 5000
+	# Range: > 1
+	sunBlindnessTicks = 5000
+	#Base amount of ticks tainted blood bonus lasts for
+	# Default: 3600
+	# Range: > 1
+	temporaryTaintedBloodBaseTicks = 3600
+	#Max sun tick
+	# Default: 10000
+	# Range: > 1
+	maxTicksInSun = 10000
+	#At what age can a hunter use tainted blood
+	# Default: 2
+	# Range: 0 ~ 5
+	taintedBloodBottleAge = 2
+	#At what tainted blood cumulative age is a hunter affected by holy water
+	# Default: 6
+	# Range: 0 ~ 11
+	taintedBloodHolyWaterAffectedAge = 6
+	#At what cumulative age does a hunter begin to get worse trade deals
+	# Default: 7
+	# Range: 0 ~ 11
+	taintedBloodWorseTradeDealsAge = 7
+	#How the price of villager trades are multiplied by baesd on tainted blood age
+	taintedBloodtradeDealPricesMultiplier = [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.25, 1.5, 1.75, 2.0, 2.5]
+	#How much mining speed is increased based on age. This is a multiplier of total mining speed. Set all to 0 to completely disable
+	hunterMiningSpeedBonus = [1.0, 1.0, 1.0, 1.05, 1.1, 1.15, 1.2, 1.25, 1.3, 1.325, 1.35, 1.5]
+	#Whether teleport action is enabled / disabled
+	hunterTeleportAction = true
+	#At what cumulative tainted age can a hunter use the teleport action
+	# Default: 8
+	# Range: 0 ~ 11
+	hunterTeleportActionAge = 8
+	#Cooldown of hunter teleport action in seconds
+	# Default: 20
+	# Range: > 1
+	hunterTeleportActionCooldown = 20
+	#Max range of hunter teleport action 
+	# Default: 35
+	# Range: 1 ~ 1000
+	hunterTeleportActionMaxDistance = 35
+	#Whether limited bat mode is available
+	hunterLimitedBatModeAction = true
+	#Whether limited bat mode is affected by the sun
+	sunAffectLimitedBatMode = false
+	#At what cumulative tainted age can a hunter use the limited bat mode
+	# Default: 10
+	# Range: 0 ~ 11
+	limitedBatModeAge = 10
+	#Cooldown of limited bat mode in seconds
+	# Default: 120
+	# Range: > 1
+	limitedBatModeCooldown = 120
+	#Limited bat mode flight speed
+	# Default: 0.02
+	# Range: 0.001 ~ 0.2
+	limitedBatFlightSpeed = 0.02
+	#Duration of limited bat mode in seconds 
+	# Default: 240
+	# Range: 1 ~ 1000
+	limitedBatModeDuration = 240
+	#Duration of limited bat mode when in permanent tainted transformation
+	# Default: 2147483646
+	# Range: 10 ~ 2147483646
+	limitedBatModeDurationTransformed = 2147483646
+	#Additional exhaustion added while in bat mode. 
+	# Default: 0.00800000037997961
+	# Range: 0.0 ~ 0.05
+	limitedBatExhaustion = 0.00800000037997961
+	#Whether permanent tainted transformation is available
+	permanentTaintedTransformation = true
+	#Whether the permanent tainted transformation is reset on death
+	permanentTransformationDeathReset = false
+	#At what age can a hunter breath forever underwater
+	# Default: 11
+	# Range: 0 ~ 11
+	underwaterBraethingTaintedAge = 11
+	#Whether tainted blood can reduce nutrition from regular food
+	reducedBenefitFromNormalFoods = true
+	#How much nutrition from food is reduced by at each tainted age
+	taintedAgeNutritionReduction = [0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 4, 5]
+	#How much saturation from food is reduced at each tainted age
+	taintedAgeSaturationReduction = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025, 0.05, 0.1, 0.15, 0.2]
+	#At what cumulative tainted age does a hunter not have negative effects from eating human hearts
+	# Default: 6
+	# Range: 0 ~ 11
+	noNegativeEffectsFromBadFoodAge = 6
+	#Damage bonus at each cumulative age rank
+	taintedAgeDamageBonus = [0.0, 0.0, 0.0, 1.0, 1.2, 1.4, 1.6, 1.8, 2.0, 2.25, 2.5, 3.0]
+	#How much damage from fire is multiplied by 
+	taintedAgeFireDamageMultiplier = [1.0, 1.0, 1.0, 1.2, 1.2, 1.4, 1.6, 1.8, 2.0, 2.25, 2.5, 3.0]
+	#Max health bonus at each age rank. This replaces the regular age rank max health bonus
+	taintedAgeMaxHealthBonus = [0.0, 0.0, 1.0, 1.0, 2.0, 2.0, 3.0, 3.0, 4.0, 4.0, 5.0, 5.0]
+	#Movement speed bonuses at each age rank
+	taintedAgeMovementSpeedIncreases = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.03, 0.04, 0.06]
+	#If changed from default, changes the rank number for a given age rank to the provided text.
+	hunterAgeRankTitles = ["1", "2", "3", "4", "5"]

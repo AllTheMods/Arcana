@@ -1,0 +1,7 @@
+[resonator]
+	# Default: 64
+	# Range: 16 ~ 128
+	resonatorSearchRadius = 64
+	# Default: 500
+	# Range: 16 ~ 10000
+	resonatorSearchTrialsPerTick = 500

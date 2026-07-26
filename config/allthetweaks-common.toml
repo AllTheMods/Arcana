@@ -21,7 +21,7 @@
 	major = 1
 
 [packmode]
-	#ATM = 0 SLOP = 1 SKY = 2 MAGIC = 3 EXPERT = 4 GRAVITAS = 5
+	#ATM = 0 SLOP = 1 SKY = 2 MAGIC = 3 EXPERT = 4 GRAVITAS = 5 LITE = 6 AOA = 7 MON = 8
 	# Default: 0
-	# Range: 0 ~ 5
+	# Range: 0 ~ 8
 	enable = 3

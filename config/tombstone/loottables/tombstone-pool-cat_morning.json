@@ -1,0 +1,67 @@
+{
+  "rolls": 1.0,
+  "bonus_rolls": 0.0,
+  "name": "tombstone:cat_morning",
+  "entries": [
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        },
+        {
+          "function": "tombstone:trigger_cat_morning"
+        },
+        {
+          "count": {
+            "min": 1.0,
+            "max": 3.0,
+            "type": "minecraft:uniform"
+          },
+          "add": false,
+          "function": "minecraft:set_count"
+        }
+      ],
+      "name": "tombstone:grave_dust",
+      "weight": 100,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "name": "tombstone:essence_of_undeath",
+      "type": "minecraft:item"
+    },
+    {
+      "name": "minecraft:bundle",
+      "weight": 20,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "name": "tombstone:bag_of_seeds",
+      "weight": 20,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "name": "tombstone:gemstone_of_familiar",
+      "weight": 20,
+      "type": "minecraft:item"
+    },
+    {
+      "weight": 839,
+      "type": "minecraft:empty"
+    }
+  ]
+}

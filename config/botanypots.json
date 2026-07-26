@@ -1,0 +1,99 @@
+{
+  "gameplay": {
+    "//": "Options related to general gameplay and usage of botany pots.",
+    "value": {
+      "global_growth_modifier": {
+        "//": [
+          "A global modifier applied to the growth times of all crops. Increasing this     ",
+          "value will make crops grow faster.                                              "
+        ],
+        "//default": 1.0,
+        "value": 1.0
+      },
+      "damage_harvest_tool": {
+        "//": "Determines if the item in the harvest tool slot should take durability damage.",
+        "//default": true,
+        "value": true
+      },
+      "efficiency_growth_modifier": {
+        "//": [
+          "The growth modifier applied for each level of efficiency that the harvest tool  ",
+          "has.                                                                            "
+        ],
+        "//default": 0.05,
+        "value": 0.05
+      },
+      "default_harvest_stack": {
+        "//": [
+          "If the player has not placed a harvest tool in a pot this default will be used. ",
+          "For example, if you set this to shears with the silk touch enchantment players  ",
+          "will not need to use shears or silk touch in pots in order to get certain item  ",
+          "drops.                                                                          "
+        ],
+        "//default": {},
+        "value": {}
+      }
+    }
+  },
+  "recipes": {
+    "//": "Options related to various recipes in the game.",
+    "value": {
+      "craft_basic_pots": {
+        "//": "Determines if basic botany pots may be crafted.",
+        "//default": true,
+        "value": true
+      },
+      "craft_hopper_pots": {
+        "//": "Determines if hopper pots may be crafted.",
+        "//default": true,
+        "value": true
+      },
+      "craft_wax_pots": {
+        "//": "Determines if wax pots may be crafted.",
+        "//default": true,
+        "value": true
+      }
+    }
+  },
+  "visuals": {
+    "//": "Options related to how botany pots appear and are rendered.",
+    "value": {
+      "pot_view_distance": {
+        "//": [
+          "Pots within this distance will render their soils/crops. Reducing the distance  ",
+          "can improve performance in areas with many pots, but will cause pots in the     ",
+          "distance to stop rendering.                                                     "
+        ],
+        "//default": 48,
+        "value": 48
+      },
+      "use_growth_animation": {
+        "//": [
+          "Disabling the growth animation will cause pots to always render at their largest",
+          "size instead of scaling up as they grow. This is purely visual and benchmarks   ",
+          "consistently show that disabling this option does not improve performance.      "
+        ],
+        "//default": true,
+        "value": true
+      },
+      "render_soil": {
+        "//": [
+          "When soil rendering is disabled soils will not appear in botany pots. While not ",
+          "recommended, this can improve performance on low-end hardware and in extreme    ",
+          "situations.                                                                     "
+        ],
+        "//default": true,
+        "value": true
+      },
+      "render_crop": {
+        "//": [
+          "When crop rendering is disabled crops will not appear in botany pots. While not ",
+          "recommended, this can improve performance on low-end hardware and in extreme    ",
+          "situations.                                                                     "
+        ],
+        "//default": true,
+        "value": true
+      }
+    }
+  }
+}

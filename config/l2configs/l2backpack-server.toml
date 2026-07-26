@@ -1,0 +1,9 @@
+# Default: 2
+# Range: 1 ~ 8
+initialRows = 2
+#How many items do players need to spawn with to have the privilege of having them in a backpack
+# Default: 6
+# Range: 1 ~ 36
+startupBackpackCondition = 6
+sophisticatedEnderTicking = true
+sophisticatedRightClickOpen = true

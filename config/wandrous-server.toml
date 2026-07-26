@@ -1,0 +1,17 @@
+#The reload time for the recharge crystal
+# Default: 60
+# Range: 0 ~ 200
+recharge_crystal = 60
+#The reload time for the greater recharge crystal
+# Default: 40
+# Range: 0 ~ 200
+greater_recharge_crystal = 40
+#The damage modifier of having the Strength effect on the caster
+# Default: 0.5
+# Range: 0.0 ~ 2.0
+strength_damage_modifier = 0.5
+#How to apply the reduce iframe spell
+#Allowed Values: ALL, PLAYERS_ONLY, MOBS_ONLY, NONE
+reduce_iframe_rule = "ALL"
+#Should the guide book be given on first spawn
+should_give_guide_book = true

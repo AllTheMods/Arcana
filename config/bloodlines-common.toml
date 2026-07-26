@@ -1,0 +1,551 @@
+#Whether default unlocked skills (skills unlocked for advancing in bloodline rank) are not unlockable manually
+defaultNotUnlockable = true
+
+#When changing any config which contains decimal values, ensure your edited value has a decimal at the end or it may be reset to original.
+#Multipliers work differently based on usage, many of them are attributes where you can effectively take the multiplier as 1 + value specified in config. Configs like this will be marked as attribute in description
+[noble_bloodline]
+	#When the correct bloodline skill is enabled, how often (amount of ticks) sun damage progress is increased. Integer values only
+	# Default: 3
+	# Range: > 2
+	sunTicksPerIncrease = 3
+	#Max Health increase/decrease for each bloodline rank.
+	nobleMaxHealthIncrease = [-2.0, -4.0, -4.0, -8.0]
+	#Noble attack speed increase per rank. Attribute Multiplier
+	nobleAttackSpeedIncrease = [0.1, 0.15, 0.2, 0.25]
+	#Neonatal timer increase/decrease for each bloodline rank. Attribute Multiplier. 
+	nobleNeonatalMultiplier = [0.0, -0.8, -0.65, -0.4]
+	#Resurrection timer increase/decrease for each bloodline rank. Attribute Multiplier. 
+	nobleResurrectionTimerMultiplier = [0.0, -0.8, -0.65, -0.4]
+	#Trade Prices increase/decrease for each bloodline rank. Attribute Multiplier
+	nobleTradePricesMultiplier = [0.8, 0.75, 0.5, 0.35]
+	#Multiplier for blood gain decrease when gaining blood from human hearts or other Vampirism Blood Food Items
+	nobleBloodGainDecreaseMultiplier = [0.7, 0.6, 0.5, 0.35]
+	#Multiplier for blood gain with noble blood drain skill when draining directly from mobs
+	nobleBloodMultiplier = [1.0, 1.25, 1.5, 1.8]
+	#Multiplier for bat speed with the bat speed increase skill
+	nobleBatSpeedMultiplier = [1.0, 1.1, 1.2, 1.4]
+	#Multiplier for speed from speed boost skill. Attribute Multiplier
+	nobleSpeedMultiplier = [0.0, 0.05, 0.1, 0.2]
+	#Multiplier for speed from celerity action. Attribute Multiplier
+	nobleCeleritySpeedMultiplier = [0.0, 0.2, 0.4, 0.6]
+	#Whether celerity action is enabled
+	celerityEnabled = true
+	#Celerity action cooldown in seconds
+	# Default: 60
+	# Range: > 1
+	celerityCooldown = 60
+	#Celerity action duration in seconds
+	# Default: 5
+	# Range: > 1
+	celerityDuration = 5
+	#Bloodline Rank at which celerity action gives Step Assist. Set to 6 to disable
+	# Default: 3
+	# Range: > 1
+	celerityStepAssistRank = 3
+	#Whether mesmerise action is enabled
+	mesmeriseEnabled = true
+	#Mesmerise action cooldown in seconds
+	# Default: 60
+	# Range: > 1
+	mesmeriseCooldown = 90
+	#Mesmerise action duration in seconds
+	# Default: 20
+	# Range: > 1
+	mesmeriseDuration = 20
+	#Whether leeching action is enabled
+	leechingEnabled = true
+	#Leeching action cooldown in seconds
+	# Default: 120
+	# Range: > 1
+	leechingCooldown = 120
+	#Leeching action duration in seconds
+	# Default: 10
+	# Range: > 1
+	leechingDuration = 10
+	#Leeching multiplier, how much the damage is multiplied to get exhaustion amount
+	# Default: 0.25
+	# Range: 0.01 ~ 1000.0
+	leechingMultiplier = 0.25
+	#Whether rain weakens noble vampires
+	nobleRainWeakness = true
+	#Whether flowing water further weakens noble vampires
+	nobleWaterWeakness = true
+	#Damage multiplier for damage from non-noble bloodline vampires
+	nonNobleDamageMultiplier = [1.0, 1.0, 1.0, 1.5]
+	#Damage multiplier when taking fire damage
+	nobleFireDamageMultiplier = [1.0, 1.0, 0.8, 0.5]
+	#Invisibility cooldown when a player has both noble and regular vampire invisibility actions unlocked
+	# Default: 10
+	# Range: > 1
+	bothInvisiblityCooldown = 10
+	#Invisibility duration when a player has both noble and regular vampire invisibility actions unlocked
+	# Default: 45
+	# Range: > 1
+	bothInvisibilityDuration = 45
+	#How much damage is multiplied by when attacking from behind with intrigue skill
+	# Default: 1.5
+	# Range: 0.0 ~ 1000.0
+	intrigueMultiplier = 1.5
+	#Flank cooldown in seconds
+	# Default: 15
+	# Range: > 1
+	nobleFlankCooldown = 15
+	#Flank max distance
+	# Default: 200
+	# Range: 1 ~ 1000
+	nobleFlankMaxDistance = 200
+	#Multiplier for armour in bat form with requisite skill
+	# Default: -0.45
+	# Range: -1.0 ~ 1.0
+	nobleBatArmourMultiplier = -0.45
+	#Bloodline Skills that are enabled by default upon reaching Rank 1
+	nobleBLRank1DefaultSkills = ["bloodlines:noble"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 2
+	nobleBLRank2DefaultSkills = ["bloodlines:noble_rank_2"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 3
+	nobleBLRank3DefaultSkills = ["bloodlines:noble_rank_3"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 4
+	nobleBLRank4DefaultSkills = ["bloodlines:noble_rank_4"]
+	#Whether the Noble Bloodline's unique method of joining the bloodline is available. If disabled, then add a recipe for the bloodline fang or add another way to become a member of the bloodline.
+	nobleUniqueUnlock = true
+	#The remaining health percentage a Vampire Baron should have in order for the Lordslayer injection to work.
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	nobleLordslayerBaronHealth = 0.3
+	#The minimum lord level a player must be in order to become a Noble, by the Lordslayer method
+	# Default: 2
+	# Range: 0 ~ 5
+	nobleLordSlayerMinLordRank = 2
+	#Blood Thirst increase/decrease for each bloodline rank. Attribute Multiplier
+	nobleBloodThirstMult = [0.1, 0.15, 0.25, 0.35]
+
+	#Noble bloodline configurable values
+	[noble_bloodline.noble_mobs]
+		#Additional speed for Noble Bloodline Mobs
+		nobleMobSpeedIncrease = [0.1, 0.15, 0.25, 0.5]
+
+[zealot_bloodline]
+	#Blood exhaustion change for each bloodline rank, Attribute Multiplier
+	zealotBloodExhaustionChange = [-0.15, -0.3, -0.4, -0.5]
+	#Mining speed multiplier for each zealot rank
+	zealotMiningSpeed = [1.1, 1.25, 1.35, 1.5]
+	#Mining speed increase for each rank when mining stone
+	zealotTunnelerIncrease = [5.0, 10.0, 15.0, 20.0]
+	#Multiplier of movement speed on stone for each zealot rank. Requires skill
+	zealotStoneSpeed = [1.075, 1.125, 1.2, 1.25]
+	#Multiplier of sun damage for each zealot rank.
+	zealotSunDamageMultiplier = [0.5, 1.0, 1.5, 2.0]
+	#Maximum Light Level for shadowwalk to work
+	# Default: 6
+	# Range: 0 ~ 15
+	zealotShadowwalkLightLevel = 6
+	#Maximum distance for shadowwalk
+	# Default: 25
+	# Range: 1 ~ 1000
+	zealotShadowwalkmaxDistance = 25
+	#Shaddowwalk cooldown at each rank, in seconds
+	shadowwalkCooldown = [15, 8, 5, 3]
+	#Damage multiplier for shadow armour depending on BL Rank
+	zealotShadowArmourDamageMultiplier = [0.9, 0.95, 0.85, 0.8]
+	#Maximum Light Level for shadow armour to work
+	# Default: 8
+	# Range: 0 ~ 15
+	zealotShadowarmourLightLevel = 8
+	#Maximum Light Level for dark cloak to work
+	# Default: 10
+	# Range: 0 ~ 15
+	zealotDarkCloakLightLevel = 10
+	#Dark cloak cooldown
+	# Default: 0
+	# Range: > 0
+	zealotDarkCloakCooldown = 0
+	#Dark cloak duration
+	# Default: 2147483647
+	# Range: > 0
+	zealotDarkCloakDuration = 2147483647
+	#Wall Climb Vertical Speed
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	zealotWallClimbSpeed = 0.3
+	#Wall Climb cooldown
+	# Default: 20
+	# Range: > 0
+	zealotWallClimbCooldown = 20
+	#Wall Climb duration
+	# Default: 15
+	# Range: > 0
+	zealotWallClimbDuration = 15
+	#Rank at which ticks from sun are increased more quickly
+	# Default: 3
+	# Range: 0 ~ 4
+	zealotDoubleSunTickRank = 3
+	#How much nutrition (blood) is gained from eating rotten flesh with the flesh eating perk
+	# Default: 5
+	# Range: 0 ~ 20
+	zealotFleshEatingNutrition = 5
+	#How much saturation gained from eating rotten flesh with the flesh eating perk
+	# Default: 0.5
+	# Range: 0.0 ~ 5.0
+	zealotFleshEatingSaturation = 0.5
+	#Maximum light level that shadow mastery works at
+	# Default: 10
+	# Range: 0 ~ 15
+	zealotObscuredPowerLightLevel = 10
+	#How much the timer replenishes every 10 ticks with obscured power.
+	# Default: 5
+	# Range: 0 ~ 1000
+	zealotObscuredPowerTimerIncrease = 10
+	#Maximum light level that shadow mastery works at
+	# Default: 8
+	# Range: 0 ~ 15
+	zealotShadowMasteryLightLevel = 8
+	#Trade Prices increase/decrease for each bloodline rank. Multiplier
+	zealotTradePricesMultiplier = [0.8, 0.7, 0.6, 0.5]
+	#Multiplier for action cooldownsa affected by Shadow Mastery action
+	zealotShadowMasteryCooldownMultiplier = [1.0, 1.25, 1.5, 2.0]
+	#Multiplier for damage from magical sources
+	zealotHexProtectionMultiplier = [0.9, 0.85, 0.85, 0.75]
+	#Frenzy cooldown, seconds
+	# Default: 60
+	# Range: > 0
+	zealotFrenzyCooldown = 60
+	#Frenzy duration, seconds
+	# Default: 15
+	# Range: > 0
+	zealotFrenzyDuration = 15
+	#Crawling or shifting speed multiplier for Serpent Skill, at each bloodline rank. Attribute Multiplier
+	zealotSerpentSpeedMultipliers = [0.1, 0.15, 0.2, 0.25]
+	#Frenzy mining speed multipliers. Attribute Multiplier
+	zealotMiningSpeedMultipliers = [0.1, 0.15, 0.2, 0.25]
+	#Damage taken in bright areas at specificed Bloodline Rank
+	# Default: 1.2
+	# Range: 0.0 ~ 2.147483647E9
+	zealotBrightAreaDamageMultiplier = 1.2
+	#Bloodline Rank required to start taking more damage in bright areas, set to 5 to disable
+	# Default: 4
+	# Range: 0 ~ 5
+	zealotBrightAreaDamageMultiplierRank = 4
+	#Light Level at which more damage is taken
+	# Default: 14
+	# Range: 0 ~ 15
+	zealotBrightAreaDamageMultiplierLightLevel = 14
+	#Poisoned strike poison duration, in ticks
+	# Default: 60
+	# Range: > 0
+	zealotPoisonedStrikeDuration = 60
+	#Bloodline Skills that are enabled by default upon reaching Rank 1
+	zealotBLRank1DefaultSkills = ["bloodlines:zealot"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 2
+	zealotBLRank2DefaultSkills = ["bloodlines:zealot_rank_2"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 3
+	zealotBLRank3DefaultSkills = ["bloodlines:zealot_rank_3"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 4
+	zealotBLRank4DefaultSkills = ["bloodlines:zealot_rank_4"]
+	#Whether the Zealot Bloodline's unique method of joining the bloodline is available. If disabled, then add a recipe for the bloodline fang or add another way to become a member of the bloodline.
+	zealotUniqueUnlock = true
+
+	#Deep Zealots bloodline configurable values
+	[zealot_bloodline.zealot_mobs]
+		#Zealot Mob Damage Increase for each rank
+		zealotMobDamageIncrease = [1.0, 1.5, 3.0, 4.5]
+
+[ectotherm_bloodline]
+	#Ice Lord cooldown
+	# Default: 15
+	# Range: > 0
+	ectothermIceLordCooldown = 15
+	#Distance you can see clearly underwater at, for each bloodline rank. Set to 0 for normal amount
+	ectothermUnderwaterVisionDistance = [0, 90, 125, 150]
+	#How much nutrition (blood) is gained from eating fish with the fishmonger perk
+	# Default: 5
+	# Range: 0 ~ 20
+	ectothermFishmongerNutrition = 5
+	#How much saturation gained from eating fish with the fishmonger perk
+	# Default: 0.5
+	# Range: 0.0 ~ 5.0
+	ectothermFishmongerSaturation = 0.5
+	#How much each BL Rank increases fire damage by
+	ectothermFireDamageMultipliers = [1.25, 1.35, 1.5, 1.75]
+	#Swim speed multipliers for each BL rank. Attribute Multiplier
+	ectothermSwimSpeedMultipliers = [0.25, 0.5, 0.75, 1.0]
+	#Underwater mining speed multipliesr at each rank, with requisite skill
+	ectothermUnderwaterMiningSpeedMultiplier = [4.0, 8.0, 10.0, 12.0]
+	#How much a crit with freezing attack contributes to freezing
+	# Default: 25
+	# Range: 0 ~ 10000
+	ectothermFrozenAttackFreezingAmount = 25
+	#How long slowness from a crit with slowing attack lasts
+	# Default: 30
+	# Range: 0 ~ 10000
+	ectothermSlowingAttackSlownessDuration = 30
+	#Dolphin Leap Action cooldown, in seconds
+	# Default: 7
+	# Range: > 0
+	ectothermDolphinLeapCooldown = 7
+	#Dolphin Leap action distance leaped multiplier
+	# Default: 2.5
+	# Range: 0.0 ~ 1000.0
+	ectothermDolphinLeapDistance = 2.5
+	#Dolphin Leap Action duration, in seconds
+	# Default: 5
+	# Range: > 0
+	ectothermDolphinDuration = 5
+	#How much extra block interaction range is given by the Tentacle Skill
+	# Default: 1.75
+	# Range: 0.0 ~ 10.0
+	ectothermTentacleRange = 1.75
+	#Damage multipliers when damaged by Holy Water at each Bloodline Rank, with requisite skill
+	ectothermHolyWaterDiffusion = [0.9, 0.8, 0.7, 0.5]
+	#How much each BL Rank reduces max health in hot biomes
+	ectothermHotBiomeReducedMaxHealthAmount = [-1.5, -2.5, -3.0, -3.5]
+	#How much each BL Rank reduces movement speed in hot biomes (Attribute Multiplier)
+	ectothermHotBiomeReducedMovementSpeedMultiplier = [-0.05, -0.1, -0.15, -0.25]
+	#How much each BL Rank increases fire damage by. Attribute Multiplier
+	ectothermColdBiomeSpeedMultiplier = [0.1, 0.15, 0.2, 0.25]
+	#How much each BL Rank multiplies the action cooldown by in hot biomes
+	ectothermHotBiomeActionCooldownMultiplier = [1.25, 1.5, 2.0, 2.5]
+	#Rank at which movement speed is reduced in hot biomes. Attribute Multiplier
+	# Default: 4
+	# Range: 0 ~ 5
+	ectothermHotBiomeReducedMovementSpeedRank = 4
+	#Rank at which action cooldown is increased in hot biomes
+	# Default: 3
+	# Range: 0 ~ 5
+	ectothermHotBiomeActionCooldownRank = 3
+	#Rank at which max health is reduced in hot biomes
+	# Default: 2
+	# Range: 0 ~ 5
+	ectothermHotBiomeReducedMaxHealthRank = 2
+	#Rank at which movement speed is increased in cold biomes
+	# Default: 4
+	# Range: 0 ~ 5
+	ectothermColdBiomeIncreasedMovementSpeedRank = 4
+	#Lord of Frost action duration at each BL Rank, in seconds
+	ectothermFrostDuration = [15, 30, 60, 120]
+	#Duration multiplier for Lord of Frost with requisite skill
+	# Default: 2.0
+	# Range: 0.0 ~ 5.0
+	ectothermLordOfFrostMultiplier = 2.0
+	#Damage multipliers for Ectotherms under the Lord of Frost action
+	ectothermLordOfFrostDamageMultiplier = [1.25, 1.35, 1.5, 1.75]
+	#Rank at which lord of frost damage is increased
+	# Default: 3
+	# Range: 0 ~ 5
+	ectothermLordofFrostIncreasedDamageRank = 3
+	#Increase to duration for actions every 10 ticks whilst underwater with requisite skill
+	# Default: 5
+	# Range: 0 ~ 1000
+	ectothermUnderwaterDurationIncrease = 5
+	#Cooldown for ink splash action in seconds
+	# Default: 60
+	# Range: 0 ~ 1000
+	ectothermInkSplashCooldown = 60
+	#Hydrodynamic Form underwater speed additive multiplier. Multiplier
+	# Default: 2.5
+	# Range: 0.0 ~ 10.0
+	ectothermHydrodynamicFormSpeedMultiplier = 2.5
+	#Duration of blindness from ink splash, in ticks
+	# Default: 150
+	# Range: 0 ~ 1000
+	ectothermInkSplashBlindnessLength = 150
+	#Bloodline Skills that are enabled by default upon reaching Rank 1
+	ectothermBlRank1DefaultSkills = ["bloodlines:ectotherm"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 2
+	ectothermBlRank2DefaultSkills = ["bloodlines:ectotherm_rank_2"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 3
+	ectothermBlRank3DefaultSkills = ["bloodlines:ectotherm_rank_3"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 4
+	ectothermBlRank4DefaultSkills = ["bloodlines:ectotherm_rank_4"]
+	#Whether the Ectotherm Bloodline's unique method of joining the bloodline is available. If disabled, then add a recipe for the bloodline fang or add another way to become a member of the bloodline.
+	ectothermUniqueUnlock = true
+	#Duration of Cold Blooded Elixir, in seconds
+	# Default: 30
+	# Range: 0 ~ 10000
+	coldBloodedElixirDurationSeconds = 30
+
+	#Ectotherm bloodline configurable values
+	[ectotherm_bloodline.ectotherm_mobs]
+		#Additional knockback resistance for Ectotherm Bloodline mobs
+		ectothermMobAdditionalKnockbackResistance = [0.25, 0.5, 0.75, 1.0]
+
+[bloodknight_bloodline]
+	#The proportion of remaining health that a vampire mob must have, or be below, so that a Bloodknight Vampire can feed on it.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	bloodknightVampireMinHealthFeedingProportion = 0.25
+	#Bloodline Skills that are enabled by default upon reaching Rank 1
+	bloodknightBlRank1DefaultSkills = ["bloodlines:bloodknight"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 2
+	bloodknightBlRank2DefaultSkills = ["bloodlines:bloodknight_rank_2"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 3
+	bloodknightBlRank3DefaultSkills = ["bloodlines:bloodknight_rank_3"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 4
+	bloodknightBlRank4DefaultSkills = ["bloodlines:bloodknight_rank_4"]
+	#Multipliers for damage at each blood knight rank. Attribute Multiplier
+	bloodknightDamageIncrease = [0.1, 0.15, 0.2, 0.25]
+	#Multiplier for blood gain from non-vampiric blood sources
+	bloodknightOtherSourceBloodDecrease = [0.7, 0.5, 0.3, 0.2]
+	#Vampire Blood Bottle Nutrition (Blood Gain)
+	# Default: 18
+	# Range: 0 ~ 100
+	bloodknightVampireBloodBottleNutrition = 18
+	#Vampire Blood Bottle Saturation
+	# Default: 2.0
+	# Range: 0.0 ~ 10.0
+	bloodknightVampireBloodBottleSaturation = 2.0
+	#Damage bonus increase from the Blood Frenzy effect
+	# Default: 2.0
+	# Range: 0.0 ~ 10.0
+	bloodknightBloodFrenzyDamageBonus = 3.0
+	#Max Health increase from the Blood Frenzy effect
+	# Default: 4.0
+	# Range: 0.0 ~ 10.0
+	bloodknightBloodFrenzyMaxHealthBonus = 4.0
+	#Speed multiplier from the Blood Frenzy tier 2 effect
+	# Default: 0.15
+	# Range: -5.0 ~ 5.0
+	bloodknightBloodFrenzy2SpeedBonus = 0.15
+	#Jump multiplier  from the Blood Frenzy tier 2 effect
+	# Default: 0.15
+	# Range: -5.0 ~ 5.0
+	bloodknightBloodFrenzy2JumpHeightBonus = 0.15
+	#Duration of blood frenzy effect, for each BL Rank, in seconds
+	bloodknightBloodFrenzyDurationPerRank = [60, 180, 320, 500, 900]
+	#The percentage with Feigned Mercy skill of max health that a vampire must have to begin feeding on it
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	bloodknightFeignedVampireMaxHealthFeedingAmount = 0.5
+	#Cooldown for crimson leap action, in ticks
+	# Default: 20
+	# Range: 0 ~ 10000
+	bloodknightCrimsonLeapCooldown = 20
+	#Duration for crimson leap action, in ticks
+	# Default: 50
+	# Range: 0 ~ 10000
+	bloodknightCrimsonLeapDuration = 50
+	#Blood cost of using crimson leap action
+	# Default: 8
+	# Range: 0 ~ 50
+	bloodknightCrimsonLeapBloodUse = 8
+	#Blood usage upon activating Sanguine Infusion
+	# Default: 3
+	# Range: 0 ~ 50
+	bloodknightSanguineInfusionBaseBloodCost = 3
+	#Cooldown for sanguine infusion action, in seconds
+	# Default: 30
+	# Range: 0 ~ 10000
+	bloodknightSanguineInfusionCooldown = 30
+	#Duration for sangine infusion action, in seconds
+	# Default: 3000
+	# Range: 0 ~ 10000
+	bloodknightSanguineInfusionDuration = 3000
+	#Amount of ticks it takes for 1 blood to be used whilst action is active
+	# Default: 160
+	# Range: 0 ~ 10000
+	bloodknightSanguineInfusionTimePerBloodLoss = 160
+	#Speed mult from sanguine infusion
+	# Default: 0.75
+	# Range: 0.0 ~ 50.0
+	bloodknightSanguineInfusionSpeedMult = 0.75
+	#Jump mult from sanguine infusion
+	# Default: 0.25
+	# Range: 0.0 ~ 50.0
+	bloodknightSanguineInfusionJumpHeightMult = 0.25
+	#Speed mult from sanguine infusion with requisite skill
+	# Default: 0.2
+	# Range: 0.0 ~ 50.0
+	bloodknightSanguineInfusionMiningSpeedMult = 0.2
+	#Cooldown for blood hunt action, in seconds
+	# Default: 30
+	# Range: 0 ~ 10000
+	bloodknightBloodHuntCooldown = 30
+	#Duration for blood hunt action, in seconds
+	# Default: 3000
+	# Range: 0 ~ 10000
+	bloodknightBloodHuntDuration = 3000
+	#Amount of ticks it takes for 1 blood to be used whilst action is active
+	# Default: 140
+	# Range: 0 ~ 10000
+	bloodknightBloodHuntTimePerBloodLoss = 140
+	#Blood usage upon activating Blood Hunt
+	# Default: 3
+	# Range: 0 ~ 50
+	bloodknightBloodHuntBaseBloodCost = 3
+	#Trade Prices increase/decrease for each bloodline rank. Multiplier
+	bloodknightTradePricesMultiplier = [1.0, 0.8, 0.7, 0.6]
+	#Increased blood gain when drinking blood from vampires with requisite skill. Multiplier
+	bloodknightVampireBonusBloodMult = [1.5, 2.0, 2.5, 3.0]
+	#Increased saturation gain when drinking blood from vampires with requisite skill. Multiplier
+	bloodknightVampireBonusSaturationMult = [1.25, 1.5, 1.75, 2.0]
+	#Blood drain from vampire mobs with sapping strike skill
+	# Default: 4
+	# Range: 0 ~ 40
+	bloodknightSappingStrikeMobDrain = 4
+	#Blood drain from vampire players with sapping strike skill
+	# Default: 1
+	# Range: 0 ~ 40
+	bloodknightSappingStrikePlayerDrain = 1
+	#Saturation gain from sapping strike skill
+	# Default: 0.25
+	# Range: 0.0 ~ 10.0
+	bloodknightSappingStrikeSaturation = 0.25
+	#Blood usage upon activating Daywalker
+	# Default: 5
+	# Range: 0 ~ 50
+	bloodknightDaywalkerBaseBloodCost = 5
+	#Cooldown for daywalker action, in seconds
+	# Default: 300
+	# Range: 0 ~ 10000
+	bloodknightDaywalkerCooldown = 150
+	#Duration for daywalker action, in seconds
+	# Default: 180
+	# Range: 0 ~ 10000
+	bloodknightDaywalkerDuration = 300
+	#Amount of ticks it takes for 1 blood to be used whilst action is active
+	# Default: 45
+	# Range: 0 ~ 10000
+	bloodknightDaywalkerTimePerBloodLoss = 75
+	#Bat Speed flight multiplier from Frenzied Bat Skill
+	# Default: 1.75
+	# Range: 0.0 ~ 100.0
+	bloodknightBatSpeedMultiplier = 1.75
+	#Damage received from hunters multiplier for Bloodknights. Multiplier
+	bloodknightHunterDamageMult = [1.0, 1.0, 1.15, 1.35]
+	#Damage dealt to vampires multiplier for Bloodknights. Multiplier
+	bloodknightVampireDamageMult = [1.5, 2.0, 1.25, 1.5]
+	#Cooldown for Blood Extraction action, in seconds
+	# Default: 900
+	# Range: 0 ~ 100000
+	bloodknightBloodExtractionCooldown = 900
+	#Blood Frenzy attack speed mult with requisite skill. Attribute Multiplier
+	# Default: 0.35
+	# Range: 0.0 ~ 10.0
+	bloodknightBloodFrenzyAttackSpeedMult = 0.35
+	#Duration of Hidden Strike weakness on mobs, in ticks
+	# Default: 500
+	# Range: 0 ~ 100000
+	bloodknightHiddenStrikeWeaknessDurationMob = 500
+	#Duration of Hidden Strike slowness on mobs, in ticks
+	# Default: 500
+	# Range: 0 ~ 100000
+	bloodknightHiddenStrikeSlownessDurationMob = 500
+	#Duration of Hidden Strike weakness on players, in ticks
+	# Default: 200
+	# Range: 0 ~ 100000
+	bloodknightHiddenStrikeWeaknessDurationPlayer = 200
+	#Duration of Hidden Strike slowness on players, in ticks
+	# Default: 300
+	# Range: 0 ~ 100000
+	bloodknightHiddenStrikeSlownessDurationPlayer = 300
+	#Whether the Bloodknight Bloodline's unique method of joining the bloodline is available. If disabled, then add a recipe for the bloodline fang or add another way to become a member of the bloodline.
+	bloodknightUniqueUnlock = true
+	#Duration of Heinous Elixir, in seconds
+	# Default: 15
+	# Range: 0 ~ 10000
+	heinousElixirDurationSeconds = 15
+	#Whether the Bloodknight Bloodline's blood frenzy triggers when drinking bottled vampire blood 
+	bloodBottleFrenzy = false
+	#Duration of blood frenzy effect when drinking bottled blood, for each BL Rank, in seconds
+	bloodBottleFrenzyDuration = [30, 60, 120, 150, 200]
+	#Multipliers for blood exhaustion at each blood knight rank. Attribute Multiplier
+	bloodknightBloodThirstMultiplier = [-0.25, -0.35, -0.5, -0.75]

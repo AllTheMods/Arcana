@@ -1,0 +1,10 @@
+/*
+This config allows disabling built-in packs supplied by Cristel Lib.
+Move entries from 'defaultPacks' to 'disabledPacks' to disable them.
+*/
+{
+	"defaultPacks": [],
+	"disabledPacks": [],
+	// This option hides all packs provided by Cristel Lib in the pack selection screen to reduce clutter.
+	"hideAllPacksInScreen": false
+}

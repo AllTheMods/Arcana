@@ -1,0 +1,552 @@
+{
+  "info": {
+    "combat": {
+      "id": "combat",
+      "category": "COMBAT",
+      "skills": {
+        "combat:1": {
+          "active": true,
+          "blocked": false,
+          "id": "combat:1",
+          "parents": [],
+          "reqLvl": 0,
+          "maxLvl": 10,
+          "reqPoints": 3,
+          "reqUpPoints": 2,
+          "initialValue": 2.0,
+          "category": "COMBAT",
+          "description": [],
+          "conditions": [],
+          "x": 404,
+          "y": -200,
+          "info": {
+            "id": "minecraft:wooden_sword",
+            "type": "ITEM"
+          }
+        },
+        "combat:5": {
+          "active": true,
+          "blocked": false,
+          "id": "combat:5",
+          "parents": [
+            "combat:1"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 5,
+          "reqPoints": 1,
+          "reqUpPoints": 3,
+          "initialValue": 2.0,
+          "category": "COMBAT",
+          "description": [],
+          "conditions": [],
+          "x": 356,
+          "y": -204,
+          "info": {
+            "id": "minecraft:golden_axe",
+            "type": "ITEM"
+          }
+        },
+        "combat:4": {
+          "active": true,
+          "blocked": false,
+          "id": "combat:4",
+          "parents": [
+            "combat:1"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 15,
+          "reqPoints": 2,
+          "reqUpPoints": 2,
+          "initialValue": 1.0,
+          "category": "COMBAT",
+          "description": [],
+          "conditions": [],
+          "x": 444,
+          "y": -196,
+          "info": {
+            "id": "minecraft:golden_sword",
+            "type": "ITEM"
+          }
+        },
+        "combat:3": {
+          "active": true,
+          "blocked": false,
+          "id": "combat:3",
+          "parents": [
+            "combat:2"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 20,
+          "reqPoints": 4,
+          "reqUpPoints": 2,
+          "initialValue": 2.0,
+          "category": "COMBAT",
+          "description": [],
+          "conditions": [],
+          "x": 404,
+          "y": -112,
+          "info": {
+            "id": "minecraft:shield",
+            "type": "ITEM"
+          }
+        },
+        "combat:2": {
+          "active": true,
+          "blocked": false,
+          "id": "combat:2",
+          "parents": [
+            "combat:1"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 6,
+          "reqPoints": 2,
+          "reqUpPoints": 2,
+          "initialValue": 2.0,
+          "category": "COMBAT",
+          "description": [],
+          "conditions": [],
+          "x": 400,
+          "y": -156,
+          "info": {
+            "id": "etheria:textures/gui/heart.png",
+            "type": "TEXTURE"
+          }
+        },
+        "combat:8": {
+          "active": true,
+          "blocked": false,
+          "id": "combat:8",
+          "parents": [
+            "combat:3"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 15,
+          "reqPoints": 6,
+          "reqUpPoints": 3,
+          "initialValue": 3.0,
+          "category": "COMBAT",
+          "description": [],
+          "conditions": [],
+          "x": 404,
+          "y": -68,
+          "info": {
+            "id": "etheria:textures/gui/dodge_damage.png",
+            "type": "TEXTURE"
+          }
+        },
+        "combat:7": {
+          "active": true,
+          "blocked": false,
+          "id": "combat:7",
+          "parents": [
+            "combat:3"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 15,
+          "reqPoints": 5,
+          "reqUpPoints": 3,
+          "initialValue": 5.0,
+          "category": "COMBAT",
+          "description": [],
+          "conditions": [],
+          "x": 448,
+          "y": -112,
+          "info": {
+            "id": "minecraft:golden_boots",
+            "type": "ITEM"
+          }
+        },
+        "combat:6": {
+          "active": true,
+          "blocked": false,
+          "id": "combat:6",
+          "parents": [
+            "combat:3"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 8,
+          "reqPoints": 4,
+          "reqUpPoints": 4,
+          "initialValue": 1.0,
+          "category": "COMBAT",
+          "description": [],
+          "conditions": [],
+          "x": 356,
+          "y": -108,
+          "info": {
+            "id": "etheria:textures/gui/heart_sword.png",
+            "type": "TEXTURE"
+          }
+        }
+      }
+    },
+    "mining": {
+      "id": "mining",
+      "category": "MINING",
+      "skills": {
+        "mining:8": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:8",
+          "parents": [
+            "mining:3"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 0,
+          "reqPoints": 5,
+          "reqUpPoints": 1,
+          "initialValue": 1.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": 84,
+          "y": -44,
+          "info": {
+            "id": "minecraft:stone",
+            "type": "ITEM"
+          }
+        },
+        "mining:9": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:9",
+          "parents": [
+            "mining:3"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 8,
+          "reqPoints": 4,
+          "reqUpPoints": 1,
+          "initialValue": 2.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": 84,
+          "y": 44,
+          "info": {
+            "id": "minecraft:diamond",
+            "type": "ITEM"
+          }
+        },
+        "mining:6": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:6",
+          "parents": [
+            "mining:5"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 20,
+          "reqPoints": 3,
+          "reqUpPoints": 2,
+          "initialValue": 1.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": -4,
+          "y": -88,
+          "info": {
+            "id": "minecraft:experience_bottle",
+            "type": "ITEM"
+          }
+        },
+        "mining:7": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:7",
+          "parents": [
+            "mining:5"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 20,
+          "reqPoints": 2,
+          "reqUpPoints": 1,
+          "initialValue": 2.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": 44,
+          "y": -44,
+          "info": {
+            "id": "etheria:textures/gui/heal.png",
+            "type": "TEXTURE"
+          }
+        },
+        "mining:4": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:4",
+          "parents": [
+            "mining:3"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 0,
+          "reqPoints": 6,
+          "reqUpPoints": 1,
+          "initialValue": 1.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": 132,
+          "y": 4,
+          "info": {
+            "id": "minecraft:diamond_pickaxe",
+            "type": "ITEM"
+          }
+        },
+        "mining:5": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:5",
+          "parents": [
+            "mining:1"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 24,
+          "reqPoints": 1,
+          "reqUpPoints": 1,
+          "initialValue": 5.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": -4,
+          "y": -44,
+          "info": {
+            "id": "minecraft:gold_nugget",
+            "type": "ITEM"
+          }
+        },
+        "mining:2": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:2",
+          "parents": [
+            "mining:1"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 0,
+          "reqPoints": 1,
+          "reqUpPoints": 1,
+          "initialValue": 1.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [
+            {
+              "id": "mining",
+              "amount": 20,
+              "type": "STAT"
+            }
+          ],
+          "x": 44,
+          "y": 4,
+          "info": {
+            "id": "minecraft:stone_pickaxe",
+            "type": "ITEM"
+          }
+        },
+        "mining:3": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:3",
+          "parents": [
+            "mining:2"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 0,
+          "reqPoints": 2,
+          "reqUpPoints": 1,
+          "initialValue": 1.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": 88,
+          "y": -4,
+          "info": {
+            "id": "minecraft:iron_pickaxe",
+            "type": "ITEM"
+          }
+        },
+        "mining:15": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:15",
+          "parents": [
+            "mining:1"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 12,
+          "reqPoints": 2,
+          "reqUpPoints": 1,
+          "initialValue": 2.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": 4,
+          "y": 44,
+          "info": {
+            "id": "minecraft:wooden_shovel",
+            "type": "ITEM"
+          }
+        },
+        "mining:1": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:1",
+          "parents": [],
+          "reqLvl": 0,
+          "maxLvl": 0,
+          "reqPoints": 1,
+          "reqUpPoints": 1,
+          "initialValue": 1.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [
+            {
+              "id": "mining",
+              "amount": 10,
+              "type": "STAT"
+            }
+          ],
+          "x": 0,
+          "y": 0,
+          "info": {
+            "id": "minecraft:wooden_pickaxe",
+            "type": "ITEM"
+          }
+        },
+        "mining:16": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:16",
+          "parents": [
+            "mining:15"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 2,
+          "reqPoints": 4,
+          "reqUpPoints": 1,
+          "initialValue": 0.4,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": -4,
+          "y": 88,
+          "info": {
+            "id": "minecraft:golden_shovel",
+            "type": "ITEM"
+          }
+        },
+        "mining:11": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:11",
+          "parents": [
+            "mining:4"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 0,
+          "reqPoints": 7,
+          "reqUpPoints": 1,
+          "initialValue": 1.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": 132,
+          "y": 44,
+          "info": {
+            "id": "minecraft:obsidian",
+            "type": "ITEM"
+          }
+        },
+        "mining:22": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:22",
+          "parents": [
+            "mining:20"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 12,
+          "reqPoints": 3,
+          "reqUpPoints": 1,
+          "initialValue": 3.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": -88,
+          "y": 4,
+          "info": {
+            "id": "minecraft:charcoal",
+            "type": "ITEM"
+          }
+        },
+        "mining:20": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:20",
+          "parents": [
+            "mining:1"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 8,
+          "reqPoints": 1,
+          "reqUpPoints": 1,
+          "initialValue": 2.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": -44,
+          "y": 4,
+          "info": {
+            "id": "minecraft:stone_axe",
+            "type": "ITEM"
+          }
+        },
+        "mining:10": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:10",
+          "parents": [
+            "mining:9"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 5,
+          "reqPoints": 7,
+          "reqUpPoints": 1,
+          "initialValue": 2.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": 88,
+          "y": 88,
+          "info": {
+            "id": "minecraft:netherite_scrap",
+            "type": "ITEM"
+          }
+        },
+        "mining:21": {
+          "active": true,
+          "blocked": false,
+          "id": "mining:21",
+          "parents": [
+            "mining:20"
+          ],
+          "reqLvl": 0,
+          "maxLvl": 0,
+          "reqPoints": 1,
+          "reqUpPoints": 1,
+          "initialValue": 1.0,
+          "category": "MINING",
+          "description": [],
+          "conditions": [],
+          "x": -44,
+          "y": 44,
+          "info": {
+            "id": "minecraft:oak_log",
+            "type": "ITEM"
+          }
+        }
+      }
+    }
+  }
+}

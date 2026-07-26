@@ -1,0 +1,103 @@
+{
+  "rolls": 1.0,
+  "bonus_rolls": 0.0,
+  "name": "tombstone:chest_treasure",
+  "entries": [
+    {
+      "name": "minecraft:bundle",
+      "weight": 20,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "name": "tombstone:bag_of_seeds",
+      "weight": 20,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "ancient": false,
+          "function": "tombstone:random_scroll_buff"
+        }
+      ],
+      "name": "tombstone:strange_scroll",
+      "weight": 100,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:delayed_nbt_loot"
+        }
+      ],
+      "name": "tombstone:scroll_of_knowledge",
+      "weight": 20,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "ancient": false,
+          "function": "tombstone:random_magic_tablet"
+        }
+      ],
+      "name": "tombstone:strange_tablet",
+      "weight": 50,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:delayed_nbt_loot"
+        }
+      ],
+      "name": "tombstone:magic_scroll",
+      "weight": 50,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "name": "tombstone:gemstone_of_familiar",
+      "weight": 10,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:delayed_nbt_loot"
+        }
+      ],
+      "name": "tombstone:voodoo_poppet",
+      "weight": 10,
+      "type": "minecraft:item"
+    },
+    {
+      "functions": [
+        {
+          "function": "tombstone:delayed_nbt_loot"
+        }
+      ],
+      "name": "tombstone:receptacle_of_familiar",
+      "weight": 10,
+      "type": "minecraft:item"
+    },
+    {
+      "weight": 710,
+      "type": "minecraft:empty"
+    }
+  ],
+  "conditions": [
+    {
+      "condition": "tombstone:check_player"
+    }
+  ]
+}

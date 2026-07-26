@@ -1,0 +1,223 @@
+#ElementalCraft config
+#Note: ElementalCraft favor setting config for blocks and stacks through custom datatypes found inside data/elementalcraft/elementalcraft/ (https://github.com/Sirttas/ElementalCraft/tree/1.21/src/generated/resources/data/elementalcraft/elementalcraft)
+[elementalcraft]
+
+	[elementalcraft.extractor]
+		#The amount of element extracted by a rudimentary extractor.
+		# Default: 5
+		# Range: 0 ~ 100
+		rudimentaryExtractorExtractionAmount = 5
+		#The max amount of runes on a rudimentary extractor.
+		# Default: 1
+		# Range: 0 ~ 10
+		rudimentaryExtractorMaxRunes = 1
+		#The amount of element extracted by an extractor.
+		# Default: 25
+		# Range: 0 ~ 100
+		extractorExtractionAmount = 25
+		#The max amount of runes on an extractor.
+		# Default: 2
+		# Range: 0 ~ 10
+		extractorMaxRunes = 2
+		#The amount of element extracted by an improved extractor.
+		# Default: 100
+		# Range: 0 ~ 500
+		improvedExtractorExtractionAmount = 100
+		#The max amount of runes on an improved extractor.
+		# Default: 3
+		# Range: 0 ~ 10
+		improvedExtractoMaxRunes = 3
+
+	[elementalcraft.diffuser]
+		#The amount of element transfered by a diffuser.
+		# Default: 5
+		# Range: 0 ~ 100
+		diffuserDiffusionAmount = 5
+		#The max amount of runes on a diffuser.
+		# Default: 3
+		# Range: 0 ~ 10
+		diffuserMaxRunes = 3
+
+	[elementalcraft.fireFurnace]
+		#The amount multiplied by the cooking time of the furnace recipe.
+		# Default: 5
+		# Range: 0 ~ 1000
+		fireFurnaceElementAmount = 5
+
+		[elementalcraft.fireFurnace.fireBlastFurnace]
+			#The amount multiplied by the cooking time of the blast furnace recipe.
+			# Default: 10
+			# Range: 0 ~ 1000
+			fireBlastFurnaceElementAmount = 10
+
+		[elementalcraft.fireFurnace.binder]
+			#Define if or not binder recipe require to be ordered.
+			binderRecipeMatchOrder = true
+
+		[elementalcraft.fireFurnace.enchantmentLiquefier]
+			#The cost of liquefying echantments.
+			# Default: 5000
+			# Range: 0 ~ 100000000
+			enchantmentLiquefierElementAmount = 5000
+			#The chance of breaking echantments.
+			# Default: 2.5
+			# Range: 0.0 ~ 100.0
+			enchantmentLiquefierBreakChance = 2.5
+
+			[elementalcraft.fireFurnace.purifier.pureOre]
+				#Set to false if you want to manually manage processing of pure ore.
+				pureOreRecipeInjection = true
+
+		[elementalcraft.fireFurnace.elementPipe]
+			#The amount of element transferred by rudimentary pipes.
+			# Default: 25
+			# Range: 0 ~ 10000
+			rudimentaryPipeTransferAmount = 25
+			#The amount of element transferred by pipes.
+			# Default: 100
+			# Range: 0 ~ 10000
+			pipeTransferAmount = 100
+			#The amount of element transferred by improved pipes.
+			# Default: 500
+			# Range: 0 ~ 10000
+			improvedPipeTransferAmount = 500
+			#Cache the last path used by the pipe to increase performances.
+			pipePathCache = true
+
+				[elementalcraft.fireFurnace.elementPipe.upgrade.elementBeam]
+					#The ranges of the element beam.
+					# Default: 10
+					# Range: 0 ~ 100
+					elementBeamRange = 10
+					#The max amount of runes an element beam can have.
+					# Default: 1
+					# Range: 0 ~ 10
+					elementBeamMaxRunes = 1
+
+				[elementalcraft.fireFurnace.elementPipe.upgrade.elementPump]
+					#The amount of element pumped by the element pump.
+					# Default: 5.0
+					# Range: 0.0 ~ 100.0
+					elementPumpMultiplier = 5.0
+					#The amount of element wasted by the element pump.
+					# Default: 0.1
+					# Range: 0.0 ~ 1.0
+					elementPumpWaste = 0.1
+					#The max amount of runes an element pump can have.
+					# Default: 3
+					# Range: 0 ~ 10
+					elementPumpMaxRunes = 3
+
+		[elementalcraft.fireFurnace.sorter]
+			#The amount of tick between two ordered sorter item transfer.
+			# Default: 10
+			# Range: 0 ~ 100
+			sorterCooldown = 10
+			#The max amount of stacks an order sorter can filter.
+			# Default: 15
+			# Range: 0 ~ 100
+			sorterMaxItem = 15
+			#The max amount of runes an order sorter can have.
+			# Default: 3
+			# Range: 0 ~ 10
+			sorterMaxRunes = 3
+
+	#Pure Infuser and pedestals config
+	[elementalcraft.pureInfuser]
+
+		[elementalcraft.pureInfuser.pedestals]
+			#The max amount of runes on a pedestal.
+			# Default: 1
+			# Range: 0 ~ 10
+			pedestalMaxRunes = 1
+			#The element capacity of a pedestal.
+			# Default: 10000
+			# Range: 0 ~ 100000000
+			pedestalCapacity = 10000
+
+	#Shrines config
+	[elementalcraft.shrines]
+
+		#Shrine upgrades config
+		[elementalcraft.shrines.upgrades]
+			#The fortune level of the fortune shrine upgrade.
+			# Default: 1
+			# Range: 1 ~ 10
+			fortuneShrineUpgradeLevel = 1
+			#The fortune level of the fortune shrine upgrade.
+			# Default: 3
+			# Range: 1 ~ 10
+			greaterFortuneShrineUpgradeLevel = 3
+
+	#Items config
+	[elementalcraft.stacks]
+		#The max number of spells on a focus.
+		# Default: 10
+		# Range: 1 ~ 20
+		focusMaxSpell = 10
+		#The max number of spells on an elementalist grimoire.
+		# Default: 100
+		# Range: 1 ~ 1000
+		spellBookMaxSpell = 100
+		#The amount of element contained in a single shard.
+		# Default: 250
+		# Range: 0 ~ 1000
+		shardElementAmount = 250
+
+		[elementalcraft.stacks.elementHolder]
+			#The element capacity of an element holder.
+			# Default: 10000
+			# Range: 0 ~ 100000000
+			elementHolderCapacity = 10000
+			#The amount of element transferred by an element holder.
+			# Default: 25
+			# Range: 0 ~ 1000
+			elementHolderTransferAmount = 25
+
+			[elementalcraft.stacks.elementHolder.pure]
+				#The element capacity of a pure element holder.
+				# Default: 100000
+				# Range: 0 ~ 100000000
+				pureElementHolderCapacity = 100000
+				#The amount of element transferred by a pure element holder.
+				# Default: 100
+				# Range: 0 ~ 1000
+				pureElementHolderTransferAmount = 100
+
+	#Spell config
+	[elementalcraft.spell]
+		#Define if a spell will be cast (and destroyed) or not if you dont have enought element.
+		spellConsumeOnFail = false
+
+	#Source config
+	[elementalcraft.source]
+
+		#Source Breeder and pedestals config
+		[elementalcraft.source.breeder]
+			#The base cost of breeding sources.
+			# Default: 100000
+			# Range: 0 ~ 100000000
+			sourceBreedingBaseCost = 100000
+
+			[elementalcraft.source.breeder.pedestals]
+				#The max amount of runes on a source breeder pedestal.
+				# Default: 1
+				# Range: 0 ~ 10
+				sourceBreederPedestalMaxRunes = 1
+				#The element capacity of a source breeder pedestal.
+				# Default: 100000
+				# Range: 0 ~ 100000000
+				sourceBreederPedestalCapacity = 100000
+
+	#mod interaction config
+	[elementalcraft.interaction]
+
+		[elementalcraft.interaction.mekanism]
+			#The amount multiplier when using pure ore in mekanism.
+			# Default: 5
+			# Range: 0 ~ 20
+			mekanismPureOreInputMultiplier = 5
+			#The amount multiplier when using pure ore in mekanism.
+			# Default: 3
+			# Range: 0 ~ 20
+			mekanismPureOreOutputMultiplier = 3

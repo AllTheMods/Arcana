@@ -1,0 +1,118 @@
+#Time in seconds for a dragon egg to hatch.
+# Default: 600
+# Range: 0 ~ 2147483647
+hatch_time = 600
+#Time in seconds for a dragon to grow.
+# Default: 600
+# Range: 0 ~ 2147483647
+growth_time = 600
+#The maximum number of dragons to keep track of in the dragon history. This allows recalling missing dragons through commands. Larger values may increase world save size.
+# Default: 20
+# Range: > 1
+dragon_history_size = 20
+#Enable or disable natural dragon spawns.
+enable_natural_dragon_spawns = false
+
+[eggs]
+	#Allow the vanilla ender egg to be interacted with? (Hatchable)
+	#Useful to help with mod compatibility
+	allow_egg_override = true
+	#Should Ender Dragon Eggs replenish on the exit portal after a respawned dragon is defeated?
+	#Useful for multiplayer scenarios.
+	replenish_eggs = true
+	#Allow hybridization between dragons.
+	allow_hybridization = true
+	#Offspring from breeding can turn into dragon type matching current environment.
+	habitat_offspring = true
+	#Enable blank dragon eggs which changes based on the environment.
+	enable_blank_egg = false
+	#Multiplier for dragon egg spawn chances in loot sources. 0 disables spawning, 1 is default rate, 2 doubles the chance.
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	dragon_egg_spawn_chance = 1.0
+
+[base_stats]
+	#Base health of all dragons.
+	# Default: 60.0
+	# Range: 1.0 ~ 1.7976931348623157E308
+	base_health = 60.0
+	#Passive health regen value for dragons.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	health_regen = 1.0
+	#Base damage of all dragons.
+	# Default: 8.0
+	# Range: 1.0 ~ 1.7976931348623157E308
+	base_damage = 8.0
+	#Base movement speed for all dragons.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	base_speed = 1.0
+	#Size modifier for all dragons.
+	# Default: 1.0
+	# Range: 0.01 ~ 1.7976931348623157E308
+	size_modifier = 1.0
+	#Base walking speed for all dragons.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	base_walking_speed = 1.0
+	#Base flying speed for all dragons.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	base_flying_speed = 1.0
+	#Base swimming speed for all dragons.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	base_swimming_speed = 1.0
+
+	[base_stats.random_stats]
+		#Whether to enable random stats for dragons.
+		enable_random_stats = true
+		#The maximum health bonus for dragons with random stats.
+		# Default: 10
+		# Range: > 0
+		upper_max_health = 10
+		#The maximum damage bonus for dragons with random stats.
+		# Default: 5.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		upper_damage = 5.0
+		#The maximum speed bonus for dragons with random stats.
+		# Default: 0.2
+		# Range: 0.0 ~ 1.7976931348623157E308
+		upper_speed = 0.2
+		#The minimum health penalty for dragons with random stats.
+		# Default: -5
+		# Range: -2147483647 ~ -1
+		lower_max_health = -5
+		#The minimum damage penalty for dragons with random stats.
+		# Default: -2.5
+		# Range: -1.7976931348623157E308 ~ -1.0
+		lower_damage = -2.5
+		#The minimum speed penalty for dragons with random stats.
+		# Default: -0.1
+		# Range: -1.7976931348623157E308 ~ 0.0
+		lower_speed = -0.1
+
+[whistle]
+	#The cooldown for using the whistle ability.
+	# Default: 5000
+	# Range: 0 ~ 9223372036854775807
+	whistle_cooldown = 5000
+	#Check if there is enough space to call the dragon before calling it.
+	whistle_check_space = true
+	#Allow dragons to respawn after being killed.
+	allow_respawn = true
+	#Time in seconds for a dragon to respawn after being killed.
+	# Default: 60
+	# Range: > 0
+	respawn_time = 60
+
+[behavior]
+	#Minimum distance a dragon will maintain when following its owner.
+	# Default: 4
+	# Range: 1 ~ 16
+	min_follow_distance = 4
+	#Maximum distance before a dragon will start following its owner.
+	# Default: 8
+	# Range: 2 ~ 64
+	max_follow_distance = 8

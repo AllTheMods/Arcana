@@ -1,0 +1,291 @@
+{
+  "info": {
+    "etheria:ice_crystal": {
+      "id": "etheria:ice_crystal",
+      "requiredLevel": 0,
+      "requiredEther": 20,
+      "isEnigma": false,
+      "crashChance": 0.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"minecraft:amethyst_shard\"}",
+      "ingredients": {
+        "item.etheria.ice_shard_1": "{\"item\":\"etheria:ice_shard\"}"
+      },
+      "runes": {},
+      "element": "CRYO",
+      "ritualDifficulty": "EASY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:ice_crystal"
+    },
+    "etheria:flame_fragment": {
+      "id": "etheria:flame_fragment",
+      "requiredLevel": 0,
+      "requiredEther": 15,
+      "isEnigma": false,
+      "crashChance": 0.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"minecraft:coal_block\"}",
+      "ingredients": {
+        "item.minecraft.blaze_powder_1": "{\"item\":\"minecraft:blaze_powder\"}"
+      },
+      "runes": {},
+      "element": "PYRO",
+      "ritualDifficulty": "EASY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:flame_fragment"
+    },
+    "etheria:enigma_orb": {
+      "id": "etheria:enigma_orb",
+      "requiredLevel": 6,
+      "requiredEther": 800,
+      "isEnigma": true,
+      "crashChance": 40.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"etheria:ether_crystal\"}",
+      "ingredients": {},
+      "runes": {},
+      "element": "ETHER",
+      "ritualDifficulty": "ADVANCED",
+      "result": "ENIGMA",
+      "resultItem": "etheria:enigma_orb"
+    },
+    "etheria:frozen_star": {
+      "id": "etheria:frozen_star",
+      "requiredLevel": 0,
+      "requiredEther": 20,
+      "isEnigma": false,
+      "crashChance": 0.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"minecraft:packed_ice\"}",
+      "ingredients": {
+        "item.minecraft.diamond_1": "{\"item\":\"minecraft:diamond\"}"
+      },
+      "runes": {},
+      "element": "CRYO",
+      "ritualDifficulty": "EASY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:frozen_star"
+    },
+    "etheria:ether_fragment": {
+      "id": "etheria:ether_fragment",
+      "requiredLevel": 0,
+      "requiredEther": 40,
+      "isEnigma": false,
+      "crashChance": 0.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"etheria:ether_core\"}",
+      "ingredients": {
+        "item.etheria.ether_shard_6": "{\"item\":\"etheria:ether_shard\"}",
+        "block.etheria.ether_block_2": "{\"item\":\"etheria:ether_block\"}",
+        "block.etheria.ether_block_8": "{\"item\":\"etheria:ether_block\"}",
+        "item.etheria.ether_shard_1": "{\"item\":\"etheria:ether_shard\"}",
+        "block.etheria.ether_block_5": "{\"item\":\"etheria:ether_block\"}",
+        "item.etheria.ether_shard_3": "{\"item\":\"etheria:ether_shard\"}",
+        "item.etheria.ether_shard_4": "{\"item\":\"etheria:ether_shard\"}",
+        "block.etheria.ether_block_7": "{\"item\":\"etheria:ether_block\"}"
+      },
+      "runes": {},
+      "element": "ETHER",
+      "ritualDifficulty": "BASIC",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:ether_fragment"
+    },
+    "etheria:emberite": {
+      "id": "etheria:emberite",
+      "requiredLevel": 0,
+      "requiredEther": 20,
+      "isEnigma": false,
+      "crashChance": 0.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"minecraft:basalt\"}",
+      "ingredients": {
+        "item.minecraft.magma_cream_1": "{\"item\":\"minecraft:magma_cream\"}"
+      },
+      "runes": {},
+      "element": "PYRO",
+      "ritualDifficulty": "EASY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:emberite"
+    },
+    "etheria:ice_shard": {
+      "id": "etheria:ice_shard",
+      "requiredLevel": 0,
+      "requiredEther": 15,
+      "isEnigma": false,
+      "crashChance": 0.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"minecraft:ice\"}",
+      "ingredients": {
+        "item.minecraft.snowball_1": "{\"item\":\"minecraft:snowball\"}"
+      },
+      "runes": {},
+      "element": "CRYO",
+      "ritualDifficulty": "EASY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:ice_shard"
+    },
+    "etheria:charred_crystal": {
+      "id": "etheria:charred_crystal",
+      "requiredLevel": 0,
+      "requiredEther": 20,
+      "isEnigma": false,
+      "crashChance": 0.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"minecraft:quartz\"}",
+      "ingredients": {
+        "item.minecraft.fire_charge_1": "{\"item\":\"minecraft:fire_charge\"}"
+      },
+      "runes": {},
+      "element": "PYRO",
+      "ritualDifficulty": "EASY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:charred_crystal"
+    },
+    "etheria:scroll_pyro": {
+      "id": "etheria:scroll_pyro",
+      "requiredLevel": 1,
+      "requiredEther": 45,
+      "isEnigma": false,
+      "crashChance": 10.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"etheria:scroll\"}",
+      "ingredients": {
+        "item.etheria.flame_fragment_4": "{\"item\":\"etheria:flame_fragment\"}",
+        "item.etheria.charred_crystal_2": "{\"item\":\"etheria:charred_crystal\"}",
+        "item.etheria.charred_crystal_1": "{\"item\":\"etheria:charred_crystal\"}",
+        "item.etheria.flame_fragment_3": "{\"item\":\"etheria:flame_fragment\"}",
+        "item.etheria.emberite_5": "{\"item\":\"etheria:emberite\"}"
+      },
+      "runes": {
+        "item.etheria.rune_wisdom_2": "etheria:rune_wisdom",
+        "item.etheria.rune_knowledge_1": "etheria:rune_knowledge"
+      },
+      "element": "PYRO",
+      "ritualDifficulty": "ELEMENTARY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:scroll_pyro"
+    },
+    "etheria:scroll_cryo": {
+      "id": "etheria:scroll_cryo",
+      "requiredLevel": 1,
+      "requiredEther": 45,
+      "isEnigma": false,
+      "crashChance": 10.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"etheria:scroll\"}",
+      "ingredients": {
+        "item.etheria.snow_stone_5": "{\"item\":\"etheria:snow_stone\"}",
+        "item.etheria.ice_shard_1": "{\"item\":\"etheria:ice_shard\"}",
+        "item.etheria.ice_shard_2": "{\"item\":\"etheria:ice_shard\"}",
+        "item.etheria.frost_heart_3": "{\"item\":\"etheria:frost_heart\"}",
+        "item.etheria.frost_heart_4": "{\"item\":\"etheria:frost_heart\"}"
+      },
+      "runes": {
+        "item.etheria.rune_wisdom_2": "etheria:rune_wisdom",
+        "item.etheria.rune_knowledge_1": "etheria:rune_knowledge"
+      },
+      "element": "CRYO",
+      "ritualDifficulty": "ELEMENTARY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:scroll_cryo"
+    },
+    "etheria:snow_stone": {
+      "id": "etheria:snow_stone",
+      "requiredLevel": 0,
+      "requiredEther": 20,
+      "isEnigma": false,
+      "crashChance": 0.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"minecraft:packed_ice\"}",
+      "ingredients": {
+        "block.minecraft.diorite_1": "{\"item\":\"minecraft:diorite\"}"
+      },
+      "runes": {},
+      "element": "CRYO",
+      "ritualDifficulty": "EASY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:snow_stone"
+    },
+    "etheria:ether_prism": {
+      "id": "etheria:ether_prism",
+      "requiredLevel": 8,
+      "requiredEther": 1260,
+      "isEnigma": true,
+      "crashChance": 70.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"etheria:ether_prism\"}",
+      "ingredients": {},
+      "runes": {},
+      "element": "ETHER",
+      "ritualDifficulty": "ADVANCED",
+      "result": "ENIGMA",
+      "resultItem": "etheria:ether_prism"
+    },
+    "etheria:thawing_crystal": {
+      "id": "etheria:thawing_crystal",
+      "requiredLevel": 0,
+      "requiredEther": 20,
+      "isEnigma": false,
+      "crashChance": 0.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"minecraft:amethyst_shard\"}",
+      "ingredients": {
+        "item.etheria.flame_fragment_1": "{\"item\":\"etheria:flame_fragment\"}"
+      },
+      "runes": {},
+      "element": "PYRO",
+      "ritualDifficulty": "EASY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:thawing_crystal"
+    },
+    "etheria:fire_seal": {
+      "id": "etheria:fire_seal",
+      "requiredLevel": 0,
+      "requiredEther": 30,
+      "isEnigma": false,
+      "crashChance": 0.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"minecraft:blackstone\"}",
+      "ingredients": {
+        "item.etheria.flame_fragment_1": "{\"item\":\"etheria:flame_fragment\"}"
+      },
+      "runes": {},
+      "element": "PYRO",
+      "ritualDifficulty": "EASY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:fire_seal"
+    },
+    "etheria:ether_collector": {
+      "id": "etheria:ether_collector",
+      "requiredLevel": 11,
+      "requiredEther": 1260,
+      "isEnigma": true,
+      "crashChance": 70.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"etheria:ether_collector\"}",
+      "ingredients": {},
+      "runes": {},
+      "element": "ETHER",
+      "ritualDifficulty": "ADVANCED",
+      "result": "ENIGMA",
+      "resultItem": "etheria:ether_collector"
+    },
+    "etheria:frost_heart": {
+      "id": "etheria:frost_heart",
+      "requiredLevel": 0,
+      "requiredEther": 30,
+      "isEnigma": false,
+      "crashChance": 0.0,
+      "description": "",
+      "mainIngredient": "{\"item\":\"minecraft:snow_block\"}",
+      "ingredients": {
+        "item.etheria.ice_shard_1": "{\"item\":\"etheria:ice_shard\"}"
+      },
+      "runes": {},
+      "element": "CRYO",
+      "ritualDifficulty": "EASY",
+      "result": "CREATE_ITEM",
+      "resultItem": "etheria:frost_heart"
+    }
+  }
+}

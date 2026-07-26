@@ -1,0 +1,170 @@
+["Generic Values"]
+	#Whether dying resets Age
+	deathReset = true
+	#If enabled, ageing will require the player to be of a specified lord level
+	lordLevelRequirement = false
+	#If lordLeveLRequirement is enabled, this defines the minimum lord level required to age
+	# Default: 5
+	# Range: 1 ~ 5
+	lordLevelRankRequirement = 5
+	#Requires 'death reset' to be enabled, if this config is set to a value > 0 then only that many age ranks will be lost on death, instead of all ranks.
+	# Default: 0
+	# Range: 0 ~ 5
+	ageLostOnDeath = 0
+
+["Vampire Values"]
+	#Whether vampires can age.
+	vampireAgeing = true
+	#The level at which the age mechanic begins, Level 4 is the minimum age to have access to the Infect Action
+	# Default: 14
+	# Range: 0 ~ 14
+	levelToBeginAgeMechanic = 14
+	#Change to select Ageing type. Valid Options include: BITING, DRAINING, TIME, V_HUNTING
+	ageingMethod = "DRAINING"
+	#Intended to be a replacement for other forms of ageing, though will work with them. Overrides the mechanic to always begin at Level 1. Ranks can be gained by drinking blood of more powerful vampires. Highly recommended to turn off Death Reset and to make sure Advanced Vampire Age is turned on. More information on GitHub Readme or Curseforge Page
+	sireingMechanic = false
+	#How much a petty hunt is worth. These are things like basic versions of vampires or hunters
+	# Default: 1
+	# Range: 0 ~ 99
+	pettyHuntWorth = 1
+	#How much a common hunt is worth. These are things like advanced vampires or advanced hunters
+	# Default: 3
+	# Range: 0 ~ 99
+	commonHuntWorth = 3
+	#How much a greater hunt is worth. These are things like vampire barons 
+	# Default: 5
+	# Range: 0 ~ 99
+	greaterHuntWorth = 5
+	#How many points worth of hunted entities are needed to increase Age Rank. Count is reset on Rank Up
+	huntedforNextAge = [20, 40, 80, 160, 250]
+	#Whether vampires should be immune to the effects of Powdered Snow. Applies to ALL vampires
+	powderedSnowImmunity = true
+	#Whether high Age Rank vampires can walk on water
+	ageWaterWalking = true
+	#Age rank a vampire must be to walk on water
+	# Default: 4
+	# Range: 0 ~ 6
+	ageWaterWalkingRank = 4
+	#Cooldown for water walking action
+	# Default: 0
+	# Range: > 0
+	waterWalkingCooldown = 0
+	#Duration for water walking action
+	# Default: 2147483647
+	# Range: > 0
+	waterWalkingDuration = 2147483647
+	#What Age Rank a vampire must be to use the Celerity Action
+	# Default: 1
+	# Range: 0 ~ 6
+	celerityActionRank = 1
+	#Cooldown of the Celerity action in seconds
+	# Default: 60
+	# Range: 20 ~ 36000
+	celerityActionCooldown = 60
+	#Speed Multiplier provided by Celerity Action
+	# Default: 1.025
+	# Range: 1.0 ~ 5.0
+	celerityActionMultiplier = 1.025
+	#Duration of the Celerity action in seconds
+	# Default: 8
+	# Range: 1 ~ 36000
+	celerityActionDuration = 8
+	#Whether the Celerity action is available for Aged Vampires
+	celerityAction = true
+	#What Age Rank a vampire must be to use the Blood Tap Action
+	# Default: 3
+	# Range: 0 ~ 6
+	drainBloodActionRank = 3
+	#Cooldown of the Blood Tap action in seconds
+	# Default: 150
+	# Range: 1 ~ 36000
+	drainBloodActionCooldown = 150
+	#Duration of the Blood Tap action in seconds
+	# Default: 45
+	# Range: 1 ~ 36000
+	drainBloodActionDuration = 10
+	#Whether the Blood Tap action is available for Aged Vampires
+	drainBloodAction = true
+	#For any config with a list of 6 numbers, the very first number refers to a vampire with no age rank and the second number is the first age rank.
+	#Whether Advanced Vampires should spawn with an Age Tier
+	advancedVampireAge = true
+	#The percentage, as a decimal, of how likely an advanced vampire is to get each rank with advanced vampire ages enabled
+	percentageAdvancedVampireAges = [0.5, 0.3, 0.1, 0.06, 0.03, 0.01]
+	#Max Health Increase for each rank. This is addition, not multiplier based
+	maxHealthIncrease = [0.0, 2.0, 2.0, 3.0, 4.0, 5.0]
+	#Whether Age makes a difference on Trade Prices
+	doesAgeAffectPrices = true
+	#Makes running out of blood harsher on vampire, scaling with age
+	harsherOutOfBlood = false
+	#How much each rank affects Villager trade prices. 
+	ageAffectTradePrices = [1.0, 1.1, 1.25, 1.5, 1.75, 2.0]
+	#If enabled, vampire rage will nullify increased damage from generic vampire weakness reduction
+	rageModeWeaknessToggle = true
+	#How much each rank reduces/increases generic vampire weakness damage sources (such as Fire) in terms of how much the damage is divided by. Set all to 1 to have no change, use decimal values to increase damage
+	genericVampireWeaknessReduction = [1.0, 1.0, 0.95, 0.9, 0.8, 0.75]
+	#How much each rank reduces/increases Sun Damage in terms of how much the sun damage is divided by. Set all to 1 to have no change, use decimal values to increase sun damage
+	sunDamageReduction = [1.0, 1.25, 1.5, 1.75, 2.0, 2.5]
+	#How much time in ticks for a player to advance to the next Age Rank. Count is reset on Rank Up
+	ticksForNextAge = [72000, 144000, 288000, 576000, 1152000]
+	#How many entities infected for next Age Rank. Count is reset on Rank Up
+	infectedForNextAge = [30, 45, 70, 100, 200]
+	#How much blood drained for next Age Rank. Count is reset on Rank Up
+	drainedBloodForNextAge = [150, 300, 600, 900, 1250]
+	#How much each age rank increases damage by adding on to base damage. Set all to 0 to disable completely.
+	ageDamageIncrease = [0.0, 1.0, 1.5, 2.0, 3.0, 4.0]
+	#The Age Rank at which a vampire gains step assist. Set to 6 to disable. 
+	# Default: 2
+	# Range: 0 ~ 6
+	stepAssistLevel = 2
+	#Whether Age affects Blood Exhaustion
+	ageAffectsBloodExhaustion = true
+	#How much each rank affects Blood Exhaustion Rate (Blood Drain), lower numbers are a lower decrease in exhaustion, higher numbers decrease exhaustion, values above 1 will cause 0 blood drain. Set all to 0 to have no change in exhaustion rate. Negative Numbers can be used for inverse effect
+	ageExhaustionEffect = [-0.0, -0.1, -0.2, -0.3, -0.4, -0.5]
+	#Whether Age Rank affects healing
+	ageHealingAffect = false
+	#How much each rank multiplies healing, this affects all types of healing 
+	ageHealingMultiplier = [1.0, 1.0, 1.0, 1.5, 1.75, 2.0]
+	#Whether Age Rank affects how much damage Hunter mobs do
+	shouldAgeIncreaseHunterMobDamage = true
+	#How much each rank multiplies damage from hunters, this only affects damage from hunter mobs, not players
+	damageMultiplierFromHunters = [1.0, 1.0, 1.0, 1.5, 1.75, 2.0]
+	#How much each rank multiplies the time spent in DBNO. Decimal values decrease the time spent in DBNO 
+	DBNOTimeMultiplier = [1.0, 1.0, 1.0, 0.8, 0.5, 0.25]
+	#How much each rank multiplies the duration of the neonatal effect. Decimal values decrease the time spent in neonatal
+	neonatalTimeMultiplier = [1.0, 1.0, 1.0, 1.0, 0.75, 0.5]
+	#If enabled, (and the vampire meets the age rank requirement) a vampire will not go down when losing all of its health, it has to die from a deadly source of damage
+	shouldOnlyDieFromKillingSources = false
+	#The age rank at which shouldOnlyDieFromKillingSources activates at
+	# Default: 4
+	# Range: 0 ~ 5
+	shouldOnlyDieFromKillingSourcesAgeRank = 4
+	#If this and should only die from killing sources is enabled, the player will lose some blood when taking damage. If they have no blood left they will no longer be immortal
+	immortalityBloodRequirement = false
+	#Minimum damage for bloodloss to begin happening with 'immortalBloodLoss' enabled
+	# Default: 1
+	# Range: 0 ~ 100
+	bloodlossDamageThreshold = 1
+	#Maximum damage for bloodloss with immortalBloodLoss' enabled
+	# Default: 16
+	# Range: 0 ~ 100
+	bloodlossDamageCap = 16
+	#How much the damage is multiplied to get bloodloss amount 'immortalBloodLoss' enabled
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	bloodlossScaleFactor = 1.0
+	#Garlic and fire will quickly drain them of blood saturation
+	deadlySourcesFastDrainExhaustion = true
+	#How much extra exhaustion there is of each garlic and fire tick at each age rank
+	amountExhaustionDrainFromSources = [0.0, 0.0, 0.0, 0.08, 0.16, 0.3]
+	#How many ranks of age are lost after resurrecting from DBNO
+	# Default: 1
+	# Range: 0 ~ 5
+	ageLossDBNO = 1
+	#If changed from default, changes the rank number for a given age rank to the provided text.
+	vampireAgeRankTitles = ["1", "2", "3", "4", "5"]
+	#Below is deprecated in favour of data map for disabling items based on age rank.
+	#Look into the example provided in the (vampiric-ageing-repo)/examples/data/vampiricageing/data_maps for an example structure
+	#Age rank at which enchanted golden apples cannot be eaten
+	# Default: 6
+	# Range: 0 ~ 6
+	goldenAppleNoEatRank = 6

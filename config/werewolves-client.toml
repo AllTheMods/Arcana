@@ -1,0 +1,8 @@
+#Disables the fur border at the screen edge in werewolf form
+disableScreenFurRendering = false
+#Disables fangs crosshair when you can bite in werewolf form
+disableFangCrosshairRendering = false
+
+[internal]
+	#If the mca integration message was send
+	mcaMessage = false

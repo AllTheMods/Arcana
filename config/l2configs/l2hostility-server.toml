@@ -195,10 +195,10 @@ enableStructureSpecificDatapack = true
 	selfEffectApplicationInterval = 200
 
 [traits]
-	# Default: 0.5
+	# Default: 0.2
 	# Range: 0.0 ~ 1000.0
 	tankHealth = 0.1
-	# Default: 10.0
+	# Default: 4.0
 	# Range: 0.0 ~ 1000.0
 	tankArmor = 4.0
 	# Default: 4.0
@@ -207,13 +207,13 @@ enableStructureSpecificDatapack = true
 	# Default: 0.2
 	# Range: 0.0 ~ 1000.0
 	speedy = 0.2
-	# Default: 0.02
+	# Default: 0.01
 	# Range: 0.0 ~ 1000.0
 	regen = 0.01
 	# Default: 0.5
 	# Range: 0.0 ~ 1000.0
 	adaptFactor = 0.5
-	# Default: 0.3
+	# Default: 0.1
 	# Range: 0.0 ~ 1000.0
 	reflectFactor = 0.05
 	# Default: 200
@@ -225,7 +225,7 @@ enableStructureSpecificDatapack = true
 	# Default: 200
 	# Range: 0 ~ 3000
 	weakTime = 200
-	# Default: 200
+	# Default: 160
 	# Range: 0 ~ 3000
 	slowTime = 200
 	# Default: 200
@@ -234,19 +234,19 @@ enableStructureSpecificDatapack = true
 	# Default: 200
 	# Range: 0 ~ 3000
 	witherTime = 200
-	# Default: 200
+	# Default: 100
 	# Range: 0 ~ 3000
 	levitationTime = 200
 	# Default: 200
 	# Range: 0 ~ 3000
 	blindTime = 200
-	# Default: 200
+	# Default: 160
 	# Range: 0 ~ 3000
 	confusionTime = 200
 	# Default: 60
 	# Range: 0 ~ 3000
 	soulBurnerTime = 60
-	# Default: 200
+	# Default: 100
 	# Range: 0 ~ 3000
 	freezingTime = 200
 	# Default: 200
@@ -261,16 +261,16 @@ enableStructureSpecificDatapack = true
 	# Default: 10
 	# Range: 0 ~ 64
 	repellRange = 10
-	# Default: 0.2
+	# Default: 0.15
 	# Range: 0.0 ~ 1.0
 	repellStrength = 0.1
-	# Default: 0.3
+	# Default: 0.1
 	# Range: 0.0 ~ 1.0
 	corrosionDurability = 0.1
 	# Default: 0.25
 	# Range: 0.0 ~ 1.0
 	corrosionDamage = 0.25
-	# Default: 0.1
+	# Default: 0.05
 	# Range: 0.0 ~ 1.0
 	erosionDurability = 0.05
 	# Default: 0.25
@@ -281,7 +281,7 @@ enableStructureSpecificDatapack = true
 	ragnarokTime = 20
 	ragnarokSealBackpack = false
 	ragnarokSealSlotAdder = false
-	# Default: 10
+	# Default: 6
 	# Range: 1 ~ 10000
 	killerAuraDamage = 10
 	# Default: 6
@@ -314,7 +314,7 @@ enableStructureSpecificDatapack = true
 	# Default: 10
 	# Range: 0 ~ 64
 	pullingRange = 10
-	# Default: 0.2
+	# Default: 0.15
 	# Range: 0.0 ~ 10.0
 	pullingStrength = 0.1
 	# Default: 0.02
@@ -332,6 +332,21 @@ enableStructureSpecificDatapack = true
 	# Default: 24
 	# Range: 0 ~ 100
 	arenaRange = 24
+	#Damage Bonus Factor for dispell-affected damage
+	#Example: 0.5 means +2% per level damage bonus becoming +1% per level
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	dispellDamageFactor = 0.5
+	#Damage Bonus Factor for dementor-affected damage
+	#Example: 0.5 means +2% per level damage bonus becoming +1% per level
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	dementorDamageFactor = 0.5
+	#Damage Bonus Factor for grenade damage
+	#Example: 0.5 means +2% per level damage bonus becoming +1% per level
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	grenadeDamageFactor = 0.25
 
 [toggle]
 	allow_tank = true

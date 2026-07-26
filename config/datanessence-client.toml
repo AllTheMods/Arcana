@@ -1,0 +1,20 @@
+#Individual toggles for the mod's shaders - use if having issues.
+[shaders]
+	#Should the gender euphoria shader be enabled?
+	genderEuphoriaShader = true
+	#Should the signal tracker ping shader be enabled?
+	pingShader = true
+	#Should the progression shader be enabled?
+	progressionShader = true
+
+#Settings that try to accommodate for certain disabilities.
+[accessibility]
+	#Whether to enable color-assist mode. When on, various tweaks to color-dependent puzzles will be made to hopefully help in their completion, or in the case of one puzzle, will be outright bypassed.
+	colorAssist = false
+
+#Particular sound settings that we cannot easily add to the ingame menu.
+[sounds]
+	#Volume at which the Factory Song will play, in percent. Setting this to 0 disables the Song.
+	# Default: 100
+	# Range: 0 ~ 200
+	factorySongVolume = 100

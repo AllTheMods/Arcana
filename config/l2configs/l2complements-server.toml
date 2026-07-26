@@ -1,0 +1,132 @@
+[materials]
+	#Requirement for obtaining Captured Wind. Unit: Block per Tick
+	# Default: 10.0
+	# Range: 0.1 ~ 100.0
+	windSpeed = 10.0
+	#Blocks below min build height for void eye drop
+	# Default: 16
+	# Range: 0 ~ 128
+	belowVoid = 16
+	#Blocks above max build height for sun membrane drop
+	# Default: 200
+	# Range: 0 ~ 10000
+	phantomHeight = 200
+	# Default: 80
+	# Range: 1 ~ 10000
+	explosionDamage = 80
+	# Default: 16384
+	# Range: > 1
+	spaceDamage = 16384
+	#- Allow: Space Shard is enabled
+	#- Default: When certain mods are installed, Space Shard will be banned
+	#- Deny: Space Shard is banned
+	#Allowed Values: ALLOW, DEFAULT, DENY
+	spaceShardDrop = "DEFAULT"
+
+[fire_charge]
+	# Default: 60
+	# Range: 1 ~ 10000
+	soulFireChargeDuration = 60
+	# Default: 100
+	# Range: 1 ~ 10000
+	blackFireChargeDuration = 100
+	#Power: 2 for Ghast, 3 for Creeper, 4 for TNT, 5 for beds, 6 for End Crystal
+	# Default: 2
+	# Range: 1 ~ 10
+	strongFireChargePower = 2
+	strongFireChargeBreakBlock = true
+
+[properties]
+	#- ALL: for clearing everything
+	#- EXCEPT_BENEFICIAL: for clearing neutral and negative only
+	#- HARMFUL_ONLY: for clearing negative only
+	#Allowed Values: ALL, EXCEPT_BENEFICIAL, HARMFUL_ONLY
+	cleansePredicate = "ALL"
+	# Default: 0.5
+	# Range: 0.001 ~ 1000.0
+	emeraldDamageFactor = 0.5
+	# Default: 10
+	# Range: 1 ~ 100
+	emeraldBaseRange = 10
+	# Default: 2400
+	# Range: 0 ~ 10000
+	eternalTotemCoolDown = 2400
+	eternalTotemGiveWarpStone = true
+	# Default: 100
+	# Range: 1 ~ 1000
+	totemicHealDuration = 100
+	# Default: 1
+	# Range: 1 ~ 1000
+	totemicHealAmount = 1
+	#This is for weapons made with totemic gold and poseidite.
+	#When weapons with above materials is used against mob types they are effective for
+	#This number determines the bonus in percentage of original damage
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	mobTypeBonus = 1.0
+	# Default: 10
+	# Range: 1 ~ 1000
+	sonicShooterDamage = 10
+	# Default: 10
+	# Range: 1 ~ 1000
+	hellfireWandDamage = 10
+
+[enchantments]
+	#Be sure to inform players when you turn this off
+	enableImmunityEnchantments = true
+	# Default: 1.0
+	# Range: 0.1 ~ 100.0
+	windSweepIncrement = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	lifeSyncFactor = 1.0
+	# Default: 100
+	# Range: 1 ~ 10000
+	iceEnchantDuration = 100
+	# Default: 60
+	# Range: 1 ~ 10000
+	flameEnchantDuration = 60
+	# Default: 80
+	# Range: 1 ~ 10000
+	bleedEnchantDuration = 80
+	# Default: 100
+	# Range: 1 ~ 10000
+	curseEnchantDuration = 100
+	# Default: 3
+	# Range: 1 ~ 10000
+	bleedEnchantMax = 3
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	voidTouchChance = 0.05
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	voidTouchChanceBonus = 0.5
+
+[enchantment_digging]
+	#Max radius for blocks to be considered for tree chopping, except upward direction
+	# Default: 16
+	# Range: 0 ~ 32
+	treeChopMaxRadius = 16
+	#Max height for blocks to be considered for tree chopping.
+	# Default: 256
+	# Range: 0 ~ 512
+	treeChopMaxHeight = 256
+	#Max number of blocks to be considered for tree chopping.
+	# Default: 1024
+	# Range: 0 ~ 16384
+	treeChopMaxBlock = 1024
+	#Max number of blocks to break before resort to delayed breaking
+	# Default: 64
+	# Range: 1 ~ 1024
+	chainDiggingDelayThreshold = 64
+	#Max number of blocks to break per tick in delayed breaking
+	# Default: 16
+	# Range: 1 ~ 1024
+	chainDiggingBlockPerTick = 16
+	#Max hardness blocks to break may have, as a factor of the hardness of the block broken.
+	#Apotheosis implementation of chain digging use 3 has their hardness factor.
+	# Default: 3.0
+	# Range: 1.0 ~ 100.0
+	chainDiggingHardnessRange = 3.0
+	#Delayed breaking requires Ender Transport to take effect to reduce lag
+	delayDiggingRequireEnder = true

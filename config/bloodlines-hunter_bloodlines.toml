@@ -1,0 +1,167 @@
+[gravebound_bloodline]
+	#Whether the Gravebound Bloodline's unique method of joining the bloodline is available. If disabled, then add a recipe for the bloodline fang or add another way to become a member of the bloodline.
+	graveboundUniqueUnlock = true
+	#Bloodline Skills that are enabled by default upon reaching Rank 1
+	graveboundBlRank1DefaultSkills = ["bloodlines:gravebound"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 2
+	graveboundBlRank2DefaultSkills = ["bloodlines:gravebound_rank_2"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 3
+	graveboundBlRank3DefaultSkills = ["bloodlines:gravebound_rank_3"]
+	#Bloodline Skills that are enabled by default upon reaching Rank 4
+	graveboundBlRank4DefaultSkills = ["bloodlines:gravebound_rank_4"]
+	#Max souls for a gravebound at each Bloodline Rank
+	graveboundMaxSouls = [8, 12, 16, 20]
+	#Devour Soul action cooldown at each Bloodline Rank
+	devourSoulCooldownsSeconds = [75, 60, 40, 20]
+	#Amount of time a player must be alive before they can be devoured, in ticks
+	# Default: 24000
+	# Range: > 0
+	playerAliveTimeForDevour = 24000
+	#Max Soul Storage for each Phylactery tier, based on total souls devoured, from phylacteryMaxStorageTierRequirements
+	phylacteryMaxStorageTiers = [15, 30, 50, 100, 250]
+	#Total souls devoured requirement for corresponding phylactery tier. 
+	phylacteryMaxStorageTierRequirements = [0, 350, 900, 3500, 10000]
+	#Whether the Gravebound vulnerable damage types prevent them from entering Mist Form
+	graveboundVulnerableDamageTypeMistForm = true
+	#Whether Undead mobs can ignore members of the Gravebound bloodline.
+	graveboundUndeadMobsignore = true
+	#Minimum amount of souls below which you can no longer sprint.
+	# Default: 3
+	# Range: 0 ~ 50
+	noSprintSoulCount = 3
+	#Minimum amount of souls above which you regenerate health slowly
+	# Default: 16
+	# Range: 0 ~ 50
+	slowRegenSoulCount = 16
+	#Cooldown for Soul Infusion action in seconds
+	# Default: 30
+	# Range: > 0
+	soulInfusionCooldown = 30
+	#Duration for Soul Infusion action in seconds
+	# Default: 10
+	# Range: > 0
+	soulInfusionDuration = 10
+	#Souls required and drained by Soul Infusion action
+	# Default: 4
+	# Range: 0 ~ 50
+	soulInfusionSoulRequirement = 4
+	#Trade Prices increase/decrease for each bloodline rank
+	graveboundTradePricesMultiplier = [1.25, 1.5, 1.75, 2.0]
+	#The amount that the minimum remaining max health percentage to devour a soul is increased by with the powerful devour skill.
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	graveboundPowerfulDevourMaxHealthChange = 0.15
+	#Cooldown for Sorcerous Strike action in seconds
+	# Default: 90
+	# Range: > 0
+	sorcerousStrikeCooldown = 90
+	#Duration for Sorcerous Strike action in seconds
+	# Default: 10
+	# Range: > 0
+	sorcerousStrikeDuration = 10
+	#Duration for Sorcerous Strike's wither effect in seconds
+	# Default: 8
+	# Range: > 0
+	sorcerousStrikeWitherDuration = 8
+	#The additional damage multiplier added to the existing one for a critical hit with sorcerous strike.
+	# Default: 1.25
+	# Range: 0.0 ~ 100.0
+	sorcerousStrikeAdditionalDamageMultiplier = 1.25
+	#Cooldown for Lingering Devour action in seconds
+	# Default: 250
+	# Range: > 0
+	lingeringDevourCooldown = 250
+	#Soul Cost for Lingering Devour action
+	# Default: 2
+	# Range: 0 ~ 50
+	lingeringDevourSoulCost = 2
+	#Duration for Lingering Devour action in seconds
+	# Default: 30
+	# Range: > 0
+	lingeringDevourDuration = 30
+	#Multiplier for experience gain at each bloodline rank
+	graveboundRankExperienceMult = [0.85, 0.7, 0.6, 0.5]
+	#Multiplier for damage taken from magical sources at each bloodline rank
+	graveboundMagicDamageMultiplier = [1.15, 1.25, 1.35, 1.5]
+	#Cooldown for Soul Claiming action in seconds
+	# Default: 3000
+	# Range: > 0
+	soulClaimingCooldown = 3000
+	#Duration for Soul Claiming action in seconds
+	# Default: 20
+	# Range: > 0
+	soulClaimingDuration = 20
+	#Rank required for a Gravebound to utilise the immortality mechanic
+	# Default: 3
+	# Range: 0 ~ 4
+	immortalityGraveboundRank = 3
+	#Duration of mist form, in seconds, before death
+	# Default: 20
+	# Range: > 0
+	mistFormDuration = 20
+	#Cooldown of mist form, in seconds, before death
+	# Default: 90
+	# Range: > 0
+	mistFormCooldown = 90
+	#Required number of souls to enter Mist Form and resurrect death from each bloodline rank.
+	mistFormSoulRequirement = [15, 12, 8, 5]
+	#Required number of souls to enter Mist Form and resurrect death from each bloodline rank, with reduction skill.
+	reducedMistFormSoulRequirement = [10, 8, 6, 3]
+	#Cooldown of mist form, in seconds, before death, with reduction skill
+	# Default: 30
+	# Range: > 0
+	reducedMistFormCooldown = 30
+	#Flight speed of Mist Form
+	# Default: 0.014999999664723873
+	# Range: 0.001 ~ 0.5
+	mistFormFlightSpeed = 0.014999999664723873
+	#Cooldown of Phylactery Teleport action, in seconds
+	# Default: 300
+	# Range: > 0
+	phylacteryTeleportCooldown = 300
+	#Soul Cost of Phylactery Teleport action whilst in Mist Form
+	# Default: 6
+	# Range: 0 ~ 50
+	phylacteryTeleportMistFormSoulCost = 6
+	#Regular Soul Cost of Phylactery Teleport action
+	# Default: 4
+	# Range: 0 ~ 50
+	phylacteryTeleportRegularSoulCost = 4
+	#Cooldown for Ghost Walk action in seconds
+	# Default: 400
+	# Range: > 0
+	ghostWalkCooldown = 400
+	#Soul Cost for Ghost Walk action
+	# Default: 6
+	# Range: 0 ~ 50
+	ghostWalkSoulCost = 6
+	#Duration for Ghost Walk action in seconds
+	# Default: 20
+	# Range: > 0
+	ghostWalkDuration = 20
+	#Cooldown for Phylactery Soul Transfer action in seconds
+	# Default: 30
+	# Range: > 0
+	phylacterySoulTransferActionCooldown = 30
+	#Multiplier of movement speed on soul sand / soul soil for each gravebound rank. Requires skill
+	graveboundSoulSpeedMultiplier = [1.15, 1.2, 1.25, 1.35]
+	#Cooldown for Possession action in seconds
+	# Default: 120
+	# Range: > 0
+	possessionCooldown = 120
+	#Soul Cost for Possession action
+	# Default: 3
+	# Range: 0 ~ 50
+	possessionSoulCost = 3
+	#Duration for Possession action in seconds
+	# Default: 100
+	# Range: > 0
+	possessionDuration = 100
+	#Cooldown for Possession Swap action in seconds
+	# Default: 20
+	# Range: > 0
+	possessionSwapCooldown = 20
+	#Soul Cost for Possession Swap action
+	# Default: 2
+	# Range: 0 ~ 50
+	possessionSwapSoulCost = 2

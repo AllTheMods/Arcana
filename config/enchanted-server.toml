@@ -1,0 +1,37 @@
+["Circle Magic Options"]
+	#Disabled rite types
+	disabled_rites = []
+
+["Altar Options"]
+	#Range of altars
+	# Default: 32
+	# Range: > 1
+	altar_range = 16
+	#Multiplier for altar power recharge rates
+	# Default: 2.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	altar_recharge_rate = 2.0
+
+["Kettle Options"]
+	#Allow incorrect items to spoil brew
+	kettle_item_spoil = true
+
+["Miscellaneous Options"]
+	#Only drop modded seeds when a hoe is used to break grass.
+	hoe_seeds = false
+	#Disable totems of undying (to make poppets more useful)
+	disable_totems = false
+
+["Curse Options"]
+	#Minimum amount of time in seconds between curses whispering at players.
+	# Default: 120
+	# Range: > 0
+	curse_whisper_min = 120
+	#Maximum amount of time in seconds between curses whispering at players.
+	# Default: 240
+	# Range: > 0
+	curse_whisper_max = 240
+	#Chance for clumsy players to drop an item on each swing
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	clumsy_chance = 0.02

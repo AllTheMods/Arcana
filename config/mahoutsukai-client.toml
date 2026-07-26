@@ -1,0 +1,87 @@
+[Client]
+	#Multiplier for Caliburn ring speed
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0E8
+	POWER_CONSOLIDATION_CALIBURN_RING_SPEED = 1.0
+	#Whether to show the circles in the sky
+	HEAVENS_CUP_CLIENT_CIRCLE = true
+	#How far away Leylines can be seen
+	# Default: 100
+	# Range: 0 ~ 100000000
+	LEY_RENDER_DISTANCE = 100
+	#Toggle for Fae Sounds
+	FAE_NOISE = true
+	#X value of Mahou value on screen
+	# Default: 10
+	# Range: 0 ~ 100000000
+	CLIENT_GUI_MAHOU_PLACEMENT_X = 10
+	#Y value of Mahou value on screen
+	# Default: 20
+	# Range: 0 ~ 100000000
+	CLIENT_GUI_MAHOU_PLACEMENT_Y = 20
+	#Ring speed for the Mystic Code
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0E8
+	MYSTIC_CODE_RING_SPEED = 1.0
+	#Spinning speed for boundaries
+	# Default: 2.0
+	# Range: 0.0 ~ 1.0E8
+	BOUNDARY_SPEED = 2.0
+	#Toggle bleeding potion effect display
+	SHOW_BLEEDING = true
+	#Mystic Staff Beam Volume Factor
+	# Default: 0.1
+	# Range: 0.0 ~ 10.0
+	MYSTIC_STAFF_BEAM_VOLUME_FACTOR = 0.1
+	#Added X value to left tab position of Mystic Eyes of Insight
+	# Default: 0
+	# Range: -10000 ~ 10000
+	INSIGHT_LEFT_X = 0
+	#Added Y value to left tab position of Mystic Eyes of Insight
+	# Default: 0
+	# Range: -10000 ~ 10000
+	INSIGHT_LEFT_Y = 0
+	#Added X value to right tab position of Mystic Eyes of Insight
+	# Default: 0
+	# Range: -10000 ~ 10000
+	INSIGHT_RIGHT_X = 0
+	#Added Y value to right tab position of Mystic Eyes of Insight
+	# Default: 0
+	# Range: -10000 ~ 10000
+	INSIGHT_RIGHT_Y = 0
+	#Added X value to bottom tab position of Mystic Eyes of Insight
+	# Default: 0
+	# Range: -10000 ~ 10000
+	INSIGHT_BOTTOM_X = 0
+	#Added Y value to bottom tab position of Mystic Eyes of Insight
+	# Default: 0
+	# Range: -10000 ~ 10000
+	INSIGHT_BOTTOM_Y = 0
+	#Quality of links of the chain, reducing can improve FPS
+	# Default: 11
+	# Range: 3 ~ 10000
+	CHAIN_QUALITY = 11
+	#Show ability cooldown as a potion effect
+	SHOW_MORGAN_CALIBURN_COOLDOWN = false
+	#No Shaders
+	NO_SHADERS = false
+	#Old Circle Render
+	OLD_CIRCLE_RENDER = false
+	#Old Circle Animation
+	OLD_CIRCLE_ANIM = false
+	#Show Selected Entity
+	SHOW_SELECTED_ENTITY = true
+	#Selective Displacement Hold Time
+	# Default: 5
+	# Range: 0 ~ 100000
+	SELECTIVE_DISPLACEMENT_HOLD_TIME = 5
+	#Explosion Particle Quality, reducing can improve FPS
+	# Default: 8
+	# Range: 2 ~ 64
+	EXPLOSION_PARTICLE_QUALITY = 8
+	#Smoke Ring Particle Quality, reducing can improve FPS
+	# Default: 24
+	# Range: 2 ~ 64
+	SMOKE_RING_PARTICLE_QUALITY = 24
+	#Cache images between restarts used in the mahoujin projector
+	CACHE_IMAGES = false

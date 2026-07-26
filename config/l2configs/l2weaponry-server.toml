@@ -1,0 +1,115 @@
+[weapon_type]
+	# Default: 2.0
+	# Range: 1.0 ~ 1000.0
+	dagger_bonus = 2.0
+	# Default: 0.1
+	# Range: 0.0 ~ 10.0
+	claw_bonus = 0.1
+	# Default: 5
+	# Range: 1 ~ 1000
+	claw_max = 5
+	# Default: 60
+	# Range: 1 ~ 1000
+	claw_timeout = 60
+	# Default: 3
+	# Range: 0 ~ 1000
+	claw_block_time = 3
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	reflectCost = 0.2
+
+[legendary]
+	# Default: 8
+	# Range: 1 ~ 128
+	shadowHunterDistance = 8
+	# Default: 64
+	# Range: 1 ~ 128
+	hauntingDemonDistance = 64
+	# Default: 8
+	# Range: 1 ~ 64
+	hammerOfIncarcerationRadius = 8
+	# Default: 60
+	# Range: 1 ~ 60000
+	hammerOfIncarcerationDuration = 60
+	# Default: 0.02
+	# Range: 1.0E-4 ~ 1.0
+	dogmaticStandoffGain = 0.02
+	# Default: 0.1
+	# Range: 1.0E-4 ~ 100.0
+	dogmaticStandoffMax = 0.1
+	# Default: 2.0
+	# Range: 0.0 ~ 100.0
+	determinationRate = 2.0
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	illusionRate = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	deathScytheMax = 1.0
+
+[enchantments]
+	# Default: 0.2
+	# Range: 1.0E-4 ~ 100.0
+	heavySpeedReduction = 0.2
+	# Default: 0.3
+	# Range: 1.0E-4 ~ 100.0
+	heavyCritBonus = 0.3
+	# Default: 0.2
+	# Range: 1.0E-4 ~ 100.0
+	stealthChance = 0.2
+	# Default: 0.1
+	# Range: 1.0E-4 ~ 100.0
+	heavyShieldSpeedReduction = 0.1
+	# Default: 0.1
+	# Range: 1.0E-4 ~ 100.0
+	heavyShieldDefenseBonus = 0.1
+	# Default: 0.05
+	# Range: 1.0E-4 ~ 100.0
+	hardShieldDefenseBonus = 0.05
+	# Default: 0.01
+	# Range: 1.0E-4 ~ 100.0
+	raisedSpiritSpeedBonus = 0.01
+	# Default: 0.02
+	# Range: 1.0E-4 ~ 100.0
+	energizedWillReachBonus = 0.02
+	# Default: 60
+	# Range: 1 ~ 6000
+	instantThrowCooldown = 60
+	# Default: 0.2
+	# Range: 1.0E-4 ~ 100.0
+	thinBladeAttackSpeedBonus = 0.2
+	# Default: 0.1
+	# Range: 1.0E-4 ~ 100.0
+	thinBladeAttackReduction = 0.1
+	# Default: 15
+	# Range: 1 ~ 6000
+	daggerInstantThrowCooldown = 15
+
+[twilight]
+	# Default: 0.5
+	# Range: 0.0 ~ 1000.0
+	knightmetalBonus = 0.5
+	# Default: 0.5
+	# Range: 0.0 ~ 1000.0
+	knightmetalReflect = 0.5
+	# Default: 0.5
+	# Range: 0.0 ~ 1000.0
+	fieryBonus = 0.5
+	# Default: 15
+	# Range: 0 ~ 1000
+	fieryDuration = 15
+	# Default: 0.5
+	# Range: 0.0 ~ 1000.0
+	steeleafBonus = 0.5
+	# Default: 0.5
+	# Range: 0.0 ~ 1000.0
+	steeleafReflect = 0.5
+	# Default: 0.5
+	# Range: 0.0 ~ 1000.0
+	steeleafChance = 0.5
+	# Default: 100
+	# Range: 1 ~ 10000
+	ironwoodRegenDuration = 100
+	# Default: 100
+	# Range: 1 ~ 10000
+	ironwoodEffectDuration = 100

@@ -1,0 +1,21 @@
+[General]
+	#Global toggle for controlling rainbow detail.
+	globalDetailOverride = false
+	#If set to true, then the configs will update every mod update. Set to false if you want to manage config changes yourself.
+	globalShouldAutoUpdate = true
+	#How high of a resolution should the rainbow render in? Lower value = lower resolution and quality but more FPS.
+	# Default: 150
+	# Range: > 0
+	rainbowDetail = 150
+	#How high of a fidelity should the rainbow gradient layers have? Lower value = less gradient layers but more FPS.
+	# Default: 32
+	# Range: > 1
+	rainbowColorDetail = 32
+	#Brightness multiplier value added to the colors of the rainbow. 0 = no change, 1 = fully white.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	rainbowBrightnessIncreaseFactor = 0.25
+	#Sun rotation.
+	# Default: 39.0
+	# Range: -360.0 ~ 360.0
+	sunRotation = 39.0

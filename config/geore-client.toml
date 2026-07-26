@@ -1,0 +1,6 @@
+#Client settings
+[Client]
+	#The intensity of the spyglass color overlay (0.5 = 50%) [Default: 0.5]
+	# Default: 0.5
+	# Range: 0.01 ~ 1.0
+	spyglassIntensity = 0.5
