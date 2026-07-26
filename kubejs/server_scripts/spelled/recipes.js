@@ -4,7 +4,7 @@
 *    As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 */
 ServerEvents.recipes(ATM => {
-    ATM.replaceInput({id: "spelled:spell_book"}, "c:gems/lapis","c:gems/amethyst")
+    ATM.replaceInput({id: "spelled:spell_book"}, "#c:gems/lapis","#c:gems/amethyst")
 })
 
 /*
