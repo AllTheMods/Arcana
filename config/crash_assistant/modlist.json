@@ -708,13 +708,13 @@
     "curseForgeHash": 2172678775,
     "modrinthHash": "b1122189ae731195cfc04cd54ceac3d1418db164"
   },
-  "CreateDragonsPlus-1.11.2b.jar": {
-    "jarName": "CreateDragonsPlus-1.11.2b.jar",
+  "CreateDragonsPlus-1.11.3.jar": {
+    "jarName": "CreateDragonsPlus-1.11.3.jar",
     "modId": "create_dragons_plus",
     "name": "Create: Dragons Plus",
-    "version": "1.11.2b",
-    "curseForgeHash": 1693188569,
-    "modrinthHash": "c0427a7f657f583694e485186621bdeda16ca8dd"
+    "version": "1.11.3",
+    "curseForgeHash": 3175373970,
+    "modrinthHash": "37e2373216b70893409d2baeae86b02c2bfa65bc"
   },
   "CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar": {
     "jarName": "CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
@@ -1180,13 +1180,13 @@
     "curseForgeHash": 414630952,
     "modrinthHash": "ff362fe86acd5ec471eeac97651e2b8f2e9fdd8e"
   },
-  "fusion-1.3.9-neoforge-mc1.21.1.jar": {
-    "jarName": "fusion-1.3.9-neoforge-mc1.21.1.jar",
+  "fusion-1.3.10-neoforge-mc1.21.1.jar": {
+    "jarName": "fusion-1.3.10-neoforge-mc1.21.1.jar",
     "modId": "fusion",
     "name": "Fusion",
-    "version": "1.3.9",
-    "curseForgeHash": 176460360,
-    "modrinthHash": "37911dd0539f040e1599fe88aec5df66780e5534"
+    "version": "1.3.10",
+    "curseForgeHash": 780243271,
+    "modrinthHash": "ddc54ef269c152a1a4e4a92c57c05583d9a6160e"
   },
   "gametechbcs_spellbooks-3.0.0-1.21.1.jar": {
     "jarName": "gametechbcs_spellbooks-3.0.0-1.21.1.jar",
@@ -1737,13 +1737,13 @@
     "curseForgeHash": 1865123537,
     "modrinthHash": "bc1a70e72e7dba8a3ff41404765fdd03a7ac6575"
   },
-  "modonomicon-1.21.1-neoforge-1.120.3.jar": {
-    "jarName": "modonomicon-1.21.1-neoforge-1.120.3.jar",
+  "modonomicon-1.21.1-neoforge-1.120.4.jar": {
+    "jarName": "modonomicon-1.21.1-neoforge-1.120.4.jar",
     "modId": "modonomicon",
     "name": "Modonomicon",
-    "version": "1.120.3",
-    "curseForgeHash": 3230206328,
-    "modrinthHash": "af1a69445617058b1deeec34444310e81301ea4c"
+    "version": "1.120.4",
+    "curseForgeHash": 3586170747,
+    "modrinthHash": "1377fec77ba0cb3e4adda0da9ce2f14847e21e40"
   },
   "modopedia-neoforge-1.21.1-1.1.11.jar": {
     "jarName": "modopedia-neoforge-1.21.1-1.1.11.jar",
