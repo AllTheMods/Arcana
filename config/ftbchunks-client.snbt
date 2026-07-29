@@ -55,6 +55,11 @@
 		# Default: false
 		chunk_grid: false
 		
+		# Claim mode for the chunk claiming screen
+		# Default: "freehand"
+		# Valid values: "freehand", "rectangle", "circle"
+		claim_mode: "freehand"
+		
 		# Show claimed chunks on the map
 		# Default: true
 		claimed_chunks_on_map: true
@@ -133,31 +138,31 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:glow_squid": true
-			"creeperoverhaul:cave_creeper": true
-			"iceandfire:hippocampus": true
-			"vampirism:vampire": true
+			"minecraft:zombie": true
+			"evilcraft:vengeance_spirit": true
+			"minecraft:spider": true
+			"vampirism:advanced_vampire": true
+			"forcecraft:creeper_tot": true
+			"minecraft:pufferfish": false
+			"productivebees:chocolate_mining_bee": true
+			"minecraft:squid": true
+			"minecraft:salmon": false
+			"minecraft:bat": true
+			"artifacts:mimic": true
+			"minecraft:enderman": true
 			"productivebees:reed_bee": true
 			"irons_spellbooks:necromancer": true
 			"vampirism:vampire_imob": true
-			"evilcraft:vengeance_spirit": true
-			"minecraft:zombie": true
-			"minecraft:spider": true
-			"minecraft:enderman": true
-			"minecraft:skeleton": true
-			"minecraft:pufferfish": false
-			"artifacts:mimic": true
-			"minecraft:squid": true
-			"productivebees:chocolate_mining_bee": true
-			"forcecraft:creeper_tot": true
-			"vampirism:advanced_vampire_imob": true
-			"productivebees:ashy_mining_bee": true
+			"minecraft:glow_squid": true
 			"minecraft:drowned": true
-			"vampirism:advanced_vampire": true
+			"creeperoverhaul:cave_creeper": true
 			"minecraft:husk": true
-			"minecraft:salmon": false
 			"minecraft:tropical_fish": false
-			"minecraft:bat": true
+			"minecraft:skeleton": true
+			"vampirism:advanced_vampire_imob": true
+			"iceandfire:hippocampus": true
+			"vampirism:vampire": true
+			"productivebees:ashy_mining_bee": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
