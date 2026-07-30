@@ -23,6 +23,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "54A47723E2C9F204"
 			image: "atm:textures/questpics/iron_spells/spells_title.png"
 			rotation: 0.0d
 			width: 9.38265306122449d
@@ -30,9 +31,9 @@
 			y: -3.0d
 		}
 		{
-			click: "#59E68086A8B99EA7"
+			click_action: "open_quest:59E68086A8B99EA7"
 			height: 3.0d
-			hover: ["Pyromancer"]
+			id: "1F8392719EBAE672"
 			image: "atm:textures/questpics/iron_spells/spells_pyromancer.png"
 			rotation: 0.0d
 			width: 1.5506216696269983d
@@ -40,9 +41,9 @@
 			y: 0.0d
 		}
 		{
-			click: "#555ED1E39131D91B"
+			click_action: "open_quest:555ED1E39131D91B"
 			height: 3.0d
-			hover: ["Cryomancer"]
+			id: "27EC8EC43E4BF1CC"
 			image: "atm:textures/questpics/iron_spells/spells_cryomancer.png"
 			rotation: 0.0d
 			width: 1.738703339882122d
@@ -50,9 +51,9 @@
 			y: 0.0d
 		}
 		{
-			click: "#3009018DEC1EC952"
+			click_action: "open_quest:3009018DEC1EC952"
 			height: 3.0d
-			hover: ["Inscription Table"]
+			id: "06101F99B93D4D2E"
 			image: "atm:textures/questpics/iron_spells/spells_table.png"
 			rotation: 0.0d
 			width: 5.4288407163053725d
@@ -60,9 +61,9 @@
 			y: -1.0d
 		}
 		{
-			click: "#3E8077AB45C79E6A"
+			click_action: "open_quest:3E8077AB45C79E6A"
 			height: 2.0d
-			hover: ["Alchemist Cauldron"]
+			id: "429B00533AC71CC5"
 			image: "atm:textures/questpics/iron_spells/spells_cauldron.png"
 			rotation: 0.0d
 			width: 2.106776180698152d
@@ -70,9 +71,9 @@
 			y: 1.5d
 		}
 		{
-			click: "#551A4916F032ACCF"
+			click_action: "open_quest:551A4916F032ACCF"
 			height: 2.0d
-			hover: ["Arcane Anvil"]
+			id: "0C01CE96D9C0CE3F"
 			image: "atm:textures/questpics/iron_spells/spells_anvil.png"
 			rotation: 0.0d
 			width: 1.9232409381663114d
@@ -80,9 +81,9 @@
 			y: 1.5d
 		}
 		{
-			click: "#69838E3F12218D68"
+			click_action: "open_quest:69838E3F12218D68"
 			height: 2.0d
-			hover: ["Scroll Forge"]
+			id: "2A3BE116C531458F"
 			image: "atm:textures/questpics/iron_spells/spells_scroll.png"
 			rotation: 0.0d
 			width: 2.3376623376623376d
@@ -90,9 +91,9 @@
 			y: 1.5d
 		}
 		{
-			click: "#0436DF3308681913"
+			click_action: "open_quest:0436DF3308681913"
 			height: 4.0d
-			hover: ["The Dead King"]
+			id: "225A699ADFAC4A1F"
 			image: "atm:textures/questpics/iron_spells/spells_king.png"
 			rotation: 0.0d
 			width: 2.3363914373088686d
@@ -100,9 +101,9 @@
 			y: 4.5d
 		}
 		{
-			click: "#204B969DA081056A"
+			click_action: "open_quest:204B969DA081056A"
 			height: 3.0d
-			hover: ["Necromancer"]
+			id: "48E1D43C8D1EBA1E"
 			image: "atm:textures/questpics/iron_spells/spells_necromancer.png"
 			rotation: 0.0d
 			width: 1.7410714285714288d
@@ -110,9 +111,9 @@
 			y: 5.0d
 		}
 		{
-			click: "#395A33977B18B9AD"
+			click_action: "open_quest:395A33977B18B9AD"
 			height: 3.0d
-			hover: ["Ancient Knight"]
+			id: "5404F9CE17CAADA2"
 			image: "atm:textures/questpics/iron_spells/spells_knight.png"
 			rotation: 0.0d
 			width: 2.070567986230637d
@@ -120,9 +121,9 @@
 			y: 5.0d
 		}
 		{
-			click: "#3009018DEC1EC952"
+			click_action: "open_quest:3009018DEC1EC952"
 			height: 2.5d
-			hover: ["Mountain Tower"]
+			id: "754F08DC42EE5525"
 			image: "atm:textures/questpics/iron_spells/spells_mountaintower.png"
 			rotation: 0.0d
 			width: 4.444444444444445d
@@ -130,9 +131,9 @@
 			y: -6.0d
 		}
 		{
-			click: "#3009018DEC1EC952"
+			click_action: "open_quest:3009018DEC1EC952"
 			height: 2.5d
-			hover: ["Pyromancer Tower"]
+			id: "0325E78D70C829B7"
 			image: "atm:textures/questpics/iron_spells/spells_pyromancertower.png"
 			rotation: 0.0d
 			width: 4.444444444444445d
@@ -140,9 +141,9 @@
 			y: -6.0d
 		}
 		{
-			click: "#3009018DEC1EC952"
+			click_action: "open_quest:3009018DEC1EC952"
 			height: 2.5d
-			hover: ["Mangrove Hut"]
+			id: "13928D68EFFBAF50"
 			image: "atm:textures/questpics/iron_spells/spells_magrovehut.png"
 			rotation: 0.0d
 			width: 4.444444444444445d
@@ -150,9 +151,9 @@
 			y: -6.0d
 		}
 		{
-			click: "#3009018DEC1EC952"
+			click_action: "open_quest:3009018DEC1EC952"
 			height: 2.5d
-			hover: ["Evoker Fort"]
+			id: "46CA51B737B91829"
 			image: "atm:textures/questpics/iron_spells/spells_evokerfort.png"
 			rotation: 0.0d
 			width: 4.444444444444445d
@@ -161,6 +162,7 @@
 		}
 		{
 			height: 3.0d
+			id: "5C6CE71427C00408"
 			image: "atm:textures/questpics/iron_spells/spells_frame.png"
 			rotation: 0.0d
 			width: 5.5d
@@ -169,6 +171,7 @@
 		}
 		{
 			height: 3.0d
+			id: "421EC532B8FFE725"
 			image: "atm:textures/questpics/iron_spells/spells_frame.png"
 			rotation: 0.0d
 			width: 5.5d
@@ -177,6 +180,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6AB5527F613E9780"
 			image: "atm:textures/questpics/iron_spells/spells_frame.png"
 			rotation: 0.0d
 			width: 5.5d
@@ -185,6 +189,7 @@
 		}
 		{
 			height: 3.0d
+			id: "16E8501A765BAE32"
 			image: "atm:textures/questpics/iron_spells/spells_frame.png"
 			rotation: 0.0d
 			width: 5.5d
@@ -193,6 +198,7 @@
 		}
 		{
 			height: 3.5d
+			id: "0FFC59BF000D1881"
 			image: "atm:textures/questpics/iron_spells/spells_frame.png"
 			rotation: 0.0d
 			width: 6.5d

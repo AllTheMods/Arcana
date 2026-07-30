@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 1.5d
+			id: "016814C8DD66EF01"
 			image: "atm:textures/questpics/ars/ars_nouveau_title.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 5.0d
+			id: "6D6B90BA7742A49C"
 			image: "atm:textures/questpics/ars/ars_nexus_tower_room.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -173,7 +175,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "6914ABC030803F5E"
-				item: { count: 1, id: "reliquified_ars_nouveau:ballistarian_bracer" }
+				item: { components: { "relics:data": { abilities: { abilities: { ballistary: { lock: { breaks: 5 }, points: 0, stats: { absorption_on_kill: { initialQuality: 8 }, duplication_chance: { initialQuality: 8 }, duplication_radius: { initialQuality: 6 }, max_absorption: { initialQuality: 9 }, projectile_count: { initialQuality: 9 }, projectile_damage: { }, stun_duration: { initialQuality: 8 }, trigger_chance: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:ballistarian_bracer" }
 				type: "item"
 			}]
 			x: 4.5d
@@ -190,7 +192,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "5E15F7C587A0A85D"
-				item: { count: 1, id: "reliquified_ars_nouveau:flaming_bracer" }
+				item: { components: { "relics:data": { abilities: { abilities: { pyroclastic: { lock: { breaks: 5 }, points: 0, stats: { fire_damage_bonus: { }, fire_regeneration: { initialQuality: 4 }, magic_fire_damage: { }, paralysis_chance: { initialQuality: 8 }, paralysis_duration: { initialQuality: 6 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:flaming_bracer" }
 				type: "item"
 			}]
 			x: 5.0d
@@ -207,7 +209,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "22CAA6C9F9619965"
-				item: { count: 1, id: "reliquified_ars_nouveau:whirling_broom" }
+				item: { components: { "relics:data": { abilities: { abilities: { broom: { lock: { breaks: 5 }, points: 0, stats: { broom_health: { initialQuality: 3 }, damage_reduction: { initialQuality: 8 }, health_regen_interval: { initialQuality: 6 }, max_height: { initialQuality: 6 }, revive_cooldown: { initialQuality: 6 }, speed: { initialQuality: 10 }, sprint_mana_per_second: { initialQuality: 6 }, sprint_speed_bonus: { initialQuality: 1 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:whirling_broom" }
 				type: "item"
 			}]
 			x: 5.5d
@@ -224,7 +226,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "300F3E274597E91F"
-				item: { count: 1, id: "reliquified_ars_nouveau:cloak_of_concealment" }
+				item: { components: { "relics:data": { abilities: { abilities: { absorption: { lock: { breaks: 5 }, points: 0, stats: { chain_damage_reduction: { initialQuality: 3 }, distribution_radius: { initialQuality: 2 }, healing_conversion: { }, mana_per_damage: { initialQuality: 9 }, reflect_window: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:cloak_of_concealment" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -241,7 +243,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "4E13DB493FE47C43"
-				item: { count: 1, id: "reliquified_ars_nouveau:illusionists_mantle" }
+				item: { components: { "relics:data": { abilities: { abilities: { deception: { lock: { breaks: 5 }, points: 0, stats: { damage_reduction_per_illusion: { initialQuality: 10 }, illusion_duration: { initialQuality: 6 }, illusion_radius: { initialQuality: 3 }, paralysis_duration: { initialQuality: 4 }, trigger_chance: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:illusionists_mantle" }
 				type: "item"
 			}]
 			x: 6.5d
@@ -258,7 +260,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "5E6CB22D426AC64A"
-				item: { count: 1, id: "reliquified_ars_nouveau:spiked_cloak" }
+				item: { components: { "relics:data": { abilities: { abilities: { thorn_burst: { lock: { breaks: 5 }, points: 0, stats: { bleeding_duration: { initialQuality: 6 }, bleeding_level: { initialQuality: 8 }, chain_chance: { initialQuality: 8 }, chain_max_spikes: { initialQuality: 3 }, damage_threshold_fraction: { initialQuality: 7 }, max_spikes: { initialQuality: 7 }, resistance_bonus: { initialQuality: 10 }, resistance_duration: { initialQuality: 9 }, spike_damage: { initialQuality: 7 }, trigger_chance: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:spiked_cloak" }
 				type: "item"
 			}]
 			x: 7.0d
@@ -275,7 +277,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "6E2972ABFDFCA4E7"
-				item: { count: 1, id: "reliquified_ars_nouveau:wing_of_the_wild_stalker" }
+				item: { components: { "relics:data": { abilities: { abilities: { wild_flight: { lock: { breaks: 5 }, points: 0, stats: { dash_cooldown: { initialQuality: 6 }, dash_strength: { initialQuality: 8 }, flight_attack_bonus: { initialQuality: 8 }, flight_damage_reduction: { initialQuality: 4 }, flight_duration: { initialQuality: 6 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:wing_of_the_wild_stalker" }
 				type: "item"
 			}]
 			x: 5.0d
@@ -292,7 +294,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "7D438F761BAF1962"
-				item: { count: 1, id: "reliquified_ars_nouveau:whirlisprig_petals" }
+				item: { components: { "relics:data": { abilities: { abilities: { petal_lift: { lock: { breaks: 5 }, points: 0, stats: { charge_regen_time: { initialQuality: 5 }, lift_speed: { initialQuality: 1 }, max_charges: { }, ranged_bonus_damage: { initialQuality: 3 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:whirlisprig_petals" }
 				type: "item"
 			}]
 			x: 5.5d
@@ -309,7 +311,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "1465E3EE8ECE242A"
-				item: { count: 1, id: "reliquified_ars_nouveau:horn_of_the_wild_hunter" }
+				item: { components: { "relics:data": { abilities: { abilities: { summoner: { lock: { breaks: 5 }, points: 0, stats: { bleeding_duration: { initialQuality: 5 }, bleeding_level: { initialQuality: 3 }, bone_drop_chance: { initialQuality: 8 }, bone_drop_max: { initialQuality: 3 }, extra_wolf_cap: { initialQuality: 3 }, extra_wolf_chance: { initialQuality: 4 }, extra_wolf_lifetime: { initialQuality: 1 }, max_wolves: { initialQuality: 4 }, wolf_damage: { initialQuality: 2 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:horn_of_the_wild_hunter" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -326,7 +328,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "2282D9CB93F5EC58"
-				item: { count: 1, id: "reliquified_ars_nouveau:archmage_glove" }
+				item: { components: { "relics:data": { abilities: { abilities: { multicasted: { lock: { breaks: 5 }, points: 0, stats: { failed_multicast_bonus: { initialQuality: 4 }, mana_refund_chance: { initialQuality: 5 }, mana_refund_percent: { initialQuality: 1 }, max_multicasts: { initialQuality: 1 }, multicast_chance: { initialQuality: 7 }, multicast_damage_reduction: { initialQuality: 7 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:archmage_glove" }
 				type: "item"
 			}]
 			x: 5.0d
@@ -343,7 +345,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "596EC5920C084771"
-				item: { components: { "ars_nouveau:spell_caster": { spells: { 0: { color: { b: 180, g: 25, id: "ars_nouveau:constant", r: 255 }, name: "", particleTimeline: { }, recipe: [ ], sound: { } } } } }, count: 1, id: "reliquified_ars_nouveau:emblem_of_devotion" }
+				item: { components: { "ars_nouveau:spell_caster": { spells: { 0: { color: { b: 180, g: 25, id: "ars_nouveau:constant", r: 255 }, name: "", particleTimeline: { }, recipe: [ ], sound: { } } } }, "relics:data": { abilities: { abilities: { devotion: { lock: { breaks: 5 }, points: 0, stats: { absorption_cap: { initialQuality: 6 }, absorption_hearts: { initialQuality: 6 }, max_glyphs: { initialQuality: 10 }, max_orbs: { initialQuality: 7 }, preservation_chance: { initialQuality: 4 }, propagation_chance: { initialQuality: 1 }, propagation_radius: { initialQuality: 5 }, propagation_targets: { initialQuality: 8 }, spawn_interval: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:emblem_of_devotion" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -360,7 +362,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "654C0E2C17CE422B"
-				item: { components: { "ars_nouveau:spell_caster": { spells: { 0: { color: { b: 180, g: 25, id: "ars_nouveau:constant", r: 255 }, name: "", particleTimeline: { }, recipe: [ ], sound: { } } } } }, count: 1, id: "reliquified_ars_nouveau:emblem_of_assault" }
+				item: { components: { "ars_nouveau:spell_caster": { spells: { 0: { color: { b: 180, g: 25, id: "ars_nouveau:constant", r: 255 }, name: "", particleTimeline: { }, recipe: [ ], sound: { } } } }, "relics:data": { abilities: { abilities: { onslaught: { lock: { breaks: 5 }, points: 0, stats: { damage_boost: { initialQuality: 9 }, damage_boost_duration: { }, heal_on_trigger: { initialQuality: 7 }, max_glyphs: { initialQuality: 4 }, propagation_chance: { }, propagation_radius: { }, propagation_targets: { initialQuality: 3 }, trigger_chance: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:emblem_of_assault" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -377,7 +379,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "5A376C0126BB5762"
-				item: { components: { "ars_nouveau:spell_caster": { spells: { 0: { color: { b: 180, g: 25, id: "ars_nouveau:constant", r: 255 }, name: "", particleTimeline: { }, recipe: [ ], sound: { } } } } }, count: 1, id: "reliquified_ars_nouveau:emblem_of_defense" }
+				item: { components: { "ars_nouveau:spell_caster": { spells: { 0: { color: { b: 180, g: 25, id: "ars_nouveau:constant", r: 255 }, name: "", particleTimeline: { }, recipe: [ ], sound: { } } } }, "relics:data": { abilities: { abilities: { sentinel: { lock: { breaks: 5 }, points: 0, stats: { max_glyphs: { }, propagation_chance: { initialQuality: 9 }, propagation_radius: { initialQuality: 7 }, propagation_targets: { initialQuality: 1 }, resistance_duration: { }, resistance_reduction: { initialQuality: 4 }, trigger_chance: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:emblem_of_defense" }
 				type: "item"
 			}]
 			x: 6.5d
@@ -394,28 +396,11 @@
 			shape: "diamond"
 			tasks: [{
 				id: "1461ABA86974D41D"
-				item: { count: 1, id: "reliquified_ars_nouveau:quantum_bubble" }
+				item: { components: { "relics:data": { abilities: { abilities: { stasis: { lock: { breaks: 5 }, points: 0, stats: { blinding_duration: { initialQuality: 10 }, blinding_radius: { initialQuality: 1 }, charge_regen_time: { initialQuality: 10 }, max_charges: { initialQuality: 6 }, protection_radius: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:quantum_bubble" }
 				type: "item"
 			}]
 			x: 6.5d
 			y: 23.5d
-		}
-		{
-			dependencies: ["566686E4F01C4D3E"]
-			id: "62B9A70E17BE18ED"
-			rewards: [{
-				id: "10C7F1892007B79E"
-				type: "xp"
-				xp: 10
-			}]
-			shape: "diamond"
-			tasks: [{
-				id: "2C5188EA3E3C27FD"
-				item: { count: 1, id: "reliquified_ars_nouveau:ring_of_the_spectral_walker" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: 27.0d
 		}
 		{
 			dependencies: ["566686E4F01C4D3E"]
@@ -428,11 +413,11 @@
 			shape: "diamond"
 			tasks: [{
 				id: "4FE909507A78891E"
-				item: { count: 1, id: "reliquified_ars_nouveau:ring_of_last_will" }
+				item: { components: { "relics:data": { abilities: { abilities: { last_will: { lock: { breaks: 5 }, points: 0, stats: { cooldown: { initialQuality: 7 }, immortality_duration: { initialQuality: 8 }, paralysis_duration: { initialQuality: 10 }, revenge_damage_bonus: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:ring_of_last_will" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: 27.5d
+			x: 4.0d
+			y: 27.0d
 		}
 		{
 			dependencies: ["566686E4F01C4D3E"]
@@ -445,11 +430,11 @@
 			shape: "diamond"
 			tasks: [{
 				id: "53607789A48D4382"
-				item: { count: 1, id: "reliquified_ars_nouveau:mana_ring" }
+				item: { components: { "relics:data": { abilities: { abilities: { resonance: { lock: { breaks: 5 }, points: 0, stats: { debt_cost_increase: { initialQuality: 5 }, mana_per_health: { }, mana_regen_bonus: { initialQuality: 6 }, max_mana_bonus: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:mana_ring" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 28.0d
+			x: 4.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["566686E4F01C4D3E"]
@@ -462,11 +447,11 @@
 			shape: "diamond"
 			tasks: [{
 				id: "14ABC72008E04354"
-				item: { count: 1, id: "reliquified_ars_nouveau:ring_of_thrift" }
+				item: { components: { "relics:data": { abilities: { abilities: { thrift: { lock: { breaks: 5 }, points: 0, stats: { combo_duration: { initialQuality: 5 }, combo_max_stacks: { initialQuality: 8 }, combo_regen_bonus_per_cast: { initialQuality: 3 }, free_cast_chance: { initialQuality: 9 }, mana_cost_reduction: { initialQuality: 5 }, refund_delay: { initialQuality: 5 }, refund_percent: { initialQuality: 2 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:ring_of_thrift" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 28.5d
+			x: 5.0d
+			y: 28.0d
 		}
 		{
 			dependencies: ["4BD55925E27B8BCE"]
@@ -479,7 +464,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "310374EB9B3C905D"
-				item: { components: { "relics:charge": 2 , "relics:time": 0 }, count: 1, id: "reliquified_ars_nouveau:architects_staff" }
+				item: { components: { "relics:data": { abilities: { abilities: { bridgecraft: { lock: { breaks: 5 }, points: 0, stats: { bridge_duration: { initialQuality: 5 }, charge_regen_time: { initialQuality: 3 }, disappearance_action_lock_time: { initialQuality: 10 }, healing_bonus: { initialQuality: 6 }, max_bridge_length: { initialQuality: 6 }, max_charges: { initialQuality: 6 }, projectile_damage_bonus: { initialQuality: 3 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "reliquified_ars_nouveau:architects_staff" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -1800,7 +1785,7 @@
 					id: "103B0AC92544D55F"
 					item: {
 						count: 1
-						id: "ars_elemental:anima_essence"
+						id: "sauce:anima_essence"
 					}
 					type: "item"
 				}
@@ -2055,8 +2040,8 @@
 				item: { count: 1, id: "ars_nouveau:ring_of_lesser_discount" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: 29.5d
+			x: 6.0d
+			y: 29.0d
 		}
 		{
 			dependencies: [
@@ -2312,8 +2297,8 @@
 				item: { count: 1, id: "ars_nouveau:jump_ring" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 29.0d
+			x: 5.5d
+			y: 28.5d
 		}
 		{
 			dependencies: [
@@ -3946,7 +3931,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "6F453C9729F60950"
-				item: { count: 1, id: "ars_technica:runic_spanner" }
+				item: { components: { "ars_technica:runic_wrench": 1b }, count: 1, id: "create:wrench" }
 				type: "item"
 			}]
 			x: -2.5d
@@ -5160,7 +5145,7 @@
 					id: "489826FBDBD796AA"
 					item: {
 						count: 1
-						id: "ars_elemental:anima_essence"
+						id: "sauce:anima_essence"
 					}
 					type: "item"
 				}
@@ -5215,8 +5200,8 @@
 				item: { count: 1, id: "ars_nouveau:ring_of_greater_discount" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 30.0d
+			x: 6.5d
+			y: 29.5d
 		}
 		{
 			id: "4BE0EA16EC2DDF4E"

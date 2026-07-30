@@ -1,0 +1,91 @@
+{
+	quest.04C94741762FE59E.quest_desc: ["Healing is pretty simple. \\n\\nWhen used on your Self, you'll instantly Regenerate some Health. \\n\\nIt can also be used in a Projectile or Ball to do the same Healing. \\n\\nNot happy with the amount of Health you gain? Try using the Power Spell with it!"]
+	quest.04C94741762FE59E.quest_subtitle: "Sanitatem"
+	quest.04C94741762FE59E.title: "Healing"
+	quest.058685467D6E1D7F.quest_desc: ["Snow will place a Layer of Snow! \\n\\nIt can be used as a Projectile or Ball to throw the Snow Layer elsewhere, or used on Self to place it beneath you. \\n\\nThis &bSpell&r can be used with &2Size Spells&r to give even more Snow!"]
+	quest.058685467D6E1D7F.quest_subtitle: "Nix"
+	quest.058685467D6E1D7F.title: "Snow"
+	quest.12542030385098D7.quest_desc: ["Protecting is one I am unable to figure out how to use it in a Projectile or Ball, only Self! \\n\\nWhen used on your Self it will give you an Effect of Resistance and Fire Resistance for a few Seconds."]
+	quest.12542030385098D7.quest_subtitle: "Praesidium"
+	quest.12542030385098D7.title: "Protecting"
+	quest.15DDD9DAD5AB3536.quest_desc: ["Cold is used to Slow down... well whatever is hit with it! \\n\\nEither yourself with Self, or others with Projectile and Ball. "]
+	quest.15DDD9DAD5AB3536.quest_subtitle: "Frigus"
+	quest.15DDD9DAD5AB3536.title: "Cold"
+	quest.21D72FFD9FF798EA.quest_desc: ["Power isn't a &bSpell&r we can use on our own, instead it will be used with other &bSpells&r! \\n\\nWhat does it do with other &bSpells&r? It makes them more Powerful! \\n\\nHarming does more Damage, Healing gives more Health, Explosions are even more dangerous!"]
+	quest.21D72FFD9FF798EA.quest_subtitle: "Vis"
+	quest.21D72FFD9FF798EA.title: "Power"
+	quest.23429DB4E7E45C72.quest_desc: ["Pushing can be used to Push Mobs that are hit with it! \\n\\nAt least with Projectiles and Balls. If you use it on Self, you'll get a slight boost forward. \\n\\nThis can be used with Jumps and Sprinting to go even farther!"]
+	quest.23429DB4E7E45C72.quest_subtitle: "Propellentibus"
+	quest.23429DB4E7E45C72.title: "Pushing"
+	quest.2A7AACC8DEC6B4C1.quest_desc: ["Large is even bigger than Big! \\n\\nAt Large, the Ball &bSpell&r doesn't appear to change in size, neither does Fiery or Snow. \\n\\nAt least Explosions are much bigger, now being the same as TNT!"]
+	quest.2A7AACC8DEC6B4C1.quest_subtitle: "Grandis"
+	quest.2A7AACC8DEC6B4C1.title: "Large"
+	quest.32CE1D299668E8C4.quest_desc: ["Explosions is one of the most fun &bSpells&r, can you guess what it does? \\n\\nIT EXPLODES! \\n\\nPlease use it in Projectiles and Balls and at range, or else you might get blown up. \\n\\nUse it with &2Size Spells&r to give it a bigger radius, and use Power to make it easier to blow up Blocks!"]
+	quest.32CE1D299668E8C4.quest_subtitle: "Dissiliunt"
+	quest.32CE1D299668E8C4.title: "Explosions"
+	quest.33E948FC8D99B2C1.quest_desc: ["Hurting is using Instant Damage in a &bSpell&r. \\n\\nYou can use it against other Mobs or yourself, to deal very little Damage. \\n\\nIf you use the Power Spell with it, you can deal even more Damage!"]
+	quest.33E948FC8D99B2C1.quest_subtitle: "Nocere"
+	quest.33E948FC8D99B2C1.title: "Hurting"
+	quest.3AED9F9BF41D4CE5.quest_desc: ["&cTomes of Ancient Knowledge&r are how we will get Knowledge of &eAdjectives&r... but how do we get them? \\n\\nWe can find them in Loot Chests practically everywhere! Or we can randomly get them from Wandering Traders. \\n\\nOnce you get one, you can Right Click with it to learn the Knowledge. This will allow you to use the &eAdjective&r in &9Spell Books&r. \\n\\nHow do we know which &eAdjective&r we get from which &cTome&r..? We don't! They are all named the same! \\n\\nThe only way we can tell is when we try to use the &cTome&r and get told we've already used it. Or you can use the Quests as a cheat sheet..."]
+	quest.3AED9F9BF41D4CE5.title: "&cTome of Ancient Knowledge"
+	quest.46C76F69034C4326.quest_desc: ["This &cTome&r will make your Projectiles and Balls an &bAqua Color&r."]
+	quest.46C76F69034C4326.quest_subtitle: "Aqua"
+	quest.46C76F69034C4326.title: "&bAqua"
+	quest.47653E0283D676A6.quest_desc: ["Big is more of a normal size. \\n\\nOur Ball &bSpells&r will be bigger in size, closer to a Fireball. \\n\\nOur Fiery flames will now be a 3x3 and our Explosions will still be less than TNT but can now explode heavier Items like Stone. \\n\\nSnow will now place a 3x3 of two Layers of Snow."]
+	quest.47653E0283D676A6.quest_subtitle: "Mangum"
+	quest.47653E0283D676A6.title: "Big"
+	quest.4AAA7586DABA1970.quest_desc: ["Breaking is like having a Paxel as a &bSpell&r! \\n\\nBy itself it will only break weak Blocks like Grass or Leaves, if you want harder Blocks broken you'll need to use the Power &bSpell&r with it! \\n\\nDon't worry Power isn't the only addition we can use, we can also use &2Size Spells&r to adjust how many Blocks are broken. \\n\\nPlus the Silk &bSpell&r! Check out its own Quest!"]
+	quest.4AAA7586DABA1970.quest_subtitle: "Fractionis"
+	quest.4AAA7586DABA1970.title: "Breaking"
+	quest.50C8A63AF5668C85.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &6Golden Color&r."]
+	quest.50C8A63AF5668C85.quest_subtitle: "Aureaus"
+	quest.50C8A63AF5668C85.title: "&6Golden"
+	quest.5159743702F28870.quest_desc: ["Mature is a unique &bSpell&r compared to the others. \\n\\nYou can't use it on yourself, rather you can use Projectiles and Balls to use it on Blocks and Mobs. \\n\\nWhen used on Baby Mobs it will speed up the Growth Progress! \\n\\nWhen used on Crops, it will grow them quicker, like Bonemeal."]
+	quest.5159743702F28870.quest_subtitle: "Maturis"
+	quest.5159743702F28870.title: "Mature"
+	quest.544B52BA9EB266EE.quest_desc: ["The Leveling Altar is the only Block in this entire Mod. It is used to increase your &c&lSpelled&r Power Level! \\n\\nThis will effect how powerful your &bSpells&r are. Higher Level, higher Protection. Higher Level, bigger Explosions! \\n\\nTo use it, place it down then you'll need to pay up. It costs &aXP&r and &9Lapis Lazuli&r. \\nThe highest Level you can get is Level 20!"]
+	quest.544B52BA9EB266EE.title: "&l&aLeveling Altar"
+	quest.547FD37786C591DF.quest_desc: ["Fiery will do as the name suggests, adds Fire! \\n\\nUse it as a Projectile or Ball to spread Fire onto Blocks. Or use it on your Self to get put on Fire... I don't know why you'd want that though... \\n\\nThe Fire acts like normal Fire though, it can spread and be put out. \\n\\nThis &bSpell&r is effected by &2Sizes&r to spread even more Fire!"]
+	quest.547FD37786C591DF.quest_subtitle: "Ignis"
+	quest.547FD37786C591DF.title: "Fiery"
+	quest.57D3930B308F3E71.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &9Blue Color&r."]
+	quest.57D3930B308F3E71.quest_subtitle: "Caeruleus"
+	quest.57D3930B308F3E71.title: "&9Blue"
+	quest.58DD85CDBB16F61F.quest_desc: ["Small is obviously the smallest &2Spell Size&r we can get. \\n\\nIt will make our Balls smaller than normal, closer to a Snowball in size. \\n\\nThis will also effect some &bSpells&r. Fiery will only cause a 1x1 of Fire, and Explosions will barely cause an Explosion, it will only break weak Blocks like Dirt and Gravel. \\n\\nAlso Snow will only place a 1x1 of one Layer Snow."]
+	quest.58DD85CDBB16F61F.quest_subtitle: "Parvus"
+	quest.58DD85CDBB16F61F.title: "Small"
+	quest.5B1BF0F4E3E4D387.quest_desc: ["Monstrous is the largest &2Spell Size&r we can get. Even bigger than Large and Big! \\n\\nThe Ball Spells, Fiery, and Snow are all the same unfortunately. \\n\\nThe Explosions are, thankfully, much greater! They are now closer to an End Crystal Explosion."]
+	quest.5B1BF0F4E3E4D387.quest_subtitle: "Immanis"
+	quest.5B1BF0F4E3E4D387.title: "Monstrous"
+	quest.5DF5207C676119F3.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &aGreen Color&r."]
+	quest.5DF5207C676119F3.quest_subtitle: "Viridis"
+	quest.5DF5207C676119F3.title: "&aGreen"
+	quest.66A1087E9C419FEE.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &0Black Color&r."]
+	quest.66A1087E9C419FEE.quest_subtitle: "Ater"
+	quest.66A1087E9C419FEE.title: "&8Black"
+	quest.6C93314ED31E3F34.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &eYellow Color&r."]
+	quest.6C93314ED31E3F34.quest_subtitle: "Flavus"
+	quest.6C93314ED31E3F34.title: "&eYellow"
+	quest.6D9BBE24C098FFB1.quest_desc: ["This &cTome&r will make your Projectiles and Balls a White Color."]
+	quest.6D9BBE24C098FFB1.quest_subtitle: "Albus"
+	quest.6D9BBE24C098FFB1.title: "White"
+	quest.716083B26DED0098.quest_desc: ["Liquid isn't about placing Water Source Blocks. And no, not about placing Lava Source Blocks either. \\n\\nThe &bSpell&r is closer to the use of a Water Splash Potion! Yes, those exist! \\n\\nWhen used as a Projectile it will put out all Flames on Blocks or Mobs in the area. \\n\\nWhen used on yourself, it will put out any Flames that are currently devouring your Flesh! \\n\\nThis &bSpell&r is very helpful in &4&lThe Nether&r... if you can use it there."]
+	quest.716083B26DED0098.quest_subtitle: "Liquidis"
+	quest.716083B26DED0098.title: "Liquid"
+	quest.7265FC02064BB8F0.quest_desc: ["Silk is another &bSpell&r that does nothing on its own, instead we'll need to use it with Breaking. \\n\\nWhen used with Breaking, the Blocks Mined will Drop as if you used the Silk Touch Enchantment. \\n\\nGrass will give Grass instead of Dirt. Stone will give Stone instead of Cobble."]
+	quest.7265FC02064BB8F0.quest_subtitle: "Sericum"
+	quest.7265FC02064BB8F0.title: "Silk"
+	quest.754CA5E4AE7D2A90.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &dPink Color&r."]
+	quest.754CA5E4AE7D2A90.quest_subtitle: "Roseus"
+	quest.754CA5E4AE7D2A90.title: "&dPink"
+	quest.7A3E3E61B660645F.quest_desc: [
+		"With just an &dAmethyst Shard&r and a &7Book&r we can get our start to &bSpell Crafting&r, from &c&lSpelled&r! \\n\\nCurrently you won't be able to use it, you'll need &eAdjectives&r to be able to. Regardless I'll still teach you how to use it! \\n\\nWhen you finally get Knowledge on &eAdjectives&r, we can open our &9Spell Book&r with Right Click. This will give us a ton of options. \\n\\nAt the top is a sorted list of our &eAdjectives&r. We'll have whichever we unlocked, plus by Default the 4 Options for &bSpells&r. These will be discussed on the 2nd Page! \\n\\nThen, we can either Type the &eAdjective&r into the Text Bar, or we can Click an &eAdjective&r in the List, then Click Select to add it. We can see the added &bSpells&r in the &9Spell Book&r Icon. This will also tell you what you missed. \\n\\nAfter, when your &9Spell Book&r is ready, Click the top right to Name your &9Spell Book&r. This will set the &9Spell Book&r to whatever you choose, and can't be undone. "
+		"{@pagebreak}"
+		"The 4 Default Options for &bSpells&r are: Projectile, Ball, Self, and Self. \\n\\nProjectile, will send your &bSpell&r right in the direction you are looking, like a Fireball! I recommend using this for Explosive. \\n\\nBall, is similar to Projectile but will drop in distance. Similar to an Arrow or a Snowball. Not best for Range but still fun! \\n\\nSelf and Self, both apply the &bSpell&r directly to you! I don't know why there is 2... I'd recommend using Protecting for these instead of Fiery!"
+	]
+	quest.7A3E3E61B660645F.quest_subtitle: "Spell Book"
+	quest.7A3E3E61B660645F.title: "&l&cSpelled"
+	quest.7C007B4220170217.quest_desc: ["This &cTome&r will make your Projectiles and Balls a &cRed Color&r."]
+	quest.7C007B4220170217.quest_subtitle: "Rubrum"
+	quest.7C007B4220170217.title: "&cRed"
+}

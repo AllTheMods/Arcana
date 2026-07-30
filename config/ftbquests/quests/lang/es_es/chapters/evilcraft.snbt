@@ -1,0 +1,100 @@
+{
+	quest.066438B01655D866.quest_desc: [
+		"While their &dEssence&r is useful, we can also capture these Spirits for later use. That sounds evil, doesn't it?"
+		""
+		"To become a Spirit Hunter, you'll need to create the &dVengeance Focus&r first. This is used to &aFreeze Spirits&r in place, then you place a &9Box of Eternal Closure&r near the Spirit. This will then suck the Spirit in for later use."
+	]
+	quest.066438B01655D866.title: "Capturing &dSpirits&r"
+	quest.0B9F2B443813F43C.quest_desc: [
+		"Have you ever wanted to be able to attack things with a Shovel, and it hurt? I would ask why, but this is EvilCraft."
+		""
+		"Well look no further! This serves as both a weapon, and a tool for breaking soft things!"
+	]
+	quest.0BB0DF36B079558F.quest_desc: [
+		"The &6Entangled Chalice&r is just like an Ender Tank."
+		""
+		"When placed in the world, it can pump in Blood. When activated in your inventory, it will try to fill up your items that use &cBlood&r as a resource."
+		""
+		"If you want to make more Chalices using the same network, just use the crafting recipe that uses a Chalice instead of a gold ingot."
+	]
+	quest.0BB0DF36B079558F.title: "&dEntangled Chalice&r"
+	quest.0EAF01037BB20BCB.quest_subtitle: "Summons Zombies"
+	quest.10EF30B919EBA5C6.quest_desc: [
+		"It's a pickaxe with Fortune V on it. That's all."
+		""
+		"Definitely won't summon spirits when you are mining. &oDefinitely won't.&r"
+	]
+	quest.12F3A604329EC604.quest_subtitle: "Increases the Efficiency of EvilCraft Machines"
+	quest.199E7C89584C3DB1.quest_subtitle: "Removes Bad Potion Effects"
+	quest.1D794DE95C9FF6C7.quest_subtitle: "Increase the Speed of EvilCraft Machines"
+	quest.1DA0A87C471A38AC.quest_desc: [
+		"&cEvilCraft&r has its own Mob Farm!"
+		""
+		"To start this, you'll need to craft at least 33 &cDark Blood Bricks&r. With these, we'll build a structure that is strong enough to contain the summoned spirits."
+		""
+		"You'll also need a spirit trapped in a &9Box of Eternal Closure&r. This will determine the drops you'll get."
+		""
+		"To build this, you need to build a cuboid structure with enough room for the mob to spawn. The minimum size is 3x4x3, which has enough room to spawn mobs like zombies. Make sure to place a &9Spirit Furnace&r on one of the faces so you can interact with the structure."
+		""
+		"If you want to spawn bigger mobs, you'll need to make a bigger structure."
+		""
+		"{image:atm:textures/questpics/evilcraft/evilcraft_spiritfurnace.png width:125 height:150 align:1}"
+	]
+	quest.1DA0A87C471A38AC.title: "&aMob Farms using&r &cBlood&r"
+	quest.1E3471513C75CC54.quest_desc: [
+		"If you leave a bucket of blood on the ground long enough, it will dry into &cHardened Blood&r."
+		""
+		"Aside from being incredibly unsanitary, we need all kinds of blood for us to progress. Even dried blood."
+		""
+		"This will turn back into blood in the rain, or by breaking it with regular tools. If you break it with &9Flint and Steel&r, you'll get &dBlood Shards&r instead."
+	]
+	quest.1E3471513C75CC54.title: "Drying... &cBlood?&r"
+	quest.1F8BC2A4CF055038.quest_subtitle: "A Reusable Ender Pearl"
+	quest.40888A2C17D8FFF6.quest_desc: [
+		"Using the Blood Infuser, you can create &cUndead Saplings&r that grow into &dUndead Trees&r."
+		""
+		"The logs and planks are useful for creating several tools and items within EvilCraft."
+	]
+	quest.40888A2C17D8FFF6.title: "Undead Trees"
+	quest.4978A9B616362CCE.title: "&aRank 2&r: More &cBlood&r"
+	quest.4D7B6842B9F53459.quest_desc: ["Gives you a speed boost + step height!"]
+	quest.4DF7E2149F4BD8CC.quest_desc: ["To insert the desired potion, just right click with the &2Primed Pendant&r in hand to open its inventory."]
+	quest.4DF7E2149F4BD8CC.quest_subtitle: "Applies Potion Effects"
+	quest.4EBED8ABC8C863A4.title: "&aRank 3&r: Even More &cBlood&r"
+	quest.51B24CC5E9332C1E.quest_desc: [
+		"Sometimes when you kill a mob, a &dVengeance Spirit&r will spawn."
+		""
+		"Their &dEssence&r seems to be useful in crafting more advanced items within EvilCraft."
+		""
+		"Not finding many Spirits? Make a &9Vengeance Ring&r and toggle it on to attract more Spirits during your battles."
+	]
+	quest.51B24CC5E9332C1E.title: "Revenge of the &dSpirit&r"
+	quest.525517F1625A9BCB.quest_desc: [
+		"Did a mob hit the floor too hard and get its &cBlood&r everywhere? Oh no!"
+		""
+		"Anyway."
+		""
+		"You can use a &cSanguinary Pedestal&r to absorb that precious &cBlood&r for later use!"
+		""
+		"Want to automate collecting blood? Place a &9Spiked Plate&r on top of the Pedestal, then have a mob stand on it."
+	]
+	quest.525517F1625A9BCB.title: "&aCollecting&r &cBlood Stains&r"
+	quest.56FB82DEB944F758.quest_desc: ["Holding right click will charge up the Mace to do an AoE attack using &cBlood&r. Sneak-right clicking will change the power level. The higher the power level, the more damage it will do at a higher cost of Blood."]
+	quest.59036A2741E7A8AA.quest_desc: [
+		"Want to create a mob egg from the spirit you have trapped in that box?"
+		""
+		"The &9Spirit Reanimator&r does exactly that. Give it a lot of &cBlood&r and an egg, and of course a &9Box of Eternal Closure&r with the Spirit you want to create the mob egg from, and it will attempt to create the mob egg!"
+		""
+		"Note: Some mobs cannot be used to create eggs."
+	]
+	quest.59036A2741E7A8AA.title: "&aCreating&r &9Mob Eggs&r"
+	quest.5A8F4CA0F09F4842.quest_desc: [
+		"Need to remove &dEnchantments&r from an item you've found? Maybe you want to remove a Curse? This can be done using the &cPurifier&r."
+		""
+		"To do this, first place at least 3 buckets worth of blood into the Purifier, then throw in the item you want to remove an enchantment from."
+		""
+		"Next, add in the &cBlook&r. The Blook will absorb one of the enchants from the item, and convert it into a book of the enchant."
+	]
+	quest.5A8F4CA0F09F4842.title: "Removing &dEnchantments&r and &dCurses&r"
+	quest.600F66B13B29708B.quest_desc: ["Either with the flesh of &aPlayers&r or &dWerewolves&r, you can create an &aInfinite Food Source&r using the power of Garmonbozia!"]
+}

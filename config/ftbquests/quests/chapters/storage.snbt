@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 4.0d
+			id: "78A7BE067A5A799D"
 			image: "minecraft:textures/item/chest_minecart.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.75d
+			id: "38FC2CF7CB277440"
 			image: "atm:textures/questpics/storage/sophisticated1.png"
 			rotation: 0.0d
 			width: 5.9d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.5d
+			id: "39B67B30DAA12E23"
 			image: "atm:textures/questpics/storage/sophisticated2.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 4.0d
+			id: "201B1070D44FD462"
 			image: "atm:textures/questpics/storage/sophisticated3.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4B83AA5EBED9CFC4"
 			image: "sophisticatedstorage:item/packing_tape"
 			rotation: 0.0d
 			width: 1.0d
@@ -49,7 +54,7 @@
 			y: -3.5d
 		}
 	]
-	order_index: 1
+	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

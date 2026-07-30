@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 1.5d
+			id: "01342128C060AA16"
 			image: "atm:textures/questpics/ars/ars_nouveau_title.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 10.0d
+			id: "0C8AE2D48E1FA9DC"
 			image: "atm:textures/questpics/ars/ars_nexus_tower.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 10.0d
+			id: "220D570E07142EBE"
 			image: "atm:textures/questpics/ars/ars_arcane_library.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -751,7 +754,7 @@
 					id: "6B1CC1A65A2667F7"
 					item: {
 						count: 1
-						id: "ars_elemental:anima_essence"
+						id: "sauce:anima_essence"
 					}
 					type: "item"
 				}
@@ -763,7 +766,7 @@
 			]
 			tasks: [{
 				id: "6BE151BB79B26BEA"
-				item: { count: 1, id: "ars_elemental:anima_essence" }
+				item: { count: 1, id: "sauce:anima_essence" }
 				type: "item"
 			}]
 			x: 14.0d
@@ -3676,6 +3679,7 @@
 					id: "starbunclemania:smelting_wixie_cauldron"
 				}
 				id: "7071D0DAB2343D33"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "starbunclemania:smelting_wixie_cauldron"
@@ -3724,6 +3728,7 @@
 					id: "starbunclemania:stonecutting_wixie_cauldron"
 				}
 				id: "012A07A09675FE85"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "starbunclemania:stonecutting_wixie_cauldron"
@@ -3756,6 +3761,7 @@
 					id: "ars_additions:enchanting_wixie_cauldron"
 				}
 				id: "511A564430FDA57C"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "ars_additions:enchanting_wixie_cauldron"
@@ -3788,6 +3794,7 @@
 					id: "ars_nouveau:wixie_cauldron"
 				}
 				id: "4CE413C021549F27"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "ars_nouveau:wixie_cauldron"
@@ -5310,6 +5317,7 @@
 			tasks: [
 				{
 					id: "47D910BCF9FBD71E"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "ars_nouveau:portal"

@@ -1,0 +1,522 @@
+{
+	quest.03C87AE4AE414853.quest_desc: [
+		"Incoming! Mobs with the &cGrenade&r trait periodically launch explosive projectiles. The type of explosion depends on the trait rank but thankfully does not destroy blocks."
+		""
+		"&aCounters:&r Dodge the projectiles. The &7Explosion Immunity&r enchantment will negate the damage. &eProjectile Immunity&r might also stop the projectiles themselves."
+	]
+	quest.03C87AE4AE414853.quest_subtitle: "&8Explosive Barrage&r"
+	quest.03C87AE4AE414853.title: "&cTrait: Grenade"
+	quest.0458A38019AB1726.quest_desc: [
+		"Embrace righteous anger with the &cCurse of Wrath&r. Equipping this powerful curse grants you &aimmunity&r to &8Blindness&r, &8Darkness&r, &8Mining Fatigue&r, &8Nausea&r, &8Slowness&r, and &8Weakness&r."
+		""
+		"Furthermore, when facing foes with a higher &bLevel&r than your current &dPlayer Difficulty&r, you gain &a1% bonus attack damage&r for every point of difference. It also increases your &dPlayer Difficulty&r by &c+50&r, drawing stronger foes to test your fury."
+	]
+	quest.0458A38019AB1726.quest_subtitle: "&8Immunity and Vengeance&r"
+	quest.0458A38019AB1726.title: "&cCurse of Wrath's Fury"
+	quest.04F249FAE5FE3AFE.quest_desc: [
+		"Get over here! The &cPulling&r trait causes the mob to constantly draw nearby entities towards it, making escape difficult."
+		""
+		"&aCounters:&r Wear a &afull set&r of armor enchanted with &eInsulator&r to significantly reduce the pulling force, allowing you to maintain positioning."
+	]
+	quest.04F249FAE5FE3AFE.quest_subtitle: "&8Unwanted Embrace&r"
+	quest.04F249FAE5FE3AFE.title: "&cLegendary Trait: Pulling"
+	quest.050248B551D4222E.quest_desc: [
+		"This Legendary foe doesn't fight alone. The &5Master&r trait allows the mob to summon waves of &cminions&r to assault you. Crucially, some of these minions may act as &aprotectors&r, potentially rendering the Master invulnerable until they are dealt with."
+		""
+		"&aCounters:&r Prioritize identifying and eliminating any &aprotector&r minions first. Use &eArea of Effect (AoE)&r attacks to manage the swarm of regular minions. Once the protectors are down, focus high single-target damage onto the &5Master&r itself. Crowd control effects can help manage the minion numbers."
+	]
+	quest.050248B551D4222E.quest_subtitle: "&8Commander of Minions&r"
+	quest.050248B551D4222E.title: "&5Legendary Trait: Master"
+	quest.07A07AF9F1A304EE.quest_desc: [
+		"This trait allows mobs to inflict the &8Cursed&r status effect, which completely prevents the target from healing or regenerating health."
+		""
+		"&aCounters:&r Avoid getting hit. The &bRing of Divinity&r (Cleanse) or other effect-clearing methods can remove it. Prevention via immunity is key."
+	]
+	quest.07A07AF9F1A304EE.quest_subtitle: "&8Denying Recovery&r"
+	quest.07A07AF9F1A304EE.title: "&8Trait: Cursed&r"
+	quest.081CAAB034E0F308.quest_desc: [
+		"Beyond armor, &6Trait Symbols&r, &5Chaos Ingots&r, and &bMiracle Ingots&r are used to craft unique and legendary weapons and bows from the &aL2 Weaponry&r and &aL2 Archery&r mods."
+		""
+		"These often possess powerful special abilities tied to their materials or the traits used in their creation (like the Abyss weapons bypassing protections). Explore their crafting recipes and consider forging a weapon or bow that complements your playstyle and leverages the materials you've gathered through the L2 Hostility system."
+	]
+	quest.081CAAB034E0F308.quest_subtitle: "&8Weapons and Bows of Power&r"
+	quest.0A9B7197379887B0.quest_desc: [
+		"Some cunning foes possess the &dInvisible&r trait, rendering them completely unseen and hiding their trait icon. To combat this, you'll need &eDetector Glass&r. Craft a pair and equip them in a Curios slot."
+		""
+		"While wearing or holding these specialized lenses, invisible entities will become visible to you. Alternatively, applying the &aGlowing&r effect or the &aCleansed&r potion effect to the mob can also reveal them. Detector Glasses are also &aessential&r for interacting with the &7Hostility Orb&r."
+	]
+	quest.0A9B7197379887B0.quest_subtitle: "&8Piercing Illusions&r"
+	quest.0A9B7197379887B0.title: "&eSeeing the Unseen"
+	quest.0AA2EF89E67D4B3F.quest_desc: [
+		"Experience low gravity! The &eMoonwalk&r trait decreases gravitational pull nearby, causing entities to float somewhat, jump higher, and fall much slower."
+		""
+		"&aCounters:&r This primarily affects positioning and movement. Melee combat might feel floaty. Adjust your aim for ranged attacks as targets will fall slower than expected."
+	]
+	quest.0AA2EF89E67D4B3F.quest_subtitle: "&8Low Gravity Zone&r"
+	quest.0AA2EF89E67D4B3F.title: "&eTrait: Moonwalk"
+	quest.0B6C8AD4A53E6AE2.quest_desc: [
+		"Progressing often requires materials not easily found in the Overworld. The first step to acquiring these is the &6Unpolished Looting Charm&r. Craft one and equip it in a &dCharm&r Curios slot."
+		""
+		"While equipped, mobs you defeat have a small chance to drop extra loot, sometimes including resources typically found in other dimensions or from rarer creatures. It's a humble beginning, but essential for crafting better gear and charms later on."
+	]
+	quest.0B6C8AD4A53E6AE2.quest_subtitle: "&8A Charm for Lucky Drops&r"
+	quest.0B6C8AD4A53E6AE2.title: "&6Starting the Hunt"
+	quest.0B9616E0360429B1.quest_desc: [
+		"Keep your distance... whether you want to or not! &eRepelling&r mobs constantly push entities away from them, making melee difficult. They are also immune to projectiles."
+		""
+		"&aCounters:&r Wear a &afull set&r of armor enchanted with &eInsulator&r to drastically reduce the pushback force. Engage with &dmagic damage&r or potentially explosions, as projectiles are useless."
+	]
+	quest.0B9616E0360429B1.quest_subtitle: "&8Constant Pushback, Projectile Immunity&r"
+	quest.0B9616E0360429B1.title: "&eLegendary Trait: Repelling"
+	quest.0DE6E2BA01AA6F88.quest_desc: [
+		"A common category of traits involves mobs directly inflicting standard potion effects upon hitting their target. Be prepared to counter these debilitating effects."
+		""
+		"&aCounters:&r The most universal counter is the &bRing of Divinity&r, granting permanent &aCleanse&r to remove effects. Milk Buckets also work. Specific gear like &6Totemic Gold&r grants immunity to &aPoison&r and &8Wither&r. The &cCurse of Wrath&r grants immunity to &8Blindness&r, &8Nausea&r, &9Slowness&r, and &8Weakness&r. High-end armor like &8Sculkium&r may also offer broad protection."
+		""
+		""
+		"{@pagebreak}"
+		"Effects:"
+		""
+		"&o*&r &8Blinder&r: Inflicts &8Blindness&r, impairing vision."
+		"&o*&r &8Distorter&r: Inflicts &8Nausea&r, causing screen distortion."
+		"&o*&r &eLevitater&r: Inflicts &eLevitation&r, causing uncontrolled floating."
+		"&o*&r &9Stray&r: Inflicts &9Slowness&r, reducing movement speed."
+		"&o*&r &8Weakener&r: Inflicts &8Weakness&r, reducing attack damage."
+		"&o*&r &aPoisonous&r: Inflicts &aPoison&r, causing damage over time (ignores armor)."
+		"&o*&r &8Withering&r: Inflicts &8Wither&r, causing damage over time (can kill, ignores armor)."
+	]
+	quest.0DE6E2BA01AA6F88.quest_subtitle: "&8Inflicting Debilitating Effects&r"
+	quest.0DE6E2BA01AA6F88.title: "&8Traits: Potion Afflictions"
+	quest.0E00AF20A70A5ACB.quest_desc: [
+		"The basic charm is useful, but we can do better. Using some of the materials gathered with your first charm (and perhaps some magical essence), craft the improved &dMagical Looting Charm&r."
+		""
+		"This upgraded charm offers a better chance for those extra drops from defeated enemies, accelerating your access to materials needed for more advanced L2 Hostility progression, particularly those from &aL2 Complements&r. Equip it alongside or instead of the unpolished one!"
+	]
+	quest.0E00AF20A70A5ACB.quest_subtitle: "&8Enhancing Your Luck&r"
+	quest.0E00AF20A70A5ACB.title: "&6Seeking Magical Scraps"
+	quest.120242FF52D001D5.quest_desc: [
+		"The magical counterpart to Dementor. &dDispelling&r mobs are immune to &dmagic damage&r. Their attacks bypass magic protection and can temporarily disable enchantments on equipment they hit."
+		""
+		"&aCounters:&r Use &cphysical damage&r or effects. Utilize &7Shields&r to block their enchantment-disabling attacks. The &dMagic Immunity&r enchantment can protect you from their damage but won't overcome their immunity."
+		""
+		"{@pagebreak}"
+		"&dKnown Carriers:&r This trait often manifests on creatures corrupted by strange energies, particularly those from the Otherside dimension (&aDeeper Darker&r):"
+		"&o*&r Shattered"
+		"&o*&r Stalker"
+		"&o*&r Sculk Snapper"
+		"&o*&r Sculk Leech"
+		"&o*&r Sculk Centipede"
+		"&o*&r Sludge"
+		"&o*&r Shriek Worm"
+	]
+	quest.120242FF52D001D5.quest_subtitle: "&8Magic Immunity, Enchantment Shattering&r"
+	quest.120242FF52D001D5.title: "&dLegendary Trait: Dispelling"
+	quest.148658B5697EA868.quest_desc: [
+		"Feed your avarice with the &6Curse of Greed&r. Equipping this charm &adoubles&r the drop chance for special \"Hostility Loot\". This refers to the chance of receiving reward items like the &6Trait Symbols&r or other L2 components."
+		""
+		"A valuable tool for accelerating your access to these utility items. Of course, such greed attracts attention, increasing your &dPlayer Difficulty&r by &c+50&r."
+	]
+	quest.148658B5697EA868.quest_subtitle: "&8Doubled Fortunes&r"
+	quest.148658B5697EA868.title: "&6Curse of Greed's Bounty"
+	quest.174F6ACD6E1E4FB5.quest_desc: [
+		"Ready for a true test? You can intentionally increase your &dPlayer Difficulty&r faster than normal if you seek greater challenges and rewards."
+		""
+		"The most direct way is to consume a &8Bottle of Curse&r, providing a significant, immediate boost (&c+50&r levels!)."
+	]
+	quest.174F6ACD6E1E4FB5.quest_subtitle: "&8Intentionally Raising the Stakes&r"
+	quest.174F6ACD6E1E4FB5.title: "&cEmbracing the Danger"
+	quest.1B3978A03AA52CDA.quest_desc: [
+		"With the &5Chaos Ingot&r in hand, you can now craft the next level of enhancement for your hunt: the &5Chaotic Looting Charm&r."
+		""
+		"This powerful charm significantly increases the chance and quality of bonus loot dropped by mobs, making it much easier to acquire rare materials and components needed for end-game gear and further L2 progression. Equip this potent artifact and reap the chaotic rewards!"
+	]
+	quest.1B3978A03AA52CDA.quest_subtitle: "&8Looting with Unstable Power&r"
+	quest.1B3978A03AA52CDA.title: "&5Chaotic Opportunities"
+	quest.1B5C915969D05C71.quest_desc: [
+		"For the truly daring symbol collector, there is the &8Abyssal Thorn&r. This potent artifact, worn in the &dL2Hostility - Curse&r slot, forces mobs to spawn with &lALL&r possible traits appropriate for their level."
+		""
+		"This makes combat incredibly dangerous, requiring mastery over countering many abilities at once. However, if you &aalso&r wear the &cCurse of Envy&r, the Thorn &aguarantees&r that the mob will drop the &6Trait Symbol&r for &oevery single trait&r it possesses upon death. A high-risk, high-reward item for dedicated trait farming."
+	]
+	quest.1B5C915969D05C71.quest_subtitle: "&8Maximum Traits, Maximum Reward&r"
+	quest.1B5C915969D05C71.title: "&8The Abyssal Thorn"
+	quest.1D2851247F05307A.quest_desc: [
+		"Desire their possessions? Equip the &dCurse of Lust&r. While active, any mob you defeat that is capable of wearing equipment will drop &aall equipment&r it currently has equipped."
+		""
+		"Excellent for farming specific armor or weapons held by mobs. Naturally, indulging this desire also increases your &dPlayer Difficulty&r by &c+50&r, attracting more well-equipped victims... or dangerous predators."
+	]
+	quest.1D2851247F05307A.quest_subtitle: "&8Taking It All&r"
+	quest.1D2851247F05307A.title: "&dCurse of Lust's Spoils"
+	quest.1DD4480CF6F521C1.quest_desc: [
+		"The &dInvisible&r trait renders the mob and anything it's holding or wearing completely invisible. It even hides the trait's nameplate unless you look directly at the mob's location."
+		""
+		"&aCounters:&r Equip or hold &eDetector Glass&r to reveal them. Alternatively, applying the &aGlowing&r status effect or the &aCleansed&r potion effect will also expose these sneaky foes."
+	]
+	quest.1DD4480CF6F521C1.quest_subtitle: "&8Now You See Me...&r"
+	quest.1DD4480CF6F521C1.title: "&dTrait: Invisible"
+	quest.2124A15257A4DFB7.quest_desc: [
+		"Mobs with the &5Shulker&r trait periodically launch homing projectiles. While these don't inflict Levitation by default, they &awill&r apply status effects from any other potion-granting traits the mob possesses (&aPoisonous&r, &8Withering&r, etc.)."
+		""
+		"&aCounters:&r Dodge the projectiles or utilize the &eProjectile Immunity&r enchantment. Be prepared to deal with the status effects they might carry."
+	]
+	quest.2124A15257A4DFB7.quest_subtitle: "&8Homing Projectiles&r"
+	quest.2124A15257A4DFB7.title: "&5Trait: Shulker"
+	quest.22DFA181285CEA18.quest_desc: [
+		"A potent damage-over-time effect. Mobs with this trait inflict &cSoul Burning&r, which rapidly deals magic damage, even to fire-immune targets (unless they have Fire Resistance)."
+		""
+		"&aCounters:&r The &bRing of Divinity&r (Cleanse/Magic Immunity) or the &cFire Immunity&r enchantment provide protection. Avoid hits or cleanse the effect quickly."
+	]
+	quest.22DFA181285CEA18.quest_subtitle: "&8Consuming Flames&r"
+	quest.22DFA181285CEA18.title: "&cTrait: Soul Burner&r"
+	quest.25C10139D03D5B96.quest_desc: [
+		"To become familiar with the system and prepare for crafting, you'll need a stockpile of symbols. Your task is to gather a small assortment of different &6Trait Symbols&r dropped from common mobs."
+		""
+		"Focus on obtaining symbols from &6Regular Traits&r first, like &cFiery&r, &bSpeedy&r, &7Regeneration&r, and &dProtection&r. Having a variety on hand will be essential when you start crafting specialized equipment tailored to counter specific threats or enhance your own abilities."
+	]
+	quest.25C10139D03D5B96.quest_subtitle: "&8Building Your Symbol Collection&r"
+	quest.25C10139D03D5B96.title: "&6Gotta Catch 'Em All?"
+	quest.2870AB3829F86842.quest_desc: [
+		"Prepare for a pure fight! The &7Arena&r trait prevents any player within its effect radius from placing or breaking blocks, locking down the battlefield. Furthermore, the mob possessing this trait is &aimmune&r to damage originating from any entity not also affected by the arena field."
+		""
+		"&aCounters:&r There's no building your way out of this one! Rely on direct combat skills: dodging, blocking (&7Shields&r!), and well-aimed attacks. If you use summons or deployable damage sources, ensure they are &owithin the arena effect&r to damage the target. Focus on defeating the Arena mob quickly to lift the restriction."
+	]
+	quest.2870AB3829F86842.quest_subtitle: "&8No Escape, No Construction&r"
+	quest.2870AB3829F86842.title: "&7Trait: Arena"
+	quest.2A00EDC4D614726B.quest_desc: [
+		"An alternative to the Orb for clearing difficulty is the &8Hostility Spawner&r. Craft this block using challenging materials."
+		""
+		"Place the spawner in the chunk section (16x16x16 area) you wish to clear. Right-click it to activate. It will summon a &choard&r of enemies based on the current difficulty. You must defeat &lALL&r of them yourself (&okills from non-player sources like lava may cause it to fail!&r) to permanently clear the difficulty in that chunk section. You can check cleared status in the Difficulty tab, or the spawner itself will turn green when placed in a cleared section. Right-click again to reset if it fails."
+	]
+	quest.2A00EDC4D614726B.quest_subtitle: "&8Purging Chunk Difficulty by Force&r"
+	quest.2A00EDC4D614726B.title: "&8Hostility Spawner: Clearing the Horde"
+	quest.2B4D12A31F0B1FE9.quest_desc: [
+		"This slime won't stay small! The &aGrowth&r trait grants the slime &aRegenerate&r and causes it to grow larger each time it heals back to full health. Its maximum size is determined by the trait's rank."
+		""
+		"&aCounters:&r Prevent healing by applying the &8Cursed&r effect via &8Cursed Blade&r. Alternatively, use high burst damage to kill it before it can heal and grow. Focus fire!"
+	]
+	quest.2B4D12A31F0B1FE9.quest_subtitle: "&8Ever-Expanding Slime&r"
+	quest.2B4D12A31F0B1FE9.title: "&aTrait: Growth"
+	quest.2F5E23782958C4D0.quest_desc: [
+		"Prepare for a chase! Mobs with the &bSpeedy&r trait move at exceptionally high speeds, making them hard to hit and allowing them to close distances rapidly."
+		""
+		"&aCounters:&r Use ranged attacks, area-of-effect abilities, or effects that inflict &9Slowness&r (like the &bFreezing Blade&r enchantment). Good positioning and footwork are essential."
+	]
+	quest.2F5E23782958C4D0.quest_subtitle: "&8Blindingly Fast&r"
+	quest.2F5E23782958C4D0.title: "&bTrait: Speedy"
+	quest.31A8CC346C9EE072.quest_desc: [
+		"You've learned to read the threats, harness the power of fallen foes through &6Trait Symbols&r, craft gear infused with their essence, and manage the ever-present danger using &7Orbs&r, &aBottles&r, and &8Curses&r. You understand the flow of &bDifficulty&r and how to manipulate it."
+		""
+		"While the world will continue to test you, especially as you delve into other dimensions and face mighty bosses enhanced by this system, you now possess the fundamental knowledge and tools to survive and thrive within the L2 Hostility system. Continue to adapt, craft wisely, and conquer the escalating dangers!"
+	]
+	quest.31A8CC346C9EE072.quest_subtitle: "&8Master of Adaptation&r"
+	quest.32AC96224AC6F9F2.quest_desc: [
+		"Combine the volatile &8Bottle of Curse&r, the captured essence of the &eCaptured Wind&r, and other potent materials to forge a &5Chaos Ingot&r."
+		""
+		"This ingot pulses with unstable energy and is a vital component for unlocking the next tier of looting potential and interacting with certain high-level mob mechanics, particularly boss respawning if configured. Handle with care!"
+	]
+	quest.32AC96224AC6F9F2.quest_subtitle: "&8An Ingot of Unpredictability&r"
+	quest.32AC96224AC6F9F2.title: "&5Forging Chaos"
+	quest.358976DF9572AAC2.quest_desc: [
+		"Defeating this foe just creates more! The &dSplit&r trait causes the mob to split into two weaker copies upon death. These copies retain the original's traits (though Split rank decreases by 1) but drop no loot."
+		""
+		"&aCounter:&r The most effective method is the &aSplit Suppressor&r weapon enchantment, which completely disables the Split trait on hit, preventing the mob from multiplying."
+		""
+		"{@pagebreak}"
+		"&dKnown Carriers:&r This trait is commonly found on basic, numerous mob types:"
+		"&o*&r Zombie (Vanilla)"
+		"&o*&r Zombie Villager (Vanilla)"
+		"&o*&r Zombified Piglin (Vanilla)"
+		"&o*&r Drowned (Vanilla)"
+		"&o*&r Husk (Vanilla)"
+		"&o*&r Skeleton (Vanilla)"
+		"&o*&r Wither Skeleton (Vanilla)"
+		"&o*&r Stray (Vanilla)"
+		"&o*&r Spider (Vanilla)"
+		"&o*&r Cave Spider (Vanilla)"
+		"&o*&r Creeper (Vanilla)"
+	]
+	quest.358976DF9572AAC2.quest_subtitle: "&8Unwanted Multiplication&r"
+	quest.358976DF9572AAC2.title: "&dTrait: Split"
+	quest.35978B2B3C7C848F.quest_desc: [
+		"This nasty trait punishes worn equipment. Appearing on high-level mobs (Lv.200+), &cCorrosion&r deals extra durability damage to your gear based on how much durability it's already &omissing&r."
+		""
+		"&aCounters:&r Keep your gear repaired! The &7Hardened&r enchantment is essential, capping durability loss per hit to 1."
+	]
+	quest.35978B2B3C7C848F.quest_subtitle: "&8Damaging the Damaged&r"
+	quest.35978B2B3C7C848F.title: "&cTrait: Corrosion"
+	quest.37392913FDA2895C.quest_desc: [
+		"You've seen the power Traits grant your foes. Now, it's time to harness that power. Craft the &cCurse of Envy&r and equip it in a &dCurse&r or &dCharm&r Curios slot."
+		""
+		"Equipping the &cCurse of Envy&r is &lCRUCIAL&r. It enables mobs you defeat to drop &6Trait Symbols&r corresponding to the specific &dTraits&r they possessed, with a &a2% chance per Trait Rank&r. Without this curse active, symbols &owill not drop&r! As a side effect, wearing this curse also increases your &dPlayer Difficulty&r by &c+50&r."
+	]
+	quest.37392913FDA2895C.quest_subtitle: "&8Unlocking Trait Symbols&r"
+	quest.37392913FDA2895C.title: "&cEnvying Their Power"
+	quest.38477E60E8971B02.quest_desc: [
+		"Certain powerful traits hold a darker essence. Hunt down mobs possessing &dAdaptive&r, &8Cursed&r, &cErosion&r, or &cCorrosion&r traits. They have a chance to drop &8Cursed Droplets&r upon defeat. Alternatively, burning &omost&r mob drops (check JEI/EMI, &6Nether Stars&r are best) in fire or lava offers a very slim chance."
+		""
+		"Gather enough droplets to craft a &8Bottle of Curse&r using materials from &aL2 Complements&r. This volatile concoction is a key ingredient for powerful items and a way to manipulate difficulty... if you dare."
+	]
+	quest.38477E60E8971B02.quest_subtitle: "&8Gathering Cursed Essence&r"
+	quest.38477E60E8971B02.title: "&8First Taste of Corruption"
+	quest.38B6C277506D07E2.quest_desc: [
+		"Now that you have the &cCurse of Envy&r equipped, defeated mobs will start dropping &6Trait Symbols&r matching their &dTraits&r. Hovering over a symbol will tell you which trait it represents."
+		""
+		"These symbols are more than just trophies; they are key &aCrafting Ingredients&r. They allow you to imbue powerful gear and items with aspects of the traits themselves. Collect them carefully – they are the building blocks of true power."
+	]
+	quest.38B6C277506D07E2.quest_subtitle: "&8Harnessing Enemy Abilities&r"
+	quest.392C9F2E3A47F031.quest_desc: [
+		"Think twice before striking! The &cReflect&r trait causes the mob to reflect direct physical damage straight back at the attacker. This reflected damage is dealt as &dmagic damage&r and bypasses armor. The amount reflected increases with trait rank."
+		""
+		"&aCounters:&r Avoid direct physical hits. Use &eprojectiles&r, &dmagic damage&r, or throwable weapons. If you *must* use melee, ensure you have strong &dmagic defenses&r, ideally the &dMagic Immunity&r enchantment."
+	]
+	quest.392C9F2E3A47F031.quest_subtitle: "&8Physical Retribution&r"
+	quest.392C9F2E3A47F031.title: "&cTrait: Reflect"
+	quest.3A0641326CF60642.quest_desc: [
+		"Mobs boasting the &cFiery&r trait are immune to all fire damage. Worse, they ignite &cyou&r if you strike them in melee, and ignite targets they successfully attack. Approach with caution!"
+		""
+		"&aCounter:&r The primary defense is the &cFire Immunity&r enchantment, which negates the fire damage entirely and puts out the flames. Ranged attacks can also avoid the contact ignition."
+	]
+	quest.3A0641326CF60642.quest_subtitle: "&8Burning Touch&r"
+	quest.3A0641326CF60642.title: "&cTrait: Fiery"
+	quest.3F146E8AA08976AE.quest_desc: [
+		"Catch me if you can! &5Teleport&r allows mobs to warp away to dodge incoming non-magic attacks. If the teleport fails, it might still repel projectiles. It can also teleport directly onto its target."
+		""
+		"&aCounters:&r Primarily use &dmagic damage&r, which it cannot teleport to dodge. Effects that prevent teleportation or persistent damage sources might also work. The &dEnder Lock&r enchantment might help avoiding their teleport."
+	]
+	quest.3F146E8AA08976AE.quest_subtitle: "&8Elusive Movement&r"
+	quest.3F146E8AA08976AE.title: "&5Legendary Trait: Teleport"
+	quest.3F7C12B98EAB1AF2.quest_desc: [
+		"Sometimes the challenge becomes overwhelming. Thankfully, there are ways to lower your personal &dPlayer Difficulty&r. The most direct method is to craft and drink a &aBottle of Sanity&r, which significantly reduces your difficulty level."
+		""
+		"Alternatively, should you fall in combat, your &dPlayer Difficulty&r will naturally decrease upon respawning (ensure the `keepInventory` gamerule is not preventing this!). While not ideal, dying is a built-in mechanic to ease the pressure if you're consistently facing impossible odds. Use these methods strategically to find a comfortable challenge level."
+	]
+	quest.3F7C12B98EAB1AF2.quest_subtitle: "&8Reducing the Danger&r"
+	quest.3F7C12B98EAB1AF2.title: "&aLowering the Stakes"
+	quest.42C1C19DACBA292E.quest_desc: [
+		"Perhaps you've reached a difficulty level you're comfortable with and don't want things getting any harder for a while. Craft and equip the &8Curse of Sloth&r."
+		""
+		"While this curse is active in your Curios slots, your &dPlayer Difficulty&r will generally not increase from killing mobs or other common sources. This allows you to farm resources or tackle specific challenges without constantly escalating the baseline threat level. Note that some events or dimension entries might still provide minor increases."
+	]
+	quest.42C1C19DACBA292E.quest_subtitle: "&8Preventing Further Increase&r"
+	quest.42C1C19DACBA292E.title: "&8Hitting the Brakes"
+	quest.435DA22D3D33777A.quest_desc: [
+		"The path to the ultimate ingot requires refining the very essence of Traits. Take the &6Trait Symbols&r you have collected and smelt them in a &cBlast Furnace&r."
+		""
+		"This intense heat breaks them down into &bMiracle Powder&r. You will need a significant amount of this powder, representing many conquered foes, to forge the Miracle Ingot. Gather symbols and get blasting!"
+	]
+	quest.435DA22D3D33777A.quest_subtitle: "&8Extracting Miracles from Symbols&r"
+	quest.435DA22D3D33777A.title: "&bPower from Dust"
+	quest.43734AEB9065F2C5.quest_desc: [
+		"Your own strength turned against you! The &dReprint&r trait allows the mob to copy your equipment's enchantments when it hits you. Its damage output also increases based on the total 'enchantment points' on your gear."
+		""
+		"&aCounters:&r Avoid getting hit! Consider using gear with fewer or lower-level enchantments if facing many Reprint mobs. Killing them quickly before they can copy powerful enchantments is key."
+		""
+		"{@pagebreak}"
+		"&dKnown Carriers:&r Brutish or mischievous creatures are known to possess this trait:"
+		"&o*&r Minoshroom (Twilight Forest)"
+		"&o*&r Minotaur (Twilight Forest)"
+		"&o*&r Redcap (Twilight Forest)"
+		"&o*&r Redcap Sapper (Twilight Forest)"
+	]
+	quest.43734AEB9065F2C5.quest_subtitle: "&8Borrowed Power&r"
+	quest.43734AEB9065F2C5.title: "&dTrait: Reprint"
+	quest.43B61AAE9DBCDF50.quest_desc: [
+		"The counterpart to Corrosion, this trait targets well-maintained gear. Appearing on high-level mobs (Lv.200+), &cErosion&r deals extra durability damage based on the item's &ocurrent remaining&r durability."
+		""
+		"&aCounters:&r The &7Hardened&r enchantment is the primary defense, limiting durability loss to 1 per hit."
+	]
+	quest.43B61AAE9DBCDF50.quest_subtitle: "&8Wearing Down the Pristine&r"
+	quest.43B61AAE9DBCDF50.title: "&cTrait: Erosion"
+	quest.443CE783E0C0A608.quest_desc: [
+		"This insidious trait weakens and preys on affliction. &8Drain&r removes random beneficial effects and increases the duration of harmful ones when the mob hits you. Its damage also increases based on the number of harmful effects currently affecting you."
+		""
+		"&aCounters:&r The &bRing of Divinity&r grants permanent &aCleanse&r, negating the effect removal/extension. Immunity-granting gear (like &8Sculkium Armor&r) or specific enchantments prevent the application of debuffs in the first place. Avoid getting debuffed!"
+	]
+	quest.443CE783E0C0A608.quest_subtitle: "&8Siphoning Vitality&r"
+	quest.443CE783E0C0A608.title: "&8Trait: Drain"
+	quest.446C441D14889557.quest_desc: [
+		"The creatures you encounter now possess a &bLevel&r, indicated above their heads. Higher levels mean significantly increased &chealth&r, &cdamage&r output, and a greater chance of spawning with dangerous &dTraits&r."
+		""
+		"A mob's &bLevel&r isn't random; it's influenced by several factors:"
+		"&o*&r The &eDimension&r it's in (&ovisiting more unique dimensions tends to increase mob strength you encounter&r)."
+		"&o*&r The &aBiome&r it's located in."
+		"&o*&r Its &ePosition&r (&omobs further from the world origin often have higher levels&r)."
+		"&o*&r The average &dPlayer Difficulty&r of nearby players."
+		"&o*&r The base &7Entity Type&r."
+		""
+		"You also have your own &dPlayer Difficulty&r level, which increases as you defeat foes (&ofaster for higher-level mobs&r) and decreases if you fall in battle. This directly influences the strength of mobs spawning near you. Check the &dDifficulty Information&r tab in your inventory for details!"
+	]
+	quest.446C441D14889557.quest_subtitle: "&8Knowledge is Power (and Survival)&r"
+	quest.446C441D14889557.title: "&bUnderstanding Difficulty"
+	quest.44F8E8B9FF806363.quest_desc: [
+		"Some complex recipes require an unusual catalyst: &eCaptured Wind&r. First, craft some empty &eWind Capturing Bottles&r."
+		""
+		"To fill them, you must achieve extreme speeds! The core requirement is to move &lfaster than 200 blocks per second&r while having one or more &eWind Capturing Bottles&r in your hand or inventory."
+		""
+		"Here are a couple of reliable methods:"
+		"&o*&r &9Trident Power&r: Use a &9Trident&r enchanted with &9Riptide III&r while in &bwater&r or &brain&r for a powerful, high-speed launch."
+		"&o*&r &dArs Nouveau Magic&r: Create a spell focused on extreme velocity, such as &dSelf -> Glide -> Launch -> Amplify xN&r. Repeatedly cast this while gliding to build up immense speed. Higher amplification is key!"
+		""
+		"You might discover other methods involving elytra, rockets, or other mods that grant incredible movement speed. Experiment and break the sound barrier!"
+	]
+	quest.44F8E8B9FF806363.quest_subtitle: "&8Bottling Aerial Essence&r"
+	quest.44F8E8B9FF806363.title: "&eCatching the Wind"
+	quest.457AE0F1424D4269.quest_desc: [
+		"The &7Tanky&r trait drastically increases the mob's survivability by granting it bonus health and armor."
+		""
+		"&aCounters:&r Utilize attacks that &abypass armor&r (like Hammers from &aL2Weaponry&r), deal &dmagic damage&r which often ignores armor, or leverage the &dVoid Touch&r enchantment for a chance to deal true damage."
+	]
+	quest.457AE0F1424D4269.quest_subtitle: "&8Tough Hide&r"
+	quest.457AE0F1424D4269.title: "&7Trait: Tanky"
+	quest.4741FCDCC76C5FE6.quest_desc: [
+		"The true power of &6Trait Symbols&r lies in crafting. The &aL2 Complements&r mod adds several powerful gear sets like &6Totemic Gold&r, &9Poseidite&r, &dShulkerate&r, and the mighty &8Sculkium&r, whose recipes often incorporate specific symbols."
+		""
+		"Examine the recipes for these armor and tool sets in JEI/EMI. Crafting pieces gain potent set bonuses and immunities, allowing you to tailor your defenses and offenses based on the traits you've conquered. Perhaps start by crafting one piece of &6Totemic Gold&r or &9Poseidite&r gear?"
+	]
+	quest.4741FCDCC76C5FE6.quest_subtitle: "&8Wearing Your Enemy's Strength&r"
+	quest.4CB68D192B9BBF49.quest_desc: [
+		"There's an even more potent form of the world's hostility waiting to be extracted: &cHostility Essence&r. This rare material is obtained by destroying &8Bottles of Curse&r in &cfire or lava&r."
+		""
+		"The chance is &overy low&r, so setting up an automated system is highly recommended. Consider using hoppers, droppers, or mods like Create to feed bottles into lava and a collection system (like a filtered Sophisticated Storage magnet) to gather the essence safely. This essence is required for the absolute pinnacle of L2 crafting."
+	]
+	quest.4CB68D192B9BBF49.quest_subtitle: "&8Concentrated Hostility&r"
+	quest.4CB68D192B9BBF49.title: "&cEssence of Danger"
+	quest.4D790AFFED2BD984.quest_desc: [
+		"Using the hard-won &bMiracle Ingot&r, craft the final and most powerful looting augment: the &bMiraculous Looting Charm&r."
+		""
+		"This charm offers the highest possible chance for bonus loot drops, ensuring that even the most dangerous foes yield maximum rewards. It represents the culmination of your journey through the L2 Hostility looting progression. Equip it and enjoy the bounty!"
+	]
+	quest.4D790AFFED2BD984.quest_subtitle: "&8Mastering the Spoils of War&r"
+	quest.4D790AFFED2BD984.title: "&bThe Pinnacle Charm"
+	quest.52936B0E7EFD6BFF.quest_desc: [
+		"The &8Gravity&r trait creates a field of increased gravity around the mob. Entities nearby fall faster and jump lower. Furthermore, it will attempt to knock down any attackers striking it from the air."
+		""
+		"&aCounters:&r Engage these foes on the ground. Be mindful of fall damage if knocked down from a height. Ranged attacks from the ground are safest."
+	]
+	quest.52936B0E7EFD6BFF.quest_subtitle: "&8Crushing Weight&r"
+	quest.52936B0E7EFD6BFF.title: "&8Trait: Gravity"
+	quest.56068F49008F2DE9.quest_desc: [
+		"Knowledge is useless if you can't quantify the threat. Craft a &eHostility Detector&r. Holding this item will display the &bHostility Level&r of the area you are currently in directly on your screen."
+		""
+		"Alternatively, open your inventory and navigate to the &dDifficulty Information&r tab (provided by &aL2 Library&r). This screen gives a detailed breakdown of your personal &dPlayer Difficulty&r and the &7Chunk Difficulty&r of your current location. Keep an eye on these numbers – they determine how tough the mobs spawning nearby will be!"
+	]
+	quest.56068F49008F2DE9.quest_subtitle: "&8Gauging the Danger Level&r"
+	quest.56068F49008F2DE9.title: "&eMeasuring the Threat"
+	quest.562ADFA44CDB2ED1.quest_desc: [
+		"Apotheosis spawners are powerful tools, but when combined with the dangers of &cL2 Hostility&r, the mobs they produce can be quite formidable, often spawning with potent &dTraits&r."
+		""
+		"Fortunately, there are ways to ensure the mobs produced by these spawners are... *tamer*, lacking the L2 Hostility traits, if you desire a more controlled farm environment:"
+		""
+		"1.  &5Chorus Fruit Modification&r: Applying &5Chorus Fruit&r directly to an Apotheosis spawner block will alter its function, preventing any mobs it subsequently spawns from receiving L2 Hostility levels or traits. This is useful for farms focused purely on vanilla drops/XP without the added challenge (or &6Trait Symbol&r drops)."
+		""
+		"{@pagebreak}"
+		"2.  &7Cleared Difficulty Zone&r: Alternatively, leverage the safe zones you can create. If you place an Apotheosis spawner within a 16x16x16 chunk section where the &7Hostility Difficulty&r has already been cleared (using either a &7Hostility Orb&r or a completed &8Hostility Spawner&r challenge), mobs originating from that spawner will also be unable to spawn with L2 Hostility levels or traits."
+		""
+		"Use these methods to tailor your mob farms to your desired challenge level and purpose!"
+	]
+	quest.562ADFA44CDB2ED1.quest_subtitle: "&8Taming Apotheosis Spawns&r"
+	quest.562ADFA44CDB2ED1.title: "&aSpawner Control"
+	quest.63D762B523862754.quest_desc: [
+		"A mob with &7Protected&r gains a potent &7Resistance&r effect, significantly reducing most incoming damage. The strength of the resistance scales with the trait's rank."
+		""
+		"&aCounters:&r Use weapons or damage types that bypass resistance (check tooltips, some magic or unique weapons might apply) or leverage the &dVoid Touch&r enchantment for a chance to deal true damage."
+	]
+	quest.63D762B523862754.quest_subtitle: "&8Enhanced Defenses&r"
+	quest.63D762B523862754.title: "&7Trait: Protected"
+	quest.6839ECB9713AA2D5.quest_desc: [
+		"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. "
+		""
+		"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. "
+		""
+		"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+	]
+	quest.69E284C66BF7DD67.quest_desc: [
+		"This foe learns! The &dAdaptive&r trait grants the mob resistance to damage types it has recently been hit by. Its Rank determines how many damage types it can 'remember' and resist simultaneously."
+		""
+		"&aCounters:&r Constantly vary your attacks. Cycle between &cmelee&r, &eprojectiles&r, &dmagic&r (different spell types if possible), &cfire&r, &bice&r, &afalling&r, &acactus&r, etc. Dealing a new type of damage forces it to 'forget' an older one."
+		""
+		"{@pagebreak}"
+		"&dKnown Carriers:&r This trait is commonly found on sturdy, knightly, or golem-like creatures such as:"
+		"&o*&r Carminite Golem (Twilight Forest)"
+		"&o*&r Upper Goblin Knight (Twilight Forest)"
+		"&o*&r Lower Goblin Knight (Twilight Forest)"
+		"&o*&r Coral Golem (Cataclysm)"
+		"&o*&r Dread Knight (Ice and Fire)"
+	]
+	quest.69E284C66BF7DD67.quest_subtitle: "&8Learning Defenses&r"
+	quest.69E284C66BF7DD67.title: "&dTrait: Adaptive"
+	quest.6A3255F2C7F80751.quest_desc: [
+		"With the extremely rare &cHostility Essence&r and a substantial amount of &bMiracle Powder&r finally in your possession, you can forge the ultimate crafting component: the &bMiracle Ingot&r."
+		""
+		"This requires combining the essence, the powder, and a &5Chaos Ingot&r. The &bMiracle Ingot&r represents a mastery over the hostility system itself and unlocks the final tier of looting charms and potentially other god-tier equipment."
+	]
+	quest.6A3255F2C7F80751.quest_subtitle: "&8Forging with Pure Essence and Powder&r"
+	quest.6A3255F2C7F80751.title: "&bMiraculous Power"
+	quest.6B81DF31A94648F7.quest_desc: [
+		"This trait allows mobs to inflict the &bFrost&r effect, similar to powdered snow, slowing movement and impairing vision."
+		""
+		"&aCounters:&r The &bRing of Divinity&r (Cleanse) can remove the effect. Avoidance or sources of warmth might help mitigate it. Use the &bFreezing Blade/Thorn&r enchantments to potentially return the favor."
+	]
+	quest.6B81DF31A94648F7.quest_subtitle: "&8Chilling Touch&r"
+	quest.6B81DF31A94648F7.title: "&bTrait: Freezing&r"
+	quest.72825867BBDC6EE8.quest_desc: [
+		"The &aRegenerating&r trait allows a mob to quickly recover health over time, making battles of attrition difficult."
+		""
+		"&aCounters:&r Overwhelm the healing with high &cburst damage&r. Alternatively, apply the &8Cursed&r status effect using the &8Cursed Blade&r enchantment to completely negate all healing."
+	]
+	quest.72825867BBDC6EE8.quest_subtitle: "&8Rapid Healing&r"
+	quest.72825867BBDC6EE8.title: "&aTrait: Regenerating"
+	quest.73E792189A12634A.quest_desc: [
+		"Constantly fighting high-level mobs around your base can be exhausting. As your &dPlayer Difficulty&r reaches certain thresholds, you may be &arewarded&r with a &7Hostility Orb&r upon killing a mob. Check your Difficulty Info tab for reward tracking."
+		""
+		"Once obtained, you can use the Orb to create a safe zone. You &amust&r be holding or wearing &eDetector Glass&r. While holding the Detector Glass in the off-hand, right-click the orb. This will permanently set the &7Chunk Section Difficulty&r around the orb to zero, preventing high-level, traited mobs from spawning within that specific 16x16x16 area. Secure your home!"
+	]
+	quest.73E792189A12634A.quest_subtitle: "&8Establishing Safe Zones&r"
+	quest.73E792189A12634A.title: "&7Creating Sanctuaries"
+	quest.7804C2EF9DC5A158.quest_desc: [
+		"A fearsome Legendary trait. &8Dementor&r mobs are completely immune to physical damage. Furthermore, their attacks deal purely &dmagic damage&r that ignores conventional armor."
+		""
+		"&aCounters:&r You &amust&r use &dmagic damage&r or effects. Weapons that bypass magic protection might work. Defensively, rely on &dmagic resistance&r effects or the &dMagic Immunity&r enchantment."
+		""
+		"{@pagebreak}"
+		"&dKnown Carriers:&r Look out for this trait on incorporeal or ghostly beings like:"
+		"&o*&r Wraith (Twilight Forest)"
+		"&o*&r Mist Wolf (Twilight Forest)"
+		"&o*&r Ghost (Ice and Fire)"
+	]
+	quest.7804C2EF9DC5A158.quest_subtitle: "&8Physical Immunity, Armor Piercing&r"
+	quest.7804C2EF9DC5A158.title: "&8Legendary Trait: Dementor"
+	quest.78F67561A1E0BF77.quest_desc: [
+		"Gathering &8Cursed Droplets&r can be tedious. To ensure a steadier supply of &8Bottles of Curse&r (needed for &5Chaos Ingots&r and other recipes), craft the &8Curse of Gluttony&r."
+		""
+		"Equipping this curse gives you a &a2% chance per mob level&r to receive a &8Bottle of Curse&r when defeating a mob that has a level. This makes crafting Chaos Ingots and managing certain L2 mechanics much more convenient. Unlike other Curses, this one doesn't inherently increase your difficulty."
+	]
+	quest.78F67561A1E0BF77.quest_subtitle: "&8A Sustainable Source of Curse&r"
+	quest.78F67561A1E0BF77.title: "&8Insatiable Hunger"
+	quest.7ABA566D751AF0D1.quest_desc: [
+		"Beyond levels, mobs gain &dTraits&r. These have &dRanks&r (I-V); defeating mobs with a certain rank helps unlock the next rank for future spawns near you. Higher ranks and levels mean mobs can have multiple traits. &5Legendary Traits&r require unlocking Rank V first."
+		""
+		"This chapter contains quests detailing specific traits or groups of traits and common counters. Refer to those quests and the in-game Patchouli book (&aL2 Hostility&r) for full details on specific abilities and strategies."
+		""
+		"&lImportant:&r Powerful &5Legendary Traits&r like &8Undying&r, &cKiller Aura&r, and &bRagnarok&r are &cDISABLED BY DEFAULT&r in this pack's configuration."
+	]
+	quest.7ABA566D751AF0D1.quest_subtitle: "&8Understanding Special Abilities&r"
+	quest.7ABA566D751AF0D1.title: "&dKnowing Your Enemy - Traits"
+	quest.7F52D8B7BFAF0A83.quest_desc: [
+		"Watch for the riposte! Mobs with &cCounter Strike&r will, after being damaged and landing on the ground, attempt to launch themselves back towards their attacker in a swift counter-attack."
+		""
+		"&aCounters:&r Maintain distance with ranged attacks. If fighting in melee, be prepared to quickly dodge or block immediately after your attack connects."
+	]
+	quest.7F52D8B7BFAF0A83.quest_subtitle: "&8Swift Retaliation&r"
+	quest.7F52D8B7BFAF0A83.title: "&cTrait: Counter Strike"
+	task.3AB6385F93EA792A.title: "&aGear Forged from Traits"
+	task.3CED314977004BC5.title: "&dKnowing Your Enemy - Traits"
+	task.3FABFB5AAE2B43F8.title: "AllRightsReserved"
+	task.3FEED8ED0CE0E813.title: "Any Shield"
+	task.4018D26BAD5702DC.title: "Any Shield"
+	task.41914689BC062AF7.title: "Any #l2hostility:trait_item"
+	task.4584109EB8EAA796.title: "&l&bApex Survivor"
+	task.4E3BAA147BF09F4D.title: "&6Decoding the Symbols"
+	task.4FE1BCCD079A9E93.title: "AllRightsReserved"
+	task.56734D27AB70B38E.title: "Any Shield"
+	task.5E1BFD39A6547EBF.title: "&aSpecialized Arsenal"
+}

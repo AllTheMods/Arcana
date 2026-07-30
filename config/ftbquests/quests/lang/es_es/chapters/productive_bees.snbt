@@ -1,0 +1,194 @@
+{
+	quest.02F3133A9006BC1E.quest_subtitle: "Iron + Coal"
+	quest.02F3133A9006BC1E.title: "Steel Bee"
+	quest.06044B4452A6B720.quest_desc: ["When placed in a Desert biome, the Sand Nest will attract either the Chocolate or Ashy Mining Bee."]
+	quest.06044B4452A6B720.quest_subtitle: "Lures bees in Desert Biomes"
+	quest.09223F02621781BF.quest_subtitle: "Iron + Mason"
+	quest.09223F02621781BF.title: "Silver Bee"
+	quest.094D28B7A0170039.quest_desc: [
+		"Will pick up items and bring them back to its hive."
+		""
+		"Not as good as a Hoarder Bee."
+	]
+	quest.094D28B7A0170039.quest_subtitle: "Feed a Vanilla Bee a Hopper!"
+	quest.094D28B7A0170039.title: "Collector Bee"
+	quest.097DE7038A746847.quest_subtitle: "Spawns from a Reed Nest"
+	quest.097DE7038A746847.title: "Reed Bee"
+	quest.09FD3D0B9BCAEB5A.quest_desc: [
+		"The Gravel Nest will lure bees in either a River biome or Beach biome."
+		""
+		"It lures in the Ashy Mining Bee, Chocolate Mining Bee, and the Digger Bee."
+	]
+	quest.09FD3D0B9BCAEB5A.quest_subtitle: "Lures in bees in River and Beach Biomes"
+	quest.0D5D76B3551CD5A7.quest_subtitle: "Crystalline + Ashy Mining"
+	quest.0D5D76B3551CD5A7.title: "Aluminum Bees"
+	quest.0D97CDE92F3B1A83.quest_subtitle: "Lead + Diamond/Platinum"
+	quest.0D97CDE92F3B1A83.title: "Enderium Bee"
+	quest.0FB1FC640471363A.quest_subtitle: "Lapis + Emerald"
+	quest.0FB1FC640471363A.title: "Experience Bee"
+	quest.100ACB5C8A359BF0.quest_desc: ["Breed a Redstone Bee with a Blue Banded Bee to get a Lapis Bee!"]
+	quest.100ACB5C8A359BF0.quest_subtitle: "Redstone + Blue Banded"
+	quest.100ACB5C8A359BF0.title: "Lapis Bees"
+	quest.109AD73F016D576B.quest_desc: [
+		"Using the vanilla method, go ahead and make yourself a &9Beehive&r to have your own little setup!"
+		""
+		"These can hold 3 Bees each, but we won't be using it for long...."
+		""
+		"Bees will only create Honey and Honeycombs if they have the right flowers. Vanilla bees can use any flower, but most bees in the mod will require a specific block! Make sure to check JEI for more info."
+	]
+	quest.109AD73F016D576B.title: "Your First Beehive!"
+	quest.114D668C691A2BDF.quest_subtitle: "Ashy Mining + Crystalline"
+	quest.114D668C691A2BDF.title: "Iron Bees"
+	quest.117241986C99E475.quest_desc: ["With the Glowing Bee, breed it with the Chocolate Mining Bee to get a Redstone Bee!"]
+	quest.117241986C99E475.quest_subtitle: "Glowing + Chocolate Mining"
+	quest.117241986C99E475.title: "Redstone Bees"
+	quest.120BDCB70AD352AC.quest_desc: [
+		"If you want to turn your Bee Farm into a factory for resources, you'll need to start by spawning in Bees with &6Nests&r."
+		""
+		"The nests must be placed in specific biomes, which you can find in the JEI for it (look for the I icon at the top)."
+		""
+		"To lure in a bee to the nest, right click on it with a &9Honey Treat&r. Nests will not work without the treats!!"
+		""
+		"&9Important Note&r: Certain bees will only live in Nests and will not go into Advanced Hives. If they don't produce a honeycomb, they need to live in a nest instead."
+	]
+	quest.120BDCB70AD352AC.quest_subtitle: "Honey Treats Required"
+	quest.131EC039435B8878.quest_desc: [
+		"In Productive Bees, you don't spend most of your time flying around trying to find certain bees."
+		""
+		"Instead, you spawn them using Nests with &6Honey Treats&r."
+		""
+		"With these, you'll create yourself some Nests and right click them with the treats to lure Bees in. Some Nests require special items instead of Honey Treats, so make sure to check JEI for more info!"
+		""
+		"Make sure to check out which biome you need to be in to lure in the right bees!"
+	]
+	quest.13AA91D39A2CABF2.quest_desc: [
+		"Welcome to &9Productive Bees&r!"
+		""
+		"To get started with the mod, you'll first need to find some Honeycombs and Honey Bottles! Find yourself a Beehive, and let the bees do their work for a little. Shearing it when it is full will give you honeycombs, and glass bottles will give you Honey Bottles!"
+		""
+		"&9Important Note&r: With the bee quests requiring combs, the recipes will not be shown. Make sure to look them up in JEI if you need them!"
+	]
+	quest.14623D25561BA61B.quest_desc: ["Mostly for the Catcher."]
+	quest.14623D25561BA61B.quest_subtitle: "Increases the Range of a Machine"
+	quest.150FB369BEFFCBBF.quest_subtitle: "Silver + Tin"
+	quest.150FB369BEFFCBBF.title: "Lumium Bee"
+	quest.160BD0185954C891.quest_desc: ["Instead of using Honey Treats, this hive requires Gold Ingots to attract Bees."]
+	quest.160BD0185954C891.quest_subtitle: "Lures a Gold Bee when placed in the Nether"
+	quest.17419401147B5C02.quest_desc: [
+		"Aside from luring bees in with nests, most bees require either &eBreeding&r or &9Conversion&r to bee created. (No, that isn't a typo.)"
+		""
+		"&eBee Breeding&r requires 2 bees and specific items fed to them to cause them to mate."
+		""
+		"&9Bee Conversion&r requires you to feed a bee a specific item to convert it into a new bee."
+	]
+	quest.17419401147B5C02.quest_subtitle: "The Birds and The Bees"
+	quest.17419401147B5C02.title: "Breeding and Converting Bees"
+	quest.176ACC61DC206E55.quest_subtitle: "Feed a Shroombee a Crimson Fungus!"
+	quest.176ACC61DC206E55.title: "Crimson Shroombee"
+	quest.18F948FF9FE015FB.quest_subtitle: "Feed a Vanilla Bee TNT!"
+	quest.18F948FF9FE015FB.title: "CreeBee"
+	quest.198EDBAC1D6E2339.quest_desc: ["You'll need these for Ender Bees."]
+	quest.198EDBAC1D6E2339.quest_subtitle: "Prevents Bees from Teleporting in a Hive"
+	quest.1C474B46AECCCFE9.quest_subtitle: "Spawned using a Gravel or Stone Nest"
+	quest.1C474B46AECCCFE9.title: "Digger Bee"
+	quest.1D720AC88431BD70.quest_desc: ["Breed the Ender Bee with a Lapis Bee to create a Diamond Bee!"]
+	quest.1D720AC88431BD70.quest_subtitle: "Ender + Lapis"
+	quest.1D720AC88431BD70.title: "Diamond Bee"
+	quest.1DF026030780AE96.quest_subtitle: "Extracts Genes from Bees in Hives"
+	quest.1E9BD4B74DAEA9FC.quest_desc: ["To attract Bees to this nest, you'll need Popped Chorus Fruit instead of Honey Treats."]
+	quest.1E9BD4B74DAEA9FC.quest_subtitle: "Lures in Ender Bees when placed in the End"
+	quest.2182492BCC1B33D8.quest_desc: [
+		"When installed in a hive, it gives a 5% chance for a new baby bee to be spawned every time honey is delivered."
+		""
+		"When placed in a Catcher, it only allows the catcher to catch baby bees."
+		""
+		"You can stack these for a greater chance."
+	]
+	quest.2182492BCC1B33D8.quest_subtitle: "Making Babies"
+	quest.2226555D9552236E.quest_subtitle: "Spawns from most Wood Nests"
+	quest.2226555D9552236E.title: "Yellow Carpenter Bee"
+	quest.244ACD7024566001.quest_subtitle: "Feed a Sweat Bee Ice!"
+	quest.244ACD7024566001.title: "Frosty Bee"
+	quest.3AF30E1EC163E2E3.quest_subtitle: "Feed a Diamond Bee a Sapphire!"
+	quest.3AF30E1EC163E2E3.title: "Sapphire Bee"
+	quest.3D7480E4F9063E93.quest_subtitle: "Lumber + Sweat"
+	quest.3D7480E4F9063E93.title: "Rancher Bee"
+	quest.3E301F3EEC8C763A.quest_desc: [
+		"This can be used to speed up the growth rate of baby bees, or to create new spawn eggs."
+		""
+		"Place a caged baby bee with 20 Honey Treats to turn it into an adult."
+		""
+		"To create spawn eggs, you'll need to combine the gene of the bee you want with a honey treat, then use that honey treat in this machine with an egg to create the new spawn egg."
+		""
+		"Genes can be combined for a maximum of 100% purity, which will give you a 100% chance to convert an egg to a bee spawn egg."
+	]
+	quest.3E301F3EEC8C763A.quest_subtitle: "Baby Bee Daycare"
+	quest.40E4F1172A164DD1.quest_subtitle: "Random Chance to Spawn when breaking Cocoa Pods in a Jungle"
+	quest.40E4F1172A164DD1.title: "Sugarbag Bee"
+	quest.419DD6FE84B91749.quest_desc: ["When collecting genes, you'll get a percentage of a trait. You can combine them in a crafting table to add them together, or place them in a Gene Indexer to auto-combine."]
+	quest.419DD6FE84B91749.quest_subtitle: "The Gene Combiner and Chest"
+	quest.41CF7CAEE4F60CCD.quest_desc: ["When placed in the Nether and given Glowstone, the Glowstone Nest will lure in a Glowing Bee."]
+	quest.41CF7CAEE4F60CCD.quest_subtitle: "Lures a Glowing Bee in the Nether"
+	quest.437DB2CE10D33A08.quest_desc: ["You'll need to grab yourself a &6Glowstone Nest&r and head to the Nether to capture this bee!"]
+	quest.437DB2CE10D33A08.title: "Glowing Bee"
+	quest.447CAC472A99835B.quest_subtitle: "Spawns from a Snow Nest"
+	quest.447CAC472A99835B.title: "Sweat Bee"
+	quest.47CEFA06392C4211.quest_desc: ["Expansion boxes are placed on top of your Advanced Beehives to increase the amount of bees that can be in the hive to a total of 5 slots."]
+	quest.47CEFA06392C4211.quest_subtitle: "Increasing our bee storage"
+	quest.486060882E507CF1.quest_subtitle: "Spawns from a Dirt Nest"
+	quest.486060882E507CF1.title: "Chocolate Mining Bee"
+	quest.4897C7BB3139C6C6.quest_subtitle: "Lumber + Rancher"
+	quest.4897C7BB3139C6C6.title: "Farmer Bee"
+	quest.4C0302FF4F63B52E.quest_desc: [
+		"If you want the ATM bees, it takes a lot of capturing and breeding and feeding."
+		""
+		"The following part of the questline outlines which bees you'll need to move forward."
+		""
+		"Make sure to check JEI and the &9Big Book of Bees&r for more info!"
+	]
+	quest.4C47EB9D2CE26BC6.quest_desc: [
+		"The Crystalline Bee is spawned from a Quartz Nest."
+		""
+		"This bee is needed to make many of the other metal bees, like Iron and Copper."
+	]
+	quest.4C47EB9D2CE26BC6.quest_subtitle: "Spawns from a Quartz Nest in the Nether"
+	quest.4C47EB9D2CE26BC6.title: "Crystalline Bee"
+	quest.4FE7F45C72EF5DC1.quest_subtitle: "Iron + Sweat"
+	quest.4FE7F45C72EF5DC1.title: "Nickel Bee"
+	quest.500BEAD94C97DF96.quest_desc: [
+		"Can be placed in a hive or centrifuge."
+		""
+		"When in a hive, it decreases the amount of time bees spend in the hive by 20%."
+		""
+		"When placed in a Centrifuge, it increases the processing speed."
+		""
+		"These do stack."
+	]
+	quest.500BEAD94C97DF96.quest_subtitle: "Sonic Bees"
+	quest.52B22C07818981D0.quest_subtitle: "Copper + Nickel"
+	quest.52B22C07818981D0.title: "Constantan Bee"
+	quest.5563BD4934297522.quest_desc: ["Once you have a Diamond Bee, breed it with the Slimy Bee to create an Emerald Bee!"]
+	quest.5563BD4934297522.quest_subtitle: "Diamond Bee + Slimy Bee"
+	quest.5563BD4934297522.title: "Emerald Bee"
+	quest.57167FE67CFAC255.quest_subtitle: "Used to add Bees to a Filter"
+	quest.57ACD83205988834.quest_subtitle: "Gold + Ender"
+	quest.57ACD83205988834.title: "Platinum Bees"
+	quest.589EB4602E3F9EEE.quest_desc: ["Tin Bees are made by breeding a Crystalline Bee with an Ashy Mining Bee."]
+	quest.589EB4602E3F9EEE.quest_subtitle: "Ashy Mining + Crystalline"
+	quest.589EB4602E3F9EEE.title: "Tin Bees"
+	quest.5962DC39E5874FB9.quest_subtitle: "Lapis + Skeletal"
+	quest.5962DC39E5874FB9.title: "Dye Bee"
+	quest.5CC9CB0911954215.quest_desc: ["A Reed Nest will work in any overworld biome, and will lure in a Mason Bee or a Reed Bee."]
+	quest.5CC9CB0911954215.quest_subtitle: "Lures bees in any Overworld Biome"
+	quest.5CF2A069A3CC4EF6.quest_subtitle: "Resin + Reed"
+	quest.5CF2A069A3CC4EF6.title: "Silky Bee"
+	quest.5DF26D712B643655.quest_subtitle: "Copper + Zinc"
+	quest.5DF26D712B643655.title: "Brass Bees"
+	quest.5F080CFA1DC7F435.quest_subtitle: "Spawned using a Soul Sand Nest in the Nether."
+	quest.5F080CFA1DC7F435.title: "Ghostly Bee"
+	quest.5F1784E562C29B66.quest_desc: ["Create yourself an &5End Stone Nest&r and head to the End to capture one of these bees!"]
+	quest.5F1784E562C29B66.quest_subtitle: "&9Requires End Stone Nest"
+	quest.5F1784E562C29B66.title: "Ender Bees"
+	quest.60B985069E0E643E.quest_subtitle: "Magmatic + Sweat"
+	quest.60B985069E0E643E.title: "Obsidian Bee"
+}

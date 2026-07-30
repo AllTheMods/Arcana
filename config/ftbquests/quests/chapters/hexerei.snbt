@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 4.0d
+			id: "1796424F3C4B1D3B"
 			image: "hexerei:textures/book/hexerei.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7A5AC1D66C193D75"
 			image: "atm:textures/questpics/hexerei/hex_title_plant.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.5d
+			id: "462A447D12DE869A"
 			image: "atm:textures/questpics/hexerei/hex_title_broom.png"
 			rotation: 90.0d
 			width: 6.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.5d
+			id: "23263A7213F1FB48"
 			image: "atm:textures/questpics/hexerei/hex_title_familiars.png"
 			rotation: -90.0d
 			width: 7.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7763D3AB7220D1DE"
 			image: "atm:textures/questpics/hexerei/hex_title_armor.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1E461A7B7181060A"
 			image: "atm:textures/questpics/hexerei/hex_title_candles.png"
 			rotation: -45.0d
 			width: 3.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 5.0d
+			id: "592E9878B306FB30"
 			image: "atm:textures/questpics/hexerei/hex_cauldron.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "460DCFA891EB18DD"
 			image: "atm:textures/questpics/hexerei/hex_broom_hazel.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "41E658A03C2DE32A"
 			image: "atm:textures/questpics/hexerei/hex_broom_mahogany.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "002D40724799C221"
 			image: "atm:textures/questpics/hexerei/hex_broom_willow.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2C03298BEBBBD192"
 			image: "atm:textures/questpics/hexerei/hex_willow.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 3.0d
+			id: "3FE2AF471933BA92"
 			image: "atm:textures/questpics/hexerei/hex_mahogany.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -106,6 +118,7 @@
 		}
 		{
 			height: 3.0d
+			id: "70B66590224EFB67"
 			image: "atm:textures/questpics/hexerei/hex_hazel.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -114,6 +127,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0E18C706A4675E5A"
 			image: "atm:textures/questpics/hexerei/hex_mandrake.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -122,6 +136,7 @@
 		}
 		{
 			height: 2.0d
+			id: "611409C53EA1CC30"
 			image: "atm:textures/questpics/hexerei/hex_belladonna.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -130,6 +145,7 @@
 		}
 		{
 			height: 3.0d
+			id: "60A55B09DFE544F1"
 			image: "atm:textures/questpics/hexerei/hex_yellow.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -138,6 +154,7 @@
 		}
 		{
 			height: 3.0d
+			id: "387B9D5F0D51A25A"
 			image: "atm:textures/questpics/hexerei/hex_mugwort.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -146,6 +163,7 @@
 		}
 		{
 			height: 2.5d
+			id: "3DC0DE2DA934F3E9"
 			image: "atm:textures/questpics/hexerei/hex_owl.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -154,6 +172,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3F2977AAAC51F123"
 			image: "atm:textures/questpics/hexerei/hex_crow.png"
 			rotation: 0.0d
 			width: 2.5d

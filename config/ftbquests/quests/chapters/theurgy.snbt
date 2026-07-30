@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "31D5C65980557237"
 			image: "atm:textures/questpics/theurgy/theurgy.png"
 			rotation: 0.0d
 			width: 8.717391304347826d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2D2F35D92A78D469"
 			image: "atm:textures/questpics/theurgy/theurgy_sal_side.png"
 			rotation: 0.0d
 			width: 2.0597014925373136d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "43537A661E87BA19"
 			image: "atm:textures/questpics/theurgy/theurgy_lique.png"
 			rotation: 0.0d
 			width: 1.8285714285714285d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 3.0d
+			id: "7BA28EB9F5469790"
 			image: "atm:textures/questpics/theurgy/theurgy_incubator.png"
 			rotation: 0.0d
 			width: 3.329113924050633d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "09040490CC7CD84C"
 			image: "atm:textures/questpics/theurgy/theurgy_reform_full.png"
 			rotation: 0.0d
 			width: 9.919642857142858d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3EFE2A0CB72EFB9B"
 			image: "atm:textures/questpics/theurgy/theurgy_brazier.png"
 			rotation: 0.0d
 			width: 2.128099173553719d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 2.0d
+			id: "541206D95432382A"
 			image: "atm:textures/questpics/theurgy/theurgy_ferment.png"
 			rotation: 0.0d
 			width: 1.9858156028368794d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 2.5d
+			id: "463A5C5A0CE5DC3D"
 			image: "atm:textures/questpics/theurgy/theurgy_digest.png"
 			rotation: 0.0d
 			width: 2.186813186813187d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4BF2207DA69BFD24"
 			image: "atm:textures/questpics/theurgy/theurgy_oven.png"
 			rotation: 0.0d
 			width: 1.5678391959798994d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 2.0d
+			id: "67D645C4B1E66C1E"
 			image: "atm:textures/questpics/theurgy/theurgy_mercuryflux.png"
 			rotation: 0.0d
 			width: 1.91644908616188d
@@ -427,10 +437,11 @@
 			}
 			id: "0542FE108089A0A2"
 			rewards: [{
+				count: 3
 				id: "60C5AF9A89C97164"
 				item: {
 					count: 1
-					id: "minecraft:copper_ingot"
+					id: "minecraft:copper_block"
 				}
 				type: "item"
 			}]

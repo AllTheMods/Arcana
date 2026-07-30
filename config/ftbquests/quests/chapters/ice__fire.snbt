@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 4.0d
+			id: "19A72B7C5BECBD79"
 			image: "atm:textures/questpics/iceandfire/iaf_title_1.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6A5082C8150D3C30"
 			image: "atm:textures/questpics/iceandfire/iaf_title_2.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 4.0d
+			id: "1E9891916EA8AD0A"
 			image: "atm:textures/questpics/iceandfire/iaf_title_3.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3D696E778FF0D757"
 			image: "atm:textures/questpics/iceandfire/iaf_title_pets.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "52133ECC636571FC"
 			image: "atm:textures/questpics/iceandfire/iaf_title_amphithere.png"
 			rotation: 30.0d
 			width: 5.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4D50A63A18F041EF"
 			image: "atm:textures/questpics/iceandfire/iaf_title_siren.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "05B624A7B0E509BA"
 			image: "atm:textures/questpics/iceandfire/iaf_title_hippocampus.png"
 			rotation: 90.0d
 			width: 4.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "572EA9AA2A860AAD"
 			image: "atm:textures/questpics/iceandfire/iaf_title_serpent.png"
 			rotation: 90.0d
 			width: 6.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "61AB42B76D300208"
 			image: "atm:textures/questpics/iceandfire/iaf_title_cockatrice.png"
 			rotation: -45.0d
 			width: 4.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6230ACA38AF34999"
 			image: "atm:textures/questpics/iceandfire/iaf_title_hydra.png"
 			rotation: -35.0d
 			width: 3.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "35B7B864307BA7FB"
 			image: "atm:textures/questpics/iceandfire/iaf_title_stymphalian.png"
 			rotation: -25.0d
 			width: 5.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5BDEE98648C2367A"
 			image: "atm:textures/questpics/iceandfire/iaf_title_birds.png"
 			rotation: -25.0d
 			width: 2.0d
@@ -106,6 +118,7 @@
 		}
 		{
 			height: 1.0d
+			id: "545621BB858FF563"
 			image: "atm:textures/questpics/iceandfire/iaf_title_ghosts.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -114,6 +127,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7E93974E6524F4D3"
 			image: "atm:textures/questpics/iceandfire/iaf_title_cyclops.png"
 			rotation: 25.0d
 			width: 4.0d
@@ -122,6 +136,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5A491A69745CEE68"
 			image: "atm:textures/questpics/iceandfire/iaf_title_pixie.png"
 			rotation: 45.0d
 			width: 2.5d
@@ -130,6 +145,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4B6AB86CA58FDFFA"
 			image: "atm:textures/questpics/iceandfire/iaf_title_hippogryth.png"
 			rotation: 60.0d
 			width: 5.0d
@@ -138,6 +154,7 @@
 		}
 		{
 			height: 1.0d
+			id: "34602BD10D411946"
 			image: "atm:textures/questpics/iceandfire/iaf_title_trolls.png"
 			rotation: 90.0d
 			width: 3.0d
@@ -146,6 +163,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0EA4838B121EF97B"
 			image: "atm:textures/questpics/iceandfire/iaf_title_gorgon.png"
 			rotation: -45.0d
 			width: 3.5d
@@ -154,6 +172,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F92E717DBBCE587"
 			image: "atm:textures/questpics/iceandfire/iaf_title_worm.png"
 			rotation: -20.0d
 			width: 6.0d
@@ -162,6 +181,7 @@
 		}
 		{
 			height: 3.0d
+			id: "60129B1B581A710E"
 			image: "atm:textures/questpics/iceandfire/iaf_ghost.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -170,6 +190,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2D5FE768335F99C0"
 			image: "atm:textures/questpics/iceandfire/iaf_bird.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -178,6 +199,7 @@
 		}
 		{
 			height: 3.0d
+			id: "425C50503FC14F9B"
 			image: "atm:textures/questpics/iceandfire/iaf_hydra.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -186,6 +208,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1745947FE5D8C882"
 			image: "atm:textures/questpics/iceandfire/iaf_cockatrice.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -194,6 +217,7 @@
 		}
 		{
 			height: 4.0d
+			id: "3E5A1252E54FADBD"
 			image: "atm:textures/questpics/iceandfire/iaf_serpent.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -202,6 +226,7 @@
 		}
 		{
 			height: 2.0d
+			id: "390C6B0388187301"
 			image: "atm:textures/questpics/iceandfire/iaf_hippocampus.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -210,6 +235,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5CB1705CFCF4B18E"
 			image: "atm:textures/questpics/iceandfire/iaf_siren.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -218,6 +244,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3094588AA1C92B2D"
 			image: "atm:textures/questpics/iceandfire/iaf_amphithere.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -226,6 +253,7 @@
 		}
 		{
 			height: 2.0d
+			id: "03FEFF9DB832D5C9"
 			image: "atm:textures/questpics/iceandfire/iaf_worm.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -234,6 +262,7 @@
 		}
 		{
 			height: 3.0d
+			id: "58EA446EDF0B1ED0"
 			image: "atm:textures/questpics/iceandfire/iaf_gorgon.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -242,6 +271,7 @@
 		}
 		{
 			height: 4.0d
+			id: "1147231C7B83AA33"
 			image: "atm:textures/questpics/iceandfire/iaf_troll.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -250,6 +280,7 @@
 		}
 		{
 			height: 3.0d
+			id: "237D378275241C78"
 			image: "atm:textures/questpics/iceandfire/iaf_hippogryth.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -258,6 +289,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3D1CDC830FB531B9"
 			image: "atm:textures/questpics/iceandfire/iaf_pixie.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -266,6 +298,7 @@
 		}
 		{
 			height: 6.0d
+			id: "368AB2EC55CD6FFA"
 			image: "atm:textures/questpics/iceandfire/iaf_cyclops.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -274,6 +307,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2CD04F2BE6CAD826"
 			image: "atm:textures/questpics/iceandfire/iaf_title_firedragon.png"
 			rotation: 90.0d
 			width: 5.0d
@@ -282,6 +316,7 @@
 		}
 		{
 			height: 1.0d
+			id: "50891784F84E5CC1"
 			image: "atm:textures/questpics/iceandfire/iaf_title_icedragon.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -290,6 +325,7 @@
 		}
 		{
 			height: 1.0d
+			id: "34CA7FB7EE39CA9F"
 			image: "atm:textures/questpics/iceandfire/iaf_title_lightningdragon.png"
 			rotation: 90.0d
 			width: 6.0d
@@ -298,6 +334,7 @@
 		}
 		{
 			height: 3.0d
+			id: "4093D36C534C7D6F"
 			image: "atm:textures/questpics/iceandfire/iaf_firedragon.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -306,6 +343,7 @@
 		}
 		{
 			height: 3.0d
+			id: "61BD36DBD51B6AB1"
 			image: "atm:textures/questpics/iceandfire/iaf_lightningdragon.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -314,6 +352,7 @@
 		}
 		{
 			height: 3.0d
+			id: "35D25501211ABED4"
 			image: "atm:textures/questpics/iceandfire/iaf_icedragon.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -321,7 +360,7 @@
 			y: -25.5d
 		}
 	]
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -1248,7 +1287,7 @@
 			dependencies: ["2BA456D94D32079B"]
 			icon: {
 				components: {
-					"ftbquests:icon": "iceandfire:textures/entity_icon/troll/troll_mountain.png"
+					"ftbquests:icon": "atm:textures/questpics/iceandfire/iaf_troll.png"
 				}
 				id: "ftbquests:custom_icon"
 			}

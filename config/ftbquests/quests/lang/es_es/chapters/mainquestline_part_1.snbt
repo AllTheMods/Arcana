@@ -1,0 +1,121 @@
+{
+	quest.051E0C85E7B71CE0.quest_desc: [
+		"Voy a asumir que has estado minando, ¿verdad? Después de todo es MINEcraft."
+		""
+		"Encontrarás un montón de nuevos minerales que pueden confundirte, pero puedes seguir con los materiales vanilla para empezar!"
+		""
+		"El cobre es abundante y tiene muchos usos para cosas como &aOre Hammers&r o &eDrawer Upgrades&r, ¡así que asegúrate de recoger mucho!"
+		""
+		"El hierro es probablemente uno de los minerales más importantes que querrás conseguir cada vez que te encuentres con él. El mundo de MC modificado prácticamente funciona con Hierro."
+		""
+	]
+	quest.051E0C85E7B71CE0.title: "Era del &9Metal&r"
+	quest.0F026D5A17CCCF51.quest_desc: [
+		"Los ítems de &dNetherite&r son aún mejores en general y no se quemarán en lava. &cTú todavía sí&f, incluso usando la armadura. No lo pruebes."
+		""
+		"Estos ítems se pueden usar para hacer algunas de las mejores herramientas y armaduras del juego."
+	]
+	quest.0F026D5A17CCCF51.title: "&dNivel de Netherita&r"
+	quest.0F3D51FFD2FE8DCB.quest_desc: [
+		"Con un pico de nivel de Diamante, podrás minar &dObsidiana&r."
+		""
+		"La Obsidiana se puede usar para crear un portal al &cNether&r."
+		""
+		"El marco del portal puede tener varios tamaños, pero la mayoría opta por la forma básica de 'Puerta'. Esta es una forma hueca de 4x5 usando un mínimo de 10 Obsidiana. ¡No tienes que usar Obsidiana para las esquinas, solo para el marco del portal en sí!"
+		""
+		"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:175 height:201 align:1}"
+	]
+	quest.0F3D51FFD2FE8DCB.title: "&cHacía El Nether&r!"
+	quest.282CE3A088AE5CFB.quest_desc: ["Claro, puedes usar la cuadrilla de 2x2 que tenemos disponible en el inventario, pero eso no sera suficiente. Necesitamos una Mesa de Trabajos!"]
+	quest.282CE3A088AE5CFB.title: "Empezando el Crafteo en Minecraft"
+	quest.2EC9668ED4EA47CB.quest_desc: [
+		"Esta misión solo requiere que hagas una herramienta o pieza de armadura de Diamante, ¡pero probablemente sea bueno obtener un conjunto completo!"
+		""
+		"as herramientas de diamante tienen una alta durabilidad, y la armadura ofrece una gran protección en general."
+		""
+		"Para hacer las mejores herramientas y armaduras en el juego, ¡necesitarás cosas de Diamante como base!"
+	]
+	quest.2EC9668ED4EA47CB.title: "&9Mejorando Nuestro Equipamiento&r"
+	quest.4A4C71C43519D5FE.quest_desc: [
+		"Para invocar al jefe del Nether, necesitamos reunir algunos ítems primero."
+		""
+		"Necesitaremos al menos 3 &5Cráneos de Esqueleto Wither&r. Estos son drops raros al matar &7Esqueletos Wither&r, o se pueden craftear con el drop más común, los &3Fragmentos de Cráneo Wither&r."
+		""
+		"\"También necesitarás al menos 4 piezas de Arena de Almas y probablemente una armadura bastante buena."
+		""
+		"&o(nota del &6traductor&f: Recomiendo de forma ferviente el encantamiento de resistencia a explosivos...)&r"
+	]
+	quest.4A4C71C43519D5FE.title: "&5Craneos de Esqueletos de Withers&r"
+	quest.5CF320E9C4C1B1E1.quest_desc: [
+		"ATM10 es un &aKitchensink&r pack, el cual podemos seguir cualquier tipo de progresion sin necesidad de tener que avanzar si o si en las misiones! "
+		""
+		"Sin embargo, hay un objetivo principal: Crear La &6ATM Star&r! "
+		""
+		"Esta seccion de misiones junto con las otras estan para ayudarte y servirte como una guia, Si eres nuevx en Minecraft ó has jugado modpacks de ATM previos. Las Misiones tambien te guiaran para craftear la Estrella. "
+		""
+		"Como cualquier otro modpack o mundo, recolecta un poco de madera para empezar la aventura!"
+		""
+		""
+	]
+	quest.5CF320E9C4C1B1E1.title: "&eBienvenidx a Las Primeras Misiones de AllTheMods&r!"
+	quest.5E799B92358A8732.quest_desc: ["En el &cNether&r, encontrarás &6Escombros Antiguos&r. Esto se puede fundir en Fragmentos que se pueden combinar con Oro para crear &6Lingotes de Netherite&r, que es un metal de final de juego utilizado para crear algunas de las herramientas y armaduras más fuertes del juego"]
+	quest.5E799B92358A8732.title: "&dMetales Antiguos&r"
+	quest.61C49BC2B384FB80.quest_desc: [
+		"Una vez que hayas reunido suficientes Perlas de Ender y Polvos de Blaze, puedes dirigirte al Portal del End en el Overworld."
+		""
+		"Para hacer esto, craftea algunos &dOjos de Ender&r y haz clic derecho para lanzarlos al cielo. Estos señalarán la dirección del Portal del End más cercano."
+		""
+		"Dirígete a la Fortaleza, encuentra el Portal del End y completa el marco usando los Ojos de Ender para crear el portal a &dEl End&r."
+	]
+	quest.61C49BC2B384FB80.title: "&aEncontrando&r &dEl End&r"
+	quest.698A959C9E449592.quest_desc: [
+		"El siguiente paso de la progresión es hacer un &ePico de Hierro."
+		""
+		"¡Este pico puede minar algunos de los minerales más raros del juego, incluido el Diamante!"
+	]
+	quest.698A959C9E449592.title: "Un Pico de &aHierro&r"
+	quest.69A517AB8A801939.quest_desc: [
+		"El &5Wither&r es uno de los jefes más difíciles de matar en Minecraft. Principalmente porque vuela. Y explota. Y es rápido. Ya entiendes la idea."
+		""
+		"Para invocarlo, coloca las 4 Arenas de Almas en forma de T. Coloca los 3 Cráneos de Esqueleto Wither en la parte superior de la 'T' y aparecerá el &5Wither&r."
+		""
+		"Tip: Explota. Mucho. No hagas esto cerca de tu base."
+	]
+	quest.69A517AB8A801939.title: "&6Acaba Con El&r &5Wither&r"
+	quest.6D09511D64DDC282.quest_desc: [
+		"El &dWarden&r se puede invocar activando un &5Sensor Sculk&r que esté cerca de un &3Gritón Sculk&r al menos 3 veces."
+		""
+		"Dato curioso: ¡El Warden es ciego! Solo puede encontrarte si te oye, ¡así que vuela o escabúllete!"
+		""
+		"Tip: No importa si usas ataques a distancia o cuerpo a cuerpo, porque te encontrará. Y te golpeará. Si te alejas demasiado, se enterrará en el suelo y saldrá junto a ti. ¡Buena suerte :D!"
+	]
+	quest.6D09511D64DDC282.title: "&5Acaba con el Warden&r"
+	quest.6EDAB29FBD3C60A3.quest_desc: [
+		"¡Este bioma se introdujo en la Actualización Salvaje!"
+		""
+		"¡Ten cuidado! Podrías invocar accidentalmente a un nuevo amigo."
+		""
+		"P.D. - No es amigo."
+	]
+	quest.6EDAB29FBD3C60A3.title: "&6Visita La&r &dOscuridad Profunda&r!"
+	quest.6EE5BE5693E8ACE4.quest_desc: [
+		"En &dEl End&r, encontrarás al jefe final de Minecraft Vanilla: El &5Dragón del End&r."
+		""
+		"En la parte superior de cada pilar de Obsidiana, encontrarás un Cristal del End que cura al Dragón. ¡Asegúrate de eliminarlos primero! También hacen mucho daño, así que asegúrate de mantener cierta distancia."
+		""
+		"Una vez derrotado, un &dHuevo de Dragón&r aparece en la parte superior del Portal de Salida. Este no se puede minar como los bloques normales, pero se ve afectado por la gravedad."
+	]
+	quest.6EE5BE5693E8ACE4.title: "&5El End&r"
+	quest.76406EFFF8CBA6B4.quest_desc: ["Los diamantes son uno de los mejores materiales para usar en la elaboración de herramientas, ¡pero también te permiten visitar nuevas dimensiones como el &4Nether&f!"]
+	quest.76406EFFF8CBA6B4.title: "Consiguiendo &bDiamantes&r!"
+	quest.7975C7145572C438.quest_desc: [
+		"Con nuestro Pico de Madera, la piedra no debería ser un problema para romper!"
+		""
+		"La &3Roca&r desbloquea la siguiente parte de la progresión usándola para craftear un Horno para fundir nuestros minerales."
+		""
+		"¡También querrás actualizar tu pico a piedra para extraer mejores minerales como el &bHierro&r!"
+	]
+	quest.7975C7145572C438.title: "Nuestro Primer Pico"
+	quest.7D38BC3DB3406F51.quest_desc: ["Ahora con nuestro Pico de Madera, la piedra ya no sera un problema!\n\nLa &3Piedra Labrada&r desbloquea el siguiente paso en todo Minecraft, y con este mismo pico podemos crear un horno para cocinar nuestra comida y fundir esos minerales.\n\nTambien querras crear un pico de piedra para minar minerales como el &bHierro&r!"]
+	quest.7D38BC3DB3406F51.title: "Era de Piedra"
+}

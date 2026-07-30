@@ -9,6 +9,7 @@
 	id: "0E81CBCD6B1D1895"
 	images: [{
 		height: 2.5d
+		id: "791F5F2FC6C88C06"
 		image: "atm:textures/questpics/apothic/apothic_spawners.png"
 		rotation: 0.0d
 		width: 2.5d
