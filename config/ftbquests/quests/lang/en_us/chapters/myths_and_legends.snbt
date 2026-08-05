@@ -1,0 +1,54 @@
+{
+	quest.00BA4B74737AB39E.quest_desc: ["&5Cursed Cores&r are a rare Drop from &5&lPossessed Armors&r. \\n\\nHow rare? They are so rare after killing a dozen I didn't believe that &5&lPossessed Armors&r drop them! \\n\\nThanks to the Wiki I now know that they do drop them. \\n\\nYou'll need a &5Cursed Core&r for each piece of &5Bound Soul Armor&r!"]
+	quest.00BA4B74737AB39E.title: "&5Cursed Core"
+	quest.00C630113D34A7AA.quest_desc: ["&5Possessed Armor Fragments&r are common Drops from &5&lPossessed Armor&r, and Chest Loot from &5Ancient Vestiges&r. \\n\\nThey can then be smelt into &5Bound Soul Ingots&r. \\n\\nThese will be needed to Craft &5Bound Soul Armor&r. "]
+	quest.00C630113D34A7AA.title: "&5Possessed Armor Fragments"
+	quest.01C1300BE92F2145.quest_desc: ["&c&lImps&r fly around everywhere in &c&lThe Nether&r. \\n\\nThey are very similar in size and actions to a Vex, they are small and fly through Blocks. \\n\\nInstead of Iron Swords though, &c&lImps&r have &3Tridents&r! I think they are supposed to be pitchforks. \\n\\n&c&lImps&r also have 7 &4Hearts of Health&r and can Shoot &cFireballs &flike &cBlazes&r. When killed will split into 2 &c&lImp Clones&r! \\n\\nEach &c&lImp Clone&r looks like half an &c&lImp&r. They also have 3 and a half &4Hearts&r. Thankfully they don't split anymore, these will just die!"]
+	quest.01C1300BE92F2145.title: "&c&lImps"
+	quest.02444ADBECA57C0D.quest_desc: ["&7Stony Peaks&r are a Mountain Biome, most notably known for not being drenched in Snow! \\n\\nThey have tons of Ores like Iron, Coal, and even &aEmerald&r all exposed on the &7Mountain Peaks&r, very helpful for Mining. \\nThis is also a place where &7&lGargoyles&r can spawn!"]
+	quest.02444ADBECA57C0D.title: "Climb the &7Stony Peaks&r"
+	quest.0654D3E54E0B6AA8.quest_desc: ["&0Umbra's Whisper&r is the confirmed Drop from the &0&lBlack Charro&r. \\n\\nIt does the same Damage as a &cNetherite Sword&r, 8 &4Hearts&r. \\n\\nIt also has a faster Attack Speed than any &2&lVanilla&r Weapon! \\n\\nThe best part is when you Right Click, it will send an &0Umbral Doom Orb&r which will make a small Explosion like a &0Wither Skeleton Skull&r. Damaging any Mobs near it and blowing up any Dropped Items. \\n\\nIt does have Durability and can be Repaired with either another &0Umbra's Whisper&r or a Diamond!"]
+	quest.0654D3E54E0B6AA8.title: "&8Umbra's Whisper"
+	quest.09B67E9AF3526F7A.quest_desc: ["&5&lPossessed Armor&r are Mobs that spawn near &5Ancient Vestiges&r. \\n\\nThey have 100 &4Hearts&r, 20 Armor Points, and of course are Hostile! \\n\\nThey have a &cNetherite Sword&r and what appears to be a Shield but they don't actually use it. Of course they use their &cSword&r though... and it hurts a lot. \\n\\nOnce you get them to half &4Health&r, their Armor will break down a bit. This does not actually change any part of their behavior, just appearance. \\n\\nWhen you kill them you can get..."]
+	quest.09B67E9AF3526F7A.title: "&5&lPossessed Armor Mobs"
+	quest.0CED81C5EC3C9C91.quest_desc: [
+		"&5Ancient Vestiges&r spawn all around the &2&lOverworld&r. \\n\\nThey'll have Stone Bricks, Campfires, Skulls, and of course Chests! Chests can spawn plenty of random Loot but also &5Armor Fragments&r. \\n\\nAnd the most important part of &5Ancient Vestiges&r is that &5&lPossessed Armor&r Mobs will spawn!"
+		"{image:atm:textures/questpics/monsters/myths_vestige.png width:125 height:100 align:center}"
+	]
+	quest.0CED81C5EC3C9C91.title: "Invade an &5Ancient Vestige&r"
+	quest.1F60DD25F21531BF.quest_desc: ["For the full set of &5Soul Bound Armor&r you'll need 3 &5Cursed Cores&r and 21 &5Soul Bound Ingots&r.\\n\\nThe full set has 19 Armor Points which is one below &cNetherite&r. It also has 8 Armor Toughness which is 2/3 of &cNetherites&r.\\n\\nOne part it has over &cNetherite&r is more Knockback Resistance!\\n\\nIt also has buffs if you have the full set equipped. When it is &eDaytime&r you'll get Strength I. At &9Nighttime&r you'll get Strength II!"]
+	quest.1F60DD25F21531BF.title: "&5Ironshade Armor"
+	quest.207E47A6BC1C2DEF.quest_desc: ["To complete the Ritual we'll first need the &0Altar of the Dead Block&r. \\n\\nThen, we'll need the &6Soulbinder Amulet&r which you can see the Recipe in the other Quest. \\n\\nOnce it is &9Nighttime&r, we can use the &6Soulbinder Amulet&r on the &0Altar Block&r to resurrect him!"]
+	quest.207E47A6BC1C2DEF.title: "Resurrect the &8&lBlack Charro"
+	quest.226B713ABCFCB82A.quest_desc: [
+		"The &0Altar of the Dead&r is a rare and small Structure you can find in the &2&lOverworld&r. \\n\\nIt is made of &8Deepslate Tiles&r and &0Black Candles&r. In the middle of it is the Block we are looking for!"
+		"{image:atm:textures/questpics/monsters/myths_altar.png width:100 height:100 align:center}"
+	]
+	quest.226B713ABCFCB82A.title: "Visit an &8Altar of the Dead"
+	quest.2837E7338C6DFFFB.quest_desc: ["During the &eDaytime&r the &7&lGargoyles&r will remain as Statues. Unmoving and invincible. \\n\\nBut during &9Nighttime&r is when they come alive! \\n\\n&7&lGargoyles&r have 120 &4Hearts&r but thankfully only a few Attacks! All their Attacks are close range, either with Hitting you or smashing the ground to cause a &7Shockwave&r. \\n\\nThey are slow moving Creatures and even though they have Wings they can't fly. That's what happens when you're made of &7Stone&r! \\n\\nThey don't need to worry too much about that as they aren't hurt by Projectiles, only Melee will do Damage. \\n\\nAlso careful not to get too close or you might get &7Petrified&r from fear!"]
+	quest.2837E7338C6DFFFB.title: "&7&lGargoyles"
+	quest.29D75BF1AE9696CF.quest_desc: ["The &0&lBlack Charro&r has 500 &4Hearts&r and a Boss Bar. \\n\\nHe will immediately start teleporting around and hitting you. But don't worry that's not his only Attack! \\n\\nHe can also summon Skeletons to help Fight with him or Shoot &0Umbral Doom Orbs&r at you. \\n\\nOnce you get him to around 300 &4Hearts&r he'll fly high into the Air and constantly shoot &0Umbral Doom Orbs&r everywhere! While he is flying he'll &4Regenerate Hearts&r. \\n\\nAfter he gets back down to 300 he'll do the same thing. Don't worry that's the last time he'll &4Regenerate Hearts&r! \\n\\nBut once you get him to 150 he'll give you Blindness and summon Lightning Strikes all around you. \\n\\nThat's the last you'll have to deal with because then, you can kill him!"]
+	quest.29D75BF1AE9696CF.title: "&8&lBlack Charro"
+	quest.2DC069BA4FB411AA.quest_desc: ["&cFire Hearts&r are very rare Drops from &c&lImps&r. \\n\\nWhen you have it in your Inventory you'll constantly gain &4Hearts&r. Regardless of Hunger, Damage being taken, or Debuffs. \\n\\nThis also helps entirely against some forms of Damage like Starvation and Poison I!"]
+	quest.2DC069BA4FB411AA.title: "&cFire Heart"
+	quest.36FBD0D50EE17459.quest_desc: ["&7Gargoyle Shards &fand &7Fragments&r are both Drops from &7&lGargoyles&r. \\n\\n&7Gargoyle Fragments&r are a bit more rare than &7Shards&r though! \\n\\nWorst part is the fact you'll need more &7Fragments &fthan &7Shards&r."]
+	quest.36FBD0D50EE17459.title: "&7Gargoyle Fragments &fand &7Shards"
+	quest.417E590FD514B24F.quest_desc: ["The &6Soulbinder Amulet&r is an Item needed for the Ritual to resurrect the &0&lBlack Charro&r. \\n\\nTo make it we'll need 2 &eGold Ingots&r, a &cBlaze Powder&r, and &bEtheral Flame&r. \\n\\n&bEtheral Flames&r are made by putting a &bSoul Lantern&r into a Blast Furnace."]
+	quest.417E590FD514B24F.title: "&6Soulbinder Amulet"
+	quest.61323E3E5C5F1B25.quest_desc: ["&7Stony Shores&r are the Biomes found along Oceans full of &7Stone&r, Ores, and usually disappointment. \\n\\nI'm telling you every time I look for Sand I can only find these stupid Biomes! \\n\\nOh yeah they also spawn &7&lGargoyles&r!"]
+	quest.61323E3E5C5F1B25.title: "Explore the &7Stony Shores"
+	quest.64F10DA8BDEC2D0E.quest_desc: [
+		"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. "
+		""
+		"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. "
+		""
+		"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+	]
+	quest.676E94B82F843BF7.quest_desc: ["&c&lImps&r are Demons so of course we'll need to look in &c&lHell&r to find them. \\n\\n&2&lMinecraft&r Hell, aka &c&lThe Nether&r."]
+	quest.676E94B82F843BF7.title: "Raid &c&lHell&r"
+	quest.791D6A56DBFE02FD.quest_desc: ["The &7Gargoyle Axe&r needs 3 &7Gargoyle Shards &fand 2 &7Gargoyle Fragments&r to Craft. \\n\\nIt has same Attack Speed as a &cNetherite Axe&r and 0.5 &4Hearts&r more Damage. \\n\\nBut the &7Gargoyle Axe&r can do a Shockwave Attack by using Right Click with it! \\n\\nThis will Damage and Knockback all Mobs near the Player. \\n\\nThe &7Axe&r also appears to do more Knockback with Attacks even though the Weapon description doesn't mention it."]
+	quest.791D6A56DBFE02FD.title: "&7Gargoyle Axe"
+	quest.7A2486750091942D.quest_desc: ["The &7Stony Shield&r needs 1 &7Gargoyle Shard &fand 6 &7Gargoyle Fragments&r to Craft. \\n\\nIt acts just like a normal Shield, Hold Right Click while holding the Shield in your Offhand. \\n\\nThe only difference from normal Shield and &7Stony Shield&r is Durability. \\n\\nAnd the &7Stony one&r can't be Enchanted but it can be Repaired with another &7Stony Shield&r."]
+	quest.7A2486750091942D.title: "&7Stony Shields"
+	task.2B4CDC19D91AFBEE.title: "AllRightsReserved"
+}

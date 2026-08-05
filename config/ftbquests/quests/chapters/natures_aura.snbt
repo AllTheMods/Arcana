@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "6DCE135FF0430D27"
 			image: "naturesaura:item/gold_leaf"
 			rotation: 0.0d
 			width: 2.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "712CA9BA79339098"
 			image: "naturesaura:item/vacuum_bottle"
 			rotation: 0.0d
 			width: 2.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7F25AD4400370AC1"
 			image: "atm:textures/questpics/natures_aura/natures_aura_title.png"
 			rotation: 0.0d
 			width: 12.1d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3F8791058DA1041D"
 			image: "naturesaura:item/eye_improved"
 			rotation: 0.0d
 			width: 1.5d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 5.0d
+			id: "2E926F1D9CD92881"
 			image: "irons_spellbooks:textures/particle/acid_bubble_3.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 5.0d
+			id: "4BEB2DF5E5482FB1"
 			image: "atm:textures/questpics/natures_aura/natural_altar.png"
 			rotation: 0.0d
 			width: 9.859550561797754d
@@ -84,7 +90,7 @@
 			tasks: [{
 				count: 4L
 				id: "46CB54014AC0447C"
-				item: { count: 4, id: "naturesaura:gold_leaf" }
+				item: { count: 1, id: "naturesaura:gold_leaf" }
 				type: "item"
 			}]
 			x: 2.5d
@@ -121,13 +127,13 @@
 				{
 					count: 8L
 					id: "531BA7E45499F20D"
-					item: { count: 8, id: "naturesaura:wood_stand" }
+					item: { count: 1, id: "naturesaura:wood_stand" }
 					type: "item"
 				}
 				{
 					count: 16L
 					id: "172E24F739EEA426"
-					item: { count: 16, id: "naturesaura:gold_powder" }
+					item: { count: 1, id: "naturesaura:gold_powder" }
 					type: "item"
 				}
 			]
@@ -373,13 +379,13 @@
 				{
 					count: 8L
 					id: "005FC74EBECBBD39"
-					item: { count: 8, id: "naturesaura:gold_brick" }
+					item: { count: 1, id: "naturesaura:gold_brick" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "1523CDF0F19A3162"
-					item: { count: 4, id: "minecraft:chiseled_stone_bricks" }
+					item: { count: 1, id: "minecraft:chiseled_stone_bricks" }
 					type: "item"
 				}
 			]
@@ -511,7 +517,7 @@
 				{
 					count: 3L
 					id: "5CFDF0F9971BE465"
-					item: { count: 3, id: "naturesaura:calling_spirit" }
+					item: { count: 1, id: "naturesaura:calling_spirit" }
 					type: "item"
 				}
 			]

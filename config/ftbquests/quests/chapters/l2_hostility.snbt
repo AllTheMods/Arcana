@@ -10,7 +10,8 @@
 		id: "patchouli:guide_book"
 	}
 	id: "08B4637944571E39"
-	order_index: 2
+	images: [ ]
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{

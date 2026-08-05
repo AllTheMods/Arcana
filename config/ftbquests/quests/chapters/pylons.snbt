@@ -10,14 +10,16 @@
 	images: [
 		{
 			height: 3.0d
+			id: "41B0F937EB704926"
 			image: "atm:textures/questpics/pylons/pylon_harvester.png"
 			rotation: 0.0d
 			width: 3.721698113207547d
-			x: 0.0d
-			y: 3.0d
+			x: -5.0d
+			y: 4.0d
 		}
 		{
 			height: 3.0d
+			id: "55002778FFABCE94"
 			image: "atm:textures/questpics/pylons/pylon_beacon.png"
 			rotation: 0.0d
 			width: 2.351585014409222d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2F3E4BDAC64EF18F"
 			image: "atm:textures/questpics/pylons/pylon_zombie.png"
 			rotation: 0.0d
 			width: 1.0702702702702702d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7160CCADD5E2F3D7"
 			image: "atm:textures/questpics/pylons/pylon_skeleton.png"
 			rotation: 0.0d
 			width: 0.8177339901477833d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3F470E8B03879EC8"
 			image: "atm:textures/questpics/pylons/pylon_panda.png"
 			rotation: 0.0d
 			width: 1.5126050420168067d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2FE41366C22246D0"
 			image: "atm:textures/questpics/pylons/pylon_title.png"
 			rotation: 0.0d
 			width: 3.8596491228070176d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 3.0d
+			id: "504E3383298BE825"
 			image: "atm:textures/questpics/pylons/pylon_no.png"
 			rotation: 0.0d
 			width: 3.308300395256917d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2BADC8958521A97A"
 			image: "atm:textures/questpics/pylons/pylon_no.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2E27D102604EA873"
 			image: "atm:textures/questpics/pylons/pylon_no.png"
 			rotation: 0.0d
 			width: 1.1027667984189724d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.6d
+			id: "6E45DEB165741428"
 			image: "atm:textures/questpics/pylons/pylon_no.png"
 			rotation: 0.0d
 			width: 1.6d
@@ -89,7 +99,7 @@
 			y: 0.0d
 		}
 	]
-	order_index: 2
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
@@ -285,7 +295,7 @@
 				item: { count: 1, id: "pylons:mob_filter" }
 				type: "item"
 			}]
-			x: 2.25d
+			x: 1.3499999999999999d
 			y: 3.15d
 		}
 		{
@@ -336,7 +346,7 @@
 						components: {
 							"minecraft:stored_enchantments": {
 								levels: {
-									"minecraft:unbreaking": 3
+									"minecraft:unbreaking": 1
 								}
 							}
 						}
@@ -405,6 +415,69 @@
 			}]
 			x: 3.15d
 			y: 2.35d
+		}
+		{
+			id: "77B185799366ACD2"
+			rewards: [
+				{
+					id: "7E2D3426904398C7"
+					item: {
+						count: 1
+						id: "minecraft:honeycomb"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "67A917A78024E6E6"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "rsquare"
+			size: 0.9d
+			tasks: [{
+				id: "55A51CABCD9B2042"
+				item: { count: 1, id: "pylons:block_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.15d
+		}
+		{
+			dependencies: [
+				"30B0240543253EFB"
+				"011F787E620DE9E8"
+				"77B185799366ACD2"
+			]
+			dependency_requirement: "one_completed"
+			id: "2F5263A4166BFCD6"
+			rewards: [
+				{
+					count: 4
+					id: "15F3A7C65BDFB43F"
+					item: {
+						count: 1
+						id: "minecraft:honeycomb"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "765C8669B005D78E"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				id: "3AE982582C50FBF9"
+				item: { count: 1, id: "pylons:protection_pylon" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
 		}
 	]
 }

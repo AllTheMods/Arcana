@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "3DAFAF7CB2366AA5"
 			image: "minecraft:textures/item/cake.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0352FA0B1C630906"
 			image: "minecraft:textures/item/wheat.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "31A49A4A86639F52"
 			image: "minecraft:textures/item/wheat.png"
 			rotation: -90.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "00A56C29F70B2395"
 			image: "minecraft:textures/item/wheat_seeds.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7ED9CA95A1F7716F"
 			image: "minecraft:textures/block/birch_sapling.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "21BC1EFFAB37DE49"
 			image: "minecraft:block/hay_block_side"
 			rotation: -90.0d
 			width: 2.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "213210BC58E9F2C0"
 			image: "minecraft:item/torchflower_seeds"
 			rotation: 0.0d
 			width: 1.0d
@@ -65,7 +72,18 @@
 			y: -1.0d
 		}
 		{
+			click_action: "none:"
 			height: 1.0d
+			id: "37DAB00776464CAC"
+			image: "minecolonies:item/food/large_empty_bottle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			id: "5473332E357FFA07"
 			image: "minecraft:textures/item/cooked_chicken.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +92,7 @@
 		}
 		{
 			height: 1.0d
+			id: "21B05D593BC4575D"
 			image: "minecraft:textures/item/cooked_porkchop.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,11 +101,22 @@
 		}
 		{
 			height: 3.0d
+			id: "78CDD88168E2A2EF"
 			image: "atm:textures/questpics/food_and_farming.png"
 			rotation: 0.0d
 			width: 12.0d
 			x: 0.5d
 			y: -5.5d
+		}
+		{
+			click_action: "none:"
+			height: 1.3d
+			id: "39B9FF446C3D798E"
+			image: "farmersdelight:block/stove_front_on"
+			rotation: 0.0d
+			width: 1.3d
+			x: 0.5d
+			y: 1.0d
 		}
 	]
 	order_index: 1
@@ -95,7 +125,7 @@
 	quests: [
 		{
 			icon: {
-				id: "pamhc2trees:starfruititem"
+				id: "pamhc2foodextended:couscousitem"
 			}
 			icon_scale: 1.5d
 			id: "1827DEEA2DF1B144"
@@ -114,7 +144,7 @@
 					xp: 10
 				}
 			]
-			shape: "square"
+			shape: "none"
 			size: 1.5d
 			tasks: [{
 				id: "78D7794707E4BD83"
@@ -330,7 +360,7 @@
 					id: "634BD1679C226F35"
 					item: {
 						count: 1
-						id: "pamhc2foodcore:friedchickenitem"
+						id: "farmersdelight:cooked_chicken_cuts"
 					}
 					type: "item"
 				}

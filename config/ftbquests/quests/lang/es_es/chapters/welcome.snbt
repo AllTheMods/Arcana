@@ -1,0 +1,44 @@
+{
+	quest.0C93D7A607AB8B83.quest_desc: [
+		"Para reclamar los chunks, abre tu mapa usando la tecla &6M&r, luego de las click al mapa que dice &aClaim Map&r que esta en esquina superior izquierda."
+		""
+		"Para reclamar un chunk, presiona y manten click izquierdo y seleciona los chunks que quieres reclamar."
+		""
+		"Para cargar un chunk, presiona shift-click derecho en el chunk que reclamaste. Si lo hiciste de forma correcta, veras unas lineas en el chunk."
+	]
+	quest.0C93D7A607AB8B83.title: "Reclamando Chunks"
+	quest.3708A4780ACEB34E.quest_desc: [
+		"En este modpack, las Misiones son opcionales. Los Mods no están bloqueados para completar ninguna misión!"
+		""
+		"Las misiones individuales de ciertos mods estan para servir como una guia. Si gustas seguir una progresion, asegurate de echarle un ojo a las misiones principales!"
+		""
+		"La mayoría de las misiones del paquete también están hechas por &2AlfredGG&r. Las misiones son un trabajo duro, Así que si quieres apoyarlo, Puedes hacer clic en su imagen de jugador a continuación!"
+	]
+	quest.3708A4780ACEB34E.title: "Misiones"
+	quest.3BC0A50886A3222B.quest_desc: [
+		"ATM10 es un kitchensink pack (mejor conocidos como packs sin progresion directa) los cuales te dejan empezar con cualquier mod sin ningun limite!"
+		""
+		"&lATM10 esta en fases de beta actualmente y todavia no esta terminado&r. Los mods se agregarán o eliminarán a medida que se actualicen."
+		""
+		"Si tienes algun tipo de pregunta o problema, sientete bienvenidx a unirte al discord!"
+	]
+	quest.3BC0A50886A3222B.title: "&dBienvenidx a All The Mods 10!"
+	quest.5AC1BE754210429E.quest_desc: ["Si quieres crear un grupo para tí y para tus amigxs, usa el comando &a/ftbteams party create (nombre del grupo)&r para crear un grupo!"]
+	quest.5AC1BE754210429E.title: "Creando Grupos"
+	quest.7658C1C663394E85.quest_desc: [
+		"Hay bastantes comandos utiles dentro de ATM. Aqui hay algunos: "
+		""
+		"&e/sethome&r (nombre de tu base) | Te deja poner un punto de teletransporte a tu base /home (nombre de tu base). Ejemplo: /sethome granja - para teletransportarte usa /home granja "
+		""
+		"&e/spawn&r | Este te permite teletransportarte al spawn de tu overworld. "
+		""
+		"&e/rtp&r | 'Random Teleport' Te permite teletransportarte de forma aleatoria en tu mundo. "
+		""
+		"Ten en cuenta: Estos comandos tiene un limite y un tiempo de espera. Si quieres cambiar estos, puedes editarlos en la configuracion: "
+		""
+		"- Para Un Jugador | &osaves/(nombre de tu mundo)/serverconfig/ftbessentials.snbt&r "
+		""
+		"- Para servidores | &oworld/serverconfig/ftbessentials.snbt&r"
+	]
+	quest.7658C1C663394E85.title: "Comando utiles"
+}

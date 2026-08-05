@@ -1,0 +1,123 @@
+{
+	quest.051E0C85E7B71CE0.quest_desc: [
+		"I'm going to assume you've been out mining, right? It is MINEcraft after all. "
+		""
+		"You'll find a ton of new ores that might confuse you, but you can stick to the vanilla materials to get you started! "
+		""
+		"Copper is abundant and has plenty of uses for things like &aOre Hammers&r or &eDrawer Upgrades&r, so make sure to grab plenty of it! "
+		""
+		"Iron is probably one of the most important ores you'll want to get every time you run into it. The world of modded MC pretty much runs on Iron."
+		""
+	]
+	quest.051E0C85E7B71CE0.title: "The &9Metal&r Age"
+	quest.0F026D5A17CCCF51.quest_desc: [
+		"&dNetherite&r items are even better overall, and won't burn in lava! You still will though, even wearing the armor. Don't try it out. "
+		""
+		"This items can be used to make some of the best tools and armor in the game."
+	]
+	quest.0F3D51FFD2FE8DCB.quest_desc: [
+		"With a Diamond tier pickaxe, you'll be able to mine &dObsidian&r. Obsidian can be used to create a portal to the &cNether&r. "
+		""
+		"The portal frame can be many different sizes, but most go with the basic 'Door' shape. This is a hollow 4x5 shape using a minimum of 10 Obsidian. You don't have to use Obsidian for the corners, just the portal frame itself!"
+		""
+		"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:175 height:201 align:1}"
+	]
+	quest.0F3D51FFD2FE8DCB.title: "&cTo The Nether&r!"
+	quest.282CE3A088AE5CFB.quest_desc: ["Sure, you could craft in your inventory using the 2x2 crafting grid, but that won't get you far. We need to upgrade by making a Crafting Table!"]
+	quest.282CE3A088AE5CFB.title: "Putting the Craft in Minecraft"
+	quest.2EC9668ED4EA47CB.quest_desc: [
+		"This quest only requires you to make one Diamond tool or armor piece, but it's probably good to get a full set! "
+		""
+		"Diamond tools boast high durability, and the armor offers great protection overall. "
+		""
+		"To make the better tools and armor in the game, you'll need Diamond stuff as a base!"
+	]
+	quest.2EC9668ED4EA47CB.title: "&9Gearing Up&r"
+	quest.4A4C71C43519D5FE.quest_desc: [
+		"To summon the boss of the Nether, we need to gather a few items first. "
+		""
+		"We'll need to get at least 3 &5Wither Skeleton Skulls&r. These are rare drops from killing &7Wither Skeletons&r, or can be crafted with the more common drop, the &3Wither Skull Fragments&r. "
+		""
+		"You'll also need at least 4 pieces of Soul Sand, and probably some pretty good armor."
+	]
+	quest.4A4C71C43519D5FE.title: "&5Wither Skele Skulls&r"
+	quest.5CF320E9C4C1B1E1.quest_desc: [
+		"ATM10 is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want! "
+		""
+		"However, there is an endgame goal: Making the &6ATM Star&r! "
+		""
+		"This questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through previous ATM packs. It will also guide you to crafting the Star. "
+		""
+		"Just like almost every modpack, gather some wood to get started!"
+		""
+		""
+	]
+	quest.5CF320E9C4C1B1E1.title: "&eWelcome to the Getting Started Chapter&r!"
+	quest.5E799B92358A8732.quest_desc: ["In the &cNether&r, you'll run into &6Ancient Debris&r. This can be smelted down into Scraps that can be combined with Gold to create &6Netherite Ingots&r, which is an endgame metal use to craft some of the strongest tools and armor in the game."]
+	quest.5E799B92358A8732.title: "&dAncient Metals&r"
+	quest.61C49BC2B384FB80.quest_desc: [
+		"Once you've gathered enough Ender Pearls and Blaze Powders, you can make your way to the End Portal in the Overworld. "
+		""
+		"To do this, craft some &dEyes of Ender&r and right click to throw them in the sky. These will point in the direction of the closest End Portal. "
+		""
+		"Make your way to the Stronghold, find the End Portal, and complete the frame using the Eyes of Ender to create the portal to &dThe End&r."
+	]
+	quest.61C49BC2B384FB80.title: "&aFinding&r &dThe End&r"
+	quest.698A959C9E449592.quest_desc: [
+		"The next step of progression is to make an Iron Pickaxe. "
+		""
+		"This pickaxe can mine some of the rarer ores in the game, including Diamond!"
+	]
+	quest.698A959C9E449592.title: "An &aIron&r Pick"
+	quest.69A517AB8A801939.quest_desc: [
+		"The &5Wither&r is one of the hardest bosses to kill in Minecraft. Mainly because it flies. And explodes. And is fast. You get the picture. "
+		""
+		"To summon it, place down the 4 Soul Sand in the shape of a T. Place the 3 Wither Skeleton Skulls on the top of the 'T' and the &5Wither&r will spawn. "
+		""
+		"Tip: It explodes. A lot. Don't do this near your base."
+	]
+	quest.69A517AB8A801939.title: "&6Kill The&r &5Wither&r"
+	quest.6D09511D64DDC282.quest_desc: [
+		"The &dWarden&r can be summoned by setting off a &5Sculk Sensor&r that is near a &3Sculk Shrieker&r at least 3 times. "
+		""
+		"Fun Fact: The Warden is blind! It can only find you if it hears you, so either fly around or sneak! "
+		""
+		"Tip: It doesn't matter if you use Ranged or Melee attacks, because it will find you. And it will hit you. If you go too far, it'll burrow into the ground and come up next to you! Good luck :D"
+	]
+	quest.6D09511D64DDC282.title: "&5Kill The Warden&r"
+	quest.6EDAB29FBD3C60A3.quest_desc: [
+		"This biome was introduced in the Wild Update! "
+		""
+		"Be careful! You might accidentally summon a new friend. "
+		""
+		"P.S. - He's not friendly."
+	]
+	quest.6EDAB29FBD3C60A3.title: "&6Visit The&r &dDeep Dark&r!"
+	quest.6EE5BE5693E8ACE4.quest_desc: [
+		"In &dThe End&r, you'll find the final boss of Vanilla Minecraft: The &5Ender Dragon&r. "
+		""
+		"At the top of each pillar of Obsidian, you'll find an End Crystal that heals the Dragon. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance! "
+		""
+		"Once defeated, a &dDragon Egg&r spawns at the top of the Exit Portal. This cannot be mined like normal blocks, but is affected by gravity."
+	]
+	quest.6EE5BE5693E8ACE4.title: "&5The End&r"
+	quest.76406EFFF8CBA6B4.quest_desc: ["Diamonds are one of the best materials to use for tool crafting, but also allows you to visit new dimensions like the Nether!"]
+	quest.76406EFFF8CBA6B4.title: "We've Struck &bDiamonds&r!"
+	quest.7975C7145572C438.quest_desc: [
+		"Whether you are an experienced modded player, or a complete noob to MC, everyone has to make a &2Wooden Pickaxe&r. "
+		""
+		"Pickaxes allow you to break most stone and metal blocks. This wooden one won't last long, so make sure to gather some &3Cobblestone&r with it!"
+		""
+	]
+	quest.7975C7145572C438.title: "Our First Pick"
+	quest.7D38BC3DB3406F51.quest_desc: [
+		"With our Wooden Pickaxe, stone shouldn't be a problem to break! "
+		""
+		"&3Cobblestone&r unlocks the next part of the progression by using it to craft a Furnace to smelt our ores. "
+		""
+		"You'll also want to upgrade your pickaxe to stone to mine better ores like &bIron&r!"
+		""
+		""
+	]
+	quest.7D38BC3DB3406F51.title: "Stone Age"
+}

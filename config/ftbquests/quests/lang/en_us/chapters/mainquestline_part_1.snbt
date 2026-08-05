@@ -1,0 +1,323 @@
+{
+	quest.00260A9EA06CF282.quest_desc: [
+		"Farming is a very important and overlooked part of &2&lMinecraft&r. "
+		""
+		"A lot of resources we make are with just simple Planting and Crafting! This includes lots of Modded Items as well. "
+		""
+		"To start we'll need a Hoe. We can then use that Hoe on Dirt or &2Grass&r with Right Click to make Farmland!"
+	]
+	quest.00260A9EA06CF282.title: "&a&lFarming"
+	quest.006C1AC70B906CB0.quest_desc: ["&aNature's Aura&r is a magic mod about using and replenishing &aAura&r.\\n\\nTo get started, make some &eBrilliant Fiber&r which is made with &eGold Nuggets&r, &aLeaves&r and &aGrass&r. Right-clicking on any leaves with &eBrilliant Fiber&r will turn them into &eGolden Leaves&r."]
+	quest.006C1AC70B906CB0.title: "&a&lNature's Aura"
+	quest.01FE186678B659E5.quest_desc: [
+		"Adventuring might not be in the Title of &2&lMinecraft&r but it is still a fundamental part of it! Plus my favorite part. "
+		""
+		"Especially in &d&lArcana&r you will be walking around, looting for a while. You'll find many different Structures, from many different Mods! "
+		""
+		"Remember to be prepared to Fight and keep your Inventory sorted."
+	]
+	quest.01FE186678B659E5.title: "&l&cAdventuring"
+	quest.051E0C85E7B71CE0.quest_desc: [
+		"Now that we are good with Mining let's go over what we should look for in &7Caves&r! "
+		"&7Iron&r is the most important we can find in &7Caves&r, it is the Tier right after &8Stone&r. So you'll need a Stone Pickaxe to Mine it. "
+		""
+		"Copper is another Ore we can find in the Caves that needs Stone to Mine. It has many more uses thanks to Mods! "
+		""
+		"There are also more Metal Ingots we can find, these are now unified thanks to &6&lAllTheOres&r!"
+	]
+	quest.051E0C85E7B71CE0.title: "The &9Metal&r Age"
+	quest.06FECB8380C4B387.quest_desc: [
+		"One of the easiest ways of getting Seeds is punching &2Grass&r! &2Short Grass&r, like not full &2Block Grass&r. "
+		""
+		"This can get us &aWheat Seeds&r and more &aSeeds&r! "
+		""
+		"If you are looking for other &aSeeds&r, there are many other ways of getting them like: Trading with Villagers, Loot in Chests, and even out in the Wild!"
+	]
+	quest.06FECB8380C4B387.title: "&aSeeds"
+	quest.0B12F339760AB2B3.quest_desc: [
+		"&6&lProductive Bees&r is a Resource Generation Mod, revolving around... you guessed it! &6Bees&r! "
+		""
+		"To get started will need some &6Honeycomb&r to make &eBeehives&r. "
+		""
+		"Then, we'll need to find some wild &eBee Nests&r and take the &6Bees&r that spawn there Home with us. "
+		""
+		"You can use &6Bee Cages&r for that! Just Right Click a &6Bee&r to capture it, and Right Click again to release the &6Bee&r."
+	]
+	quest.0B12F339760AB2B3.title: "&6&lProductive Bees"
+	quest.0F026D5A17CCCF51.quest_desc: [
+		"By combining a &bDiamond Tool &for &bArmor&r, with a &cNetherite Ingot&r, and &cSmithing Template&r in a Smithing Table, we can make &cNetherite Items&r! "
+		""
+		"These are even better than &bDiamond Tools&r in every single category: Attack Damage, Pickaxe Tier, Protection, and Durability. "
+		""
+		"&cNetherite Items&r also don't burn in &cLava &for &cFire&r, which is very nice! You still will burn in &cLava &fand &cFire&r though... "
+		""
+		"These should make you prepared for the hardest challenges &2&lMinecraft&r has for us."
+	]
+	quest.0F026D5A17CCCF51.title: "&cNetherite Tier"
+	quest.0F3D51FFD2FE8DCB.quest_desc: [
+		"With an &bDiamond Pickaxe&r, you'll be able to mine &5Obsidian&r. &5Obsidian&r can be used to create a portal to the &l&4The Nether&r."
+		""
+		"The portal frame can be many different sizes, but most go with the basic 'Door' shape. This is a hollow 4x5 shape using a minimum of 10 &5Obsidian&r. You don't have to use &5Obsidian&r for the corners, just the portal frame itself!"
+		""
+		"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:175 height:201 align:1}"
+	]
+	quest.0F3D51FFD2FE8DCB.title: "To &4&lThe Nether&r!"
+	quest.110BF3A2BE85F911.quest_desc: [
+		"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+		""
+		"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission."
+		""
+		"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+	]
+	quest.12B296E1E2938A25.quest_desc: ["Mob Farming is something made much better and easier with Mods. We can now use Silk Touch on Spawners again! \n\nYou'll find plenty of Spawners in Structures. \n\nNow that we can move them, we can also add Items to them to change their Stats, thanks to Apotheosis Spawners! \n\nThere's also changes to Spawners we can have but I just wanted you to get one first."]
+	quest.12B296E1E2938A25.title: "Mob Spawners"
+	quest.13A1EDBFA93770DE.quest_desc: ["Armor is a strange and confusing topic in &2&lMinecraft&r. To summarize, the more Armor Points and Toughness, the less Damage you will take. \n\nIn a more detailed explanation, Armor Points protect by a certain percentage against an amount of Damage. This determines how much of your Health is taken away. The more Armor Points, the less Damage will be given to you. \n\nThe more Damage dealt the more it ignores Armor Points. This is what Armor Toughness will help with! Armor Toughness will help make it harder for more Damage to ignore Armor Points. \n\nThere is a lot of formulas to really understand how this all works, you can check them out on the Minecraft Wiki!"]
+	quest.13A1EDBFA93770DE.title: "Armor"
+	quest.1888EF42F5130D3C.quest_desc: [
+		"&9&lSilent Gear&r is all about making Weapons and Tools. "
+		""
+		"&9&lSilent Gear&r starts with &9Blueprints&r, these are what we will use to make and design our Weapons and Tools. "
+		""
+		"Of course &9Blueprints&r will need Paper, which needs &aSugar Cane&r to be Crafted."
+	]
+	quest.1888EF42F5130D3C.title: "&9&lSilent Gear"
+	quest.19B3B7AB18567088.quest_desc: [
+		"The &cNether Fortress&r is changed quite a bit, thanks to &c&lBetter Fortress&r Mod! \n\nIt is still primarily made of bridges of &4Nether Brick&r, just these come with more danger! \n\nSkeletons, &0Wither Skeletons&r, and &2Zombified Piglin&r might spawn on the bridges. Along with Chests. There will also be small towers above the bridges which will have &0Wither Skeletons&r with Bows on them, and more Loot. \n\nAlong the bridges might be off sections which will have a &cBlaze Spawner&r! We'll need these to kill the &cBlazes&r for their &cRods&r. \n\nThe newest addition to the &cFortress&r is the actual fortress part. It is a huge castle with a ton of Spawners and Chests for even more Loot than what the bridges give. It also has a deep basement, which stems for hundreds of Blocks."
+		"{image:atm:textures/questpics/chap1/chap1_fortress.png width:150 height:100 align:center}"
+	]
+	quest.19B3B7AB18567088.title: "&cNether Fortress"
+	quest.1B3E8BE44E3AE773.quest_desc: ["When you deliver your final blow to slay the &d&lEnder Dragon&r, she will fly above her Nest and face her final moments. \n\nThen, she will explode dropping &aXP&r and thanks to Mods, &dScales&r all over the place. \n\nThis will also spawn the &dDragon's Egg&r above her Nest. We can't Mine it but it does interact with Gravity and Pistons! So either drop it onto a Torch or push it with a Piston! \n\nAfter all of this the &2Exit Portal&r will open and we will be able to return to the &2&lOverworld&r. \n\nOr we can take the &dEnd Gateways&r to the &dOuter End Islands&r for even more adventures!"]
+	quest.1B3E8BE44E3AE773.title: "&d&lDragon&r Slayer"
+	quest.1DBC280A1309DDCA.quest_desc: [
+		"Paper can be made into Books and Scrolls, both very important for &e&lIron's Spells and Spellbooks&r. "
+		""
+		"You can guess by the name, Scrolls and Spellbooks are used a bunch. What are they used for? Pretty much everything! "
+		""
+		"You'll also need to do a little adventuring... but Paper is more important!"
+	]
+	quest.1DBC280A1309DDCA.title: "&e&lIron's Spells and Spellbooks"
+	quest.282CE3A088AE5CFB.quest_desc: [
+		"I'm going to assume you've been Crafting, right? It is &2&lMineCRAFT&r after all!"
+		""
+		"Sure, you could Craft in your Inventory using the 2x2 crafting grid, but that won't get you far. We need to upgrade by making a &6Crafting Table&r!"
+	]
+	quest.282CE3A088AE5CFB.title: "Putting the Craft in &2&lMinecraft"
+	quest.29309773493CE631.quest_desc: [
+		"The start to &l&bOccultism&r is with &2Demon's Dream Seeds&r. "
+		""
+		"We can get these from punching &2Short Grass&r, same way with getting &aWheat Seeds&r!"
+	]
+	quest.29309773493CE631.title: "&b&lOccultism"
+	quest.2EC9668ED4EA47CB.quest_desc: [
+		"This quest only requires you to make one &bDiamond Tool &for &bArmor&r piece, but it's probably good to get a full set! "
+		""
+		"&bDiamond Tools &fand &bArmor&r are some of the best &2&lVanilla&r has to offer! And even with Modded, they will be needed to Craft better Tools and Armor. "
+		""
+		"This is also when I recommend you start &5Enchanting&r and Affixing your Tools!"
+	]
+	quest.2EC9668ED4EA47CB.title: "Gearing Up"
+	quest.358509BDA909F63D.quest_desc: [
+		"This &9Portal&r is closer to the &dEnd Portal&r than &cNether Portal&r. \n\nFirst, dig out a 2x1x2 hole in the ground. Then, place &9Water&r in the hole. Finally, place any sort of &dFlowers&r on each side of the hole. \n\nWith all that set up, toss the &bDiamond&r into the &9Water&r! The &bDiamond&r will be blown up in a &5Lightning Strike&r which activates the &9Portal&r. \n\nYou lose a &aDiamond&r, but you gain the &9&lTwilight Forest&r!"
+		"{image:atm:textures/questpics/chap1/chap1_twilight.png width:100 height:100 align:center}"
+	]
+	quest.358509BDA909F63D.title: "&9&lThe Twilight Forest"
+	quest.35D559C661807615.quest_desc: [
+		"&6Bastion Remnants&r is actually a category of structures found in &4&lThe Nether&r! \n\nThere are 4 &6Bastion&r types: Bridges, Hoglin Stables, Housing Units, and Treasure Rooms. All have different layouts and spawns for Chests but Loot and Monsters that spawn are the same. \n\nAll &6Bastions&r are giant structures of &0Blackstone&r and &8Basalt&r. They have &eGold Blocks&r, &eGilded Blackstone&r, and Chests for Loot. They also spawn &cPiglin&r and &cPiglin Brutes&r. \n\n&cPiglins&r are neutral but will attack you if you: attack them, break &eGold &for &eGilded Blackstone&r, open Chests, or don't wear &eGold&r. \n\n&cPiglin Brutes&r will attack on sight though... so might as well kill them all!"
+		"{image:atm:textures/questpics/chap1/chap1_bastion.png width:125 height:100 align:center}"
+	]
+	quest.35D559C661807615.title: "&6Bastion Remnants"
+	quest.3794189FF1AF7188.quest_desc: ["Alrighty you've Looted quite a bit! By now you've most likely seen special Tools and Weapons in Chests. \n\nThese can be from the Mods &6&lRelics&r or &3&lArtifacts&r. \n\nBoth give special Items each having their own Abilities and Actions. \n\nCan you find them all?"]
+	quest.3794189FF1AF7188.title: "&6&lRelics&r and &3&lArtifacts"
+	quest.3AF846748093B0B5.quest_desc: [
+		"&6Bees&r are very difficult for new Players to get started with, hopefully this Quest can help! "
+		""
+		"First, they spawn in Biomes with &2Oak&r, Birch, and &dCherry Trees&r. You will find their Nests connected to &2Trees&r, right below the &2Leaves&r. "
+		""
+		"&6Bees&r will Pollinate nearby &dFlowers&r. When they have Pollen on them, they will return to their &eNests&r for a little. This will fill up the &eNests &6Honey Level&r. "
+		""
+		"When the &eNest&r has &6Honey&r dripping from it, that means it's ready! We'll have to place a Campfire below it to &8Smoke&r out the &6Bees&r to make sure they don't Attack us when we collect &6Honey&r. "
+		""
+		"Once we do all that, we can use Shears on it to get &6Honeycombs&r or an Empty Bottle to get &6Honey Bottles&r. "
+	]
+	quest.3AF846748093B0B5.quest_subtitle: "Honey, I'm home!"
+	quest.3AF846748093B0B5.title: "&6Bees&r! Glorious &6Bees&r!"
+	quest.454D9AEA8BD79C9E.quest_desc: ["Unfortunately not everything in &2&lMinecraft&r can be settled with words, some only respond to violence. \n\nSo you'll need Weapons! The most basic being a Sword! \n\nWeapons have 3 stats that being: Attack Damage, Attack Speed, and Entity Interaction Range. \n\nAttack Damage is raw Damage a full swing will do. This does not count Critical Hits or hits on cooldown! \n\nAttack Speed is how quickly your Weapon takes to be ready to deal full Damage on a swing. 1.9 changed it so we can no longer spam, Weapons now have a Cooldown to get full Damage! \n\nEntity Interaction Range is a fancy term for how close something needs to be, to be hit. It counts the distance in Blocks."]
+	quest.454D9AEA8BD79C9E.title: "Weapons"
+	quest.4662619F406FEB1A.quest_desc: [
+		"For a &bDiamond&r, 4 &7Iron Ingots&r, and 4 &eGold Ingots&r we can make our ticket to another Dimension. \n\nMake a &2Portal&r, similar in frame to the &cNether Portal&r, just this time out of 10 &8Stone Bricks&r. Corners are not necessary. \n\nThen, use the Catalyst on one of the &8Stone Bricks&r to light the &2Portal&r to &2&lThe Undergarden&r."
+		"{image:atm:textures/questpics/chap1/chap1_undergarden.png width:100 height:125 align:center}"
+	]
+	quest.4662619F406FEB1A.title: "&2&lThe Undergarden"
+	quest.4A4C71C43519D5FE.quest_desc: [
+		"To summon the boss of &4&lThe Nether&r, we need to gather a few Items first. "
+		""
+		"We'll need to get at least 3 &0Wither Skeleton Skulls&r. These are rare drops from killing &0Wither Skeletons&r, or can be crafted with the more common drop, the &0Wither Skull Fragments&r. "
+		""
+		"You'll also need at least 4 pieces of &7Soul Sand&r, and probably some pretty good Armor."
+	]
+	quest.4A4C71C43519D5FE.title: "Summoning &8&lThe Wither"
+	quest.4F37145E95DAC6BB.quest_desc: [
+		"Chests might look a bit different in Structures. More fancy maybe? "
+		""
+		"This is due to &e&lLootR&r! It changes the way Structure Chests work. "
+		""
+		"These Chests are client sided, that means that both you and your Friends can Loot it and get your own stuff! No more worrying if your Friend already took everything from the Desert Temple. "
+		""
+		"Also yes, they have ways of preventing duping; you can't break and obtain the Fancy Chests and you can't reroll them in Survival."
+	]
+	quest.4F37145E95DAC6BB.title: "&e&lLootR"
+	quest.516E3B4D797DA687.quest_desc: [
+		"&5Enchanting&r is important for upgrading our Tools, Weapons, and Armor. And of course it is changed with &5&lApotheosis&r! "
+		""
+		"You will have a similar start and use for &5Enchanting&r. Place down your &5Enchanting Table&r, in order to use it, Right Click it to open its GUI. "
+		""
+		"There you can put &9Lapis Lazuli&r as fuel, your Item to be &5Enchanted&r, and then you can choose which &5Enchantment&r you want. "
+		""
+		"There is 3 choices, each requiring a different amount of &9Lapis&r and &aXP&r. The more it takes, the better the &5Enchants&r. "
+		""
+		"To get better &5Enchants&r we'll need to increase the &5Enchanting Table's&r Power! This is by placing &6Bookshelves&r near the &5Table&r. "
+		""
+		"The &6Bookshelves&r need to be in a 2 Block tall square, around the &5Enchanting Table&r, 1 Block away. Nothing can be between the &5Enchanting Table&r and &6Bookshelves&r or it won't recognize them."
+	]
+	quest.516E3B4D797DA687.title: "&5&lApotheosis Enchanting"
+	quest.543A787FC472749C.quest_desc: ["The Bumblezone is a dimension we can adventure in! \n\nIt's where the Bees go whenever they put the Pollen in. \n\nSimply place down a Beehive (or Advanced Beehive) and either Enderpearl into it, or get pushed into it by a Piston. "]
+	quest.543A787FC472749C.title: "&6&lBumblezone"
+	quest.55E6AE1FA269683A.quest_desc: ["This one is more for mid game, but if you somehow kill the &3&lWarden&r, you can unlock a new Dimension. \n\nOne of its drops is the &3Warden Carapace&r! If there is no &3Sculk&r on the &8Reinforced Deepslate Bricks&r in the &3Ancient City&r, we can use the &3Warden Carapace&r on it. \n\nThis will activate the &3Portal&r to the &3&lOtherside&r. Welcome to &3&lDeeper and Darker&r."]
+	quest.55E6AE1FA269683A.title: "&3&lDeeper and Darker"
+	quest.5ACC3640304E0B07.quest_desc: [
+		"&dSal Ammoniac&r spawns anywhere between Bedrock and Y 160. "
+		""
+		"You can Mine it with a &8Stone Pickaxe&r. "
+		""
+		"Technically you can play through all of &6&lTheurgy&r without touching this Ore... but it makes it much easier if you do collect some!"
+	]
+	quest.5ACC3640304E0B07.title: "&6&lTheurgy"
+	quest.5CF320E9C4C1B1E1.quest_desc: [
+		"Yes, &d&lArcana&r is a &dMagic&r Modpack, but its start is still pretty similar to the starts of most Modpacks! "
+		""
+		"Punch some &2Trees&r to get &6Logs&r!"
+	]
+	quest.5CF320E9C4C1B1E1.title: "&eWelcome to Getting Started&r!"
+	quest.5E799B92358A8732.quest_desc: [
+		"Within &4&lThe Nether&r you might find &cAncient Debris&r. This is ,technically an Ore, that requires a &bDiamond Pickaxe&r to Mine. "
+		""
+		"You can Smelt &cAncient Debris&r to get &cAncient Scraps&r. With 4 &cAncient Scraps&r you can combine them with 4 &eGold Ingots&r and make a &cNetherite Ingot&r! "
+		""
+		"To apply the Ingot to Armor and Tools, you'll need a &cSmithing Template&r. These spawn in Chests in &cBastions&r, which are a Structure in the &4&lThe Nether&r."
+	]
+	quest.5E799B92358A8732.title: "Ancient Metals"
+	quest.5F0DFFD2F44C81CE.quest_desc: [
+		"The way we get most of our (important) Resources will be from Mining! "
+		""
+		"1.17 added a bunch of new and bigger &8Caves&r we can explore and Mine in to get a whole bunch of new &7Ores&r! "
+		""
+		"The &7Ores&r spawn at certain Y Levels, this is important to know before entering the &8Caves&r for what you are looking for. "
+		""
+		"I have to apologize, I won't be able to type out all the Level distributions here... but I can tell you where to look! "
+		"The Github Guide for &6&lAllTheMods&r should have one and you can even type ?ore10 in #bot-spam in the &9Discord&r."
+	]
+	quest.5F0DFFD2F44C81CE.title: "&l&7Mining"
+	quest.61C49BC2B384FB80.quest_desc: [
+		"Once you've gathered enough &3Ender Pearls&r and &cBlaze Powders&r, you can make your way to the &dEnd Portal&r in the &2&lOverworld&r."
+		""
+		"To do this, craft some &aEyes of Ender&r and right click to throw them in the sky. These will point in the direction of the closest &dEnd Portal&r."
+		""
+		"Make your way to the Stronghold, find the &dEnd Portal&r, and complete the frame using the &aEyes of Ender&r to create the portal to &d&lThe End&r."
+	]
+	quest.61C49BC2B384FB80.title: "Finding &d&lThe End"
+	quest.64A42ECF61B1B233.quest_desc: ["The &bNether Star&r is the main drop we care about from the &0&lWither&r. \n\nIt is used for tons of Recipes, the main one most Players know is the &bBeacons&r! \n\nBut I'm going to warn you now, we'll need a ton of these... even for a &dMagic Modpack&r like &d&lArcana&r."]
+	quest.64A42ECF61B1B233.title: "&bNether Star"
+	quest.698A959C9E449592.quest_desc: [
+		"I have touched on this lightly before in the Quest, but I am always happy to repeat it. Pickaxe Tiers matter for Mining Blocks! "
+		""
+		"Each Pickaxe has a set Tier, this includes Modded ones. This also counts for Modded Blocks. "
+		""
+		"Tier 0 or just Punching Tier is anything that can be Mined with your First! &6Wood&r, Dirt, &2Leaves&r are all Tier 0 Blocks. "
+		""
+		"Tier 1 or &6Wooden Tier&r is anything that needs a &6Wooden Pickaxe&r. &8Stone&r, &7Andesite&r, and &8Furnaces&r require at least a &6Wooden Pickaxe&r. "
+		""
+		"Tier 2 or &8Stone Tier&r is Blocks like &7Iron Ore&r and &9Lapis Lazuli Ore&r. "
+		""
+		"Tier 3 is where we are at right now, the &7Iron Tier&r! &bDiamond Ore&r, &eGold Ore&r, and &4Redstone Ore&r are Mined with &7Iron Pickaxes&r. Also many Modded Ores will need an &7Iron Pickaxe&r as well!"
+	]
+	quest.698A959C9E449592.title: "An &aIron&r Pick"
+	quest.69A517AB8A801939.quest_desc: ["To summon the &0&lWither&r, place down the 4 &7Soul Sand&r in the shape of a T. Place the 3 &0Wither Skeleton Skulls&r on the top of the 'T' and the &0&lWither&r will spawn. \n\nWhen he spawns in he'll start at a low &4Health&r but will slowly regenerate to full while being invincible. His full &4Health&r is 300 &4Hearts&r. When he gets to full &4Health&r he will explode and start flying and attacking! \n\nHis attacks are pretty simple with just shooting out &0Explosive Wither Skulls&r. These will blow up the land around them and give &0Wither Effect&r to those they hit. \n\nWhen you get him to half &4Health&r he will become invunerable to Projectiles and fly lower than before. This is when you need to hit him with Melee Weapons! \n\n(BTW the &0&lWither&r will kill any Mobs it sees, and the Mobs that get killed by it will drop &0Wither Roses&r.)"]
+	quest.69A517AB8A801939.title: "Kill The &8&lWither"
+	quest.6D09511D64DDC282.quest_desc: ["The &3&lWarden&r is the hardest Mob in &2&lMinecraft&r to kill! To spawn it, you'll have to set off 3 &3Sculk Shriekers&r in a row (and after those 3, any &3Shrieker&r will spawn him again). \n\nHe has 500 &4Hearts&r and can kill even those in &cNetherite Armor&r easily! So how do we kill him? \n\nHe only has one weakness, being that he is Blind. He can only find you with Sound and &3Sculk Sensors&r, or he can smell you if you are close enough. So keep your range! 23 Blocks above him is a perfect distance. \n\nHe has 2 Attacks: one being just smacking you with his arms which will knock you back. The other being even scarier that being his &3Sonic Blast&r! If you are too far from him, he'll shoot a &3Sonic Blast&r which goes through Walls and Armor."]
+	quest.6D09511D64DDC282.title: "Kill The &3&lWarden"
+	quest.6EDAB29FBD3C60A3.quest_desc: ["The &3Deep Dark&r is a Biome deep below the ground, well below &8Deepslate&r. \n\nIt is full of &3Sculk&r, this including the &3Shriekers &fand &3Sensors&r. The &3Sensors&r will hear just about any noise: footsteps, Blocks placing, people getting hurt. They will then send a signal to the &3Shriekers&r. \n\nBecause of the danger of sound, no other Mobs will spawn within the &3Deep Dark&r! "]
+	quest.6EDAB29FBD3C60A3.title: "Visit The &3Deep Dark&r!"
+	quest.6EE5BE5693E8ACE4.quest_desc: ["In &d&lThe End&r, you'll find the final boss of &2&lVanilla Minecraft&r: The &d&lEnder Dragon&r. \n\nAt the top of each pillar of &5Obsidian&r, you'll find an &dEnd Crystal&r that heals the &d&lDragon&r. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance! \n\nThe &d&lEnder Dragon&r has 200 &4Hearts&r and has two modes: roaming and perching. \n\nWhen it is roaming she will fly around the &dEnd Island&r, shooting &dDragon Balls&r at you. \n\nWhen she is perching she will lower to just above her Nest where she will sit there for a bit. This time is perfect for using your Sword or Bow! Then, she will spit her &dDragon's Breath&r on you when you get close."]
+	quest.6EE5BE5693E8ACE4.title: "&d&lThe End"
+	quest.703BBF0C13959FC5.quest_desc: ["&nChecklist:&r\\n\\n&cNetherite Armor&r - &aCheck&r\\n\\nKilled &3&lWarden&r - &aCheck&r\\n\\nWith that Chapter 1 is finished. Chapter 2 starts where we just killed the &3&lWarden&r at, the &3Deep Dark&r.\\n\\nWe are going to want to look for a nice new Ore called &6Allthemodium&r. The Potion might help find it!"]
+	quest.703BBF0C13959FC5.title: "To be Continued..."
+	quest.762F21211B908A39.quest_desc: [
+		"&0Dark Ore&r will spawn from Y 70 (ish) and everything below! So &8Stone&r or &8Deepslate&r levels. "
+		""
+		"You'll need at least a &6Wooden Pickaxe&r to Mine it. "
+		""
+		"These are your main Crafting Ingredient for &4&lEvilCraft&r, which makes it especially nice how many drop from its &0Ore&r!"
+	]
+	quest.762F21211B908A39.title: "&4&lEvilCraft"
+	quest.76406EFFF8CBA6B4.quest_desc: [
+		"&bDiamonds&r are easily the most well known part of &2&lMinecraft&r, everyone wishes to get them... so how do we? "
+		""
+		"First, you'll need an &7Iron Pickaxe&r to Mine them! Then, you need to Mine at Y 15 or below. The lower you go, the more &bDiamonds&r spawn! "
+		""
+		"Once you get them, so many more opportunities arrive! Better Tools, more Dimensions, heck even &5Enchanting&r!"
+	]
+	quest.76406EFFF8CBA6B4.title: "We've Struck &bDiamonds&r!"
+	quest.794D6D557DAD64C8.quest_desc: [
+		"&bArcane Crystals&r are used a ton for &6&lForbidden \\& Arcanus&r. They make Items, Blocks, and even Multiblocks! "
+		""
+		"You'll need an &7Iron Pickaxe&r to Mine, also to even just unlock this Quest so you should have one. "
+		""
+		"These spawn around Y 16 to Y -45."
+	]
+	quest.794D6D557DAD64C8.title: "&6&lForbidden \\& Arcanus"
+	quest.7975C7145572C438.quest_desc: [
+		"Whether you are an experienced modded player, or a complete noob to &2&lMC&r, everyone has to make a &6Wooden Pickaxe&r. "
+		""
+		"Some Blocks require different Tools to be broken, or will simply break faster with some. "
+		""
+		"When viewing a Block you might see it also appear at the top of your Screen! This is thanks to the Mod called &l&aJade&r. "
+		""
+		"With Blocks that require a certain Tool, it will show the Tool to the Right of the Block on your Screen. If your Tool is the right one for the job, a &aGreen Checkmark&r will appear, if not a &cRed X&r will appear."
+	]
+	quest.7975C7145572C438.title: "Our First Pick"
+	quest.7D38BC3DB3406F51.quest_desc: [
+		"With our &6Wooden Pickaxe&r, we can finally Mine &8Stone&r to get &8Cobblestone&r! "
+		""
+		"There's a few versions of &8Cobble&r, any of these will work. "
+		""
+		"We can use 8 &8Cobble&r to make a &8Furnace&r, which can be used for even more Recipes with Smelting. "
+		""
+		"You can also use &8Cobble&r to craft more Tools at a better Tier!"
+	]
+	quest.7D38BC3DB3406F51.title: "&8Stone Age"
+	quest.7E30CD1A3ABFD982.quest_desc: [
+		"&eForce Gems&r come from &ePower Ore&r and of course they are important for &e&lForceCraft&r! "
+		""
+		"I'm not too sure where they spawn at, the guide doesn't tell me. "
+		""
+		"But I know you need an &7Iron Pickaxe&r to Mine it!"
+	]
+	quest.7E30CD1A3ABFD982.title: "&e&lForceCraft"
+	quest.7ECF5F16582DA5B9.quest_desc: [
+		"&aSugar Cane&r spawns around &9Rivers &fand &9Ponds&r. It needs &2Grass&r, Dirt, &eSand&r, or Mud beneath it to grow on and that Block needs &9Water&r near it. "
+		""
+		"&aSugar Cane&r is important for many things from Paper to Sugar to even Explosives! "
+		""
+		"It is important to start growing some for when you will need them for different Mods."
+	]
+	quest.7ECF5F16582DA5B9.title: "&aSugar Cane"
+	task.0AFA64F1025569A2.title: "Netherite Gear"
+	task.173044E1C1134A80.title: "Cobblestone"
+	task.285A53DB9D54595D.title: "Logs"
+	task.3209E46C9B05C163.title: "Diamond Gear"
+	task.44CEA28EBD6C0898.title: "AllRightsReserved"
+	task.450276777CF78F06.title: "Flowers"
+	task.6CAD0E4CF3577BEB.title: "Kill 1 Warden"
+	task.76C41881A02F2098.title: "Kill 1 Wither"
+	task.7C6F7EF2B3AC2824.title: "AllRightsReserved"
+}

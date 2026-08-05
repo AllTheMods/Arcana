@@ -1,0 +1,51 @@
+{
+	quest.011F787E620DE9E8.quest_desc: [
+		"Para filtrar esta tarjeta simplemente lo que tendras que hacer darle click derecho al mob con el Mob Filter o Filtro de Mob. "
+		""
+		"Cada filtro solo puede almacenar un solo mob, asi que si queremos filtrar Zombies, Esqueletos, Arañas, Creepers, o Endermen necesitaremos de 5 filtros. "
+		""
+		"Puedes intercambiar el mob que filtraste con un nuevo mob usando el mismo Filtro de Mob."
+	]
+	quest.011F787E620DE9E8.quest_subtitle: "No estas invitadx!"
+	quest.034A9FBCA6D79BB6.quest_desc: ["El Pilon Cosechador necesita de una Azada para funcionar. (Se recomienda usar azadas &6irrompibles&f, por el simple hecho de que estas van a estar trabajando de forma constante y no se romperan. Mientras que con una Azada común necesitaras reemplazarla &cconstantemente&f)."]
+	quest.034A9FBCA6D79BB6.title: "Azadas"
+	quest.09D18512037386C1.quest_desc: ["Para poner efectos de poción, necesitarás llenar un Filtro de Poción. Para hacerlo: ten un efecto de poción activo en ti, luego haz clic derecho con el Filtro de Poción para eliminarlo de ti y agregarlo al filtro. Repite hasta que esté lleno y activo. Esto también funciona con efectos de pociones de mods o con aquellos que normalmente no se pueden obtener a través de pociones, como Prisa o Resistencia."]
+	quest.12ED1EE85E146A4B.quest_desc: [
+		"Los Pilones Cosechadores funcionan como una Auto-Granja muy simple. "
+		""
+		"Coloca el Pilón sobre una fuente de agua y automáticamente cosechará y volverá a plantar cultivos que estén completamente crecidos en el área establecida a su alrededor. "
+		""
+		"El área puede configurarse en &63x3&f, &65x5&f, &67x7&f, o &69x9&f bloques alrededor del Pilón. Necesitará una Azada para usar en las plantas y un inventario, como un cofre encima, para almacenar los cultivos. "
+		""
+		"¡Haz todo eso y si está encendido, comenzará a cultivar!\n\n((Cuidado al usar muchos aceleradores de Ticks como &aNenúfares Fertilizantes&f o el &2fertilizante rojo de Farming for Blockheads&f, ya que cuando se cultiva muy rápido, puede consumir mucho &4TPS&f)"
+	]
+	quest.18246A48C20B29D8.quest_desc: [
+		"El Pilón de Infusion funciona de forma similar a una Baliza solo que más mejor y más barato!"
+		""
+		"Cuando le coloquemos un filtro de poción, este mismo dara el efecto de poción en el rango establecido."
+	]
+	quest.30B0240543253EFB.quest_desc: ["El mod de Pylons agrega unas cuantas cosas un tanto rotas y este mismo mod fue creado por &6Mutant Gumdrop&f que tambien es parte del equipo &6ATM&f! \n \nNo subestimes este mod solo por agregar unas pocas cosas! Este mismo nos provee unos Pilones que pueden hacer nuestra experiencia en Minecraft más sencilla. \n \nPara empezar con este fantabuloso e increible mod solo necesitas &ePiedra Negra Pulida&f"]
+	quest.30B0240543253EFB.title: "&lPylons"
+	quest.32E52AD6EF194A60.quest_desc: ["El Pilón de Expulsión funciona como una forma de mantener a la gente fuera de tu terreno. Cuando se coloca, evitará que cualquier jugador que no esté en la lista blanca entre en una cantidad determinada de Chunks a su alrededor. Los Chunks se configuran en su interfaz en la parte superior izquierda, en 1x1, 3x3, o 5x5 Chunks. Y no, no se puede colocar demasiado cerca del Spawn. ¡Sabemos lo que quieren los trolls y no se los vamos a dar! Para poner jugadores en la lista blanca, ¡consulta la Misión del Filtro de Jugadores!"]
+	quest.32E52AD6EF194A60.quest_subtitle: "Fuera de mi patio!"
+	quest.403F76908A8A5661.quest_desc: [
+		"El Pilón de Expulsión empuja a los jugadores fuera del área, ¡pero qué pasa si quieres que &lalgunos&r jugadores estén cerca! Entonces necesitarás un Filtro de Jugadores. "
+		""
+		"Haz clic derecho en un jugador con el filtro para configurarlo y luego colócalo en el Pilón para agregarlo a la lista blanca. "
+		""
+		"Así, cuando todos los demás sean expulsados, ¡tu amigo no lo será! Además, por defecto, el dueño del Pilón no será expulsado."
+	]
+	quest.5B5FC539BD1F4A73.quest_desc: [
+		"¿Odias cuando los zombis aparecen en tu base? "
+		""
+		"¿O cuando lo hacen los creepers? "
+		""
+		"¿O cuando lo hacen los pandas? "
+		""
+		"¡O literalmente cualquier mob que puedas encontrar! "
+		""
+		"Entonces necesitas el Pilón de Interdicción. Cuando se coloca un Filtro de Mobs en él, desactivará los spawns de ese mob en el área del Chunk configurado (puedes establecer los Chunks en la parte superior izquierda de la interfaz). Puedes poner tantos Filtros de Mobs como pueda contener."
+	]
+	quest.5C2C29ECA67F9B49.quest_desc: ["Con el Filtro Sin Vida nunca tendrás que preocuparte por los spawns de mobs dentro de un área de 25x25 bloques.\n\nEs suficiente para cubrir toda la distancia en la que los mobs aparecen cerca del jugador, ya sean hostiles o pasivos.\n\nEsto incluye todos los niveles en el eje Y, tanto por encima como por debajo del Pylon, ¡así que no más preocupaciones por iluminar cuevas!\n\nEste filtro no tiene lista blanca, evitará el spawn de todos los mobs."]
+	quest.5C2C29ECA67F9B49.quest_subtitle: "Finalmente... Paz y Tranquilidad..."
+}

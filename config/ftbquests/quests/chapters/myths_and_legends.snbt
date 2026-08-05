@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "76502D2DC6E6055E"
 			image: "atm:textures/questpics/monsters/myths_title.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1D1D401C65471A84"
 			image: "atm:textures/questpics/monsters/myths_title_armor.png"
 			rotation: 45.0d
 			width: 8.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7D13FAE47B24A322"
 			image: "atm:textures/questpics/monsters/myths_title_charro.png"
 			rotation: -45.0d
 			width: 7.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5BEA0F84024FF302"
 			image: "atm:textures/questpics/monsters/myths_title_imps.png"
 			rotation: 45.0d
 			width: 2.5d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4C99BFA9DBC1A918"
 			image: "atm:textures/questpics/monsters/myths_title_gargoyle.png"
 			rotation: -45.0d
 			width: 6.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 3.0d
+			id: "0F9886445DCB662B"
 			image: "atm:textures/questpics/monsters/myths_full.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 8.0d
+			id: "2E2342750E9457A1"
 			image: "atm:textures/questpics/monsters/myths_charro.png"
 			rotation: 0.0d
 			width: 12.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1D4CD4F4EB792446"
 			image: "atm:textures/questpics/monsters/myths_complete.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2DFDD5EA6B97638D"
 			image: "atm:textures/questpics/monsters/myths_wake.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -81,7 +90,7 @@
 			y: 2.5d
 		}
 	]
-	order_index: 3
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -277,6 +286,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "2BBBE1F1287364F8"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "mythsandlegends:altar_of_the_dead"

@@ -7,14 +7,26 @@
 		id: "silentgear:pickaxe_blueprint"
 	}
 	id: "1D42B373285DEF81"
-	images: [{
-		height: 1.5d
-		image: "silentgear:item/azure_repair_kit"
-		rotation: 0.0d
-		width: 1.5d
-		x: 16.0d
-		y: 3.0d
-	}]
+	images: [
+		{
+			height: 1.5d
+			id: "1AFE773F6A915B98"
+			image: "silentgear:item/azure_repair_kit"
+			rotation: 0.0d
+			width: 1.5d
+			x: 16.0d
+			y: 3.0d
+		}
+		{
+			height: 5.0d
+			id: "5EAA196F620C84A9"
+			image: "atm:textures/questpics/silentgear/starcharger.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 21.5d
+			y: -5.0d
+		}
+	]
 	order_index: 5
 	progression_mode: "flexible"
 	quest_links: [ ]
@@ -49,7 +61,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "2CC400991F16C313"
+				id: "214E842228B92451"
 				item: { count: 1, id: "sgearmetalworks:sword_cast" }
 				type: "item"
 			}]
@@ -87,7 +99,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "1822B97B36ABA7B0"
+				id: "141D23C7486C3DED"
 				item: { count: 1, id: "sgearmetalworks:katana_cast" }
 				type: "item"
 			}]
@@ -125,7 +137,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "5721086FD36AC912"
+				id: "797C7D46BF6EAAED"
 				item: { count: 1, id: "sgearmetalworks:machete_cast" }
 				type: "item"
 			}]
@@ -163,7 +175,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "43C9D3E58AC0A20E"
+				id: "25BFFA9D5B941F6E"
 				item: { count: 1, id: "sgearmetalworks:spear_cast" }
 				type: "item"
 			}]
@@ -201,7 +213,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "5EC46813024C968B"
+				id: "5105355C0A3DDFCB"
 				item: { count: 1, id: "sgearmetalworks:knife_cast" }
 				type: "item"
 			}]
@@ -239,7 +251,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "47C047C5675A246C"
+				id: "31F73EADD67581D9"
 				item: { count: 1, id: "sgearmetalworks:dagger_cast" }
 				type: "item"
 			}]
@@ -277,7 +289,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "424FC7623E5A1767"
+				id: "7FEBECADC4F4C06D"
 				item: { count: 1, id: "sgearmetalworks:pickaxe_cast" }
 				type: "item"
 			}]
@@ -315,7 +327,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "1481B3A90159A216"
+				id: "6DD0F4E357CA200E"
 				item: { count: 1, id: "sgearmetalworks:shovel_cast" }
 				type: "item"
 			}]
@@ -353,7 +365,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "62732C27E333A88E"
+				id: "2A4DED302297201C"
 				item: { count: 1, id: "sgearmetalworks:axe_cast" }
 				type: "item"
 			}]
@@ -391,7 +403,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "484EFD1311A3854E"
+				id: "503226F2D4DE2203"
 				item: { count: 1, id: "sgearmetalworks:paxel_cast" }
 				type: "item"
 			}]
@@ -429,7 +441,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "0089DBB3D0ED052C"
+				id: "3A57090D0931BED2"
 				item: { count: 1, id: "sgearmetalworks:hammer_cast" }
 				type: "item"
 			}]
@@ -467,7 +479,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "624F4A5BB19A40A1"
+				id: "4D22BA58FC70F979"
 				item: { count: 1, id: "sgearmetalworks:excavator_cast" }
 				type: "item"
 			}]
@@ -505,7 +517,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "5711D44881989214"
+				id: "437EBF0C5D254A95"
 				item: { count: 1, id: "sgearmetalworks:mattock_cast" }
 				type: "item"
 			}]
@@ -543,7 +555,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "7E7DFE32E2CFF9D4"
+				id: "336CCE17043B1557"
 				item: { count: 1, id: "sgearmetalworks:sickle_cast" }
 				type: "item"
 			}]
@@ -581,7 +593,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "6FFCB7FB2DC27F82"
+				id: "4D38EA223158B158"
 				item: { count: 1, id: "sgearmetalworks:shears_cast" }
 				type: "item"
 			}]
@@ -619,7 +631,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "1C8582D03B090345"
+				id: "42180031E7F1884E"
 				item: { count: 1, id: "sgearmetalworks:fishing_rod_cast" }
 				type: "item"
 			}]
@@ -658,7 +670,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "77B7E80D3811ACD0"
+				id: "3E0646B07C2ABE9A"
 				item: { count: 1, id: "sgearmetalworks:bow_cast" }
 				type: "item"
 			}]
@@ -697,7 +709,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "078321DD92CA11CC"
+				id: "401F3488126992E0"
 				item: { count: 1, id: "sgearmetalworks:crossbow_cast" }
 				type: "item"
 			}]
@@ -736,7 +748,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "655DF1F818215E50"
+				id: "576543B5D12AC558"
 				item: { count: 1, id: "sgearmetalworks:slingshot_cast" }
 				type: "item"
 			}]
@@ -773,7 +785,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "16D72F92BB9E14B2"
+				id: "5F59091DE998DD0A"
 				item: { count: 1, id: "sgearmetalworks:shield_cast" }
 				type: "item"
 			}]
@@ -810,7 +822,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "560B88A26C6149C5"
+				id: "0710D5257ABF0485"
 				item: { count: 1, id: "sgearmetalworks:helmet_cast" }
 				type: "item"
 			}]
@@ -847,7 +859,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "01E9ADD2C4C2EF06"
+				id: "6A8B94C259107409"
 				item: { count: 1, id: "sgearmetalworks:chestplate_cast" }
 				type: "item"
 			}]
@@ -884,7 +896,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "520FA1D553551A51"
+				id: "12ECE4B0FC189BCF"
 				item: { count: 1, id: "sgearmetalworks:leggings_cast" }
 				type: "item"
 			}]
@@ -921,7 +933,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "1BDA3A6F14D64C58"
+				id: "6FC7A374F3D25DA2"
 				item: { count: 1, id: "sgearmetalworks:boots_cast" }
 				type: "item"
 			}]
@@ -997,7 +1009,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "3F35D3C4D7C12A5F"
+				id: "17E925D3D6AFEDA0"
 				item: { count: 1, id: "sgearmetalworks:arrow_cast" }
 				type: "item"
 			}]
@@ -1034,7 +1046,7 @@
 				}
 			]
 			tasks: [{
-				id: "55DF83B02F815E27"
+				id: "7EAE798334D28684"
 				item: { count: 1, id: "sgearmetalworks:ring_cast" }
 				type: "item"
 			}]
@@ -1072,7 +1084,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "5B70394EF08C6562"
+				id: "66D1FC8B23AD6776"
 				item: { count: 1, id: "sgearmetalworks:bracelet_cast" }
 				type: "item"
 			}]
@@ -1280,7 +1292,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "29D18D54080DCDCF"
+				id: "016B571F2F9B901F"
 				item: { count: 1, id: "sgearmetalworks:tip_cast" }
 				type: "item"
 			}]
@@ -1505,7 +1517,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "6BCEE19D764F1E3D"
+				id: "02F87E9CE55D3E1C"
 				item: { count: 1, id: "sgearmetalworks:tool_rod_cast" }
 				type: "item"
 			}]
@@ -1563,7 +1575,7 @@
 			shape: "circle"
 			tasks: [{
 				id: "29FFC1A3BFF17BBC"
-				item: { count: 4, id: "silentgear:crimson_steel_block" }
+				item: { count: 1, id: "silentgear:crimson_steel_block" }
 				type: "item"
 			}]
 			x: 19.5d
@@ -1742,7 +1754,7 @@
 					type: "checkmark"
 				}
 			]
-			x: -5.5d
+			x: -2.5d
 			y: 0.0d
 		}
 		{
@@ -1776,7 +1788,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "2B540793D8621F95"
+				id: "64786A5EC10D86F3"
 				item: { count: 1, id: "sgearmetalworks:necklace_cast" }
 				type: "item"
 			}]
@@ -1814,7 +1826,7 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "412EC2FFD3B83B51"
+				id: "3A2EC2F592D97BD3"
 				item: { count: 1, id: "sgearmetalworks:trident_cast" }
 				type: "item"
 			}]
@@ -1886,7 +1898,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "7D9F2C8E7C65B654"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(productivemetalworks:foundry_controllers))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { count: 1, id: "productivemetalworks:black_foundry_controller" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -1906,7 +1918,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "54EF988F476C9208"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(productivemetalworks:foundry_drains))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { count: 1, id: "productivemetalworks:black_foundry_drain" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -1927,7 +1939,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "155D4ED18738E127"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(productivemetalworks:foundry_tanks))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { count: 1, id: "productivemetalworks:black_foundry_tank" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -1971,7 +1983,7 @@
 				}
 				{
 					id: "2AE89914A34BF3AD"
-					item: { components: { "ftbfiltersystem:filter": "or(item_tag(productivemetalworks:fire_bricks)item_tag(productivemetalworks:foundry_windows))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					item: { components: { "ftbfiltersystem:filter": "or(item(productivemetalworks:black_foundry_window)item(productivemetalworks:black_fire_bricks))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 			]
@@ -2356,12 +2368,112 @@
 			]
 			size: 1.4d
 			tasks: [{
-				id: "074F1A86B2767F50"
+				id: "5872944CA8EF685A"
 				item: { count: 1, id: "sgearmetalworks:prospector_hammer_cast" }
 				type: "item"
 			}]
 			x: 2.5d
 			y: 5.5d
+		}
+		{
+			dependencies: ["061A51A0EC13CA0F"]
+			hide_until_deps_complete: true
+			id: "0EF9F10A2178451F"
+			optional: true
+			rewards: [{
+				count: 3
+				id: "7E752D98E60CEB9E"
+				item: {
+					count: 1
+					id: "mysticalagriculture:dye_essence"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "76E296A2AD3EFE92"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(productivemetalworks:foundry_controllers)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "511ECEA2E9BD1F71"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(productivemetalworks:foundry_drains)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "51297F6E0D9BB58C"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(productivemetalworks:foundry_tanks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "3B23E744D3B72AE8"
+					item: { components: { "ftbfiltersystem:filter": "or(item_tag(productivemetalworks:fire_bricks)item_tag(productivemetalworks:foundry_windows))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["26F9DB31A835B69C"]
+			disable_toast: true
+			icon: {
+				id: "productivemetalworks:black_foundry_capacitor"
+			}
+			id: "571EE70FCB4D999F"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "2A441975E382FBA9"
+				item: {
+					count: 1
+					id: "productivemetalworks:black_foundry_capacitor"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "74A964DE0E47BAC3"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(productivemetalworks:foundry_capacitors)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "4EC4D8533D529582"
+					item: { count: 1, id: "productivemetalworks:powered_heating_coil" }
+					type: "item"
+				}
+				{
+					id: "614C2389FE8194D4"
+					item: { count: 1, id: "productivemetalworks:high_powered_heating_coil" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["26F9DB31A835B69C"]
+			id: "1290A26F44659212"
+			optional: true
+			rewards: [{
+				id: "3D5FF51060DD2626"
+				item: {
+					count: 1
+					id: "allthemodium:soul_lava_bucket"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "202E88BEE8573F5D"
+				item: { count: 1, id: "allthemodium:soul_lava_bucket" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
 		}
 	]
 }

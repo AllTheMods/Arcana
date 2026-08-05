@@ -1,0 +1,208 @@
+{
+	quest.04A2E60351356107.quest_desc: ["There are 3 &6&lBrooms&r we can make, each with a different Recipe. \\n\\n&aWillow&r is cheapest and slowest, &eWitch Hazel&r is a little more expensive but is faster, and &4Mahagony&r is the most expensive and quickest. \\n\\nAll &6&lBrooms&r are ridden the same way though, you can sit on it with Right Click, like a boat. You can then move forward with W or backward with S. You can also turn with A and D. To elevate you can hold SPACE and to lower we can use CTRL. \\n\\nIn order to float and move your &6&lBroom&r will need a &6Brush&r. After Crafting the &6&lBroom&r they will already have one, but they do have Durability and will need to be replaced. \\n\\nTo replace it, open your Inventory to find the &6&lBroom's&r Inventory. Here we can add and replace different Items in the 3 Slots. Misc, Satchel, and &6Brush&r."]
+	quest.04A2E60351356107.title: "&6&lBrooms"
+	quest.06CF4D8470D0F132.quest_desc: [
+		"&6Owl Post Offices&r are Structures we can find within &2Forests&r! \\n\\nThey have lots of open Windows for the &6Owls &fand &5Witches&r to come and go, plus a Roof made of &2Moss&r and a bunch of Flowers. \\n\\nAll around them you'll find &5Witches&r and &6Owls&r spawning. \\n\\nWithin the &6Post Office&r will be a few decorations as well as Courier Letters and Packages! I guess you can go through them for Loot, but I'm pretty sure that's illegal..."
+		"{image:atm:textures/questpics/hexerei/hex_office.png width:200 height:100 align:center}"
+	]
+	quest.06CF4D8470D0F132.title: "&6Owl Post Office"
+	quest.08F2BDACBE35ECC1.quest_desc: [
+		"The &8&lMixing Cauldron&r is the most important Block for &2&lHexerei&r. It will be used for almost all Recipes! \\n\\nIt has 8 Slots in the middle for the Items that need to be added. To add the Items we can either open its GUI with Right Click or Drop the Items into the &8&lCauldron&r. \\n\\nThe &8&lCauldron&r also has a &bFluid Container&r of up to 2,000mB. That means it can hold 2 Buckets worth of &bLiquid&r. \\n\\nThe Slot above the &bFluid Bar&r is for the &4Blood Sigil&r, check the &4Blood Sigil's&r Quest to learn more! \\n\\nSome Recipes may need the &8&lCauldron&r to be &cheated&r, to &cheat&r it you can place a &cHeat Source Block&r beneath it. These Blocks have the tag of #hexerei:heat_sources."
+		"{image:atm:textures/questpics/hexerei/hex_gui_cauldron.png width:100 height:110 align:center}"
+		"{image:atm:textures/questpics/hexerei/hex_cauldron.png width:100 height:100 align:center}"
+	]
+	quest.08F2BDACBE35ECC1.title: "&8&lMixing Cauldron"
+	quest.092B738E8E928C1C.quest_desc: ["&8Satchels&r are the most basic additions to the &6&lBroom&r. \\n\\nThey are added in the Satchel Slot and will give more Inventory Slots within the &6&lBroom&r. \\n\\nThe &8Small Satchel&r adds 9 Inventory Slots. \\n\\nThe &8Medium Satchels&r are Crafted with a &8Small Satchel&r and will add 18 Slots. \\n\\nThe &8Large Satchel&r which is Crafted with both the &8Small &fand &8Medium Satchel&r, will add 27 Slots."]
+	quest.092B738E8E928C1C.title: "&8Satchels"
+	quest.0BCEF1C14A03592D.quest_desc: [
+		"&6Owls&r can be found within and around &6Owl Post Offices&r. \\n\\nWe can Tame them with Raw Salmon or Cod! \\n\\n&6Owls&r can be set to Sit or Stand. When Sitting, they'll just Sit there... when Standing though, they'll follow the Player around. \\n\\nYou can Shift Right Click them to open their GUI or give them a Sealed Letter or Package to send them on a delivery!"
+		"{image:atm:textures/questpics/hexerei/hex_owl.png width:100 height:120 align:center}"
+	]
+	quest.0BCEF1C14A03592D.quest_subtitle: "Who?"
+	quest.0BCEF1C14A03592D.title: "Taming &6Owls"
+	quest.103AAE060AAD51C4.quest_desc: ["&4Blood Sigils&r can be Crafted with a &8&lMixing Cauldron&r. I don't know why I said Sigils, we'll only need 1. \\n\\nYou can Craft it with 4 &4Redstone Dust&r, 4 &0Polished Blackstone&r, and &cLava&r. \\n\\nOnce we have it, we can put it in its own Slot in the &8&lMixing Cauldron's&r GUI! \\n\\nThen we can..."]
+	quest.103AAE060AAD51C4.title: "The &4Blood Sigil"
+	quest.10475AA810359836.quest_desc: ["&2&lHexerei&r is all about living out your &5Witchy&r Dreams! \\n\\nHere we'll use many Items from Nature to give us different Storage, Tools, and even Familiars! \\n\\nTo start it, just take some time to walk around the &2&lOverworld&r to find certain Biomes."]
+	quest.10475AA810359836.title: "&2&lHexerei"
+	quest.10F40A01EA497918.quest_desc: ["Dried &aMugwort Leaves&r can be made into a Replacer Satchel. \\n\\nBoth Dried &aMugwort Leaves &fand &aFlowers&r can make a &6Crow Ankh Amulet&r."]
+	quest.10F40A01EA497918.title: "Dried &aMugwort Items"
+	quest.11A8419376E80A4C.quest_desc: [
+		"&aBaba Yaga Huts&r are floating &5Witch Houses&r that can be found above &2Forests&r. \\n\\nThey don't have too much within them besides a Heated &8&lMixing Cauldron&r and the Guide Book. \\n\\nThere is an abundance of Decoration Blocks though!"
+		"{image:atm:textures/questpics/hexerei/hex_baba.png width:200 height:100 align:center}"
+	]
+	quest.11A8419376E80A4C.title: "&aBaba Yaga Huts"
+	quest.16ECFBDD1A4137C0.quest_desc: ["The &2Forest&r is the most common Biome in &2&lMinecraft&r. \\n\\nWhich is really good for us because we'll need it for new Structures!"]
+	quest.16ECFBDD1A4137C0.title: "Walk through a &2Forest&r"
+	quest.17565FD8F097EDED.quest_desc: ["The &eSage Burning Plate&r is an Item we can use to stop all Mobs from spawning in a certain area. \\n\\nTo use it, simply place a Dried &2Sage Bundle&r in the &ePlate&r and Light it on &cFire&r. \\nThe &2Bundle&r has a Durability and will use it up over time. When it is at 0 it will dissappear and no longer Purify the area. \\n\\nYou can remove the &2Bundle&r to replace it with Shift Right Click. \\n\\nYou'll know the area it is Purifying by the Clouds forming. If you don't like the Clouds you can just Right Click the &2Bundle&r to change from lots of Clouds, to a few Clouds, to no Clouds. It will still disable Mob spawns even without Clouds!"]
+	quest.17565FD8F097EDED.quest_subtitle: "Phasmophobia?"
+	quest.17565FD8F097EDED.title: "&eSage Burning Plate"
+	quest.1B9BF6ED8BE5A2B0.quest_desc: [
+		"&aMugwort&r are tall Bushes found within &2Swamps&r. \\n\\nFully grown they are 2 Blocks tall and have White and &aLight Green Flowers&r. \\n\\nAlso when fully grown, we can collect its &aFlowers &fand &aLeaves&r. \\n\\nIts &aFlowers&r are used for the &6&oEnhanced Brush&r. \\n\\nIts &aLeaves&r are used for the normal &6Brush&r."
+		"{image:atm:textures/questpics/hexerei/hex_mugwort.png width:100 height:125 align:center}"
+	]
+	quest.1B9BF6ED8BE5A2B0.quest_subtitle: "Fastlane"
+	quest.1B9BF6ED8BE5A2B0.title: "&aMugwort Bush"
+	quest.1E25D7F2F7B6B474.quest_desc: ["Courier Depots are where Letters and Packages will be sent to by our &6Owls&r! \\n\\nYou'll need to Craft and place them, then you can name them whatever you want. \\n\\nThat name will then be an option to where we want to send our Letters and Packages with our &6Owls&r to. \\n\\nAnd the Wood the Depot is made of does not matter or change anything."]
+	quest.1E25D7F2F7B6B474.title: "Courier Depots"
+	quest.22C4696B7348D806.quest_desc: ["&0Infused Fabric&r can be made into quite a few Items and Blocks! \\n\\nThe first is the &0Witch Armor&r, which will have its own Quest. \\n\\nNext is &0Infused Fabric Blocks&r, these are fun Building Blocks. \\n\\nThird is &0Cloth&r. This can either be used on a Block to wipe off the &7Wax&r, or it can be made into a &7Waxing Kit&r. "]
+	quest.22C4696B7348D806.title: "&8Infused Fabric"
+	quest.239EAF6E6E024A69.quest_desc: ["The &5Ender Satchel&r is an upgrade to the &8Medium Satchel&r. \\n\\nIt can be added to the Satchel Slot and when added, you'll be able to access your &5Ender Chest&r from your &6&lBroom&r."]
+	quest.239EAF6E6E024A69.title: "&5Ender Satchel"
+	quest.245623F6FFBD9DA1.quest_desc: ["You can play dress up with your &6Owls&r! \\n\\nShift Right Click them to open their GUI. Here you can find two Slots: Hand and Hat. \\n\\nHand just gives an &6Owl&r an Item in their beak. Any Item they aren't picky! \\n\\nHats can be any Helmet, if you can wear it on your head, then so can they! "]
+	quest.245623F6FFBD9DA1.title: "Decorating your &6Owl&r Friend"
+	quest.2649F1348F10D6AE.quest_desc: ["The &7Waxing Kit&r can be used to hold 256 &7Wax&r! And can even wipe off &7Wax&r. Best of both worlds! \\n\\nTo add &7Wax&r, you'll need to Craft the &7Kit&r with &7Wax&r. \\n\\nHave fun decorating!"]
+	quest.2649F1348F10D6AE.quest_subtitle: "Wax off"
+	quest.2649F1348F10D6AE.title: "&7Waxing Kit"
+	quest.26D96EF701A8CA87.quest_desc: ["The &3Replacer Satchel&r is another upgrade to the &8Medium Satchel&r. \\n\\nIt is used in the Satchel Slot and will add 18 Slots. \\n\\nThe unique part of the &3Replacer Satchel&r is that it will replace the &6Broom Brush&r when broken with the first &6Brush&r in its Inventory! \\n\\nVery helpful for long travels."]
+	quest.26D96EF701A8CA87.title: "&3Replacer Satchel"
+	quest.2B878EFDFB5AC888.quest_desc: ["The &6Broom Brush&r is the default &6Brush&r. \\n\\nWhen you make a &6&lBroom&r, they'll have this &6Brush&r by default. \\n\\nIt has 100 Durability and to be honest I don't know how to tell you how far that'll go. \\n\\nTo make one you'll need to Craft a &6Wet Brush&r in a &8&lMixing Cauldron&r then let it &cDry&r at a &c&lDrying Rack&r."]
+	quest.2B878EFDFB5AC888.title: "&6Broom Brush"
+	quest.2D5176BA4D935D08.quest_desc: ["&aHerb Jars&r work similar to Drawers! They will hold a ton of Stacks of 1 Item. \\n\\nTo open the &aJar&r, we can Right Click the Cork (top part). Then, we can put our Items in. \\n\\nThe &aJars&r are picky with what Items can be put in them. They'll only hold Plant like Items: &2Leaves&f, &2Saplings&f, &aSeeds&f, and &aCrops&r. \\n\\nWhen an Item is in, the &aJar&r will have a Picture of that Item and the name of it written on it. The &aJar&r will also get more full, the more Items are in it!"]
+	quest.2D5176BA4D935D08.title: "&aHerb Jar"
+	quest.2D7BE1D4ED672765.quest_desc: [
+		"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+		""
+		"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission."
+		""
+		"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+	]
+	quest.2D864A40F074E1F1.quest_desc: [
+		"&5Belladonnas&r spawn in &2Swamps&r and are as &5Purple &fas &5Purple&r can be! \\n\\nWhen grown they can be harvested to get their &5Berries &fand &5Flowers&r. \\n\\nTheir &5Berries&r are extremely Poisonous, so instead of Eating them we can make &6&oEnhanced Brushes&r with them, or mash them up in a &7Mortar and Pestle&r! \\n\\n&5Belladonna Flowers&r can be made into the &6&oEnhanced Brush&r or made into a Mindful Trance Blend."
+		"{image:atm:textures/questpics/hexerei/hex_belladonna.png width:100 height:100 align:center}"
+	]
+	quest.2D864A40F074E1F1.title: "&5Belladonna Plant"
+	quest.306E61765D9FFE11.quest_desc: ["The &2Swamps&r are a unique and rare Biome in &2&lMinecraft&r. They are also the most important Biome for &2&lHexerei&r! \\n\\nHere we'll find new Trees, Plants, and Structures."]
+	quest.306E61765D9FFE11.title: "Tread through a &2Swamp"
+	quest.31DDBB638451EFD4.quest_desc: [
+		"&eWitch Hazel Trees&r are easily recognizable by their &eYellow Leaves&r and funky design. \\n\\nThey look almost like the letter &lY&r. \\n\\nTheir Logs are similar to &2Dark Oak&r, with the Bark being more &8Greyish&r. \\n\\nThe Planks are very &6Brown&r, almost identical to &2Spruce&r!"
+		"{image:atm:textures/questpics/hexerei/hex_hazel.png width:100 height:100 align:center}"
+	]
+	quest.31DDBB638451EFD4.title: "&eWitch Hazel Trees"
+	quest.3AD657523F8081AE.quest_desc: ["The &3Waterproof Tip&r goes into the Misc Slot. \\n\\nIf we normally ride into &9Water&r on our &6&lBroom&r, we'll get kicked off of it after a few seconds. \\n\\nWe can prevent that by using a &3Waterproof Tip&r!"]
+	quest.3AD657523F8081AE.title: "&3Broom Waterproof Tip"
+	quest.3D152937B2226040.quest_desc: [
+		"&2&lHexerei&r of course has its own &5Witch Huts&r! \\n\\nThese are much bigger versions of &2&lMinecraft&r &5Witch Huts&r. \\n\\nYou can all sorts of helpful Items in them, like &8&lMixing Cauldrons&r, &7&lMortar and Pestle&r, and &aHerb Jars&r. \\n\\nYou can even find a &5Witch&r and her Cat spawn here. \\n\\nDon't forget to check the rafters for a surprise!"
+		"{image:atm:textures/questpics/hexerei/hex_hut.png width:200 height:100 align:center}"
+	]
+	quest.3D152937B2226040.title: "Newer &5Witch Huts"
+	quest.3D626C31054C8485.quest_desc: ["&6Broom Stands&r are decoration that can hold your &6&lBroom&r when not in use. \\n\\nThe type of &6Stand&r doesn't change what &6&lBrooms&r it can hold, just the look of them!"]
+	quest.3D626C31054C8485.title: "&6Broom Stands"
+	quest.40AC448F65C3A42D.quest_desc: [
+		"&aWillow Trees&r will be easy to tell by their Vines. They have big thick &2Green Vines&r hanging from their Leaves. \\n\\nThe Bark and Logs both are a highly unsaturated &aGreen&r, very close to &8Grey&r."
+		"{image:atm:textures/questpics/hexerei/hex_willow.png width:100 height:100 align:center}"
+	]
+	quest.40AC448F65C3A42D.title: "&aWillow Trees"
+	quest.429F0EC29D4048C4.quest_desc: ["&7Wax Blend&r is a Craft made by combining &2&lHexerei&r Crops with Glow Berries in a &7&lMortar and Pestle&r. \\n\\nIt can be applied to a &2&lHexerei&r Block that has a Connected Texture, to separate it from non-waxed Blocks. \\n\\nWhat are some of those Blocks? Here's a list: Window Panes, &0Infused Fabric&r, and &2&lHexerei&r Wood Blocks! \\n\\nYou can use a &0Cloth&r to wipe off &7Wax&r."]
+	quest.429F0EC29D4048C4.quest_subtitle: "Wax on"
+	quest.429F0EC29D4048C4.title: "&7Wax Blend"
+	quest.438FE6188D334F1A.quest_desc: [
+		"&eYellow Dock Bushes&r are also 2 Block tall Bushes spawning in &2Swamps&r. \\n\\nTheir &eFlowers&r are a deep &eYellow&r Color! \\nWhen grown they'll drop their &eFlowers &fand &eLeaves&r. \\n\\nTheir &eFlowers&r are used in making the &6&oEnhanced Brush&r. \\n\\nAnd their &eLeaves&r can be made into the normal &6Brush&r!"
+		"{image:atm:textures/questpics/hexerei/hex_yellow.png width:100 height:125 align:center}"
+	]
+	quest.438FE6188D334F1A.quest_subtitle: "99.99999%"
+	quest.438FE6188D334F1A.title: "&eYellow Dock Bush"
+	quest.464070D83458BD41.quest_desc: ["To make &dCandles&r from &2&lHexerei&r we'll need Liquid Tallow within a &8&lMixing Cauldron&r. \\n\\nFor that we can melt down: &2&lMinecraft&r Candles, &6Honeycombs&r, or &7Animal Fat&r. \\n\\nEach &dCandle&r will need 50mB &7Tallow&r and 1 String. \\n\\nTo make them, add the String to the &d&lDipper&r and it will begin to Dip the String into the &7Tallow&r to make &dCandles&r. It will take a few Seconds of Dipping and Drying but soon you'll have &dCandles&r!"]
+	quest.464070D83458BD41.quest_subtitle: "From Hexerei"
+	quest.464070D83458BD41.title: "&dCandles"
+	quest.4740497A7444A6D3.quest_desc: ["You can play dress up with your &0Crows&r! \\n\\nShift Right Click them to open their GUI. Here you can find the Slots: Hand and Hat. \\n\\nHand just gives a &0Crow&r an Item in their beak. Any Item they aren't picky! \\n\\nHats can be any Helmet, if you can wear it on your head, then so can they! "]
+	quest.4740497A7444A6D3.title: "Decorating your &8Crow"
+	quest.47D5B7129A88BCC4.quest_desc: ["The &6Crow Ankh Amulet&r works like a &6Totem of Undying&r... just for your &0Crows&r! \\n\\nIf they are killed, instead of Dying, the &6Ankh Amulet&r will break. \\n\\nThis gives them lots more &4Health&r to protect them. \\n\\nThis Item will also give them &4Regeneration&r when playing dead! Oh yeah forgot to tell you, when a &0Crow&r gets hit they might fall over. That's them playing dead!"]
+	quest.47D5B7129A88BCC4.title: "&6Crow Ankh Amulet"
+	quest.4945CCA98146C8C3.quest_desc: ["Dried &2Sage&r can be made into a Canvas. \\n\\nAnd Dried &2Sage Bundles&r can be used on a &eSage Burning Plate&r to prevent Mob spawns."]
+	quest.4945CCA98146C8C3.title: "Dried &2Sage Items"
+	quest.4A6B2CBC32C786B4.quest_desc: ["Courier Packages are little Shulker Boxes meant to be sent around with &6Owls&r. \\n\\nFirst, open up its GUI with Right Click! Then, we can add up to 5 Stacks of Items into it. \\n\\nOnce you have at least a single Item in it, you can Click and Hold the Seal Button to Seal the Package. \\n\\nOnce its Sealed it can no longer be opened until it has been delivered to a Depot. \\n\\nOh yeah you'll need to give it to an &6Owl&r so they can fly it to a Depot!"]
+	quest.4B06B26EBCA31344.quest_desc: [
+		"By combining a few &2Seeds&r in a &7&lPestle and Mortar&r we can make a &0Crow's&r favorite Food! \\n\\nWhich of course is what we use to Tame them. \\n\\nThe &0Crow&r can be set to Sit, Follow, or Wander either by Right Click, or going through its GUI. I will talk more on those commands in the &4Crow Flute&r Quest. \\n\\nYou can open their GUI with Shift Right Click. \\n\\nYou can also set them to help with an Activity like Gathering, Harvesting, or Pickpocketing. \\n\\nGathering will make it so they pick up every Item that is set within a &6Coffer&r and will bring those to the same &6Coffer&r. Very helpful for when Mining or Building. \\n\\nHarvesting will have them Harvest and Plant all Crops nearby. \\n\\nPickpocketing will make &0Crows&r steal Items from Villagers who are near!"
+		"{image:atm:textures/questpics/hexerei/hex_crow.png width:125 height:100 align:center}"
+	]
+	quest.4B06B26EBCA31344.title: "Taming &8Crows"
+	quest.4DCCE0B80523094F.quest_desc: ["These can be used to make a Replacer Satchel. \\n\\nThat is kinda it..."]
+	quest.4DCCE0B80523094F.title: "Dried &5Belladonna Flowers"
+	quest.50EF00215FA78A5A.quest_desc: [
+		"&c&lDrying Racks&r are a very important Block for &2&lHexerei&r! \\n\\nThey need to hang off a Block, like a Hanging Sign. \\n\\nThen, we either hang Items up for Decoration, or hang certain Items to &cDry&r them. \\n\\nWe can &cDry&r &2&lHexerei&r Flowers and Leaves, Wet Brushes, and even a few &2&lVanilla&r Items like Rotten Flesh and Wet Sponge."
+		"{image:atm:textures/questpics/hexerei/hex_rack.png width:100 height:100 align:center}"
+	]
+	quest.50EF00215FA78A5A.title: "&c&lDrying Rack"
+	quest.5202A68E811D0E4A.quest_desc: ["To get an &6&oEnhanced Brush&r we'll need a &6&oWet Enhanced Brush&r. \\n\\nThese are made with a few Flowers and a Basic &6Brush&r. \\n\\nOnce &cDry&r we can use them with our &6&lBroom&r. \\n\\nThe &6&oEnhanced Brush&r isn't any faster than normal &6Brushes&r, but they have twice the Durability!"]
+	quest.5202A68E811D0E4A.title: "&6&oEnhanced Broom Brush"
+	quest.5281804074795210.quest_desc: ["The &4Crow Flute&r is the perfect Item for commanding an army of &0Crows&r! \\n\\nAll &0Crows&r nearby will do what Command is set on the &4Flute&r with Right Click. \\n\\nTo set the Command, Shift Right Click with it in your Hand to open its GUI. Here you can change the Command. \\n\\nThat means you can make a dozen &0Crows&r pickpocket an entire Village!!!"]
+	quest.5281804074795210.title: "&4Crow Flute"
+	quest.56F1559C8118D903.quest_desc: ["&eBroom &7Chains&r are added to the Misc Slot. \\n\\n&eBroom &7Chains&r can be Crafted with an Item to add them to the &7Chain&r. Then, that Item will be displayed! \\n\\nSo if we add a Waxed Weathered Cut Copper Stairs to the &7Chain&r, and add it to our &6&lBroom&r, we'll see a Waxed Weathered Cut Copper Stair on the &6&lBroom&r! \\n\\nWe can Craft the &7Chain&r by itself to return the Item we connected to it."]
+	quest.56F1559C8118D903.title: "&eBroom &7Chain"
+	quest.5AAD299DC9657334.quest_desc: ["&eGold Rings&r go into the Misc Slot. \\n\\nThey are just decoration. They just add 2 &eGold Rings&r near the tip of your &6&lBroom&r. \\n\\nMakes you feel like Sonic but doesn't change your Speed!"]
+	quest.5AAD299DC9657334.title: "&eGold Rings"
+	quest.5C3030860804B318.quest_desc: ["As much as I hate Birch, at least now the &2Forests&r have some use! \\n\\nThat use being another Tree, the &eWitch Hazel Tree&r!"]
+	quest.5C3030860804B318.title: "Visit a &2Birch Forest"
+	quest.5EF9F150AAD8B943.quest_desc: ["Remember the &eBroom &7Chain&r? Well we got those for &0Crows&r! \\n\\nJust Craft the &eAmulet&r with any Item in a Crafting Table to attach it to the &eAmulet&r. \\n\\nThen, when you put the &eAmulet&r in the &0Crow's&r Misc Slot, that Item will show up on them."]
+	quest.5EF9F150AAD8B943.title: "&eCrow Amulet Trinket"
+	quest.5F148FADD83DF829.quest_desc: [
+		"&2Nature Covens&r are Cities full of &5Witches&r that we can find within &2Forests&r. \\nThey are primarily made of &eWitch Hazel&r, Mud, and &2Moss&r! \\n\\nYou'll find dozens of different rooms and buildings, from Gardens, to Houses, to even a Beekeeping room!"
+		"{image:atm:textures/questpics/hexerei/hex_nature.png width:200 height:100 align:center}"
+	]
+	quest.5F148FADD83DF829.title: "&2Nature Covens"
+	quest.5F50D02183F8F6C5.quest_desc: ["Courier Letters are simple notes that we can write on. \\n\\nThey have about 12 Lines of space to write, if you want more you'll need a Book and Quill not a Letter! \\n\\nOnce you are done writing you can Click and Hold on the Seal Button. This will Seal it, making it so it can no longer be changed. Like signing a Book and Quill! \\n\\nThen, you can have your &6Owl&r send it off to be read at a different Depot."]
+	quest.6060951D76EE2E8A.quest_desc: [
+		"The &6Coffer&r works like a Witchy Backpack. \\n\\nYou can Right Click with it in your Inventory to open it. Or you can Shift Right Click to place it down. \\n\\nWhen you open it you'll immediately be able to see and use all 36 Slots. Like a Chest! \\n\\nYou can also see your Character in it! I just think that's cool."
+		"{image:atm:textures/questpics/hexerei/hex_gui_coffer.png width:100 height:110 align:center}"
+		"{image:atm:textures/questpics/hexerei/hex_coffer_close.png width:150 height:100 align:center}"
+		"{image:atm:textures/questpics/hexerei/hex_coffer_open.png width:100 height:100 align:center}"
+	]
+	quest.6060951D76EE2E8A.title: "&6Coffer"
+	quest.606E10119883F444.quest_desc: ["Dried &eYellow Dock Flowers&r can be made into a Replacer Satchel. \\n\\nBoth Dried &eYellow Dock Leaves &fand &eFlowers&r can make a &6Crow Ankh Amulet&r."]
+	quest.606E10119883F444.title: "Dried &eYellow Dock Items"
+	quest.6195E0DBDF7DEA21.quest_desc: [
+		"&9Mandrakes&r are &5Purple &fand &9Blue Plants&r we can find within &2Swamps&r. \\n\\nWe can pick the &9Roots &fand &9Leaves&r off a fully grown one, leaving only the &9Plant&r left to regrow. \\n\\nThe &9Flowers&r are used for most Recipes involving other Flowers from &2&lHexerei&r. \\n\\nAnd its &9Roots&r are used for all the &6&lBrooms&r!"
+		"{image:atm:textures/questpics/hexerei/hex_mandrake.png width:100 height:100 align:center}"
+	]
+	quest.6195E0DBDF7DEA21.quest_subtitle: "Special Herbs Volume 7 and 8"
+	quest.6195E0DBDF7DEA21.title: "&9Mandrake Plant"
+	quest.65244D670699FBAF.quest_desc: [
+		"The &0Witch Outfit&r is a collection of Helmets, Chestplates, and Boots made of &0Infused Fabric&r. \\n\\nYou'll need 18 &0Infused Fabric&r for the whole set and trust me you'll want the full set for the... \\n\\nSet Bonus! This makes it so that when we wear 2 parts of the &0Witch Outfit&r, &2Witches&r will no longer Attack us and we'll take 50% less Damage from &dMagic Attacks&r. \\n\\nIf we have every piece of the set we get 25% Damage boost to &dMagic Damage&r along with 15% lifesteal from &dMagic Attacks&r."
+		"{image:atm:textures/questpics/hexerei/hex_outfit.png width:100 height:200 align:center}"
+	]
+	quest.65244D670699FBAF.title: "&8Witch's Outfit"
+	quest.65DA7440200C931D.quest_desc: ["&2Sage&r isn't found naturally in the &2&lWorld&r like the rest of the Plants. \\n\\nRather you can find its &2Seeds&r just like you would find Wheat Seeds. By punching &2Grass&r! \\n\\nThen, you can Plant the &2Seeds&r and wait for it to Grow in order to get &2Sage&r."]
+	quest.65DA7440200C931D.title: "&2Sage Seeds"
+	quest.67FCE021E2A2C50C.quest_desc: ["Knowing how important the &2Swamp&r is for &2&lHexerei&r, they gave us an Item to help us find them, the &6Dowsing Rod&r! \\n\\nVery easy to Craft, and a little difficult to use. \\n\\nYou can Right Click to set to find the closest &2Swamp&r or Shift Right Click to switch between &2Swamp&r and &2Jungle&r. \\n\\nWhen it has found one, the &2Leaves&r on it will get &2Greener&r when you are looking in the Biome's direction. &6Brown&r means you're way off, &eYellow&r means you're looking closer, &2Green&r means you are looking in the right direction!"]
+	quest.67FCE021E2A2C50C.title: "&6Dowsing Rod"
+	quest.6804FF4D4136B7B5.quest_desc: ["To get the &bMoon Dust Brush&r we'll need an &6&oEnhanced Brush&r and &bMoon Dust&r. We should know how to get the &6&oBrush&r we'll worry about &bMoon Dust&r here! \\n\\n&bMoon Dust&r is a Crafting Recipe from the &8&lMixing Cauldron&r. Except it needs a certain &bMoon Phase&r to Craft! That being a Full Moon! \\n\\nWe can tell if it is a Full Moon by checking a &bCrystal Ball&r. I do not know of any way to force a Full Moon though. \\n\\nThe &bMoon Dust Brush&r has the same Durability as the &6&oEnhanced Brush&r but is much faster and will only get even faster! \\n\\nDuring &9Nighttime&r it gets a Speed Boost, and it gets higher with a Full Moon."]
+	quest.6804FF4D4136B7B5.title: "&bMoon Dust Brush"
+	quest.6AFB1631C4ED14D3.quest_desc: [
+		"&4Mahogany Trees&r are very thick and decently tall Trees. Same height as &2Spruce&r! \\n\\nThey have &2Green Leaves&r and even have Logs going beneath the soil as Roots. \\n\\nThe Bark is a &8Grey&r and &6Brown&r color, while the Log is a deep &4Red&r and &6Brown&r. I wonder if there's a perfect color to describe it? \\n\\nThe Planks will also be that same deep &4Red&r and &6Brown&r color!"
+		"{image:atm:textures/questpics/hexerei/hex_mahogany.png width:100 height:100 align:center}"
+	]
+	quest.6AFB1631C4ED14D3.title: "&4Mahogany Trees"
+	quest.6BF1CB65EC38E5F2.quest_desc: ["The &2Jungle&r is known in &2&lMinecraft&r for hosting dozens of Plants, Mobs, and Structures. \\n\\nMostly Plants, which &2&lHexerei&r will give us a whole new one!"]
+	quest.6BF1CB65EC38E5F2.title: "Explore the &2Jungles&r"
+	quest.6C419C54B645434B.quest_desc: ["The &8Broom Seat&r goes on the Satchel Slot and will add another Seat on your &6&lBroom&r for you! \\n\\nAlong with the 9 Slots of Inventory you can now have your friend join you on your &6&lBroom&r. \\n\\nNot the most helpful for Singleplayer though..."]
+	quest.6C419C54B645434B.title: "&8Broom Seat"
+	quest.715B9E2049188C56.quest_desc: [
+		"&0Dark Covens&r are the perfect place for a &5Witch&r to start out! \\n\\nThey spawn in &2Swamps&r and are huge Villages made of &aWillow&r, &4Mahogany&r, and &2Dark Oak&r. \\n\\nThere's tons of different houses and buildings each with their own Blocks and decor! \\n\\nYou can find &8&lMixing Cauldrons&r, &0Witch Robes&r, and even the Guide Book here."
+		"{image:atm:textures/questpics/hexerei/hex_dark.png width:200 height:100 align:center}"
+	]
+	quest.715B9E2049188C56.title: "&8Dark Covens"
+	quest.71FF76FB0C832892.quest_desc: ["Once we put our &4Blood Sigil&r in our &8&lCauldron&r, any Mob can drop in the &8&lCauldron&r and they'll take Damage and we'll get 250mB of &4Blood&r! \\n\\nWe can then use an Empty Glass Bottle to pick up 250mB of &4Blood&r to make a &4Bottle of Blood&r. \\n\\nI hope I used the right &4Bottle of Blood&r for this Quest, there is like 80 different &4Bottles of Blood&r. \\n\\nThey are currently only used for &6&lBrooms&r but hey those are still cool!"]
+	quest.71FF76FB0C832892.title: "&4Bottle of Blood"
+	quest.7274DB3AEBDDBE17.quest_desc: [
+		"The &bCrystal Ball&r will reveal your Future! \\n\\nNah, I am just kidding, it won't reveal your Future. But it will reveal the Time of Day and &bMoon Cycle&r! \\n\\nDuring &eDay&r it will show the &eSun&r and when Right Clicked will say &eDaytime&r. \\n\\nDuring &9Night&r it will tell you the &bMoon Phase&r and show that &bPhase&r. \\n\\nThe &bMoon Cycle&r is: New Moon, Waxing Crescent, First Quarter, Waxing Gibbous, Full Moon, Waning Gibbous, Last Quarter, and Waning Crescent."
+		"{image:atm:textures/questpics/hexerei/hex_crystal.png width:100 height:125 align:center}"
+	]
+	quest.7274DB3AEBDDBE17.title: "&bCrystal Ball"
+	quest.763B851F40DD9B1C.quest_desc: [
+		"&7&lPestle and Mortar&r is a Block we can make from the &8&lMixing Cauldron&r. \\n\\nWe can place it down in our World and add Items into it to crush and combine them into different Recipes! \\n\\nJust Right Click the Item into the &7&lBlock&r to add, and it will automatically work when all Items are in. \\n\\nTo take Items out, just Shift Right Click."
+		"{image:atm:textures/questpics/hexerei/hex_mortar.png width:100 height:100 align:center}"
+	]
+	quest.763B851F40DD9B1C.title: "&7&lPestle and Mortar"
+	quest.77242BF770E30F71.quest_desc: ["Only &4Mahagony Brooms&r won't burn up in &cLava&r. \\n\\nBut without the &cNetherite Tip&r, the &6&lBroom&r will turn into Item form when entering &cLava&r. \\n\\nThis really sucks for &aWillow &fand &eWitch Hazel&r &6&lBrooms&r! \\n\\nWhen we have the &cNetherite Tip&r added in the Misc Slot we can go through the &cLava&r and keep riding the &6&lBroom&r. \\n\\nUnfortunately the &cTip&r doesn't make you Fireproof though..."]
+	quest.77242BF770E30F71.title: "&cBroom Netherite Tip"
+	quest.79DB95F7445E6DE4.quest_desc: ["The &4Broom Whistle&r is an Item we can use to recall our &6&lBroom&r. \\n\\nWell a select &6&lBroom&r. The one we Craft the &4Whistle&r with in order to bound the &4Whistle&r to it! \\n\\nI can't get it to work, I hope you the Player can though! And if you can't hopefully that will be changed in future versions."]
+	quest.79DB95F7445E6DE4.title: "&4Broom Whistle"
+	quest.7AE5379E7342A6DE.quest_desc: [
+		"&d&lDippers&r are Blocks that can be added on top of &8&lMixing Cauldrons&r by Shift Right Clicking the top of the &8&lCauldron&r. \\n\\nThe &d&lDipper&r is made for creating and adding to &2&lHexerei&r &dCandles&r."
+		"{image:atm:textures/questpics/hexerei/hex_dipper.png width:100 height:125 align:center}"
+	]
+	quest.7AE5379E7342A6DE.title: "&d&lDipper"
+	quest.7D3D1845368F475C.quest_desc: ["These can be used to make a Replacer Satchel. \\n\\nThat is kinda it..."]
+	quest.7D3D1845368F475C.title: "Dried &9Mandrake Flowers"
+	task.0C79723610D646F7.title: "AllRightsReserved"
+}
