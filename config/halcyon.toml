@@ -4,7 +4,7 @@
 	# Default: 125
 	# Range: 1 ~ 1000000
 	fluidNodeTransfer = 50
-	#The base, un-upgraded rate that all Essence Nodes can transfer per tick.
+	#The base, un-upgraded rate that all Tidal Energy Nodes can transfer per tick.
 	# Default: 50
 	# Range: 1 ~ 1000000
 	essenceNodeTransfer = 50
@@ -12,10 +12,6 @@
 	# Default: 4
 	# Range: 1 ~ 64
 	itemNodeTransfer = 4
-	#The capacity for all Essence Batteries.
-	# Default: 10000
-	# Range: 1 ~ 1000000
-	essenceBatteryMax = 10000
 	#Connection limit for all Nodes - a Node cannot have more Wires than this.
 	# Default: 4
 	# Range: 1 ~ 50

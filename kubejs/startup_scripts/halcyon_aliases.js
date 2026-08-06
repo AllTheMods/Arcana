@@ -647,3 +647,47 @@ HALCYON_ALIASES.forEach(entry => {
         }
     })
 })
+
+let HALCYON_CUSTOM_ALIASES = [
+    [`halcyon:essence_types`, [
+        [`datanessence:essence`, `halcyon:essence`],
+        [`datanessence:exotic_essence`, `halcyon:exotic_essence`],
+        [`datanessence:lunar_essence`, `halcyon:lunar_essence`],
+        [`datanessence:natural_essence`, `halcyon:natural_essence`],
+    ]],
+    [`halcyon:computer_file_types`, [
+        [`datanessence:text`, `halcyon:text`],
+    ]],
+    [`halcyon:minigames`, [
+        [`datanessence:color_mixing`, `halcyon:color_mixing`],
+        [`datanessence:laser`, `halcyon:laser`],
+        [`datanessence:minesweeper`, `halcyon:minesweeper`],
+        [`datanessence:traces`, `halcyon:traces`],
+        [`datanessence:wire`, `halcyon:wire`],
+    ]],
+    [`halcyon:page_types`, [
+        [`datanessence:crafting`, `halcyon:crafting`],
+        [`datanessence:item`, `halcyon:item`],
+        [`datanessence:multiblock`, `halcyon:multiblock`],
+        [`datanessence:text`, `halcyon:text`],
+    ]],
+]
+
+StartupEvents.postInit(() => {
+    HALCYON_CUSTOM_ALIASES.forEach(entry => {
+        let registry = $BuiltInRegistries.REGISTRY.get($ResourceLocation.parse(entry[0]))
+        if (registry == null) {
+            console.warn("[halcyon] custom registry not found: " + entry[0])
+            return
+        }
+        entry[1].forEach(pair => {
+            let to = $ResourceLocation.parse(pair[1])
+            let from = $ResourceLocation.parse(pair[0])
+            let current = registry.get(from)
+            let currentKey = current == null ? null : registry.getKey(current)
+            if (currentKey == null || currentKey.toString() != pair[1]) {
+                registry.addAlias(from, to)
+            }
+        })
+    })
+})
