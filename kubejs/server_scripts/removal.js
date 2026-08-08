@@ -36,9 +36,7 @@ ServerEvents.generateData("after_mods", ATM => {
         "ironbookshelves:recipe/enderite_bookshelf_recipe",
         "ironbookshelves:recipe/zurite_bookshelf_recipe",
         "mythsandlegends:recipe/dagger_of_cadejo",
-        "pamhc2fantasy:recipe/slimetoastitem",
-        "scriptor:recipe/patchouli_book",
-        "scriptor:loot_table/patchouli_book"
+        "pamhc2fantasy:recipe/slimetoastitem"
     ]
 
     for (let id of entry) {
