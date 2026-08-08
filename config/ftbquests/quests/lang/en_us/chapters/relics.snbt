@@ -1,4 +1,14 @@
 {
+	image.0F28D41024EC4FD5.title: "Mineshaft"
+	image.1283FEF63F4AB0FE.title: "Shipwreck"
+	image.4DB30F8595C1232F.title: "Ocean Ruin"
+	image.5274A732164309F5.title: "Fortress"
+	image.625C45C20F901AC6.title: "End Ship"
+	image.62E92BCD6E6348E1.title: "Bastion"
+	image.699B0ACCAF0FDCAD.title: "Stronghold"
+	image.6A590E4035C0C1E7.title: "Village"
+	image.7235499D8F52A6DB.title: "Ruined Portal"
+	image.7E16E378110C4766.title: "End City"
 	quest.073D0D41BA5F219B.quest_desc: ["Deep within the hellish, heretic lands of the &cNether&r lies a &6relic&r that demands timing... the &cShield of Retaliation&r. \\n\\nForged by a machine to shield against attacks, but with a price. The price being vulnerability if the window of opportunity passes. \\n\\n- &lIt has 1 ability:&r \\n\\n &4Retaliation&r: \\n Upon use, you block the next instance of damage that faces the &6relic&r for a short period of time. Failing to block damage during the window makes you more vulnerable for some time.\\n\\n- A &6relic&r of precise timing, protecting the user at just the right moment."]
 	quest.073D0D41BA5F219B.quest_subtitle: "+ PARRY"
 	quest.073D0D41BA5F219B.title: "&cShield of Retaliation"
