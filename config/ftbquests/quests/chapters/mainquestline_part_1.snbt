@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "138A66B6A602B063"
 			image: "atm:textures/questpics/gettingstarted/titleimage1.png"
 			order: -1
 			rotation: 0.0d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 0.01d
+			id: "4612EC9C6FA4013F"
 			image: "ftbquests:textures/shapes/square/outline.png"
 			rotation: 0.0d
 			width: 15.4d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 5.0d
+			id: "072E90A05B8518A9"
 			image: "atm:textures/questpics/gettingstarted/wither2.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -36,6 +39,7 @@
 		}
 		{
 			height: 5.0d
+			id: "0BFCEA74D472A75E"
 			image: "atm:textures/questpics/gettingstarted/enderdragon.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -44,6 +48,7 @@
 		}
 		{
 			height: 5.0d
+			id: "268ADDAD1D3247C7"
 			image: "atm:textures/questpics/gettingstarted/warden_roar.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -52,6 +57,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1CFF13C62C1B710A"
 			image: "minecraft:item/wooden_pickaxe"
 			rotation: 0.0d
 			width: 1.5d
@@ -60,6 +66,7 @@
 		}
 		{
 			height: 1.5d
+			id: "5FD261F84CC32020"
 			image: "kubejs:textures/font/icons/crafting.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -68,6 +75,7 @@
 		}
 		{
 			height: 1.5d
+			id: "51E6015B89E39CBA"
 			image: "minecraft:block/furnace_front_on"
 			rotation: 0.0d
 			width: 1.5d
@@ -76,6 +84,7 @@
 		}
 		{
 			height: 1.0d
+			id: "00944FC3C21C270B"
 			image: "minecraft:block/diamond_ore"
 			rotation: 0.0d
 			width: 1.0d
@@ -84,6 +93,7 @@
 		}
 		{
 			height: 1.5d
+			id: "291A43043B820B1C"
 			image: "minecraft:item/diamond_sword"
 			rotation: 0.0d
 			width: 1.5d
@@ -92,6 +102,7 @@
 		}
 		{
 			height: 1.5d
+			id: "21F03A938DF50F21"
 			image: "minecraft:item/netherite_pickaxe"
 			rotation: 0.0d
 			width: 1.5d
@@ -100,6 +111,7 @@
 		}
 		{
 			height: 2.0d
+			id: "50B00232C1E6A3AB"
 			image: "atm:textures/questpics/basicarmor/armor_point.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -108,6 +120,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5126DDBECB72C179"
 			image: "minecraft:textures/gui/sprites/hud/heart/hardcore_full.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -116,6 +129,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6369743A3890F640"
 			image: "atm:textures/questpics/chap1/chap1_tree.png"
 			rotation: 0.0d
 			width: 3.1866666666666665d
@@ -124,6 +138,7 @@
 		}
 		{
 			height: 1.0d
+			id: "725C84D5C9E56AB5"
 			image: "atm:textures/questpics/chap1/chap1_adventure.png"
 			rotation: 0.0d
 			width: 6.381578947368421d
@@ -132,6 +147,7 @@
 		}
 		{
 			height: 1.0d
+			id: "46128FE28511C467"
 			image: "atm:textures/questpics/chap1/chap1_farm.png"
 			rotation: 0.0d
 			width: 4.026315789473684d
@@ -140,6 +156,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0995F7097276D9AB"
 			image: "atm:textures/questpics/chap1/chap1_mine.png"
 			rotation: -90.0d
 			width: 3.0657894736842106d
@@ -148,6 +165,7 @@
 		}
 		{
 			height: 0.5d
+			id: "2EA345194B6691A3"
 			image: "atm:textures/questpics/chap1/chap1_ender.png"
 			rotation: 0.0d
 			width: 3.5065789473684212d
@@ -156,6 +174,7 @@
 		}
 		{
 			height: 0.5d
+			id: "0EA30C9DA144E217"
 			image: "atm:textures/questpics/chap1/chap1_wither.png"
 			rotation: 0.0d
 			width: 1.7171052631578947d
@@ -164,6 +183,7 @@
 		}
 		{
 			height: 0.5d
+			id: "0044EEB92E7CCA38"
 			image: "atm:textures/questpics/chap1/chap1_warden.png"
 			rotation: 0.0d
 			width: 1.9078947368421053d
@@ -172,6 +192,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2E4C08330D8B19B7"
 			image: "atm:textures/questpics/chap1/chap1_bastion.png"
 			rotation: 0.0d
 			width: 2.1598778004073322d
@@ -180,6 +201,7 @@
 		}
 		{
 			height: 1.5d
+			id: "212235EB80446D58"
 			image: "atm:textures/questpics/chap1/chap1_fortress.png"
 			rotation: 0.0d
 			width: 2.729381443298969d
@@ -188,6 +210,7 @@
 		}
 		{
 			height: 1.7d
+			id: "0D60439D560A54FF"
 			image: "atm:textures/questpics/chap1/chap1_frame.png"
 			rotation: 0.0d
 			width: 2.18d
@@ -196,6 +219,7 @@
 		}
 		{
 			height: 1.7d
+			id: "24C94C97B848AD8D"
 			image: "atm:textures/questpics/chap1/chap1_frame.png"
 			rotation: 0.0d
 			width: 2.92d
@@ -204,6 +228,7 @@
 		}
 		{
 			height: 1.5d
+			id: "581B7B917734F879"
 			image: "minecraft:item/netherite_upgrade_smithing_template"
 			rotation: 0.0d
 			width: 1.5d

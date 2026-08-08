@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.3d
+			id: "6FD0D0AA58EB6E49"
 			image: "atm:textures/questpics/spelled/spelled_title.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0AFB2EA386EA173F"
 			image: "atm:textures/questpics/spelled/spelled_sizes.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "64F3280556DF3A37"
 			image: "atm:textures/questpics/spelled/spelled_colors.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "16B60278E14B011B"
 			image: "atm:textures/questpics/spelled/spelled_effects.png"
 			rotation: 0.0d
 			width: 3.0d

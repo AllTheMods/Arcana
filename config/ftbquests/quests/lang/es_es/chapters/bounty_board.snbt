@@ -1,0 +1,69 @@
+{
+	quest.08D1CC753F6B4283.quest_desc: ["El Guardián Anciano fue considerado como el tercer jefe de Minecraft antes del Warden, pero yo lo considero un mini-jefe.\n\nLos Guardianes Ancianos aparecen en los Monumentos Oceánicos. Tres de ellos aparecen allí y aplican Fatiga de Minería a cualquiera que esté cerca.\n\n¡Si quieres los tesoros del Monumento Oceánico, tendrás que encontrarlos y derrotarlos! (Consejo: siempre he encontrado 1 en la sala superior, 1 en el extremo izquierdo y 1 en el extremo derecho).\n\nTienen 80 corazones y atacan como los Guardianes normales: ¡láseres y espinas!\n\nAl morir dejarán caer: esponjas, prismarina y... su almuerzo."]
+	quest.08D1CC753F6B4283.title: "Abate a el Guardian Antiguo"
+	quest.09C82CDDA800D8C9.quest_desc: ["El Wither es el segundo jefe de Minecraft, siendo este más opcional.\n\nTendrás que construir al Wither para invocarlo. ¡Usa 4 bloques de Arena de Almas en forma de T y coloca 3 cabezas de Wither encima para invocarlo!\n\nTiene 300 corazones y volará disparando cráneos de Wither a jugadores o mobs, practicamente a todo lo que se mueva, este lo atacara.\n\nCuando llegue a la mitad de su salud, ganará un escudo contra proyectiles y tendrás que matarlo con una espada o un hacha.\n\nUna vez que lo derrotes, dejará caer: una Estrella del Nether, la posibilidad de un Withering Soul de Mystical Agriculture, y un montón de ítems de Corail."]
+	quest.09C82CDDA800D8C9.title: "Abate al Wither"
+	quest.0E20A9B79D1C6637.quest_desc: ["El Warden es un jefe añadido en la versión 1.20.\n\nAparece cuando 3 Chilladores de Sculk naturales se activan consecutivamente, o cuando cualquier Chillador se activa después de que un Warden ya ha aparecido.\n\nEs el mob más poderoso añadido por Minecraft, con 500 corazones y más de 20 corazones de daño con sus ataques.\n\nSus ataques incluyen golpearte y Descargas de Sonar para quienes están más lejos.\n\nSu única debilidad es ser ciego, pero, como Daredevil, eso solo hizo que sus otros sentidos sean mucho más fuertes. Si estás cerca, puede olerte, ¡y cuidado con hacer ruido!\n\nSi de alguna manera logras matarlo, dejará caer: Catalizadores de Sculk, Caparazón de Warden y un Corazón de las Profundidades."]
+	quest.0E20A9B79D1C6637.title: "Abate al Warden"
+	quest.0F55D0B4D5094EDB.quest_desc: [
+		"'Al hacer muchas de las líneas de misiones para ATM7, el Aldeano Comerciante pensó que sería divertido empujarme constantemente en la pantalla de misiones."
+		""
+		"Acabalos. A todos.'"
+		""
+		"- AlfredGG"
+	]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "'Esto es personal' - AlfredGG"
+	quest.0F55D0B4D5094EDB.title: "Abate al Aldeano comerciante y sus molestas llamas"
+	quest.13BB75A7E1973488.quest_desc: ["La Monstruosidad Lunar es el Primer Jefe del mod Eternal Starlight. \n\nEste jefe se encuentra en el Jardin Maldito, mejor conocido como el Cursed Garden, buena suerte encontrandolo y al pelear!"]
+	quest.13BB75A7E1973488.title: "Abate a La Monstruosidad Lunar"
+	quest.17F3AC15ADCFB175.quest_subtitle: "Acaba con 5 Endermen"
+	quest.17F3AC15ADCFB175.title: "&l&9Caceria del End:&r&e Endermen"
+	quest.199932BF623A6785.quest_desc: ["El Guardian Olvidado o el Forgotten Guardian es el jefe que agrega el mod The Undergarden. \n\nEste descansa en la estructura de las Catacumbas o Catacomb."]
+	quest.199932BF623A6785.title: "Abate al Guardian Olvidado"
+	quest.1F18B64C84C8809D.quest_subtitle: "Acaba con 5 Araña"
+	quest.1F18B64C84C8809D.title: "&l&9Caceria del Overworld:&r&e Arañas"
+	quest.1F31EBF49079F9D3.quest_desc: ["Overhauled Creepers agrega más variantes a los creepers, cada uno aparece según su nombre y bioma. \n\nCada uno dropea algo distinto y otros son amistosos! \n\nPero todos le temen a los gatos..."]
+	quest.1F31EBF49079F9D3.title: "Variantes de Creepers"
+	quest.2001998045ABC04C.quest_desc: ["El Odio Enredado (Entangled Hatred) es un mini-jefe en la dimension de Eternal Starlight.\n\nAparece en los Jardines Malditos (Cursed Gardens) junto con la Monstruosidad Lunar."]
+	quest.2001998045ABC04C.title: "Abate al Odio Enredado"
+	quest.2B05A29C62676EB2.quest_subtitle: "Acaba con 5 Zombies"
+	quest.2B05A29C62676EB2.title: "&l&9Caceria del Overworld:&r&e Zombies"
+	quest.2CA9394459C24012.quest_desc: ["La Monstruosidad Podrida aparece en toda la Dimension del mod Undergarden como un mini-jefe."]
+	quest.2CA9394459C24012.title: "Abate a La Monstruosidad Podrida"
+	quest.3371F9248D403664.quest_subtitle: "Acaba con 5 Esqueletos de Wither"
+	quest.3371F9248D403664.title: "&l&cCaceria del Nether:&r&e Esqueletos de Wither"
+	quest.3813F5C1760C3A79.quest_desc: ["Que los Brutos Piglin estén aquí puede causar controversia, pero yo los considero mini-jefes.\n\nAparecen en Bastiones junto con los Piglins normales, pero estos son hostiles, no neutrales. Personalmente, odio eso, especialmente porque si los golpeas, todos los Piglins se volverán hostiles contigo.\n\nTienen 50 corazones y un hacha dorada para atacarte. Por lo general, las hachas doradas apenas hacen daño, ¡pero cuando ellos las usan, de alguna manera son devastadoras!\n\nNo dejan caer nada y actúan más como un obstáculo en los Bastiones."]
+	quest.3813F5C1760C3A79.title: "Abate a un Piglin Bruto"
+	quest.41C0948CD9D50322.quest_desc: [
+		"Aqui encontraras recompensas por acabar con ciertos mobs."
+		""
+		"Esta pagina esta en desarrollo!"
+		""
+		"(&l&6Esto solo aparece si el juego esta en Español&r)"
+		""
+		"Se le dieron nombres respectivos al español a estos mobs o jefes... No te preocupes, se mostrarán los nombres en Ingles y en Español junto a sus estructuras para aclarar alguna duda."
+		""
+		"Y sip, todavia esta en desarrollo."
+	]
+	quest.41C0948CD9D50322.quest_subtitle: "Acabando Con Todo"
+	quest.41C0948CD9D50322.title: "La Caceria de Mobs"
+	quest.42822B1E8A53D051.quest_subtitle: "Acaba con 5 Esqueletos"
+	quest.42822B1E8A53D051.title: "&l&9Caceria del Overworld:&r&e Esqueletos"
+	quest.56DA46DC82F6665D.quest_desc: ["Ars Nouveau no solo agrega hechizos y cosas magicas, tambien, agrega un nuevo jefe el cual es necesario para progresar dentro del mismo mod. \n\nNecesita ser invocado para pelear!"]
+	quest.56DA46DC82F6665D.quest_subtitle: "Esta ni siquiera es mi forma final."
+	quest.56DA46DC82F6665D.title: "Abate a la Quimera Salvaje"
+	quest.570223A03231DF8C.quest_desc: ["Overhauled Endermen es un mod similar a Overhauled Creepers! Pero esta vez, agrega más Enderman! \n\nPodras encontrar a estos Endermen en sus biomas correspondientes! Unos tienen ataques diferentes, otros dropean perlas distintas, y lo mejor de todo, todos son unicos!"]
+	quest.570223A03231DF8C.title: "Variantes de Enderman"
+	quest.5AC497F76A086A5C.quest_subtitle: "Aacaba con 5 Brujas"
+	quest.5AC497F76A086A5C.title: "&l&9Caceria del Overworld:&r&e Brujas"
+	quest.6141DE779232C8AA.quest_subtitle: "Acaba con 5 Blazes"
+	quest.6141DE779232C8AA.title: "&l&cCaceria del Nether:&r&e Blazes"
+	quest.6DCDD55786025911.quest_desc: ["El Gólem de Luz Estelar (Starlight Golem) es el segundo jefe en la dimension de Eternal Starlight.\n\n¡Está cargándose en la Forja de Gólems (Golem Forge), esperando a que un jugador venga a enfrentarlo!"]
+	quest.6DCDD55786025911.title: "Abate al Gólem de luz estelar"
+	quest.728BE1816DA23DC0.quest_desc: ["El Dragón del End es el jefe que protege El End.\n\nCuando entres en un portal del End, llegarás a la Isla del End donde aparece.\n\nTiene 200 corazones y puede atacar con bolas de fuego o embistiéndote.\n\n¡Tendrás que romper los cristales del End en los pilares, ya que lo curan, para poder derrotarlo!\n\nUna vez que lo derrotes, dejará caer: Esencia Arcana de Iron's Spells, Epic Shaderbags de Immersive Engineering, Dragonskin, Escamás de Dragon de dos mods diferentes y toneladas de EXP.\n\nLuego, el portal se abrirá para que puedas regresar al Overworld, o puedes buscar una puerta del End para explorar las islas exteriores. También encontrarás un huevo de dragón en el portal."]
+	quest.728BE1816DA23DC0.title: "Abate al Dragon de Ender"
+	quest.734411D931A8CDBF.quest_desc: ["El Devastador es un mini-jefe que solo aparece en las incursiones más difíciles.\n\nSi no sabes qué son las incursiones o no entiendes el sistema actualizado, no te preocupes, ¡para eso están las misiones!\n\nAl matar a los capitanes Saqueadores (los que llevan estandartes) puedes obtener Pócimas Funestas. Cuando las bebas, obtendrás el efecto de Mal Presagio. Luego, al acercarte a una aldea, comenzarás una incursión.\n\nEn las incursiones aparecerán Saqueadores, Vindicadores, Evocadores, Brujas y Devastadores para enfrentarte."]
+	quest.734411D931A8CDBF.title: "Abate a un Devastador"
+	quest.77FC692AC94D2EEF.quest_subtitle: "Acaba con 5 Creepers"
+	quest.77FC692AC94D2EEF.title: "&l&9Caceria del Overworld:&r&e Creepers"
+}

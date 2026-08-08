@@ -1,0 +1,105 @@
+{
+	quest.07FDA46D83F8360D.quest_desc: ["Por cada 4 &6Pepitas de AllTheModium&r y una Perla de Ender puedes craftear una Plataforma de Teletransporte. \n\nColocala en cualquier dimension de minecraft para ir a una dimension distinta. \n\nPara teletransportarnos a estas dimensiones, tendremos que dar &lShift + Click Derecho&r con ambas manos vacias! Esto es importante de leér! \n\nAMBAS 2 manos tienen que estar vacias!"]
+	quest.07FDA46D83F8360D.title: "Plataforma de Teletransporte"
+	quest.089B1B9837AF4938.title: "&5Herramientas de Unobtainio"
+	quest.0A9D5C5D2F4CDCC3.title: "&5Mazo de Unobtainio"
+	quest.0CC0632E8276C787.quest_desc: ["Coloca la Plataforma de Teletransporte en &l&cEl Nether&r para viajar a &b&lLa Otra&r."]
+	quest.0CC0632E8276C787.title: "&c&lEl Nether"
+	quest.111E4ACF7D570EE8.quest_desc: [
+		"Solo la estructura más complicada de &2&lMinecraft Vanilla&r. Asi que, aqui tendras que buscar el &6Allthemodium&r!\n\nPuedes encontrar el mineral en las paredes y techos de este lugar, lo importante es que \"Brilla\" y es facil de ubicar, pero dificil de encontrar!\n"
+		"{image:atm:textures/questpics/allthemodium/all_city.png width:200 height:100 align:center}"
+	]
+	quest.111E4ACF7D570EE8.title: "Ciudad Antigua"
+	quest.11E957CDEFA0CAAB.quest_desc: ["Te doy la bienvenida al &5&lMás Allá&r! \n\nNo hay nada aqui! \n\nEs probable que necesites de un Angel Block."]
+	quest.11E957CDEFA0CAAB.title: "&5&lEl Más Allá"
+	quest.144BB025516E0994.quest_desc: [
+		"El &3Vibranio&r es el segundo mineral despues del &6Allthemodium&r, y por supuesto requiere de un &6Pico de AllTheModium&r (o del mismo nivel) para minarlo.\n\nPuedes encontrar este mineral rara vez en &c&lEl Nether&r y tambien lo puedes encontrar en &b&lLa Otra&r, aqui es más abundante que en el nether.\n\nTambien se recomienda el procesarlo y duplicarlo para conseguir más.\n\nSu color es extravagante, tristemente es uno de los materiales menos usados en AllTheModium."
+		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
+	]
+	quest.144BB025516E0994.title: "&3Lingote de Vibranio&r"
+	quest.15FEA03A2CDBA33B.quest_desc: ["&b&lLa Otra&r ha recibido muchos cambios a lo largo de los años, pero sigue siendo el mismo lugar para buscar aventuras!\n\nHay docenas de biomas nuevos, bloques, y por supuesto Estructuras! \n\nLas estructuras son: Aldea Piglin, Piramide Antigua, y la Mazmorra. Cada una de estas estructuras contienen muchisimo loot junto con sus pecualirades que las hacen unicas! \n\nTambien puedes ir a minar &3Vibranio&r para conseguirlo de forma sencilla (junto a otros minerales!) o tambien puedes buscar en las estructuras para encontrarlo más facil! \n\nNo puedes colocar mineros automaticos ni quarry's para minar o destruir la dimension para sacar todos esos minerales en &b&lLa Otra&r, nada de trampas aqui."]
+	quest.15FEA03A2CDBA33B.title: "&l&bLa Otra&r"
+	quest.162D2286A69D6E07.quest_desc: [
+		"Esta armadura es similar a la &6Armadura de AllTheModium&r pero viene con su propio set de Amplificacion de Maná, Regeneración, y un mayor poder a los hechizos de Ars!"
+		"{image:atm:textures/questpics/allthemodium/all_armor_allarcane.png width:100 height:175 align:center}"
+	]
+	quest.162D2286A69D6E07.title: "&6Armadura del Arcano de AllTheModium"
+	quest.1FE47F03B5DF492D.title: "&5Armadura del Arcano de Unobtainio"
+	quest.201EE3566D4D3123.quest_desc: [
+		"Para minar el &6Allthemodium&r necesitas de un pico de nivel de &5Netherita&r o mayor! \n\nUna vez encontrado este mineral (primero, te recomiendo minarlo con un pico con fortuna, o extraerlo con toque de seda y duplicarlo con Occultism o Mekanism, cualquier ruta es aceptada) de aqui, tendras unas pocas opciones que hacer con este nuevo material. \n\nPersonalmente recomiendo crear la Plataforma de Teletransporte con &6Pepitas&r! Puedes usar esta plataforma para viajar a la &7&lDimensión Minera&r para encontrar más &6Allthemodium&r o &b&lLa Otra&r para buscar más aventuras. \n\nDepues de esto, te recomiendo buscar &3Vibranio&r y mejorar nuestras herramientas. El resto queda a ti!"
+		"{image:atm:textures/questpics/allthemodium/all_1.png width:100 height:100 align:center}"
+	]
+	quest.201EE3566D4D3123.title: "&6Lingote de AllTheModium"
+	quest.226B8B60AF864FEF.quest_desc: [
+		"Para mejorar nuestro equipamiento de &6Allthemodium&r a &3Vibranio&r necesitas de un nuevo Molde de Herreria. \nEste se puede encontrar en Arena de Almas Sospechosa. \n\nLa cual solo se puede encontrar en las bastiones dentro de &l&cEl Nether&r.\n"
+		"{image:atm:textures/questpics/allthemodium/all_bastion.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/allthemodium/all_soul.png width:200 height:100 align:center}"
+	]
+	quest.226B8B60AF864FEF.title: "&3Molde de Herreria de Vibranio"
+	quest.24934231538B6492.quest_desc: [
+		"La Piramide Antigua es una de 3 estructuras que puedes encontrar dentro de &b&lLa Otra&r. \n\nClaramente es una piramide y no, no tiene un sotanó! \n\nPero contiene al Piglich.\n"
+		"{image:atm:textures/questpics/allthemodium/all_pyramid.png width:200 height:100 align:center}"
+	]
+	quest.24934231538B6492.title: "Piramide Antigua"
+	quest.272CF280BAE6870E.quest_desc: [
+		"Las estadisticas de esta armadura son iguales a la &6Armadura de AllTheModium&r pero esta da más poder a los hechizos de Iron Spell's. \n\nJunto con su propia Maná maxima y Regeneración de Maná!"
+		"{image:atm:textures/questpics/allthemodium/all_armor_allmage.png width:100 height:175 align:center}"
+	]
+	quest.272CF280BAE6870E.title: "&6Armadura de Mago de AllTheModium"
+	quest.2C4299D33D419AA0.quest_desc: ["Coloca la Plataforma de Teletransporte en el &2&lOverworld&r para viajar a la &7&lDimension Minera&r."]
+	quest.2C4299D33D419AA0.title: "&2&lOverworld"
+	quest.2EDE91023F7924FB.quest_desc: ["Coloca la Plataforma de Teletransporte en &d&lEl End&r para viajar al &5&lMás Allá&r."]
+	quest.2EDE91023F7924FB.title: "&d&lEl End"
+	quest.39B6D9FD21419776.title: "&3Armadura de Mago de Vibranio"
+	quest.3F8D515D7B81B0E3.quest_desc: [
+		"Otro Molde de Herreria?!?!?! "
+		"&8(nota del traductor: Chi)&r \n\nMira el lado positivo... Esta vez no tiene nada que ver con la Arqueologia!\n\nTendras que completar los Spawners de Prueba para conseguirlo, la cual se encuentra en la Mazmorra ubicada en &b&lLa Otra&r. Y para ser exactos, dentro de las Librerias!\n&8(pssst... esta se puede encontrar con la brujula del explorador, se busca como Dungeon)&r"
+		"{image:atm:textures/questpics/allthemodium/all_library.png width:200 height:100 align:center}"
+	]
+	quest.3F8D515D7B81B0E3.title: "&5Molde de Herreria de Unobtainio"
+	quest.44D5EDB8711EC7A0.quest_desc: ["&2&lVanilla&r no podria ser más divertido sin los Mazos! Y por supuesto que hay una mejora de &6Allthemodium&r para estos! \n\nPara mejorar nuestro mazo necesitaremos de un &6Bloque de AllTheModium&r para mejorarlo a un &6Mazo de AllTheModium&r. \n\nTiene más daño base, más daño por caida, y los mismos encantamientos!"]
+	quest.44D5EDB8711EC7A0.title: "&6Mazo de AllTheModium"
+	quest.4A079D40C0AF6BC3.quest_desc: [
+		"Este material no se encuentra en &5&lEl Más Allá&r. \n\nPuedes encontrar un poco de &5Mineral de Unobtainio&r en el bioma de Las Tierras Altas en el End (es rara su aparicion). Y usualmente, es en donde aparecen las Ciudades del End! \n\nNecestiras de un pico de &3Vibranio&r (o del mismo Nivel) para minarlo. \n\nYo quiero suponer que sabes lo que sigue despues de adquirir nuevos minerales no?"
+		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"
+	]
+	quest.4A079D40C0AF6BC3.title: "&5Lingote de Unobtainio&r"
+	quest.4B2146C9527C54E7.quest_desc: ["Ya que estamos en el Capitulo 2, haz terminado con todo &2&lMinecraft Vanilla&r! \n\nLlegados a este punto, habras acabado con todos los jefes que &2&lMinecraft&r tiene. Asi que, ahora que sigue? \n\n&6&lAllTheModium&r es lo siguiente! En orden para empezar con &6AllTheModium&r necesitaras de la famosisima &5Netherita&r. Vamos a empezar desde aqui!"]
+	quest.4B2146C9527C54E7.title: "&6&lAllthemodium"
+	quest.4E737C490DCC5D6C.quest_desc: [
+		"La mejor armadura basica que necesitaras! \n\nPor cierto, esta armadura es necesaria para crear el MekaTraje, el cual es mejor!"
+		"{image:atm:textures/questpics/allthemodium/all_armor_uno.png width:100 height:175 align:center}"
+	]
+	quest.4E737C490DCC5D6C.title: "&5Armadura de Unobtainio"
+	quest.558FF21A6BCFE6E8.title: "&5Armadura de Mago de Unobtainio"
+	quest.5A26738AC904DC39.quest_desc: ["13 Ranuras de Hechizos!"]
+	quest.5A26738AC904DC39.title: "&6Libro de Hechizos de AllTheModium"
+	quest.5AAF6CA41209B365.title: "&3Herramientas de Vibranio"
+	quest.5BA986D7928BF09F.quest_desc: ["El Piglich es un jefe que agrega el mod de &6&lAllthemodium&r. \n\nTiene 1000 de vida y no no tiene ningun ataque, pero cuando lo haga... SERA DEVASTADOR! \n\nUna vez abatido, este dropeara el Corazón de Piglich que se usa para las Aleaciónes y la Estrella ATM! \n\n(Recomiendo farmearlo con Hostile Neural Networks o EnderIO!)"]
+	quest.5BA986D7928BF09F.title: "El Piglich"
+	quest.5FA68047A3C05E80.quest_desc: ["15 Ranuras de Hechizos!"]
+	quest.5FA68047A3C05E80.title: "&5Libro de Hechizos de Unobtainio"
+	quest.68E6AE1B9EBCEFFF.title: "&3Mazo de Vibranio"
+	quest.6D738730B371B152.quest_desc: ["La &l&7Dimension Minera&r es una dimension con generacion de mundo plano, no hay nada por aqui y por acá.\n\nDebajo de la superficie, encontraras la mayoria de minerales. \n\nLa &7&lDimension Minera&r no tiene cuevas, nada de Aparicion de Mobs, y nada que se interponga en tu camino. Solo son tipos de piedra y minerales! \n\nLa aparicion de los minerales varía por cada nivel Y en la &7&lDimension Minera&r.\n\nTe recomiendo colocar una Quarry."]
+	quest.6D738730B371B152.title: "&l&7Dimension Minera"
+	quest.6E0624750DF8CD18.quest_desc: ["Desafortunadamente, ya no puedes craftear estas herramientas como antes, ahora necesitas herramientas de &5Netherita&r para crearlas. \n\nY por supuesto, guarda los encantamientos y repara inmediatamente la herramienta mejorada!"]
+	quest.6E0624750DF8CD18.title: "&6Herramientas de AllTheModium"
+	quest.6ECDD26CCCBC07C3.quest_desc: [
+		"Mejora directa de la &5Netherita&r."
+		"{image:atm:textures/questpics/allthemodium/all_armor_all.png width:100 height:175 align:center}"
+	]
+	quest.6ECDD26CCCBC07C3.title: "&6Armadura de AllTheModium"
+	quest.71E4FD61787DE299.quest_desc: [
+		"Otro Item importante que podemos encontrar en las ciudades antiguas, es el &6Molde de Herreria de AllTheModium&r.\n\nNecesitaras cepillar la arcilla sospechosa para extraerla de forma segura.\n\nLa puedes encontrar en el piso de las Ciudades Antiguas.\n"
+		"{image:atm:textures/questpics/allthemodium/all_clay.png width:200 height:100 align:center}"
+	]
+	quest.71E4FD61787DE299.title: "&6Molde de Herreria de AllTheModium"
+	quest.77AD61FCA9BC9AFB.quest_desc: ["14 Ranuras de Hechizos!"]
+	quest.77AD61FCA9BC9AFB.title: "&3Libro de Hechizos de Vibranio"
+	quest.795A860668072830.title: "&3Armadura del Arcano de Vibranio"
+	quest.7DE2154159D273C3.quest_desc: [
+		"Mejora directa del &6Allthemodium&r."
+		"{image:atm:textures/questpics/allthemodium/all_armor_vib.png width:100 height:175 align:center}"
+	]
+	quest.7DE2154159D273C3.title: "&3Armadura de Vibranio"
+}

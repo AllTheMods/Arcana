@@ -1,0 +1,123 @@
+{
+	quest.002D65E4D7E8F62B.title: "グレーダーカタリスト ティア2"
+	quest.083ABBA1C45FF960.quest_subtitle: "それは芝刈り機です。"
+	quest.083ABBA1C45FF960.title: "鎌の設計図"
+	quest.0947B4ED95B0267E.quest_desc: [
+		"アイテムやツールにコーティングを施します。"
+		""
+		"ネザライトは素晴らしいコーティング材料です。"
+	]
+	quest.0947B4ED95B0267E.quest_subtitle: "ネザライトだけではありません。"
+	quest.0947B4ED95B0267E.title: "コーティングの設計図"
+	quest.0D26E5EF6CFCFDBF.quest_desc: ["ダガーよりも耐久性が高いですが、ダメージと速度は低いです。"]
+	quest.0D26E5EF6CFCFDBF.quest_subtitle: "グサッ。"
+	quest.0D26E5EF6CFCFDBF.title: "ナイフの設計図"
+	quest.0DF4B01CC5B49E4E.quest_desc: [
+		"誰もが剣を愛しています。"
+		""
+		"この設計図を使えば、基本的な剣を作ることができます！信頼できるダメージ、信頼できるスピード。"
+	]
+	quest.0DF4B01CC5B49E4E.quest_subtitle: "信頼のおける古い剣"
+	quest.0DF4B01CC5B49E4E.title: "剣の設計図"
+	quest.0FEAD3CA2CC4A8B1.title: "スターライトチャージャーカタリスト ティア3"
+	quest.11B0B93D725ABE43.quest_desc: [
+		"Silent Gearのアイテムは&9リペアキット&rを使用して修理できます。"
+		""
+		"アイテムを修理するには、リペアキットをクラフトテーブルに置き、ツールを修理するために必要な材料をテーブルに入れます。これによりリペアキットが「充填」されます。"
+		""
+		"ツールを修理するには、充填されたリペアキットと修理したいツールをクラフトグリッドに組み合わせます。"
+	]
+	quest.11B0B93D725ABE43.quest_subtitle: "あなたの最初のリペアキット"
+	quest.11B0B93D725ABE43.title: "アイテム修理"
+	quest.158B24939A269D83.quest_desc: [
+		"チップアップグレードは、ツールの採掘レベルを上げるために使用されます。"
+		""
+		"例えば、ダイヤモンド1つを持つ鉄のツルハシがあれば、ダイヤモンドチップアップグレードを作成し、ツルハシに装着することで、黒曜石を採掘できるようになり、ステータスも向上します。"
+	]
+	quest.158B24939A269D83.quest_subtitle: "ダイヤモンドを３つ見つけられなかった時のために。"
+	quest.158B24939A269D83.title: "チップアップグレードの設計図"
+	quest.1E2F1E036716C031.title: "スリングショットの設計図"
+	quest.1E8357755479E259.title: "クロスボウの設計図"
+	quest.2098D8BFADB55D2A.title: "ライニングの設計図"
+	quest.21234BB40DB05C78.title: "ブレスレットの設計図"
+	quest.22A0A9C81A5C85A1.quest_subtitle: "すべてをまとめて保持します。"
+	quest.22A0A9C81A5C85A1.title: "バインディングの設計図"
+	quest.22C51025DC42CDE2.title: "レギンスの設計図"
+	quest.262036FE8E87F50A.quest_subtitle: "3x3採掘"
+	quest.262036FE8E87F50A.title: "ハンマーの設計図"
+	quest.29131C3532610ADF.quest_desc: ["これはスターライトチャージャー構造のためのティア2ピラーキャップです。"]
+	quest.29131C3532610ADF.title: "スターライトチャージャーピラーキャップ ティア2"
+	quest.2BF119DD5D977409.title: "スターライトチャージャーカタリスト ティア2"
+	quest.2EB96FF06627FD9A.quest_subtitle: "アイテムをその構成要素に分解します。"
+	quest.2EB96FF06627FD9A.title: "サルベージャー"
+	quest.35E8C65CCA676E76.title: "チェストプレートの設計図"
+	quest.3722B43822F80470.quest_desc: ["剣よりもわずかに速いですが、ダメージは低いです。"]
+	quest.3722B43822F80470.quest_subtitle: "内なるサムライを解き放て"
+	quest.3722B43822F80470.title: "カタナの設計図"
+	quest.3844877F6C1AFE77.title: "矢の設計図"
+	quest.3930404D5C8B44EB.quest_desc: [
+		"カスタム合金を作成するために使用されます。"
+		""
+		"Tyrian Steelを手に入れる唯一の方法でもあります！"
+	]
+	quest.3930404D5C8B44EB.quest_subtitle: "材料を組み合わせます"
+	quest.3930404D5C8B44EB.title: "メタルアロイヤー"
+	quest.39B85DB54B1037FE.quest_desc: ["剣よりもダメージが高いですが、速度は遅いです。"]
+	quest.39B85DB54B1037FE.quest_subtitle: "太い剣"
+	quest.39B85DB54B1037FE.title: "マチェーテの設計図"
+	quest.3B560B2ECE331CAF.quest_desc: ["これはスターライトチャージャー構造のためのティア3ピラーキャップです。"]
+	quest.3B560B2ECE331CAF.title: "スターライトチャージャーピラーキャップ ティア3"
+	quest.3D2C6FF462B17205.quest_desc: ["ダメージは低いですが、非常に高い攻撃速度です。ターゲットの無敵時間を短縮します。"]
+	quest.3D2C6FF462B17205.quest_subtitle: "グサッ！グサッ！"
+	quest.3D2C6FF462B17205.title: "ダガーの設計図"
+	quest.3F39BEB788175CEF.quest_subtitle: "3x3掘削！"
+	quest.3F39BEB788175CEF.title: "エクスカベーターの設計図"
+	quest.3F56A5253D477B97.title: "矢羽の設計図"
+	quest.405DCD3E36232EEA.quest_desc: ["剣よりもダメージは低いですが、リーチが長いです。"]
+	quest.405DCD3E36232EEA.quest_subtitle: "内なるスパルタンを解き放て"
+	quest.405DCD3E36232EEA.title: "槍の設計図"
+	quest.427516AA3E8C9442.quest_subtitle: "多目的な鍬"
+	quest.427516AA3E8C9442.title: "マトックの設計図"
+	quest.462C1F75A2FB9F02.title: "釣り竿の設計図"
+	quest.48D358470A019E7A.title: "スターライトチャージャーカタリスト ティア1"
+	quest.52CDB46F6CBF007B.title: "シャベルの設計図"
+	quest.5AB8651FCB1E2F72.title: "エリトラの設計図"
+	quest.63CAD77A4488F2CE.quest_subtitle: "オールインワンツール"
+	quest.63CAD77A4488F2CE.title: "パクセルの設計図"
+	quest.657B3116A6419420.quest_subtitle: "自分だけのハンドルを作成！"
+	quest.657B3116A6419420.title: "ツールロッドの設計図"
+	quest.67216EC5274F08B9.title: "はさみの設計図"
+	quest.6912C0E3D092DD27.title: "ブーツの設計図"
+	quest.69383DA579901E7E.title: "斧の設計図"
+	quest.6A393C7A24899E3E.quest_desc: [
+		"この中にインゴットとグレーダーカタリストを置くと、材料にグレードが付けられます。"
+		""
+		"グレードが高いほど、材料のステータスが良くなります。"
+		""
+		"最高のグレードはMAXです。"
+	]
+	quest.6A393C7A24899E3E.quest_subtitle: "材料テスター"
+	quest.6A393C7A24899E3E.title: "素材グレーダー"
+	quest.6B78378BC8036227.title: "グレーダーカタリスト ティア1"
+	quest.6BFD7854F078BF16.quest_subtitle: "グリップを手に入れよう。"
+	quest.6BFD7854F078BF16.title: "グリップの設計図"
+	quest.6D9CDB4D81DC164D.title: "弓の設計図"
+	quest.6E2806D8DC61C46F.title: "ヘルメットの設計図"
+	quest.74FA25B2E087BEC4.title: "リングの設計図"
+	quest.766C80E5D7B7A916.title: "つるはしの設計図"
+	quest.78C112170E17FBF4.title: "シールドの設計図"
+	quest.7C3D763CF22D167A.quest_desc: [
+		"スターライトチャージャーは、材料に「スターチャージド」のエンチャントを施すことができます。"
+		""
+		"夜空を見ることができる中央にスターライトチャージャーを置いた構造物を建てる必要があります。スターライトパワーは夜間にのみ得られます。"
+		""
+		"チャージャーは7x7の構造物の中央に置かれ、各角にはピラーが必要です。各ピラーには「スターライトチャージャーキャップ」が必要です。"
+		""
+		"材料ごとにチャージャーカタリストも必要です。"
+	]
+	quest.7C3D763CF22D167A.quest_subtitle: "材料を「エンチャント」します"
+	quest.7C3D763CF22D167A.title: "&5スターライトチャージャー"
+	quest.7D690A7D0FF6E328.title: "グレーダーカタリスト ティア3"
+	quest.7E13007340A818C5.quest_desc: ["これはスターライトチャージャー構造のためのティア1ピラーキャップです。"]
+	quest.7E13007340A818C5.title: "スターライトチャージャーピラーキャップ ティア1"
+}

@@ -1,0 +1,60 @@
+{
+	quest.0496E8E786262464.quest_desc: ["Do I really need to explain the &2Overworld&r to you?"]
+	quest.0496E8E786262464.title: "&2Overworld&r: Land of 3 bosses"
+	quest.04B40BB107F14330.quest_desc: ["The Meat Shredder is a Melee weapon you can make from Witherite. It has two attacks, tapping left click and holding it. When you tap left click it'll use the Meat Shredder like an Axe, hitting them once from a decent range. When you hold it though it will repeatedly shred them with it's saw doing much quicker damage from closer."]
+	quest.04B40BB107F14330.quest_subtitle: "Esto debio de salir del DLC de Fallout 3: The Pitt"
+	quest.04B40BB107F14330.title: "Meat Shredder"
+	quest.0B7F2B63D867D221.quest_desc: ["Once you get to the bottom of the &eCursed Pyramid&r you might notice that the &eAncient Remnant&r doesn't move much. That's because you'll need a Necklace of Desert to ressurect the beast. To find it you'll need to brush the sus sand in the &eCursed Pyramid&r. (Hope you read this before heading all the way down)."]
+	quest.0B7F2B63D867D221.quest_subtitle: "Resucitando al Remanente Ancestral"
+	quest.0B7F2B63D867D221.title: "Necklace of the desert"
+	quest.0F8F0F7880235BA2.quest_desc: ["&cThe Soul BlackSmith&r resides in the Nether&r. Don't overlook it thinking it is a Bastion, it's much worse. You can find Netherite and the &cNetherite Monstrosity&r. You won't need anything to activate him, just your presence."]
+	quest.0F8F0F7880235BA2.title: "&cSoul BlackSmith&r: Home of the &cNetherite Monstrosity&r"
+	quest.1178E4123E8818E2.quest_desc: ["Sandstorm in a bottle is an item you wear for a special effect. It goes in the Belt slot and when you press default X you will turn into a sandstorm. It is solely for movement, as you can fly for a little bit, it doesn't deal damage or reflect it, just movement. It doesn't negate fall damage though so careful when you get out of it."]
+	quest.1178E4123E8818E2.title: "Bottle O' Sandstorm"
+	quest.1744E700CF742CE2.quest_desc: ["&5The Coralssus&r works as a Guard and Steed for the &5Sunken City&r. They're used with the &5Deeplings&r but he's different so he gets his own quest! They have only 110 Hearts and basic attacks but the &5Deeplings&r with them make it much more dangerous. Its attacks are just smacking and throwing you. When killed it'll drop Crystalized Coral which is needed to make the Abyssal Sacrifice."]
+	quest.1744E700CF742CE2.title: "&5Coralssus&r"
+	quest.17CA9D80D8EC3EF7.quest_desc: ["&4The Harbinger&r takes a lot of inspiration from what powers him, the Nether Star. He will fly around and shoot Wither Missiles at you which can give you wither effect. He also has lasers he can shoot you with, laser gatlings and a big mouth beam. He has 7800 Hearts and a big weakness, the EMPs. When powered with redstone they'll damage all the machines nearby. Once defeated he'll drop a block of Witherite and perhaps a music disc: Monster Fight."]
+	quest.17CA9D80D8EC3EF7.title: "&4The Harbinger&r"
+	quest.18EB86F91CBBCCC6.quest_desc: ["Not all Cataclysm Dungeons are as easy to find as the Pyramids are, so a special Eye might help you find them. Each of the different Eyes will lead you to its set structure, and don't worry them breaking is very rare."]
+	quest.18EB86F91CBBCCC6.title: "Te veo!"
+	quest.1B4ED65C614B102F.quest_desc: ["In order to fight the &bIgnis&r you'll need to make your way through the &bIgnited Revenant&r for it's Burning Ashes. Don't let the simple 800 Hearts fool you, this won't be any walk in the park. It's shields will stop you from attacking it so avoid those. Once you kill it you can get to the &bIgnis&r."]
+	quest.1B4ED65C614B102F.title: "&bIgnited Revenant&r"
+	quest.1C5EA7D62BAF2108.quest_desc: ["In order to fight &5The Leviathan&r you'll need a sacrifice. Abyssal Sacrifice to be specific. You'll need a Nautil Shell, Heart of the Sea, Athame, and Crystalized Coral. All of those can be gotten from the &5Sunken City&r. The other blocks probably not. Just take your sacrifice and put it into the Altar of Abyss and boom &5Leviathan&r!"]
+	quest.1C5EA7D62BAF2108.quest_subtitle: "Despertando al Leviatan"
+	quest.1C5EA7D62BAF2108.title: "Sacrificio del Abismo"
+	quest.1D56D3B444A4B2D4.quest_desc: ["The Gauntlet of Bulwark acts not as you'd assume. Instead of bringing mobs closer it pushes them away, when holding right click, and gives them Blazing Brand. Then when you release right click you'll do the normal charge. It's made by fusing the Gauntlet of Guard with a Bulwark of Flame in the Mechanical Fusion Anvil."]
+	quest.1D56D3B444A4B2D4.title: "Gauntlet of Bulwark"
+	quest.21A0FD474FBB49F7.quest_desc: ["Another structure to cover the barren &5End&r, the &dRuined Citadel&r. Don't worry this ones on the ground! In it you'll find &dEndmaptera&r, &dEnder Golem&r, and the Altar of Void. Thankfully you don't need to sacrifice anything to summon the &dEnder Guardian&r, just get to the Altar of Void."]
+	quest.21A0FD474FBB49F7.title: "&dRuined Citadel&r: Home of the &dEnder Guardian&r"
+	quest.291C76140DE97E3C.quest_subtitle: "Mejor que la Netherita?!?!?!"
+	quest.3E8C7D92F99496BE.quest_desc: ["&5The Eye of Abyss&r will take you to the &5Sunken City&r to fight the &5Leviathan&r"]
+	quest.3E8C7D92F99496BE.title: "&Ojo Abisal&r"
+	quest.43A5B83862D9E94C.quest_desc: ["&bThe Eye of Flame&r will take you to the &bBurning Arena&r to fight the &bIgnis&r"]
+	quest.43A5B83862D9E94C.title: "&Ojo de la Flama&r"
+	quest.445C9117198936B6.quest_desc: ["The Wither Assault Shoulder Weapon (W.A.S.W.) is the last weapon you can make from Witherite. It has 2 different projectiles it can shoot: Wither Missiles and Wither Howitzers. The Wither Missiles shoot from just holding right click, and will damage whatever hit them with low cooldown. The Wither Howitzers are fired when you shift hold right click, they damage a bigger area and leave an area of wither effect that damages whatever walks in it. They have much longer cooldown though."]
+	quest.445C9117198936B6.title: "W.A.S.W. (Wither Assault Shoulder Weapon)"
+	quest.45FBEABEBA7CC09E.quest_desc: ["&5The Sunken City&r is the Dungeon that houses the &5Deeplings&r, &5Coralssus&r, and &5The Leviathan&r. It spawns... well in Oceans. It's big and made of Stone Bricks. Once you get through it's defenses you'll find the Altar of Abyss which brings us to..."]
+	quest.45FBEABEBA7CC09E.title: "&5Sunken City&r: Home of &5The Leviathan&r"
+	quest.465B08461B460DAC.quest_desc: ["&dEndermaptera&r are the cockroaches of the End. They live in and around the &dRuined Citadel&r. They have the least health of any Cataclysm mobs at 8 Hearts and only 1 attack. They will drop Void Jaws which can be used to craft Void Scatter Arrows. You can test what they do yourself."]
+	quest.465B08461B460DAC.title: "&dEndermaptera aka End Cockroaches&r"
+	quest.46CC8E7ED59F51D2.quest_desc: ["Tidal Claws are a confirmed drop from &5The Leviathan&r. It has two modes, attack and grapple. Attack is with left click, grapple is with right click. When you use its attack it will launch the claw and go through max of 5 mobs. Dealing damage and giving abyssal curse which will continue to damage them. The grapple does similar but will latch on to whatever is in range and pull you toward it. There's no durability so enjoy it forever!"]
+	quest.46CC8E7ED59F51D2.title: "Tidal Claws"
+	quest.4BF5EB050EC14C80.quest_desc: ["&4The Watchers&r... well they watch the &4Ancient Factory&r. They'll attack anything they see with their 'fricken laser beams!'. They have 12 and a half hearts, can fly, and are weak to EMP attacks as well. Like &4The Prowler&r they drop redstone and iron on death."]
+	quest.4BF5EB050EC14C80.title: "&4The Watchers&r"
+	quest.4D644A9829C240CB.quest_desc: ["You like the &bIgnis'&r shield? Well you can make 1 of your own with Ignitium. The Bulwark of the Flame can be used like a normal shield but also has a special effect. When holding right click and shift, letting go will let you charge at whatever is infront of you, like how goats do. Whatever gets hit will take damage and if pinched against a wall will also get stunned. Definitely nice to have around!"]
+	quest.4D644A9829C240CB.title: "Bulwark of the Flame"
+	quest.4FA156C383C9C438.quest_desc: ["&eKoboletons&r are mini Dino Skeletons who serve the &eAncient Remnant&r. They only have 12 and a half hearts and 1 attack. They also drop their bones but they only make bonemeal. They're also pretty cute when not attacking you!"]
+	quest.4FA156C383C9C438.title: "&eKoboletons aka Mini Dinos&r"
+	quest.4FA7774D89171BB3.quest_desc: ["Want another pet from Cataclysm? Then the Remnant Skull is what you need. It's a confirmed drop from the &eAncient Remnant&r and when used will spawn a Modern Revenant. This one is much smaller and nicer than the &eAncient&r one though. You can tame it by feeding it a Sniffer Egg then it will act like a dog. Attacking what attacks you or what you attack. It also has 3 modes: follow, wander, and stay. Follow it will... well follow you. Wander will have it walking around a certain area. And stay will have it lay down in one spot. Enjoy your new dino!"]
+	quest.4FA7774D89171BB3.title: "What shall not be named for my crashing reasons"
+	quest.50C9CB8FB16E453D.quest_desc: ["Don't worry you won't mistake this one for a Bastion. The &bBurning Arena&r is quite empty besides the &bIgnited Revenants&r and the Altar of Flame. Kill the &bIgnited Revenant&r to get the..."]
+	quest.50C9CB8FB16E453D.title: "&bBurning Arena&r: Home of the &bIgnis&r"
+	quest.53154550397E9704.quest_desc: ["The &cNetherite Monstrosity&r lives up to his name, he's a beast of Netherite and lava and has 15000 Hearts. It has very basic attacks, if you get close he'll ground slam you, if you're farther he'll shoot lava at you which creates lava source blocks. He only has 1 stage, kinda boring. When killed he'll drop the Infernal Forge, Monstrous Horn, and maybe a music disc: vs Titans."]
+	quest.53154550397E9704.title: "&cMonstruosidad de Netherita&r"
+	quest.565376084F05ED6E.quest_desc: ["The Dimension known for housing the piglins and blazes and wither skeletons, now houses 2 more bosses to fight!"]
+	quest.565376084F05ED6E.title: "&4Nether&r: Land of 2 bosses"
+	quest.5EDB5A2D744CE415.quest_desc: ["The Gatling Laser is a weapon you can make from Witherite. By using Redstone in your inventory you can shoot lasers which start fires and do damage. It shoots 50 lasers per 1 redstone which I think is a good deal."]
+	quest.5EDB5A2D744CE415.quest_subtitle: "Esto debio de haber salido de Fallout"
+	quest.5EDB5A2D744CE415.title: "Laser Gatling"
+	quest.7F4963FCAE5337EC.quest_subtitle: "Re-encendiendo al Ignis"
+}

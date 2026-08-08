@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.5d
+			id: "1821413DD3DF8D62"
 			image: "atm:textures/questpics/force/forcecraft.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 4.0d
+			id: "784E4003B5F279AF"
 			image: "atm:textures/questpics/force/force_infuser.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "46D22316E28EF17D"
 			image: "forcecraft:item/baconator"
 			rotation: 0.0d
 			width: 2.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2FAA4CEDA53B0248"
 			image: "forcecraft:item/inert_core"
 			rotation: 0.0d
 			width: 2.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "480488049A08DEB9"
 			image: "forcecraft:item/undeath_card"
 			rotation: 0.0d
 			width: 2.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6BCB0AB55DE366BE"
 			image: "forcecraft:block/time_torch"
 			rotation: 0.0d
 			width: 2.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 2.0d
+			id: "65D665A73B7E172F"
 			image: "forcecraft:item/pig_force_flask"
 			rotation: 0.0d
 			width: 2.0d
@@ -65,7 +72,7 @@
 			y: -3.5d
 		}
 	]
-	order_index: 4
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
@@ -416,6 +423,7 @@
 					id: "forcecraft:infuser"
 				}
 				id: "20293039D23A1C69"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "forcecraft:infuser"
@@ -426,7 +434,36 @@
 		}
 		{
 			dependencies: ["120D24467ABF3A6E"]
-			icon: { id: "artifacts:power_glove"
+			icon: {
+				components: {
+					"relics:data": {
+						abilities: {
+							abilities: {
+								power: {
+									lock: {
+										breaks: 5
+									}
+									points: 0
+									stats: {
+										armor_ignore: {
+											initialQuality: 7
+										}
+										hits_required: {
+											initialQuality: 4
+										}
+										power_damage_bonus: {
+											initialQuality: 2
+										}
+									}
+								}
+							}
+							synergies: { }
+						}
+						leveling: { }
+						statistic: { }
+					}
+				}
+				id: "artifacts:power_glove"
 			}
 			id: "71F1B741136A3A11"
 			rewards: [{

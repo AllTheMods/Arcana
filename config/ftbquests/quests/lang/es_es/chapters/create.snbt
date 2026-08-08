@@ -1,0 +1,68 @@
+{
+	quest.0759CA52EECF3B49.quest_desc: ["The &n&5Plough&r will destroy any non-solid block, turn dirt into farmland and launch entities without doing damage. If it has a connected inventory, the items will be stored in it."]
+	quest.09936F8FCEA72C5C.quest_desc: [
+		"The &n&5Cart Assembler&r can be placed on tracks. Anything you build on top of it will be picked up by a Minecart if the Assembler has a redstone signal."
+		""
+		"The blocks must be glued together and any blocks requiring rotational force will automatically be working."
+		""
+		"To \"unmount\" the blocks from the Minecart, simply turn off the redstone signal and let the Minecart ride through."
+	]
+	quest.0CF69DBA9573A7B3.quest_desc: [
+		"The Schematic Table will read and write structures to/from your schematics."
+		""
+		"You can use it to copy buildings or to share them with others!"
+	]
+	quest.0F16498769DFB3B0.quest_desc: ["This will be the main ingredient for most of this mod's items and blocks."]
+	quest.13AEBC331F29BC3D.quest_desc: [
+		"&n&5Belts&r can be placed between two &n&5Shafts&r to transfer mobs/items or to simply transfer rotational energy from one point to another."
+		""
+		"The &n&5Shafts&r must be at either 45, 90 or 180 degrees from each other."
+	]
+	quest.1B182A30604655E2.quest_desc: [
+		"To get the &n&5Blaze Burner&r, you need to make an Empty Blaze Burner and R-Click it on a Blaze."
+		""
+		"This is used under a Basin to heat it or super-heat it for different recipes."
+	]
+	quest.1C2309DB4B890E71.quest_desc: ["The &n&5Spout&r is used to fill items with liquid. It is best to use a Depot under it to hold the items."]
+	quest.1E9B2D814F50A265.quest_desc: ["The &n&5Encased Fan&r is used to pull/push items and entities if you spin it. The arrow will show you the direction it's facing and the rotation direction will determine if it pushes or pulls."]
+	quest.3D2A03EB2B91E9C1.quest_desc: ["The &n&5Chute&r is used to insert/extract from inventories, or to place/take items from a belt."]
+	quest.3F2C1A81C17D2D67.quest_desc: [
+		"The &n&5Arm&r is a machine that can take items from a Depot or a Belt and place them into a different Depot, Belt or Crafter."
+		""
+		"To select input/output hold the Arm in your hand and R-Click the blocks you want to assign."
+		""
+		"To deselect a block, L-Click it with the Arm in your hand."
+	]
+	quest.3F663416E824720C.quest_desc: ["&n&5Casings&r are used as a crafting ingredient for most blocks."]
+	quest.4194397DFD0199C2.quest_desc: [
+		"The &n&5Crafters&r can be connected to each other to form a huge in-world crafting table."
+		""
+		"The arrows on the Crafters must eventually converge on the same Crafter to finish the recipe. You can turn the arrows by R-Clicking it with the Wrench."
+	]
+	quest.4285510271B5223D.quest_desc: ["The &n&5Gearbox&r can rotate the direction of the rotation in any direction by 90 degrees."]
+	quest.459BA85E48B343AE.quest_desc: ["The &n&5Radial Chassis&r can be used similar to the &n&5Super Glue&r. It will connect blocks in a line, on the sides, without the need for glue."]
+	quest.45EC31812FB9934D.quest_desc: ["The &n&5Mechanical Piston&r is similar to the Piston, it can push blocks, but you can add as many Extension Poles as you wish."]
+	quest.45EC31812FB9934D.title: "Mechanical Pistons"
+	quest.47A6769B6BF1A46D.quest_desc: ["The &n&5Funnel&r can import or export items from connected inventories."]
+	quest.48BE7DAC5082044D.quest_desc: ["The Stressometer will show you how stressed the system is when you connect it."]
+	quest.495B0CC178B4CFA9.quest_desc: ["The &n&5Funnel&r can import or export items from connected inventories."]
+	quest.4C31649D721F76B5.quest_desc: ["The &n&5Harvester&r will harvest any crops it goes over. If it has a connected inventory, the items will be stored in it."]
+	quest.4C77ABCD41383F32.quest_desc: ["The &n&5Blaze Cake&r is used to Super-Heat the Blaze Burner for crafting the Chromatic Compound."]
+	quest.51EA6B1452883AB2.quest_desc: ["The &n&5Linear Chassis&r can be used similar to the &n&5Super Glue&r. It will connect blocks in a line without the need for glue."]
+	quest.54EC1C7FC1DA9107.quest_desc: [
+		"The &n&5Adjustable Chain Drive&r works similar to the normal Chain Drive when it has no redstone signal."
+		""
+		"When you apply a redstone signal and it is the block receiving the rotational force, it will double the speed for the connected Chain Drives."
+		""
+		"When you apply a redstone signal and it is not the block receiving the rotational force, it will half the speed for the connected Chain Drives."
+	]
+	quest.57A7A5C79389A96A.quest_desc: [
+		"&5&lWelcome To Create!"
+		""
+		"Create is an immersive tech mod, bringing realism into Minecraft on a whole new level!"
+		""
+		"If you have doubts about any blocks or items, hold W to ponder and see an amazing 3D in-game wiki!"
+	]
+	quest.5B36DE3826F26963.quest_desc: ["&n&5Shafts&r transfer rotational power without changing the speed of the gears."]
+	quest.5DC892BA79EB52EC.quest_desc: ["The &n&5Mixer&r can be used combined with the Basin to craft."]
+}

@@ -1,0 +1,283 @@
+{
+	quest.00589023093A082A.quest_desc: ["&4Enhanced Blood-Infused Iron Ingots&r are Crafted from 3 Iron Ingots and a &4Pure Blood Level 5&r. \\n\\nOnly the best &cBlood&r for the best weapons! \\n\\nI don't know if you can find these in Structures as I couldn't find one."]
+	quest.00589023093A082A.title: "&4Enhanced Blood-Infused Iron"
+	quest.040385AE6AB22772.quest_desc: ["Just like Crafting &5Hunter Intel Level 12&r, just more! \\n\\n25 &4Vampire Fangs&r, 2 &4Pure Blood Level 4&r, and the Books."]
+	quest.040385AE6AB22772.title: "Crafting &5Hunter Intel 13"
+	quest.04B98F4D2B8970B4.quest_desc: ["The &9Enhanced Hunter Outfit&r will grant more Protection than a normal &bHunter Outfit&r. \\n\\nIt is Crafted very close to the normal &bOutfit&r just with Diamonds instead of Leather. \\n\\nYou will need the &2Skill&f: &2Enhanced Armor&r in order to Craft them."]
+	quest.04B98F4D2B8970B4.title: "&9Enhanced Hunter Outfit"
+	quest.04F580613DAC2C93.quest_desc: ["The &9&lHunter Research Table&r is how we'll Craft &5Hunter Intel&r. \\n\\nIt has 5 Slots starting from Left to Right. \\n\\n1st is for the Book, just a normal &2&lVanilla&r Book. \\n2nd is for &4Vampire Fangs&r! \\n3rd is for &4Pure Blood&r when needed. \\n4th is for our &5Vampire &for &5Hunter Books&r. Both work. \\nLast is our Product Slot, where our &5Hunter Intel&r will go."]
+	quest.04F580613DAC2C93.title: "&9&lHunter Research Table"
+	quest.05D7DD0C69B4ED50.quest_desc: ["&5Vampire Books&r are Items you can find in Chests within &4Crypts &fand &4Vampire Huts&r. \\n\\nYou can use them to Craft &5Hunter Intel&r which is needed to &2Level up&r! \\n\\nYou can also read them like Book and Quills to learn some lore."]
+	quest.05D7DD0C69B4ED50.title: "&5Vampire Books"
+	quest.0603F108129AD370.quest_desc: ["Same as the &210&r, with 35 Structure Points. \\n\\nAnd with 1 &4Pure Blood Level 3&r and 15 &cHuman Hearts&r. \\n\\nAlso same Hearts and Armor Points... looks like we just get Speed this time!"]
+	quest.0603F108129AD370.quest_subtitle: "Lvl 11"
+	quest.0603F108129AD370.title: "Upgrading to &2Level 11"
+	quest.0655AAFACB64AD91.quest_desc: ["To get the final &2Levels&r we'll need all 3 Tables around the &9&lHunter Research Table&r. \\n\\n&d&lPotion Table&r, &b&lHunter Weapon Table&r, and the &c&lAlchemical Cauldron&r!"]
+	quest.0655AAFACB64AD91.title: "Three's a crowd"
+	quest.069633BB91BCBA73.quest_desc: ["In order to &2Level up&r we'll first need enough Structure Points to even just open the &4&lAltar of Infusion&r! \\n\\nOnce we have enough we can open the &4&lAltar&r and place in our Items. \\n\\nThe left Slot is for &4Pure Blood&r, middle is for &cHuman Hearts&r, and right is for our &5Vampire Books&r. \\n\\nOnce we have all the Items and it is Night we can Right Click the &4&lAltar&r to start the Ritual. \\n\\nWell know the Ritual is starting when a &4Red Line&r connects to the Pillar Tip to above the &4&lAltar of Infusion&r, it will then blast in your face until your entire screen is &4Red&r! \\n\\nAfter that, Lightning will strike, signifying that the Ritual is complete and you &2Leveled up&r!"]
+	quest.069633BB91BCBA73.title: "&4&lAltar of Infusion"
+	quest.06D0BC9922D07A42.quest_desc: ["&5Hunter Intel Level 7&r requires the Items needed for &55 &fand &56&r. \\n\\nBook, &5Vampire Book&r, 10 &4Vampire Fangs&f, and &4Pure Blood Level 1&r."]
+	quest.06D0BC9922D07A42.title: "Crafting &5Hunter Intel 7"
+	quest.081A4F0549590614.quest_desc: ["Infection is an &aAbility&r we can unlock with the &2Skill&r: &2No longer a Fledging&r. \\n\\nWhen you get close to a Mob, you can use the &aAbility&r to give them &4Sanguinare Vampiris&r. Just like with Players, after the Effect wears out they will become &4Vampiric&r. \\n\\nWhich Mobs can we Infect you ask? \\n\\nVillagers, Pigs, Sheeps, Cows, Goats, Camels, Llamas, Horses, Donkeys, and Mules."]
+	quest.081A4F0549590614.title: "Infection"
+	quest.08C452741395F7B8.quest_desc: ["Finally more Gold and Iron! \\n\\n20 Gold Ingots, 40 Iron Ingots, and the &5Hunter Intel&r."]
+	quest.08C452741395F7B8.quest_subtitle: "Lvl 13"
+	quest.08C452741395F7B8.title: "Getting &2Level 13"
+	quest.0944EB3F3ECA2452.quest_desc: ["Each &cBlood Bottle&r holds 900mB or 0.9 Buckets. Each sip from a Mob gives 100mB of &cBlood&r! \\n\\nThe &cBlood Bottle's&r Eyes will be &6Orange&r when there is space, and will change to &4Red&r when Full. \\n\\nYou can also Right Click any &cBlood Storage&r with a Glass Bottle to fill it and make a &cBlood Bottle&r. \\n\\nI probably should have said that, you can make &cBlood Containers&r or Machines to hold &cBlood&r by Right Clicking the &cBlood Bottle&r into them. \\n\\nYou can also just Drink &cBlood Bottles&r to fill your &cPoints&r."]
+	quest.0944EB3F3ECA2452.title: "What to do with &cBlood&r!"
+	quest.0C19916C9076F157.quest_desc: ["Technically you don't need to go to an &bOutpost&r to make one but I felt it fits here best! \\n\\nYou'll need to Craft the &6&lAltar of Cleansing&r in order to get one. \\n\\nWhen placed down, it might not seem to do anything. In order to use it we'll need Pure Salt Water. \\n\\nHold Right Click on the &6&lAltar&r while holding Pure Salt Water in order to Bless it. Then, after a painfully long time, we'll have &6Holy Water&r!"]
+	quest.0C19916C9076F157.title: "&6&lAltar of Cleansing"
+	quest.0D11A727D3E620EE.quest_desc: ["The last Ritual, needing the most Structure Points at 54! \\n\\nWe'll also need 2 &4Pure Blood Level 5&r and 25 &cHuman Hearts&r. Hey, being powerful ain't cheap! \\n\\nAt &2Level 14&r we'll have 20 Hearts and Armor Points. Along with a very high Speed. The best, we &4Vampires&r, can get!"]
+	quest.0D11A727D3E620EE.quest_subtitle: "Lvl 14"
+	quest.0D11A727D3E620EE.title: "Upgrading to &2Level 14"
+	quest.0DCDFEF8ED62F4F2.quest_desc: ["&2Level 6&r is next and for that we'll need a lot more Structure Points, at 17. \\n\\nThis is also the first Ritual needing &4Pure Blood&r, 1 &4Level 1&r along with 5 &cHuman Hearts&r. \\n\\n&2Level 6&r gives us more Armor Points, up to 14 Armor Points."]
+	quest.0DCDFEF8ED62F4F2.quest_subtitle: "Lvl 6"
+	quest.0DCDFEF8ED62F4F2.title: "Upgrading to &2Level 6&r"
+	quest.0EE3A629870EF67B.quest_desc: ["&6Alchemical Fire&r is Gunpowder dossed in &6Holy Water&r by an &c&lAlchemical Cauldron&r. \\n\\nThe better the &6Holy Water&r, the more &6Alchemical Fire&r you get. &6Ultimate Holy Water&r gets you 6, &6Enhanced&r gets 5, and &6normal&r gives 4. \\n\\nThankfully we don't need a &2Skill&r for it. \\n\\n&6Alchemical Fire&r works like a Fire Charge, just the Fire won't spread and won't stop burning on its own... \\n\\nThat includes if a Mob touches it, it won't extinguish without Water! \\n\\nWe can use it in a few Recipes like the &6&o&lGolden Crucifix&r, Spitfire Arrows, and Smelting Oil."]
+	quest.0EE3A629870EF67B.title: "&6Alchemical Fire"
+	quest.0FAC1CF4749B1A46.quest_desc: ["&5Hunter Books are similar&r and can be used in the same way as &5Vampire Books&r. \\nThese can be found within &bHunter Outposts&r and can be used to &2Level up&r. \\n\\nOr you can read them to learn more lore and how to fight &4Vampires&r!"]
+	quest.0FAC1CF4749B1A46.title: "&5Hunter Books"
+	quest.10278CA70C326F49.quest_desc: ["&5Hunter Intel 8&r and 40 Iron Ingots?!?!?! \\n\\nDang he is getting expensive!"]
+	quest.10278CA70C326F49.quest_subtitle: "Lvl 8"
+	quest.10278CA70C326F49.title: "Getting &2Level 8"
+	quest.1037EBE092D43AFC.quest_desc: ["The earliest &2Skill&r we can use is to make 5 Potions at a time with the &d&lPotion Table&r instead of 3. \\n\\nThen, we can also choose whether to make &2Stronger&r or more Durable Potions! \\n&2Stronger&r allows us to use Redstone to get higher Levels of Potions to do the Effect more. \\n&2Durable&r, ups the time they have for the Potion Effect. \\n\\n&2Master Brewer&r allows us to get the Nausea and Blindness Potions. \\n\\nThe last &2Skill&r gives us both Stronger and Durable Potions! So Resistance 3 for a very long time!"]
+	quest.1037EBE092D43AFC.quest_subtitle: "Faster Stronger"
+	quest.1037EBE092D43AFC.title: "Harder Better"
+	quest.103DC20C8447E03C.quest_desc: ["&4Pure Blood&r will be an important Crafting Ingredient for later &2Leveling&r and for other Recipes. \\n\\nIt is dropped by &4&lVampire Barons&r. Its &4Level&r is determined by the &2Baron's Level&r. \\n\\n&2Level 5 &4&lBaron&r will drop &4Level 5 Pure Blood&r, &2Level 1 &4&lBaron&r will drop &4Level 1 Pure Blood&r."]
+	quest.103DC20C8447E03C.title: "&4Pure Blood"
+	quest.1169569F6247736B.quest_desc: ["Finisher isn't an &aAbility&r... but I just couldn't ignore it! \\n\\nBy getting the &2Skill&r: &2Finisher&r we get a very powerful perk. \\n\\nUsing either a Heartstriker or Heartseeker we can one-shot any Mob (that's not a &4Vampire&r) that is below 25% Health!"]
+	quest.1169569F6247736B.title: "Finisher"
+	quest.1199D3336A65D81B.quest_desc: ["Of course this being the last &5Hunter Intel&r, it is the most difficult to obtain. \\n\\nWe'll need 25 &4Vampire Fangs&r, a Book, and a &5Vampire Book&r. \\n\\nWe'll also need 2 &4Pure Blood Level 5&r, these are drops from the most difficult &4&lVampire Barons&r!"]
+	quest.1199D3336A65D81B.title: "Crafting &5Hunter Intel 14"
+	quest.1255528906740DCF.quest_desc: ["Water will Effect most &4Vampires&r with Weakness. It's also supposed to Effect us with Weakness but I can't get it to work... \\n\\nWell in case it does Effect you, get the &2Skill&r: &2Water Resistance&r to prevent that!"]
+	quest.1255528906740DCF.title: "Water Resistance"
+	quest.1348EE74ADF2239A.quest_desc: ["&cVampire Blood&r is a useful Item for a ton of Recipes and &2Leveling up&r as a &bVampire Hunter&r! \\n\\nTo obtain it, we need to kill a &4Vampire &for &4Advanced Vampire&r with a Stake. \\n\\nThen, we can Right Click a &bVampire Hunter&r to open a dialogue with them. This makes it so we can give them the &cVampire Blood&r to train us to &2Level 2&r!"]
+	quest.1348EE74ADF2239A.quest_subtitle: "Lvl 2"
+	quest.1348EE74ADF2239A.title: "How to &2Level up"
+	quest.13B56E1D53B8A93C.quest_desc: ["The last &2Level&r we can get from the &c&lAltar of Inspiration&r needs it entirely full of &cBlood&r, 10,000mB of &cBlood&r! \\n\\n&2Level 4&r will now make the &eSun&r Damage us. 1 Heart every Second we are under &eSunlight&r! On top of everything from before."]
+	quest.13B56E1D53B8A93C.quest_subtitle: "Lvl 4"
+	quest.13B56E1D53B8A93C.title: "Swimming in &cBlood&r for &2Level 4"
+	quest.150F25B6FE8564EE.quest_desc: ["To power the &4&lAltar&r we'll need &7Altar Pillars&r! \\n\\nThese can be placed in a 4 Block radius around the &4&lAltar&r and can be up to 3 &7Pillars&r tall. \\n\\nThere is no minimum of &7Pillars&r I have noticed besides enough to power it. I'm not sure of a Maximum either, I just know it's quite a bit! \\n\\nEach &7Pillar&r can hold a Block, which are placed with Right Click. \\n\\nThey need an Altar Tip on top of them to finish them, plus there can't be any Blocks between them and the &4&lAltar&r."]
+	quest.150F25B6FE8564EE.title: "&7Altar Pillars"
+	quest.16697E8CC142B48D.quest_desc: ["Just a normal &bCrossbow&r with more Damage! \\n\\nYou'll need the &2Skill&f: &2Enhanced Weapons&r to Craft and use it."]
+	quest.16697E8CC142B48D.title: "&9Enhanced Crossbow"
+	quest.17C21707B7CED5F1.quest_desc: ["Once the &cSanguinare Vampiris&r has gone through entirely you will be reborn as a &4Vampire&r! \\n\\nYou will now have increased Speed and even Base Armor Points. \\n\\n&eGarlic&r is now toxic to you, and when you &2Level&r up, the &eSunlight&r will become painful to you. At &2Level 1&r it won't hurt you so you are safe for now. \\n\\nAlso &4Vampires&r will be Friendly and Hunters will be Hostile. Plus the Undead will be Neutral, only attacking if you hit them first. \\n\\nThe most important part of being a &4Vampire&r is &cBlood&r! Your Food Bar has been replaced with &cBlood Points&r. You can replenish them by Holding V while touching a Mob. If your &cBlood&r is full, the new &cBlood&r will be placed in a Bottle."]
+	quest.17C21707B7CED5F1.quest_subtitle: "Lvl 1"
+	quest.17C21707B7CED5F1.title: "Become a &4Vampire&r"
+	quest.181B29BA5CCB8302.quest_desc: ["The &cCloaks&r are your replacement for Chestplates! \\n\\nThey come in a few different colors, so pick whichever matches your Eyes best. \\n\\nThey only cover your Back looks-wise, kinda like a Cape!"]
+	quest.181B29BA5CCB8302.title: "&cCloaks"
+	quest.19A7BB09DE919147.quest_desc: ["&2Vampire Repelling&r is a &2Skill&r we'll need to get in order to Craft the &eGarlic Diffuser Core&r. \\n\\nOnce we have that we can combine &eGarlic&r and Wool to get our &eCore&r! \\n\\nThe Wool Color doesn't change the &eCore&r Color though. \\n\\nNow combine the &eCore&r with Obsidian, Diamond, and Planks. "]
+	quest.19A7BB09DE919147.title: "&eGarlic Diffuser Core"
+	quest.19AC185DD3D047DD.quest_desc: ["&2Level 13&r will need the same 44 Structure Points. \\n\\nThis time we'll need 2 &4Pure Blood Level 4&r and 20 &cHearts&r! \\n\\nNow us &4Vampires&r will have 20 whole Hearts and 19 Armor Points. Practically unstoppable!"]
+	quest.19AC185DD3D047DD.quest_subtitle: "Lvl 13"
+	quest.19AC185DD3D047DD.title: "Upgrading to &2Level 13"
+	quest.1D5441F516720758.quest_desc: ["Last time we'll need to visit the &9Vampire Hunter Trainer&r. \\n\\nGive him the fee of 40 Iron and 40 Gold Ingots, and the &5Hunter Intel Level 14&r to get &2Level 14&r."]
+	quest.1D5441F516720758.quest_subtitle: "Lvl 14"
+	quest.1D5441F516720758.title: "Getting &2Level 14"
+	quest.1D758FEA6E8858BC.quest_desc: ["Now we're getting expensive for &5Hunter Intel&r. \\n\\nWe'll need 20 &4Vampire Fangs&r and &4Pure Blood Level 3&r. Those are dropped from &2Level 3 &4&lVampire Baron&r."]
+	quest.1D758FEA6E8858BC.title: "Crafting &5Hunter Intel 10"
+	quest.1E1101F8C520445F.quest_desc: ["Yes you can wear Armor when being a Vampire, but you also gain access to stylish exclusive &cArmor&r! \\n\\nThe &cPants&r replace Leggings, &cBoots&r replace Boots, and the &cCrown&r or &cHat&r replace your Helmet. \\n\\nI can't tell you whether to take the &cCrown&r or &cHat&r, that is all up to you!"]
+	quest.1E1101F8C520445F.title: "&4Vampire Armor"
+	quest.1F84A6D6F1A180FA.quest_desc: ["The &bHunter Outfit of Swiftness&r is similar to the normal Outfit especially in Crafting. \\n\\nThe &bSwiftness Outfit&r has less Protection though, with it being closer to Chainmail Armor than Iron. \\n\\nThey do give you a Speed Boost while being worn! This is something no &2&lVanilla&r Armor does by default."]
+	quest.1F84A6D6F1A180FA.title: "&bSwift Hunter Outfit"
+	quest.1FC0CCDD062BFD30.quest_desc: ["The &e&lImproved Garlic Diffuser&r is an even better &e&lGarlic Diffuser&r! Hence the Improved in the title. \\n\\nIt now works in a 3x3 Chunk Radius instead of just 1 Chunk. \\n\\nIt is still Fueled with &ePurified Garlic&r and has start-up cooldowns. \\n\\nTo make it we'll need the same Recipe but instead of a &eGarlic Diffuser Core&r we'll need an &eImproved Garlic Diffuser Core&r. \\n\\nTo get that, combine an &6Ultimate Holy Water&r with a &eGarlic Diffuser Core&r in an &c&lAlchemical Cauldron&r."]
+	quest.1FC0CCDD062BFD30.title: "&e&lImproved Garlic Diffuser"
+	quest.21734396EF46198C.quest_desc: ["Now that we are getting higher &2Levels&r, we'll need to upgrade our &9&lResearch Table&r! \\n\\nIn order to upgrade it, we'll need to place other &4&lVampirism&r Tables near it. Those being: &b&lHunter Weapon Table&r, &d&lPotion Table&r, &c&lAlchemical Cauldron&r. \\nWhen you &2Level up&r higher you'll need more Tables next to it and no using the same Tables won't help."]
+	quest.21734396EF46198C.title: "Another Table"
+	quest.2487F38985B10375.quest_desc: ["To &2Level up &fto &2Level 11&r we'll need &5Hunter Intel Level 11&r, 20 Iron Ingots, and 10 Gold Ingots... \\n\\nWait why is this one cheaper as well? What's happening!"]
+	quest.2487F38985B10375.quest_subtitle: "Lvl 11"
+	quest.2487F38985B10375.title: "Getting &2Level 11"
+	quest.26FEFC5389C6C574.quest_desc: ["The next Level is gained the same way, just this time needing 7,000mB of &cBlood&r. Aka 7 &cBuckets of Blood&r or 8 &cBlood Bottles&r. \\n\\nYou will gain more Health and Speed now that you are &2Level 3&r and this is also when you will start gaining &aAbilities&r! \\n\\nCheck out &aEdit Actions&r to see and bind &aAbilities&r. You can find in the same Menu as where you get the &2Skill Tree&r. \\n\\nAlso part of &2Leveling up&r as a &4Vampire&r, you are now even weaker to the &eSun&r. You will now gain Weakness and Nausea from being in &eSunlight&r. It won't kill you, but it will make you wish you were dead!"]
+	quest.26FEFC5389C6C574.quest_subtitle: "Lvl 3"
+	quest.26FEFC5389C6C574.title: "Enough &cBlood&r to &2Level 3"
+	quest.2709B44ED39E8143.quest_desc: ["To &2Level up &fabove &29&r we'll need to place another, different Table next to our &9&lHunter Research Table&r. \\n\\nYes, it has to be different from the other Tables. \\n\\nI'd recommend placing a &b&lWeapon Table&r and &d&lPotion Table&r."]
+	quest.2709B44ED39E8143.title: "Two more Tables!"
+	quest.2750DE51CFA0EB09.quest_desc: ["The &4Vampire Hut&r is more of a Tower than a Hut but hey I don't name these! \\n\\nWithin the &4Tower&r you will find tons of &4Vampire Decorations&r. Keep going higher and you will find Chests full of Loot. \\n\\nDon't forget to break open the attic to find hidden Loot!"]
+	quest.2750DE51CFA0EB09.title: "Invade the refuge of the &4Vampire Huts"
+	quest.294177007EEE9856.quest_desc: ["&210&r has everything getting more expensive. To work it'll need 35 Structure Points. \\n\\nIt will then need a &4Pure Blood Level 3&r and 15 &cHuman Hearts&r! That's a lot of &cHearts&r. \\n\\nNow we'll have 19 Hearts and 17 Armor Points!"]
+	quest.294177007EEE9856.quest_subtitle: "Lvl 10"
+	quest.294177007EEE9856.title: "Upgrading to &2Level 10"
+	quest.2A36855EEBE7B996.quest_desc: ["An &9Enhanced Crossbow&r on top of another &9Enhanced Crossbow&r! \\n\\nTwice the Arrows! \\n\\nYou'll need the &2Skill&f: &2Enhanced Weapons&r to Craft and use it."]
+	quest.2A36855EEBE7B996.title: "&9Enhanced Double Crossbow"
+	quest.2AB103A5DA78B181.quest_desc: ["Pure Salt is Water distilled with &eGarlic&r. \\n\\nTo do that we can combine a Water Bucket and &eGarlic&r in an &c&lAlchemical Cauldron&r. \\n\\nIt will need Fuel like Coal and you'll need the &2Skill&f: &2Basic Alchemy&r."]
+	quest.2D6E43672A714988.quest_desc: ["Dark Blood Projectiles might seem familiar to you... that's because it is an &aAbility&r that &4&lVampire Barons&r use against you! \\n\\nDark Blood Projectiles will fly in a straight line, causing Damage and giving Slowness to whatever they hit. \\n\\nYou will need the &2Skill&r: &2Dark Blood Projectile&r for it of course."]
+	quest.2D6E43672A714988.title: "Dark Blood Projectile"
+	quest.2E6C7849718C8ABE.quest_desc: ["The &6Wooden Crucifix&r doesn't need a &b&lWeapon Table&r to Craft, it can be made in a regular Crafting Table. \\n\\nYou'll need 3 Planks, 2 Sticks, and a &6Holy Water&r to Craft it. \\n\\n&6Wooden Crucifixs&r can be held in your Hand and when you Hold Right Click you can use them. \\n\\nWhen used it will slow all Undead: Zombies, &4Vampires&r, etc. who are near you. They can still hit you when Slowed. \\n\\nOnce done they will return to normal Speed and you will have a Cooldown before using it again."]
+	quest.2E6C7849718C8ABE.title: "&6Wooden Crucifix"
+	quest.2EAC8FF8D71E33FD.quest_desc: ["Now we'll still need a Book and &5Vampire Book&r. \\n\\nNow we will also need &4Pure Blood Level 1&r. This is a drop from a &2Level 1 &4&lVampire Baron&r!"]
+	quest.2EAC8FF8D71E33FD.title: "Crafting &5Hunter Intel 6"
+	quest.2FF9C0525F36146F.quest_desc: ["&bHunter Camps&r are tiny but common Structures around the World. \\n\\nThey are just made of Tents and Campfires so careful not to miss them! \\n\\nAround the Camps, as the name suggests, spawn &bVampire Hunters&r and rarely &bAdvanced Vampire Hunters&r."]
+	quest.2FF9C0525F36146F.title: "Clear out a &bHunter Camp"
+	quest.308454C5009ABF9B.quest_desc: ["One of the most expensive we've seen so far, needing 20 &4Vampire Fangs&r and &4Pure Blood Level 4&r. \\n\\nAlso the Book and &5Vampire Book&r!"]
+	quest.308454C5009ABF9B.title: "Crafting &5Hunter Intel 12"
+	quest.3565E9E60C56F145.quest_desc: ["&6Holy Water&r is created by Blessing Pure Salt Water in an &6&lAltar of Cleansing&r. \\n\\nYou can make Pure Salt Water by Brewing Pure Salt with Water Bottles in a Brewing Stand. To get Pure Salt we can use an &c&lAlchemical Cauldron&r to combine &eGarlic&r and Water. \\n\\n&6Holy Water&r can be used to Craft Crucifixes and Crosses. We can also use it to make &6Alchemical Fire&r or Purified Garlic. \\n\\nDon't forget to combine it with Gunpowder to make a &6Splash Holy Water&r! A powerful Weapon against the Undead."]
+	quest.3565E9E60C56F145.title: "&6Holy Water"
+	quest.357DED7BE80365FC.quest_desc: ["The Stake is the original &4Vampire&r Slayer! \\n\\nUsually it needs to go through the Heart... but this is &2&lMinecraft&r, we aren't that fancy. \\n\\nIt has a very cheap Recipe only being 2 Sticks and a Plank. This also means it won't do much Damage though. \\n\\nDon't worry we only need to use it for the finishing hit on a &4Vampire&r to get..."]
+	quest.357EE6E73A5D4371.quest_desc: ["Seems the Gold isn't going up yet... but the Iron definitely is! \\n\\nWe'll need 30 Iron Ingots and 10 Gold Ingots along with the &5Hunter Intel Level 12&r."]
+	quest.357EE6E73A5D4371.quest_subtitle: "Lvl 12"
+	quest.357EE6E73A5D4371.title: "Getting &2Level 12"
+	quest.3637754619C7EB51.quest_desc: ["For our &e&lGarlic Diffuser&r we'll need Fuel. The Fuel is &ePurified Garlic&r! \\n\\nTo make it combine any &6Holy Water&r with &eGarlic&r in an &c&lAlchemical Cauldron&r. \\n\\nWe'll need Fuel for the &c&lCauldron&r and the &2Skill&f: &2Purified Garlic&r. Yes, it has its own &2Skill&r."]
+	quest.3637754619C7EB51.title: "&ePurified Garlic"
+	quest.36A227BCCBF44B2B.quest_desc: ["The &cHuman Heart&r is dropped from &bVampire Hunters&r. Another drop from them is Livers which aren't important. \\n\\nIt isn't dropped from &bAdvanced Hunters&r as I can tell. \\n\\n&cHuman Hearts&r are important in many Recipes and in Rituals! So collect them all!"]
+	quest.36A227BCCBF44B2B.title: "&cHuman Hearts"
+	quest.3736D4AFB655B71B.quest_desc: ["Just like in Hotel Transylvania, &4Vampires&r can turn into Bats! \\n\\nWe'll need the &2Skill&r: &2No longer a Fledging&r to unlock the &aAbility&r. \\n\\nWhen we turn into a Bat we will have lower Health but also a smaller Hitbox and can Fly! \\n\\nAs a Bat you won't be able to interact with Blocks though, so no Breaking Blocks."]
+	quest.3736D4AFB655B71B.title: "Bat Mode"
+	quest.38DABB569C342254.quest_desc: ["The &d&lPotion Table&r is a unique version of the Brewing Table, except this gives us entirely new Potions we can make! \\n\\nWe can make Potions for Effects in &2&lVanilla&r we can't normally get from Potions, like: Resistance, Nausea, and Blindness. \\n\\nAll which can also be turned into Splash Potions! You'll need the &2Skill&f: &2Master Brewer&r for those.\\n\\nIt requires Blaze Powder and &cVampire Blood&r as Fuel. \\n\\nThere's many &2Skills&r we can unlock, especially the Middle Column, to help us make better and different Potions."]
+	quest.38DABB569C342254.title: "&d&lPotion Table"
+	quest.3B3DEA5381406BF9.quest_desc: ["The &bSemi-Auto&r just now with more Damage. \\n\\nAlso works with the Arrow Clip! \\n\\nYou'll need the &2Skill&f: &2Enhanced Weapons&r to Craft and use it."]
+	quest.3B3DEA5381406BF9.title: "&9Enhanced Semi-Auto Crossbow"
+	quest.3BB691C7727D92C8.quest_desc: ["No, it can't be used to efficiently chop down Trees, but it does more Damage to &4Vampires&r at least! \\n\\nYou'll need 4 Iron Ingots, 4 Sticks, and 3 &eGarlic&r. Plus Lava to Craft it. \\n\\nIt does more Damage than a Netherite Axe and does bonus against &4Vampires&r! Why would you want any other Weapon?"]
+	quest.3BB691C7727D92C8.title: "&bHunter Axe"
+	quest.3D4129063A319AE0.quest_desc: ["Just a normal &bCrossbow&r, on top of a normal &bCrossbow&r. \\n\\nIt shoots 2 Arrows instead of 1. \\n\\nYou'll need the &2Skill&f: &2Double It&r to use and Craft it!"]
+	quest.3D4129063A319AE0.title: "&bDouble Crossbow"
+	quest.3D5C1AEF59E2D788.quest_desc: ["The &bBasic Crossbow&r is the perfect ranged Weapon for all &bHunters&r. \\n\\nIt's Crafted with 2 Iron Ingots, 4 Planks, and 2 String in a &b&lHunter Weapon Table&r. And will need Lava to Craft it. \\n\\nIt does less Damage than normal Bows and Crossbows, but this one can use special Arrows from &4&lVampirism&r!"]
+	quest.3D5C1AEF59E2D788.title: "&bBasic Crossbow"
+	quest.3D7A0D595984E184.quest_desc: ["To get to &2Level 3&r we'll need to kill a few more &4Vampires&r... \\n\\nHow many &4Vampires&r you ask? \\n\\nHowever many it takes to get 5 &cVampire Blood&r!"]
+	quest.3D7A0D595984E184.quest_subtitle: "Lvl 3"
+	quest.3D7A0D595984E184.title: "Train to &2Level 3"
+	quest.3EE0926E28CC6D8F.quest_desc: ["For the Enhanced Weapons we'll need the purest of Pure Blood! Only Level 5 will do. \\n\\nThese drop from Level 5 Vampire Barons. \\n\\nOf course being the hardest Vampires to kill!"]
+	quest.3F370872F9ADF146.quest_desc: ["To revert to a normal Human instead of a &bVampire Hunter&r, get a &cSanguinare Injection&r. \\n\\nThese are made with 8 &4Vampire Fangs&r and 1 Syringe. \\n\\nUse it on the &6&lInjection Chair&r to revert back, losing your &eGarlic Vaccine&r."]
+	quest.3F370872F9ADF146.title: "Back to a Civilian"
+	quest.3F8BDFB903B29F0E.quest_desc: ["Now that we are &2Level 3&r we can use our &2Skill Points&r to learn how to use the &b&lHunter Weapon Table&r. \\n\\nThis acts like a bigger Crafting Table just only for &4&lVampirism&r Weapons and Armor. \\n\\nSome Items will need Lava in the &b&lWeapon Table&r to Craft, we can add Lava by Right Clicking the &b&lWeapon Table&r with a Bucket of Lava. \\n\\nCheck JEI to see the Items that can be Crafted now!"]
+	quest.3F8BDFB903B29F0E.title: "&b&lHunter Research Table"
+	quest.411A78BDC014AE5D.quest_desc: ["The first Ritual to go from &2Level 1 &fto &2Level 2&r, we'll need 4,000mB &cBlood&r in the &c&lAltar&r. \\n\\nAka 4 Buckets worth, or just over 5 Blood Bottles. \\n\\nOnce we put enough &cBlood&r we can start the Ritual to go to &2Level 2&r! \\n\\nEach time we &2Level up&r, we'll notice some parts getting stronger and some getting weaker. We will have more Health and Speed, but also will get weaker to the &eSun&r. \\n\\nAt &2Level 2 &eSunlight&r will give you Weakness."]
+	quest.411A78BDC014AE5D.quest_subtitle: "Lvl 2"
+	quest.411A78BDC014AE5D.title: "Powering up to &2Level 2"
+	quest.41F92EA75B7D2AA4.quest_desc: ["The &5&lAlchemy Table&r is used for Oils! \\n\\nOils are what we can use to apply Effects to Weapons. We'll need to start with Activated and Plant Oils first. \\n\\nThere is a few Slots we'll need to understand what they do, in order to use the &5&lTable&r. The bottom left is for the fuel which is Blaze Powder. \\n\\nThe right slot is for the intial product, usually it is the Potion you want added to an Oil. The top two slots are for the Oils or Bottles needed for the Recipe. "]
+	quest.41F92EA75B7D2AA4.title: "&5&lAlchemy Table"
+	quest.42033F464E380AF2.quest_desc: ["Bat Swarms are another &aAbility&r, this one is more for offense though! \\n\\nYou can unlock it with the &2Skill&r: &2Summon Bats&r. \\n\\nWhen you use it, a couple of Bats will be spawned, and whatever they hit will get Blindness! \\n\\nI've learned some &4Advanced Vampires&r can also use it. It scared the crap out of me!"]
+	quest.42033F464E380AF2.title: "Bat Swarm"
+	quest.42D308CBF385FED6.quest_desc: ["&l&4Vampirism&r throws us straight into a war between 2 Factions: &4Vampires&r and &bVampire Hunters&r! \\n\\nYou will need to pick a side, to either fight with &4Vampires&r or against them. \\n\\nEach side comes with their unique &2Skills&r, &aAbilities&r, Weapons and Armor, and even &2Leveling&r! \\n\\nTo acess &2Skills&r either press P or click the &4Vampire Fang&r Button in your Inventory. \\n\\nHere you can find the &2Skill Tree&r where you can use your Points to unlock &2Skills&r. Or you can look at the &aAbility Wheel&r, where you can set Keybinds for your &aAbilities&r you unlocked with &2Skills&r."]
+	quest.42D308CBF385FED6.title: "&l&4Vampirism"
+	quest.4476F42BD5B4F03D.quest_desc: ["To become a Human again we'll need an &6&lAltar of Cleansing&r. \\n\\nBy Holding Right Click we can Bless ourselves, this will revert you back to a Human. \\n\\nThe &6&lAltar&r will kill you though unless you have a Totem or are on Hardcore mode!"]
+	quest.4476F42BD5B4F03D.title: "Back to Human"
+	quest.44DBB852298171D3.quest_desc: ["&bHunter Outposts&r are much bigger and much more dangerous to us &4Vampires&r. \\n\\nThey spawn dozens of &bVampire Hunters&r and &bAdvanced Hunters&r. Even &9Vampire Hunter Trainers&r! But that's not important to us. \\n\\nThey have dozens of &6Crucifixes&r and even a &eGarlic Diffuser&r which make it very difficult to fight near the &bOutposts&r. \\n\\nBut if you can, you can find and kill more &bHunters&r than you can imagine!"]
+	quest.44DBB852298171D3.title: "Destroy the &bHunter Outpost"
+	quest.453693F569B56F32.quest_desc: ["The &c&lAltar of Inspiration&r is what we will use to &2Level up&r until &2Level 4&r. \\n\\nYou can fill it with &cBlood&r by Right Clicking it with any &cBlood Container&r: &cBlood Bottle&r and &cBlood Bucket&r. \\n\\nOnce it is filled above a certain amount, you can Right Click it with an Empty Hand to start the Ritual at Night! \\n\\nThis will deplete the &cBlood&r and summon a Lightning Bolt which will be your sign that you &2Leveled up&r!"]
+	quest.453693F569B56F32.title: "&c&lAltar of Inspiration"
+	quest.45ECA96E25DDB1A8.quest_desc: ["To enter either Faction I recommend looking for a &6Village&r. \\n\\nHere you can find the &9Hunter Trainer's Home&r, it will have &eGarlic&r, &4Vampire Fangs&r, an &6&lInjection Chair&r, and a &b&lHunter Research Table&r. \\n\\nFor &4Vampires&r you won't need these... as you can become a &4Vampire&r with a few different ways. Each involving the Effect of &cSanguinare&r. "]
+	quest.45ECA96E25DDB1A8.title: "Where to start?"
+	quest.45FF90632FE0D35C.quest_desc: ["&4&lVampire Barons&r are Bosses you can find within &8Vampire Forests&r. \\n\\nWhen they see you, they will deploy Wings and their Eyes will become &4Red&r! They are ready to fight, are you? \\n\\nTheir Health is determined by their &2Level&r, usually it's between 100 to 300 Hearts. \\n\\nThey do a ton of Damage by hitting you and when hitting you it will inflict Weakness III and Slowness III. \\n\\nSometimes the &4&lVampire&r might instead choose to fire &4Dark Blood squirts&r at you! These will Damage you if they hit you, don't worry too much about them they are easy to dodge. \\n\\nThey may at times turn Invisible... I don't know if that's a bug or not. \\n\\nThe &4&lVampire Barons&r will teleport away if in &eSunlight&r. They also attack other &4&lBarons&r near them!"]
+	quest.45FF90632FE0D35C.title: "Kill a &4&lVampire Baron&r"
+	quest.462D3E7120E3640B.quest_desc: ["The &bHunter Outfit&r has similar Stats to Iron Armor just with added Armor Toughness. \\n\\nAll are Crafted with Iron, Leather, and &eGarlic&r. And of course, each of them will need Lava to make them. \\n\\nI don't know if it especially protects against &4Vampires&r, it doesn't say anything."]
+	quest.462D3E7120E3640B.title: "&bHunter Outfit"
+	quest.470D6421135FAB73.quest_desc: ["Welcome to fighting the good fight. You are now a &bVampire Hunter&r! \\n\\nTaking the &eInjection&r, you are now immune to the &4Sanguinare Virus&r, which means you can not be turned into a &4Vampire&r. \\n\\nWhen you just start you will be at &2Level 1&r. To upgrade your &2Level&r you can start by talking with other &bVampire Hunters&r! \\n\\nNow that you're part of the &bHunter Faction&r you can use its Weapons, Armor, and Tables."]
+	quest.470D6421135FAB73.quest_subtitle: "Lvl 1"
+	quest.470D6421135FAB73.title: "Become a &bHunter&r"
+	quest.47D5383D9C17C7EB.quest_desc: ["&2Level 7&r also needs 17 Structure Points, but will need more Items of course. \\n\\n1 &4Pure Blood Level 1&r and 10 &cHuman Hearts&r to be exact! \\n\\nAt &2Level 7&r we'll get 18 Hearts and 15 Armor Points."]
+	quest.47D5383D9C17C7EB.quest_subtitle: "Lvl 7"
+	quest.47D5383D9C17C7EB.title: "Upgrading to &2Level 7&r"
+	quest.47EDBDE685688EBB.quest_desc: ["To get to &2Level 5&r, give the &9Vampire Hunter Trainer&r the &5Hunter Intel Level 5&r and 5 Iron Ingots."]
+	quest.47EDBDE685688EBB.quest_subtitle: "Lvl 5"
+	quest.47EDBDE685688EBB.title: "Getting &2Level 5"
+	quest.4A3BAACECED45EBA.quest_desc: ["For &212&r we'll need 44 Structure Points... I hope you have enough &7Altar Pillars&r! \\n\\nDon't forget the &4Pure Blood Level 4&r and 20 &cHuman Hearts&r. \\n\\n12 has same Hearts but another Armor Point to get us to 18!"]
+	quest.4A3BAACECED45EBA.quest_subtitle: "Lvl 12"
+	quest.4A3BAACECED45EBA.title: "Upgrading to &2Level 12&r"
+	quest.4B755120AFA8E85D.quest_desc: ["&eThe Sun&r can be pretty deadly to us &4Vampires&r especially at higher &2Levels&r. But what if we need to get something quickly in the &eSunlight&r? \\n\\nThis is what the &aAbility&r Sunscreen is for! We'll need the &2Skill&r: &2Sunscreen&r for it though. \\n\\nWhen used, the Effect of Sunscreen will protect you from the &eSunlight&r for a couple of seconds."]
+	quest.4B755120AFA8E85D.title: "Sunscreen"
+	quest.4B8C41324BDF3B46.quest_desc: ["Regeneration is the earliest &aAbility&r we can unlock. \\n\\nIt needs the &2Skill&r by the same name, &2Regeneration&r. \\n\\nIt is an &aAbility&r that works pretty much like a Regeneration Potion but instead of costing the Potion, it costs &cBlood&r!"]
+	quest.4B8C41324BDF3B46.title: "Regeneration"
+	quest.4D2846023B0D9840.quest_desc: ["By Crafting &cHeartseeker&r with &4Enhanced Blood-Infused Iron Ingots&r instead of &cnormal ones&r, we can get &4Enhanced Heartseeker&r! \\n\\nThe &4Enhanced&r will have same Attack Speed but more Damage. This does make it require more &cBlood&r from the &c&lPedestal&r though... \\n\\nAt least it can still be Enchanted!"]
+	quest.4D2846023B0D9840.title: "&4Enhanced Heartseeker"
+	quest.4DDC68DC0E55B96B.quest_desc: ["The &e&lGarlic Diffuser&r will Effect every &4Vampire&r in the Chunk with Garlic III, this is a &4Vampire&r version of Weakness, they can't Damage you. \\n\\nThe &e&lGarlic Diffuser&r uses &ePurified Garlic&r as its Fuel, 1 &ePurified Garlic&r Fuels it to 100% but that won't last too long. \\n\\nIt has a start-up cooldown, which you'll need to wait until it is being used. \\n\\nYou can also find them at the top of &bHunter Outposts&r!"]
+	quest.4DDC68DC0E55B96B.title: "&e&lGarlic Diffuser"
+	quest.4DE2828DD37549AE.quest_desc: ["The &8Vampire Forest&r is a terrifying, Foggy, and dark Forest you can find around your world! \\n\\nIt has giant Dark Spruce and Cursed Trees along with Vampire Orchids and Cursed Roots. \\n\\nWithin it will spawn dozens of &4Vampires&r, &4Vampire Animals&r, and even &4&lVampire Barons&r!"]
+	quest.4DE2828DD37549AE.title: "Visit the &8Vampire Forest"
+	quest.513F7A3556D36FB3.quest_desc: ["Structure Points are needed for powering the &4&lAltar&r to use it. Each &2Level&r will need a higher amount of Points. \\n\\nThe Points are determined by the Blocks within the &7Altar Pillars&r. \\n\\nStone Bricks- 1 Point \\nIron Blocks- 2 Points \\nGold Blocks- 3 Points \\n\\nAlso the &7Pillars&r must be perfectly set up to get the Points!"]
+	quest.513F7A3556D36FB3.title: "Structure Points"
+	quest.516E7CB4E19AA839.quest_desc: ["Looks like we have a pattern of twos! &2Level 9&r needs 26 Structure Points. \\n\\nIt will also need the same Items: a &4Pure Blood Level 2&r and 10 &cHuman Hearts&r. \\n\\nStill at 18 Hearts but now we're also at 16 Armor Points."]
+	quest.516E7CB4E19AA839.quest_subtitle: "Lvl 9"
+	quest.516E7CB4E19AA839.title: "Upgrading to &2Level 9"
+	quest.51BCFAFB7E9D96EC.quest_desc: ["Still pretty cheap, &5Hunter Intel Level 6&r and 10 Iron Ingots to the &9Vampire Hunter Trainer&r."]
+	quest.51BCFAFB7E9D96EC.quest_subtitle: "Lvl 6"
+	quest.51BCFAFB7E9D96EC.title: "Getting &2Level 6"
+	quest.55269406ADE19798.quest_desc: ["Using these Machines we can transform &cHearts&r into &cBlood&r! Very gruesome. \\n\\nFirst part is the &c&lBlood Sieve&r, this will collect the &cBlood&r made from the &c&lBlood Grinder&r. It can hold 2,000mB of &cBlood&r or 2 &cBuckets of Blood&r. \\n\\nSecond part is the &c&lBlood Grinder&r, it goes on top of the &c&lBlood Sieve&r. You can then Right Click the &c&lGrinder&r to add in &cHuman Hearts&r. \\n\\n&cHuman Hearts&r give 150mB &cBlood&r and &cWeak Human Hearts&r give 75mB &cBlood&r."]
+	quest.55269406ADE19798.title: "&cBlood&r from &cHearts&r"
+	quest.5620B596B3D692E0.quest_desc: ["The &c&lAlchemical Cauldron&r is used for mixing two different Items. \\n\\nIt will need a Fuel Source within the Bottom Slot. It uses Furnace Fuel, so Coal and Charcoal work perfectly! \\n\\nJEI won't tell you the Recipes by Right Clicking the &c&lAlchemical Cauldron&r, instead you can use the JEI function while in the GUI of the &c&lCauldron&r itself."]
+	quest.5620B596B3D692E0.title: "&c&lAlchemical Cauldron"
+	quest.5765441A4BFC8F2A.quest_desc: ["The first &2Level&r we'll get from the &4&lAltar of Infusion&r is &2Level 5&r. \\n\\nTo start we'll need 8 Structure Points. Then, throw 5 &cHuman Hearts&r and a &5Vampire Book&r into the &4&lAltar&r! \\n\\nOnce we do that, we can start the Ritual to &2Level up&r. \\n\\nAt &2Level 5 &4Vampires&r will have 17 Hearts and 13 Base Armor Points."]
+	quest.5765441A4BFC8F2A.quest_subtitle: "Lvl 5"
+	quest.5765441A4BFC8F2A.title: "Upgrading to &2Level 5&r"
+	quest.57B96326652F5DF4.quest_desc: ["To become a &4Vampire&r we'll need the &cSanguinare Vampiris&r. This is the Virus that makes people into &4Vampires&r. \\n\\nTo get it we need to either: get Bit by a &4Vampire&r, use &4Vampire Fangs&r, or Inject a &cSanguinare Injection&r at an &6&lInjection Chair&r. \\n\\nYou can find &4Vampire Fangs&r at the Village House."]
+	quest.57B96326652F5DF4.title: "\"Bite me!\""
+	quest.58EFF528A19EB4B8.quest_desc: ["Vampire Barons are Bosses you can find within Vampire Forests. \\n\\nWhen they see you, they will deploy Wings and their Eyes will become Red! They are ready to fight, are you? \\n\\nTheir Health is determined by their Level, usually it's between 100 to 300 Hearts. \\n\\nThey do a ton of Damage by hitting you and when hitting you it will inflict Weakness III and Slowness III. \\n\\nSometimes the Vampire might instead choose to fire Dark Blood squirts at you! These will Damage you if they hit you, don't worry too much about them they are easy to dodge. \\n\\nThey may at times turn Invisible... I don't know if that's a bug or not. \\n\\nThe Vampire Barons will teleport away if in Sunlight. They also attack other Barons near them!"]
+	quest.5B922A8EF636D0F8.quest_desc: ["The &4Crypt&r does not look like much, just being a house made of Dark Stone. But once we get down the massive Staircase well beneath the soil, we'll find so much more! \\n\\nThere's dozens of Chests all having a huge spread of Loot. \\n\\nFrom &cBlood Enhanced Ingots&r to Potions to &5Vampire Books&r! "]
+	quest.5B922A8EF636D0F8.title: "Visit the depths of the &4Crypt&r"
+	quest.5C019D3563CF44AA.quest_desc: ["At Level 14 of &bHunters&r and &4Vampires&r you will have 26 &2Skill Points&r. \\n\\nThis isn't enough for every single &2Skill&r so you'll need to choose which &2Skills&r you want. Some will also only allow you to choose 1 &2Skill&r or another. \\n\\nIf you wish to use different &2Skills&r you can reset your &2Skill Points&r by using a &dPotion of Oblivion&r."]
+	quest.5C019D3563CF44AA.title: "&2Skill Points"
+	quest.5EE4FADAF5128DFE.quest_desc: ["To get to &2Level 4&r we'll need to hand a &bVampire Hunter&r 12 &cVampire Bloods&r. \\n\\nThis is the last time we'll need to talk to a &bVampire Hunter&r in order to &2Level up&r, if we want to &2Level up&r further we'll need to talk to a &9Vampire Hunter Trainer&r who spawn in &bHunter Outpost&r. \\n\\nWe'll also need &5Hunter Intel&r, which is Crafted with..."]
+	quest.5EE4FADAF5128DFE.quest_subtitle: "Lvl 4"
+	quest.5EE4FADAF5128DFE.title: "Train to &2Level 4"
+	quest.5F9A544D84EB0FFA.quest_desc: ["&5Hunter Intel 8&r will need the Books and &4Pure Blood Level 2&r. \\n\\nThese drop from &2Level 2 &4&lVampire Barons&r. The higher the &2Level&r, the stronger they are."]
+	quest.5F9A544D84EB0FFA.title: "Crafting &5Hunter Intel 8"
+	quest.608A2102A42F0438.quest_desc: ["For &2Level 9&r and above he'll now be asking for Iron and Gold Ingots! \\n\\n20 Iron Ingots, 10 Gold Ingots, and of course the &5Hunter Intel Level 9&r."]
+	quest.608A2102A42F0438.quest_subtitle: "Lvl 9"
+	quest.608A2102A42F0438.title: "Getting &2Level 9"
+	quest.61929729BF553206.quest_desc: ["The &8Vampire Forest&r is a terrifying, Foggy, and dark Forest you can find around your world! \\n\\nIt has giant Dark Spruce and Cursed Trees along with Vampire Orchids and Cursed Roots. \\n\\nWithin it will spawn dozens of &4Vampires&r, &4Vampire Animals&r, and even &4&lVampire Barons&r!"]
+	quest.61929729BF553206.quest_subtitle: "The Vampire Forest"
+	quest.61929729BF553206.title: "Visit home"
+	quest.62341AC5A563D9D6.quest_desc: ["&6Holy Water&r like other Items and Weapons has Tiers. \\n\\nWe'll need higher &2Skills&r to get the &2Skill&f: &2Greater Blessing&r. Now we can Bless Pure Salt Water to get &6Enhanced Holy Water&r. \\n\\nSome Recipes will need &6Enhanced Holy Water&r instead of normal &6Holy Water&r. \\n\\nOr we can make even better &6Splash Holy Waters&r!!! Wait why did I say or? We can do both!"]
+	quest.62341AC5A563D9D6.title: "&6Enhanced Holy Water"
+	quest.62467C410C523371.quest_desc: ["The &c&lBlood Pedestal&r is what will be needed to fill our &4Vampire Swords&r with &cBlood&r! \\n\\nTo do so, place the &c&lBlood Pedestal&r above a &cBlood Container&r, that is full of &cBlood&r. \\n\\nThen, place the &cSword&r into the &c&lPedestal&r. The &c&lPedestal&r will then extract the &cBlood&r into the &cSword&r to Charge it! \\n\\nThe better the Weapon, the more &cBlood&r it needs."]
+	quest.62467C410C523371.title: "&c&lBlood Pedestal"
+	quest.625604113A27D31B.quest_desc: ["The &6&lIron Crucifix&r will need to be Crafted within a &b&lHunter Weapon Table&r. \\n\\nIt's made of Iron (duh), a Stake, &6Holy Water&r, and an &6Enhanced Holy Water&r. \\n\\nThe &6&lIron Crucifix&r works exactly like a &6Wooden one&r, just with a higher Range!"]
+	quest.625604113A27D31B.title: "&6&lIron Crucifix"
+	quest.62B2FC6821877868.quest_desc: ["After placing down another Table, we'll need the Books, 15 &4Vampire Fangs&r, and &4Pure Blood Level 2&r."]
+	quest.62B2FC6821877868.title: "Crafting &5Hunter Intel 9"
+	quest.663C7283E69CA762.quest_desc: ["To Craft the first &5Hunter Intel&r for &2Level 5&r, we'll need only a few Items. \\n\\nA Book, a &5Vampire &for &5Hunter Book&r, and 10 &4Vampire Fangs&r. \\n\\nNo &4Pure Blood&r is needed for the first &5Hunter Intel&r."]
+	quest.663C7283E69CA762.title: "Crafting &5Hunter Intel 5"
+	quest.66D6FCCB60B8944F.quest_desc: ["Pure Blood will be an important Crafting Ingredient for later Leveling and for other Recipes. \\n\\nIt is dropped by Vampire Barons. Its Level is determined by the Baron's Level. \\n\\nLevel 5 Baron will drop Level 5 Pure Blood, Level 1 Baron will drop Level 1 Pure Blood."]
+	quest.66D6FCCB60B8944F.title: "Pure Blood"
+	quest.69AE7EA777CBE15B.quest_desc: ["Now we need to give the &9Trainer&r an equal amount of Iron and Gold Ingots. \\n\\n20 Iron and Gold Ingots plus the &5Hunter Intel Level 10&r."]
+	quest.69AE7EA777CBE15B.quest_subtitle: "Lvl 10"
+	quest.69AE7EA777CBE15B.title: "Getting &2Level 10"
+	quest.6A4C0901146941FC.quest_desc: ["Quite literally the same Recipe as &5Hunter Intel 10&r... I wonder if that is intentional."]
+	quest.6A4C0901146941FC.title: "Crafting &5Hunter Intel 11"
+	quest.6A946BD4DD970A9A.quest_desc: ["&cBlood-Infused Iron&r is made by combining 3 Iron Ingots and a &4Pure Blood Level 1-4&r. \\n\\nYou can also find them within some Structures! \\n\\nThese will be needed to Craft the &4Vampire Weapons&r and &eGarlic Finder&r."]
+	quest.6A946BD4DD970A9A.title: "&cBlood-Infused Iron"
+	quest.6AB15F7D5EEF9D23.quest_desc: ["The &6&o&lGolden Crucifix&r needs the &2Skill&f: &2Crucifixion&r to be made and used. \\n\\nIt's Crafted in a &b&lWeapon Table&r with Gold, &6Alchemical Fire&r, a Stake, and &6Enhanced Holy Water&r. \\n\\nThis one is used just like the others, but has the highest Range and Slows the Undead more than anything! They barely even move it's amazing!"]
+	quest.6AB15F7D5EEF9D23.title: "&6&l&oGolden Crucifix"
+	quest.6AF4B9AA3BD98E68.quest_desc: ["&cHeartstriker&r attacks slower than &cHeartseeker&r but for more Damage! \\n\\nYou will need &cBlood&r within it to use it effectively. \\n\\nWhen you kill Mobs with it, its Training will go up. This increases its Damage and Attack Speed! \\n\\nThem being Swords allows them to be Enchanted and also Repaired with &cBlood-Infused Iron&r."]
+	quest.6AF4B9AA3BD98E68.title: "&cHeartstriker"
+	quest.6B93A79AD347B569.quest_desc: ["By Crafting &cHeartstriker&r with &4Enhanced Blood-Infused Iron Ingots&r instead of &cnormal ones&r, we can get &4Enhanced Heartstriker&r! \\n\\nThe &4Enhanced&r will have same Attack Speed but more Damage. This does make it require more &cBlood&r from the &c&lPedestal&r though... \\n\\nAt least it can still be Enchanted!"]
+	quest.6B93A79AD347B569.title: "&4Enhanced Heartstriker"
+	quest.6C13EDBA2B1B4597.quest_desc: ["&5Vampire Books&r are Items you can find in Chests within &4Crypts&r and &4Vampire Huts&r. \\n\\nYou will need 1 each time you use the &4&lAltar of Infusion&r! \\n\\nYou can also read them like Book and Quills to learn some lore."]
+	quest.6C13EDBA2B1B4597.title: "&5Vampire Books"
+	quest.6CC115B608771F97.quest_desc: ["To become a &bHunter&r you will need a &eGarlic Injection&r. \\n\\nThe Syringe is just two Glass Blocks and a Glass Pane, very cheap! Then, Craft the &eGarlic&r with it to make the Injection. \\n\\nNow we'll need to use the &eGarlic Injection&r on the &6&lInjection Chair&r in the &6Village House&r. This will give us the &eGarlic Vaccine&r which will make us Immune to &cSanguinare&r!"]
+	quest.6CC115B608771F97.title: "&eGarlic Vaccine&r"
+	quest.6D952057FBBCEDC0.quest_desc: ["To get all the higher &2Levels&r after 4 we'll need a Multiblock! \\n\\nTechnically you don't need to find the Structure as you can Craft all the Blocks but come on! its free Blocks! \\n\\nThe most important Block is the &4&lAltar of Infusion&r, this is where we'll add our Items and start the Ritual. \\n\\nThe &4&lAltar&r won't work without enough &7Altar Pillars&r though..."]
+	quest.6D952057FBBCEDC0.title: "Find a &4&lVampire Altar&r"
+	quest.6E8732EE0DA793D9.quest_desc: [
+		"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. "
+		""
+		"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. "
+		""
+		"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+	]
+	quest.6EB7803CD3885BA7.quest_desc: ["&bVampire Hunters&r are the sworn Enemy of &4Vampires&r. And we'll need to kill them for their &cHearts&r. \\n\\nThey can have between 15 and 50 Hearts! They also have a &eGarlic Vaccine&r which makes them immune to being changed into a &4Vampire&r. \\n\\nMost times they seem to just use their Fists but they can also use Crossbows, Hunter Axes, and Stakes!"]
+	quest.6EB7803CD3885BA7.title: "Kill &bHunters"
+	quest.6FB1F1B81383BAF5.quest_desc: ["&4Vampire Huts&r are Towers made of Dark Stone and Dark Spruce that are found in &8Vampire Forests&r. \\n\\nWithin you'll find &cBlood Containers&r, Coffins, &cBlood Pedestals&r, and most importantly: Chests! \\n\\nThese Chests are where we can find even more &4Vampire&r Items."]
+	quest.6FB1F1B81383BAF5.title: "Rest at a &4Vampire Hut&r"
+	quest.70FB96CF33C8D0CD.quest_desc: ["&bHunter Outposts&r are settlements surrounded by giant man-made Walls. \\n\\nIt has a couple Buildings, with most being randomly generated. Almost all will have Tents and a Tower. Some might even have Potion Rooms and Armories! \\n\\nWithin and around the &bOutpost&r, &bVampire Hunters&r and &bAdvanced Vampire Hunters&r will spawn. In the Tower, if there is one, a &9Vampire Hunter Trainer&r will spawn. \\nThese will be necessary for &2Leveling up&r later! \\n\\nYou can find plenty of Weapons, Items, and Blocks within the &bOutpost&r to help you become a better &bVampire Hunter&r."]
+	quest.70FB96CF33C8D0CD.title: "Visit a &bHunter Outpost"
+	quest.733FB9F8996CE453.quest_desc: ["The &4Crypt&r might not look like much from the outside, but in order to get to the Loot we'll need to go down the Stairs into the Basement of the &4Crypt&r. \\n\\nYeah, just what I'd like to do, go down into the Basement of a &4Vampire Crypt&r! \\n\\nWithin it you will find a Maze of hallways which you can take to Rooms with Chests and Barrels full of Loot. Or to Stairways that lead to more Rooms with Chests and Barrels! \\n\\nOf course all throughout the Crypt you'll find &4Vampires&r."]
+	quest.733FB9F8996CE453.title: "Explore into the &4Crypts"
+	quest.766C8EEBD5ED0B88.quest_desc: ["&cHeartseeker&r attacks faster than &cHeartstriker&r but for less Damage! \\n\\nYou will need &cBlood&r within it to use it effectively. \\n\\nWhen you kill Mobs with it, its Training will go up. This increases its Damage and Attack Speed! \\n\\nThem being Swords allows them to be Enchanted and also Repaired with &cBlood-Infused Iron&r."]
+	quest.766C8EEBD5ED0B88.title: "&cHeartseeker"
+	quest.76800EB527243FC7.quest_desc: ["The &9Enhanced Hunter Axe&r is built just like the normal &bHunter Axe&r just with Diamonds now! \\n\\nWe'll need the &2Skill&f: &2Enhanced Weapons&r, in order to build it though. \\n\\nThe &9Enhanced Hunter Axe&r does the same Base Damage as the normal one, but now with more Knockback and more Damage to &4Vampires&r!"]
+	quest.76800EB527243FC7.title: "&9Enhanced Hunter Axe"
+	quest.7776BB08E2591532.quest_desc: ["The &bSemi-Auto Crossbow&r is a &bCrossbow&r that works with the Arrow Clip. \\n\\nYou can Craft it in a &b&lWeapon Table&r but you'll need &2Skill&f: &2Technology&r to Craft and use it. \\n\\nFill an Arrow Clip with Arrows then it will fill the &bCrossbow&r."]
+	quest.7776BB08E2591532.title: "&bSemi-Auto Crossbow"
+	quest.7B8CA0DC2DB422EB.quest_desc: ["Just like the past payments, &5Hunter Intel 7&r and now 15 Iron Ingots."]
+	quest.7B8CA0DC2DB422EB.quest_subtitle: "Lvl 7"
+	quest.7B8CA0DC2DB422EB.title: "Getting &2Level 7"
+	quest.7E67CD66CB7B9823.quest_desc: ["&2Level 8&r gets more pricier for both, now needing 26 Structure Points. \\n\\nAnd for Items we'll need a &4Pure Blood Level 2&r and 10 &cHuman Hearts&r. \\n\\nUs &4Vampires&r will stay at 18 Hearts and 15 Armor Points. "]
+	quest.7E67CD66CB7B9823.quest_subtitle: "Lvl 8"
+	quest.7E67CD66CB7B9823.title: "Upgrading to &2Level 8"
+	task.15E0F79E0ECB4E00.title: "Skill Points"
+	task.221EA75E441BAFDB.title: "Cloaks"
+	task.24C5DC5FD373D955.title: "AllRightsReserved"
+	task.38DE359D58595D93.title: "Hunter Books"
+	task.48DE15D926DFBCC3.title: "Vampire Books"
+	task.5532BB474A625765.title: "Headware"
+}

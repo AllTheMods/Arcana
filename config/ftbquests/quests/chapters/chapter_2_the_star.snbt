@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "295AE28C87532FC3"
 			image: "atm:textures/questpics/chap2/atmstar_title1.png"
 			order: 1
 			rotation: 0.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.0d
+			id: "643CD0C39C46823C"
 			image: "atm:textures/questpics/chap2/atmstar_title2.png"
 			order: 1
 			rotation: 0.0d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 20.0d
+			id: "6EA4019776172689"
 			image: "allthetweaks:item/pulsating_black_hole"
 			rotation: 0.0d
 			width: 20.0d

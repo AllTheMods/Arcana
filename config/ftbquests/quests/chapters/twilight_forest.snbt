@@ -7,15 +7,28 @@
 		id: "twilightforest:moonworm_queen"
 	}
 	id: "7732CF7AAA63DB3A"
-	images: [{
-		height: 2.0d
-		image: "atm:textures/questpics/twilight_forest_title.png"
-		rotation: 0.0d
-		width: 12.5d
-		x: 5.0d
-		y: -5.0d
-	}]
-	order_index: 4
+	images: [
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "1E5FB64706191C4D"
+			image: "atm:textures/questpics/gettingstarted/twilight_portal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			id: "2D30645DF7D7D189"
+			image: "atm:textures/questpics/twilight_forest_title.png"
+			rotation: 0.0d
+			width: 12.5d
+			x: 5.0d
+			y: -5.0d
+		}
+	]
+	order_index: 5
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -1761,24 +1774,6 @@
 			}]
 			x: 18.0d
 			y: 5.5d
-		}
-		{
-			id: "4560696EB252478D"
-			invisible: true
-			optional: true
-			shape: "circle"
-			tasks: [
-				{
-					id: "0449F81DD0B413B8"
-					type: "checkmark"
-				}
-				{
-					id: "3173371129427F06"
-					type: "checkmark"
-				}
-			]
-			x: -1.5d
-			y: 0.0d
 		}
 	]
 }

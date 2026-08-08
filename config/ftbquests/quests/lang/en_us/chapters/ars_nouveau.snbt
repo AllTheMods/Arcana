@@ -1,0 +1,2538 @@
+{
+	quest.0005D1D289B67F45.quest_desc: [
+		"While the &5Mycelial Sourcelink&r consumes any edible item, some foods are far more efficient than others, yielding significantly more &bSource&r. Chief among these are &dSourceberries&r and their derivatives!"
+		""
+		"&dSourceberries&r, found on bushes in &aTaiga&r and &dArchwood Forest&r biomes (and harvestable by &eStarbuncles&r), can be eaten directly or crafted into pies and cakes. These items, along with anything tagged as &dars_nouveau:magic_food&r, provide a substantial bonus to &bSource&r generation when consumed by the Sourcelink."
+		""
+		"&lTip:&r Villagers can sometimes offer &dSourceberry Pies&r or &dCakes&r in their trades. Setting up an automated trading system could provide a steady stream of high-efficiency fuel for your Mycelial Sourcelink!"
+	]
+	quest.0005D1D289B67F45.quest_subtitle: "&8Maximizing Source from Sustenance&r"
+	quest.0005D1D289B67F45.title: "&l&5Fungal Fuel: Magical Mycelial Foods&r"
+	quest.00F0052F05CF8EBE.quest_desc: [
+		"School: &6Manipulation&r"
+		"Places blocks from the caster's inventory (hotbar first for players)."
+		""
+		"Casting on an entity places the block beneath it upwards. Augment with &eSensitive (x1)&r to place the block in the caster's facing direction. &eSensitive (x2)&r places it in the opposite direction."
+	]
+	quest.00F0052F05CF8EBE.quest_subtitle: "&8Magical Building&r"
+	quest.00F0052F05CF8EBE.title: "Create Structure: The &6Place Block&r &bGlyph&r"
+	quest.019311E9D5E55BCB.quest_desc: [
+		"Stumble upon a rare and peaceful &eStarbuncle Shrine&r, a place seemingly dedicated to these adorable creatures. You might notice the central statue has a particularly &6shiny tail&r..."
+		""
+		"Could this be a source of the &6gold&r that wild Starbuncles seek? Investigate the shrine; perhaps there's more to it than just a cute monument."
+	]
+	quest.019311E9D5E55BCB.quest_subtitle: "&8A Glimmer of Gold?&r"
+	quest.019311E9D5E55BCB.title: "Celestial Shrine: The &eStarbuncle Shrine&r"
+	quest.0263F546EA02AD7E.quest_desc: [
+		"School: &6Manipulation&r"
+		"Names a target entity after the &aset Spell Name&r in your spellbook. Targeting a block names nearby entities or inventory blocks directly if possible. Targeting self names the held off-hand item. Can be overridden by a Name Tag in the hotbar."
+	]
+	quest.0263F546EA02AD7E.quest_subtitle: "&8Labeling the World&r"
+	quest.0263F546EA02AD7E.title: "Assign Identity: The &6Name&r &bGlyph&r"
+	quest.027E5F7715BE5C76.quest_desc: [
+		"School: &0Anima&r"
+		"Attempts to dominate the mind of the target:"
+		"*   &lEnemy Mob:&r Makes them fight for you as a temporary ally."
+		"*   &lTameable Mob:&r Instantly tames it."
+		"*   &lWild Animal:&r Makes it temporarily \"fall in love\" (enter breeding mode)."
+		"Each &eAmplify&r augment increases the chance of success, as stronger mobs have higher resistance."
+	]
+	quest.027E5F7715BE5C76.quest_subtitle: "&8Temporary Domination&r"
+	quest.027E5F7715BE5C76.title: "Mind Control: The &0Charm&r &bGlyph&r"
+	quest.02CBF4597EE5F057.quest_desc: [
+		"School: &dConjuration&r"
+		"Summons &atwo wolves&r that will fight alongside you for a duration."
+		""
+		"Augment with &eExtend Time&r to increase how long the wolves remain. Applies &dSummoning Sickness&r to the caster, preventing further summoning spells for a short time."
+	]
+	quest.02CBF4597EE5F057.quest_subtitle: "&8Conjuring Canine Allies&r"
+	quest.02CBF4597EE5F057.title: "Summon Packmates: The &dSummon Wolves&r &bGlyph&r"
+	quest.02D74F0B0B4D5E9E.quest_desc: [
+		"This special codex allows players to share their discovered &bglyph&r knowledge with others."
+		""
+		"Simply use the &eCodex&r item – it will record all the glyphs you currently know, consuming some &aExperience Points&r for each glyph recorded. Using it again updates the list. Another player can then use the recorded &eCodex&r to learn all the glyphs contained within, consuming the &eCodex&r in the process. A valuable tool for teaching fellow mages!"
+	]
+	quest.02D74F0B0B4D5E9E.quest_subtitle: "&8Passing Down Glyphs&r"
+	quest.02D74F0B0B4D5E9E.title: "Sharing Knowledge: The &dAnnotated Codex&r"
+	quest.030CD26C3629D856.quest_desc: [
+		"School: &cFire&r"
+		"Creates a firework explosion at the target location or entity."
+		"*   &eAmplify:&r Adds firework stars to the explosion."
+		"*   &eExtend Time:&r Adds additional flight time to the rocket."
+		"If a firework rocket exists in the caster's inventory, the created firework mimics its properties. Spell Turrets using Touch form create fireworks as if dispensed."
+	]
+	quest.030CD26C3629D856.quest_subtitle: "&8Magical Pyrotechnics&r"
+	quest.030CD26C3629D856.title: "Celebratory Sparkles: The &cFirework&r &bGlyph&r"
+	quest.048DC7487156240A.quest_desc: [
+		"This versatile augment changes how Forms and Effects target or interact with the world:"
+		"*   Allows Forms like &eProjectile&r and &eOrbit&r to target normally non-solid blocks like &agrass&r."
+		"*   Allows &eTouch&r to target &bfluids&r and &eair&r."
+		"*   Modifies specific Effect behaviors (e.g., &aBreak&r simulates Shears, &eIgnite&r creates Mage Fire, &eProjectile&r breaks plants, &ePull&r/&eLaunch&r avoid affecting blocks, &eRotate&r changes axis, &ePlace Block&r targets facing direction)."
+		""
+		"Check individual glyph descriptions to see how Sensitive modifies their function!"
+	]
+	quest.048DC7487156240A.quest_subtitle: "&8Altering Interaction Rules&r"
+	quest.048DC7487156240A.title: "Refined Targeting: The &eSensitive&r &bGlyph&r"
+	quest.04E95F6BE7E6F4F3.quest_desc: [
+		"This specialized housing, crafted with materials bridging &eArs Nouveau&r and &eAE2&r, is the essential base component required to create &dME Source Storage Cells&r."
+		""
+		"Once combined with appropriate storage components within your &eAE2 system&r, the resulting Source Cell will allow you to store vast quantities of magical &bSource&r digitally, managed directly by your network alongside items and fluids. This component is key to integrating Source storage into your AE2 logistics."
+	]
+	quest.04E95F6BE7E6F4F3.quest_subtitle: "&8The Foundation for Source Cells&r"
+	quest.04E95F6BE7E6F4F3.title: "Storing Magic Digitally: The &dME Source Cell Housing&r"
+	quest.050D8D2EABE8FBAD.quest_desc: [
+		"An &eEnchanted Spell Turret&r infused with the power of a &bWater Focus&r."
+		""
+		"Spells cast by this turret trigger &bWater Focus&r abilities and combos. &bWater school spells&r benefit from a &a65% Source cost reduction&r."
+	]
+	quest.050D8D2EABE8FBAD.quest_subtitle: "&8Imbued with Tides&r"
+	quest.050D8D2EABE8FBAD.title: "Aquatic Automation: &bWater Infused Turret&r"
+	quest.054C2BE692F90A61.quest_desc: [
+		"School: &bWater&r"
+		"Curses a creature to drown. Reduces the target's air supply rapidly and causes drowning damage when depleted. If augmented with &eExtend Time&r, the target will also be dragged downwards and unable to swim up for a short period."
+	]
+	quest.054C2BE692F90A61.quest_subtitle: "&8Doomed to Drown&r"
+	quest.054C2BE692F90A61.title: "Suffocating Depths: The &bWatery Grave&r &bGlyph&r"
+	quest.05686ED7A5EE9861.quest_desc: [
+		"Obtained by performing the &eRitual of Binding&r near a &dFlarecannon&r."
+		""
+		"Binding a Flarecannon familiar provides these passive benefits:"
+		"*   Increases the damage of your &cFire spells&r by &a2&r."
+		"*   Reduces the &bmana cost&r of projectile-based spells by &a20%&r."
+		"*   Feeding it a &cMagma Cream&r grants you a short &dFire Resistance&r buff."
+	]
+	quest.05686ED7A5EE9861.quest_subtitle: "&8Fiery Familiar&r"
+	quest.05686ED7A5EE9861.title: "Living Artillery: &cBound Script: Flarecannon&r"
+	quest.05939506ABAFEDD5.quest_desc: [
+		"Allows a &dStarbuncle&r to function as a mobile trash can."
+		""
+		"While wearing this accessory, the Starbuncle will &8void (destroy)&r any nearby items on the ground or items it picks up from linked chests."
+	]
+	quest.05939506ABAFEDD5.quest_subtitle: "&8Embracing the Void Raccoon&r"
+	quest.05939506ABAFEDD5.title: "Item Disposal: The &8Starbin&r"
+	quest.07302E54666BBF85.quest_desc: [
+		"School: &aEarth&r"
+		"Temporarily stops targeted entities from moving or jumping."
+		""
+		"Augment with &eExtend Time&r to increase the duration. Using Snare on a block created by a &eFocus of Block Shaping&r effect will cause it to attempt immediate placement."
+	]
+	quest.07302E54666BBF85.quest_subtitle: "&8Stopping Motion&r"
+	quest.07302E54666BBF85.title: "Immobilize: The &aSnare&r &bGlyph&r"
+	quest.075B6EB5AC5AB6EB.quest_desc: [
+		"School: &bWater&r"
+		"Places fluid into the world, draining it from a compatible tank in the caster's hotbar or adjacent to the turret that cast the spell."
+	]
+	quest.075B6EB5AC5AB6EB.quest_subtitle: "&8Deploying Fluids Magically&r"
+	quest.075B6EB5AC5AB6EB.title: "Dispense Liquid: The &bPlace Fluid&r &bGlyph&r"
+	quest.0771591352EDE549.quest_desc: [
+		"This charm allows you to summon a &dWixie&r, a helpful familiar capable of automatically crafting items for you at the cost of &bSource&r."
+		""
+		"To obtain a &eWixie Token&r (needed to craft the charm), you must cast the &dDispel&r spell on a &cWitch&r while she is below half health. Once you have the &dWixie Charm&r, use it on a &eCauldron&r placed in the world to summon your Wixie. Wixies can be dyed Red, White, Black, Blue, or Green."
+	]
+	quest.0771591352EDE549.quest_subtitle: "&8Automated Magical Assistant&r"
+	quest.0771591352EDE549.title: "Summoning the Crafter: The &5Wixie Charm&r"
+	quest.077C790B808C50E5.quest_desc: [
+		"These blocks generate invisible currents that affect entities within their range. While &asneaking&r, entities float &adownwards&r; otherwise, they ascend &aslowly&r. Stack multiple blocks vertically to increase the range."
+		""
+		"Requires &bSource&r to operate, granting &dLevitation&r or &dSlow Falling&r. Special variants exist:"
+		"*   &cMagmatic Upstream Block:&r Works only on entities in &clava&r, granting &dFire Resistance&r."
+		"*   &bBubble Upstream Block:&r Works only on entities in &bwater&r, restoring &bair&r."
+	]
+	quest.077C790B808C50E5.quest_subtitle: "&8Controlled Ascent \\& Descent&r"
+	quest.077C790B808C50E5.title: "Magical Currents: &eElemental Upstream Blocks&r"
+	quest.09C1AE6F053DD329.quest_desc: [
+		"School: &aEarth&r"
+		"Creates a spike of dripstone that damages entities touching it."
+		"*   &eAoE / Pierce:&r Make the spike field wider or taller."
+		"*   &eExtend Time:&r Make the spikes last longer."
+		"*   &eAmplify:&r Increase the damage dealt by the spikes."
+	]
+	quest.09C1AE6F053DD329.quest_subtitle: "&8Conjuring Dripstone Hazards&r"
+	quest.09C1AE6F053DD329.title: "Earthen Impalement: The &aSpike&r &bGlyph&r"
+	quest.09DA913A37FC81FD.quest_desc: [
+		"A simple yet effective ritual that instantly sets the current time to &8night&r (specifically, the beginning of nighttime). Does not require &bSource&r."
+		""
+		"Useful for nighttime activities, mob farming, or simply changing the ambiance."
+	]
+	quest.09DA913A37FC81FD.quest_subtitle: "&8Calling the Darkness&r"
+	quest.09DA913A37FC81FD.title: "Night's Arrival: The &8Moonfall&r &dTablet&r"
+	quest.0B097F1DEBD7BD95.quest_desc: [
+		"Integrate a &dWixie&r with a furnace setup (Wixie Charm used on Furnace) to automate smelting."
+		""
+		"The Wixie pulls &afuel&r and &asmeltable items&r from nearby (or bound) inventories, feeds the furnace, and extracts results  to a binded inventory, consuming &bSource&r per operation."
+		""
+		"&lMulti-Smelting:&r Place up to 8 &eArcane Pedestals&r adjacent to the Wixie Furnace block with desired smeltable items. The Wixie will process these items round-robin, managing fuel and input/output. Powering a pedestal disables its item."
+	]
+	quest.0B097F1DEBD7BD95.quest_subtitle: "&8Magical Furnace Operation&r"
+	quest.0B097F1DEBD7BD95.title: "Automated Smelting: &dWixie \\& the Furnace&r"
+	quest.0B10A06E09195D15.quest_desc: [
+		"This crystal acts as a remote viewpoint. Right-click the placed crystal to &alook through it&r as if you were standing there."
+		""
+		"More importantly, you can bind its location to a &eScryer's Scroll&r by using a &fBlank Parchment&r on the crystal. This allows the crystal's viewpoint to be accessed remotely using a &eScryer's Oculus&r or targeted by an &eEnchanter's Eye&r."
+	]
+	quest.0B10A06E09195D15.quest_subtitle: "&8A Magical Window&r"
+	quest.0B10A06E09195D15.title: "Remote Viewing Point: The &5Scry Crystal&r"
+	quest.0BDB28B5683E0729.quest_desc: [
+		"School: &6Manipulation&r"
+		"Slams nearby identical item entities together at high speed, attempting to craft them (useful for recipes requiring specific conditions or just compacting) (Check &6Create&r mixing recipes to see the available options)."
+		""
+		"Combine with &eSmelt&r for heated mixing, or &eSuperheat&r for advanced fusion."
+	]
+	quest.0BDB28B5683E0729.quest_subtitle: "&8Forcing Items Together&r"
+	quest.0BDB28B5683E0729.title: "Combine Items: The &6Fuse&r &bGlyph&r"
+	quest.0C07EA495E6183D4.quest_desc: [
+		"These specialized scrolls provide instructions for automation-related entities, primarily &dStarbuncles&r, dictating how they interact with items, fluids, and blocks:"
+		""
+		"*   &eItem Scroll: Allow:&r Inscribe items onto this scroll using a &eScribe's Table&r (place scroll, sneak-use item). A &dStarbuncle&r holding this will &lonly&r pick up items listed on the scroll."
+		"*   &eItem Scroll: Deny:&r Inscribed similarly to the Allow scroll. A &dStarbuncle&r with this scroll will pick up &lany item NOT&r listed on the scroll (blacklist)."
+		"*   &eMimic Scroll:&r Attach to an inventory using an &eItem Frame&r. Automated entities (like Starbuncles) will only insert items into that inventory &lif that item type already exists&r within it."
+		"*   &eFluid Scroll: Allow/Deny:&r Functions like the Item Scroll counterparts but for &bfluids&r. Used on a Starbuncle or placed in an Item Frame on a tank to filter fluid interactions."
+		"*   &eDirection Scroll:&r Provides directional instructions. When used on a &dStarbuncle&r or placed in an &eItem Frame&r on a block, the Starbuncle interacts with the block specifically from the &aspecified face/direction&r. Can be read by &eStarbuncles&r wearing the &eWyrm Degree&r."
+	]
+	quest.0C07EA495E6183D4.quest_subtitle: "&8Directing Familiars and Systems&r"
+	quest.0C07EA495E6183D4.title: "Automation Control: &eFilter \\& Direction Scrolls&r"
+	quest.0C747148F0407727.quest_desc: [
+		"When applied to &eProjectile&r or &eArc Projectile&r or &eHoming Projectile&r forms, allows the projectile to continue traveling &athrough&r its target after hitting a mob or block, potentially hitting multiple targets in a line."
+		""
+		"Also causes certain effects (like Break) to target the block directly behind the initial impact point. Combines with &eAoE&r to add depth (affecting blocks in a line behind the target area)."
+	]
+	quest.0C747148F0407727.quest_subtitle: "&8Passing Through Targets&r"
+	quest.0C747148F0407727.title: "Penetrating Power: The &ePierce&r &bGlyph&r"
+	quest.0CA3E6FB30399B2E.quest_desc: [
+		"School: &eAir&r"
+		"Launches an entity or block high into the air."
+		""
+		"Can be used for large jumps, flinging mobs, or quickly ascending cliffs. Augment with &eSensitive&r to prevent launching blocks."
+	]
+	quest.0CA3E6FB30399B2E.quest_subtitle: "&8Sending Targets Skyward&r"
+	quest.0CA3E6FB30399B2E.title: "Upwards Thrust: The &eLaunch&r &bGlyph&r"
+	quest.0CB8616FC3292F95.quest_desc: [
+		"Simple yet essential, &fBlank Parchment&r serves as the base for various magical scrolls and inscriptions."
+		""
+		"Crafted easily, it's needed for creating &eSpell Parchments&r to hold spells, &eScryer's Scrolls&r to store locations, and different types of &eFilter Scrolls&r used in automation. Keep a supply handy for your scribing needs!"
+	]
+	quest.0CB8616FC3292F95.quest_subtitle: "&8Foundation for Scribing&r"
+	quest.0CB8616FC3292F95.title: "The Mage's Canvas: &fBlank Parchment&r"
+	quest.0DAED0F4E4698A70.quest_desc: [
+		"Harness potent ritual magic to instantly create circular islands of land, transforming the very biome around the &eRitual Brazier&r. These powerful rituals require a steady supply of &bSource&r as they generate blocks."
+		""
+		"Each tablet creates a specific biome type, like lush &dArchwood Forests&r, temperate &aPlains&r, or arid &eDeserts&r. Augment the ritual with &dSource Gems&r to increase the island's radius, or use specific items to further alter the resulting biome and landscape. Shape the world to your liking!"
+	]
+	quest.0DAED0F4E4698A70.quest_subtitle: "&8Terraforming New Lands&r"
+	quest.0DAED0F4E4698A70.title: "&l&dRituals of Creation: Conjure Island&r"
+	quest.0DC1EB48C39D84F9.quest_desc: [
+		"This intricate device, crafted using the &dEnchanting Apparatus&r and materials from both Ars Nouveau and Create, serves as a crucial bridge between the two mods."
+		""
+		"Hailing from &eArs Technica&r, the &eCalibrated Precision Mechanism&r is a core crafting ingredient used to create advanced devices and tools that seamlessly integrate Ars Nouveau's magical systems with Create's mechanical contraptions. It represents the fusion of arcane precision and engineered design."
+	]
+	quest.0DC1EB48C39D84F9.quest_subtitle: "&8Bridging Magic and Mechanics&r"
+	quest.0DC1EB48C39D84F9.title: "Magical Engineering Component: The &eCalibrated Precision Mechanism&r"
+	quest.0DC6B96D2824D393.quest_desc: [
+		"School: &6Manipulation&r"
+		"Simply opens the standard player &acrafting menu&r when cast (likely with &eSelf&r form)."
+	]
+	quest.0DC6B96D2824D393.quest_subtitle: "&8Accessing the Grid&r"
+	quest.0DC6B96D2824D393.title: "Remote Crafting: The &6Craft&r &bGlyph&r"
+	quest.0DCB4D6FC09BFDD8.quest_desc: ["Applies a &aSilk Touch&r effect to the &aBreak&r glyph, causing blocks to drop themselves instead of their usual drops. Also prevents &cExplosion&r from destroying blocks that drop items. Cannot be combined with &eLuck&r."]
+	quest.0DCB4D6FC09BFDD8.quest_subtitle: "&8Simulating Silk Touch&r"
+	quest.0DCB4D6FC09BFDD8.title: "Gentle Touch: The &eExtract&r &bGlyph&r"
+	quest.0DD1B926243E42F8.quest_desc: [
+		"These are the first &bglyphs&r you will learn and master, forming the core components of basic spells. They cover fundamental &5Forms&r (how the spell is cast, like &eProjectile&r), simple &aEffects&r (what the spell does, like &aBreak&r or &cIgnite&r), basic &eAugments&r (modifiers like &eAmplify&r), and conditional &cFilters&r."
+		""
+		"Learn these glyphs at the &eScribe's Table&r using items and &aXP&r. Once learned (by using the glyph item), they're permanently added to your &eSpellbook&r. You can cast spells using Tier I glyphs even with a &dNovice Spell Book&r (up to &a10 glyphs&r per spell). Master these essentials!"
+		""
+		"To see examples of spells go to the next page!"
+		"{@pagebreak}"
+		"&lSpell Examples (Tier I Only):&r"
+		"*   &eProjectile -> Break&r"
+		"    &8Use Case:&r Basic ranged mining for common blocks like dirt or stone."
+		"*   &eProjectile -> Break -> Amplify&r"
+		"    &8Use Case:&r Mining harder blocks (like obsidian) from a distance. Harvest level increases."
+		"*   &eTouch -> Harvest&r"
+		"    &8Use Case:&r Quickly harvest mature crops directly in front of you without breaking the plant."
+		"*   &eSelf -> Leap -> Amplify&r"
+		"    &8Use Case:&r A quick, amplified dash forward for faster travel or dodging."
+		"{@pagebreak}"
+		"*   &ePantomime -> Amplify -> Place Block&r"
+		"    &8Use Case:&r Place a block from your inventory at the block you are looking at, with increased range due to Amplify modifying Pantomime. Useful for building bridges or platforms remotely."
+		"*   &eProjectile -> Filter: Undead -> Harm&r"
+		"    &8Use Case:&r A ranged attack that will specifically &lNOT&r harm &8Undead&r creatures, useful for safely dealing with other mobs near an undead farm or ally."
+		"*   &eProjectile -> Filter:Not Undead -> Harm -> Amplify -> Delay -> Harm -> Amplify -> Delay -> Harm -> Amplify&r (10 Glyphs)"
+		"    &8Use Case:&r A powerful multi-hit spell against a single, undead target. Fires a projectile; if it hits something that isn't Undead, it deals amplified damage three times with short delays between hits. Excellent for focusing down tougher enemies, but be mindful of the mana cost!"
+	]
+	quest.0DD1B926243E42F8.quest_subtitle: "&8The Building Blocks of Spellcraft&r"
+	quest.0DD1B926243E42F8.title: "Foundational Magic: &bTier I Glyphs&r"
+	quest.0DDD6C730A822386.quest_desc: [
+		"Obtained by performing the &eRitual of Binding&r near a &dDrygmy&r (summoned via a Henge or found wild)."
+		""
+		"Binding a Drygmy familiar provides these passive benefits:"
+		"*   Increases the damage of your &aEarth spells&r by &a2&r."
+		"*   Grants a chance to gain additional &aloot&r (Looting effect) when slaying enemies."
+	]
+	quest.0DDD6C730A822386.quest_subtitle: "&8Nature Spirit Familiar&r"
+	quest.0DDD6C730A822386.title: "Fey Helper: &aBound Script: Drygmy&r"
+	quest.0E0A23D7ABCCBE51.quest_desc: [
+		"School: &dAbjuration&r"
+		"This effect glyph gives the target the &aBounce&r status effect. Entities with Bounce will spring upwards when they hit the ground after falling."
+		""
+		"Augmenting with &eAmplify&r preserves more forward momentum during the bounce."
+	]
+	quest.0E0A23D7ABCCBE51.quest_subtitle: "&8Updraft Upon Falling&r"
+	quest.0E0A23D7ABCCBE51.title: "Boing!: The &dBounce&r &bGlyph&r"
+	quest.0E6A4571F8E5853C.quest_desc: [
+		"This ritual imposes the &8Gravity&r effect on nearby players, temporarily forcing them to the ground and preventing jumping or flight."
+		""
+		"The ritual refreshes the gravity debuff as long as the player remains within range. Granting or refreshing this effect consumes &bSource&r from nearby &eSource Jars&r."
+	]
+	quest.0E6A4571F8E5853C.quest_subtitle: "&8Enforced Grounding&r"
+	quest.0E6A4571F8E5853C.title: "Bound to the Earth: The &8Gravity&r &dTablet&r"
+	quest.0F2A7378005C42CA.quest_desc: [
+		"This dark prism &8destroys&r any &bspell projectiles&r that pass through it."
+		""
+		"Useful for creating safe zones or specific spell filtering systems."
+	]
+	quest.0F2A7378005C42CA.quest_subtitle: "&8Projectile Nullification&r"
+	quest.0F2A7378005C42CA.title: "Spell Eater: The &8Void Prism&r"
+	quest.0F85FAD266906C7C.quest_desc: [
+		"Upgrade your Novice book to delve deeper. Upgrading &atransfers all your learned spells and glyphs&r to the new book."
+		""
+		"The &dMage's Spell Book&r is required to cast spells using &bTier 2 glyphs or lower&r. The maximum spell complexity remains &a10 glyphs&r. Your passive &bMana&r/regen bonus scales up. Can be dyed. Quick access: &e'V'&r / &e'C'&r!"
+	]
+	quest.0F85FAD266906C7C.quest_subtitle: "&8Apprentice Level Magic&r"
+	quest.0F85FAD266906C7C.title: "Advancing Your Studies: The &dMage's Spell Book&r"
+	quest.0F89BF19C8036D83.quest_desc: ["This device allows you to bind the effect of an active &eRitual Brazier&r to a &anew location&r within &a15 blocks&r.\\n\\nUse the &eDominion Wand&r first on the source &eRitual Brazier&r, then on the &eRelay&r to establish the link. Multiple rituals can be connected to the same Relay, extending its influence. Note: Any &bSource&r consumed by the ritual is drawn from jars near the &loriginal Brazier's&r location, not the Relay."]
+	quest.0F89BF19C8036D83.quest_subtitle: "&8Remote Ritual Projection&r"
+	quest.0F89BF19C8036D83.title: "Extending Ritual Effects: The &dRitual Brazier Relay&r"
+	quest.0FCB96CE038F6E59.quest_desc: [
+		"School: &6Manipulation&r"
+		"Condenses nearby identical item entities by automatically crafting them using available &a2x2 recipes&r (e.g., turning nuggets into ingots, ingots into blocks)."
+	]
+	quest.0FCB96CE038F6E59.quest_subtitle: "&8Quick 2x2 Crafting&r"
+	quest.0FCB96CE038F6E59.title: "Compact Items: The &6Pack&r &bGlyph&r"
+	quest.10196CFF096D9D59.quest_desc: [
+		"Generates &bSource&r from &ccreature deaths&r and &aanimal breeding&r events within a &a15-block radius&r (excluding summoned/blacklisted mobs)."
+		""
+		"Also passively generates &bSource&r from nearby &ababy animals&r and significantly &aaccelerates their growth&r."
+	]
+	quest.10196CFF096D9D59.quest_subtitle: "&8Harnessing Vital Energy&r"
+	quest.10196CFF096D9D59.title: "Life's Echo: The &aVitalic Sourcelink&r"
+	quest.10416B580DCCBC35.quest_desc: [
+		"School: &eAir&r"
+		"Knocks a target entity or block away a short distance from the caster."
+		""
+		"Augment with &eSensitive&r to prevent this spell from launching blocks."
+	]
+	quest.10416B580DCCBC35.quest_subtitle: "&8Pushing Targets Away&r"
+	quest.10416B580DCCBC35.title: "Forceful Shove: The &eKnockback&r &bGlyph&r"
+	quest.105BE73EC435561D.quest_desc: [
+		"Destroys nearby &cmonsters&r, converting them directly into &aExperience Gems&r. Monsters destroyed this way &lwill not drop items&r."
+		""
+		"&aExperience Gems&r generated by this ritual are worth &atwice as much&r experience as normal. Consumes &bSource&r each time a monster is disintegrated."
+	]
+	quest.105BE73EC435561D.quest_subtitle: "&8Monster Essence Extraction&r"
+	quest.105BE73EC435561D.title: "XP Conversion: The &aDisintegration&r &dTablet&r"
+	quest.105CF7C6804CE448.quest_desc: [
+		"An &eEnchanted Spell Turret&r infused with the power of a &cFire Focus&r."
+		""
+		"Spells cast by this turret trigger &cFire Focus&r abilities and combos. &cFire school spells&r benefit from a &a65% Source cost reduction&r."
+	]
+	quest.105CF7C6804CE448.quest_subtitle: "&8Imbued with Inferno&r"
+	quest.105CF7C6804CE448.title: "Fiery Automation: &cFire Infused Turret&r"
+	quest.11054F439284DD27.quest_desc: [
+		"This specialized jar stores up to &a100 doses&r (equivalent to 100 bottles) of a single type of &dpotion&r."
+		""
+		"Extract potions using an &fEmpty Bottle&r, &ePotion Flask&r, or apply directly to &eArrows&r. Can be used by &eWixies&r for automated crafting. Lock the jar to a specific potion type (for Wixie input) using a &eDominion Wand&r while sneaking. Outputs a &credstone signal&r via &eComparator&r based on fill level."
+	]
+	quest.11054F439284DD27.quest_subtitle: "&8Bulk Potion Storage&r"
+	quest.11054F439284DD27.title: "Liquid Reserves: The &dPotion Jar&r"
+	quest.112DF1076F6F50A0.quest_desc: [
+		"This device draws &bSource&r from nearby standard &eSource Jars&r and condenses it into its stable &bliquid fluid form&r."
+		""
+		"It will automatically output the liquid Source into compatible tanks (like a &eFluid Containment Jar&r) placed directly beneath it. Essential for integrating Source into fluid-based systems or creating &eFluid Sourcelinks&r."
+	]
+	quest.112DF1076F6F50A0.quest_subtitle: "&8Liquefying Magic&r"
+	quest.112DF1076F6F50A0.title: "From Essence to Liquid: The &bSource Condenser&r"
+	quest.11B299D6F2D5DC4F.quest_desc: [
+		"This device consumes &dpotions&r from a linked &ePotion Jar&r and applies their effects as an aura to &anearby entities&r, greatly extending the potion's utility over time."
+		""
+		"Bind a &ePotion Jar&r to the diffuser using a &eDominion Wand&r. It consumes a single potion dose every &a10 minutes&r and periodically reapplies the effect within its range every few seconds."
+	]
+	quest.11B299D6F2D5DC4F.quest_subtitle: "&8Atmospheric Alchemy&r"
+	quest.11B299D6F2D5DC4F.title: "Area-of-Effect Potions: The &dPotion Diffuser&r"
+	quest.11DCD02ECB154058.quest_desc: [
+		"Transmit &credstone signals&r wirelessly between multiple &cRedstone Relays&r."
+		""
+		"Connect relays within a &a30-block&r range. A relay takes input from one specific side and outputs the signal in all other directions to linked relays. Useful for complex contraptions without messy redstone dust lines."
+	]
+	quest.11DCD02ECB154058.quest_subtitle: "&8Untethered Signals&r"
+	quest.11DCD02ECB154058.title: "Wireless Logic: The &cRedstone Relay&r"
+	quest.11FFF88917F119DF.quest_desc: [
+		"Distilled within an &eImbuement Chamber&r, this essence holds the fluid and adaptable power of &bwater&r."
+		""
+		"Essential for crafting related to potions, frost magic, fluid manipulation, and aquatic themes."
+	]
+	quest.11FFF88917F119DF.quest_subtitle: "&8Liquid Potential&r"
+	quest.11FFF88917F119DF.title: "Core of the Tides: &bWater Essence&r"
+	quest.12160C985A10BB4A.quest_desc: [
+		"Scattered throughout the land are enigmatic &eNexus Towers&r, beacons of magical energy. While their exact purpose is varied, some explorers whisper tales of hidden chambers within."
+		""
+		"Should you find such a &asecret room&r, it may contain essential equipment to jumpstart your journey into Ars Nouveau, potentially including a basic set of &dmagical armor&r and initial supplies. Keep an eye out for irregularities as you investigate these towers."
+	]
+	quest.12160C985A10BB4A.quest_subtitle: "&8A Mage's Starting Point?&r"
+	quest.12160C985A10BB4A.title: "Tower of Beginnings: The &eNexus Tower&r"
+	quest.123D97A4B7454F48.quest_desc: [
+		"These magical blocks offer unique visual and physical properties, perfect for creative building and hidden designs:"
+		""
+		"*   &5Mirrorweave:&r Replicates the appearance, collision, and light properties of any block used on it. Ideal for camouflage or seamless design. Can be used as a portal frame. Casting &eLight&r allows it to emit light."
+		"*   &5Falseweave:&r Shares &eMirrorweave's&r appearance replication but can be passed through as if it were air. Casting &eSense Magic&r reveals its illusory nature, potentially exposing hidden paths."
+		"*   &5Ghostweave:&r Also replicates appearance like &eMirrorweave&r, but can be turned into an invisible, solid wall by casting &dInvisibility&r on it. Casting &dDispel&r makes it visible again, while &eSense Magic&r makes it appear solid again."
+		"*   &5Skyweave:&r Displays the skybox of the dimension it's placed in. Cast &dDispel&r on it to toggle between the skybox view and a configurable facade (set by using another block on it, like &eMirrorweave&r)."
+		""
+		"&eSense Magic&r will generally reveal the true nature of these illusion blocks."
+	]
+	quest.123D97A4B7454F48.quest_subtitle: "&8Blocks of Deception \\& Decoration&r"
+	quest.123D97A4B7454F48.title: "Illusory Construction: &5Weave Blocks&r"
+	quest.12445E17E1AC254D.quest_desc: [
+		"The zenith of craftable spell books, upgraded from Vibranium (learned content transfers)."
+		""
+		"The &5Unobtainium Spell Book&r allows &bTier 6 glyphs or lower&r, reaching the craftable limit of &520 glyphs&r. Represents the peak attainable &bMana&r/regen scaling. Quick access: &e'V'&r / &e'C'&r."
+		""
+		"&lNotice that in the down left corner of the spellbook there an arrow to see the new slots.&r"
+	]
+	quest.12445E17E1AC254D.quest_subtitle: "&8Unrivaled Spellcraft&r"
+	quest.12445E17E1AC254D.title: "&5Unobtainium Spell Book"
+	quest.124EF64CDDA3137D.quest_desc: [
+		"Obtained by performing the &eRitual of Binding&r near a &dSiren&r."
+		""
+		"Binding a Siren familiar provides these passive benefits:"
+		"*   Increases the damage of your &bWater spells&r by &a2&r."
+		"*   Grants you &dDolphin's Grace II&r while you are in water."
+	]
+	quest.124EF64CDDA3137D.quest_subtitle: "&8Aquatic Familiar&r"
+	quest.124EF64CDDA3137D.title: "Oceanic Ally: &bBound Script: Siren&r"
+	quest.12A3A24D42BBFF60.quest_desc: [
+		"Assigns a &dStarbuncle&r the job of &aplace blocks&r in specified locations (configured via Dominion Wand and source inventories)."
+		""
+		"Automate building tasks with your little helper."
+	]
+	quest.12A3A24D42BBFF60.quest_subtitle: "&8Construction Companion&r"
+	quest.12A3A24D42BBFF60.title: "Block Placement: The &aStarbuilder&r"
+	quest.12E727EDF49C1C2E.quest_desc: [
+		"This benevolent ritual creates an aura that periodically &aheals nearby living entities&r and &charms undead&r over time. Requires &bSource&r to operate."
+		""
+		"Additionally, any &8Zombie Villagers&r entering the ritual's radius will be &ainstantly cured&r. The resulting &aVillager&r will offer &adiscounted trades&r if a player is nearby during the curing process."
+	]
+	quest.12E727EDF49C1C2E.quest_subtitle: "&8Mending and Curing&r"
+	quest.12E727EDF49C1C2E.title: "Healing Aura: The &aRestoration&r &dTablet&r"
+	quest.13737689B01AC7BA.quest_desc: [
+		"Summon and command an &5Amethyst Golem&r to automate the farming and collection of Amethyst resources. First, obtain an &dAmethyst Golem Charm&r by performing the &eRitual of Awakening&r near &dBudding Amethyst&r."
+		""
+		"&lSummoning \\& Setup:&r"
+		"*   Use the &dCharm&r on a block to summon the Golem."
+		"*   Set its &ahome&r using the &eDominion Wand&r (click Golem, then click target Block/Inventory). Its work area is a &a10-block radius&r from home."
+		""
+		"&lFunctionality:&r Once a home is set, the Golem will:"
+		"*   Convert solid &5Amethyst Blocks&r into &dBudding Amethyst&r."
+		"*   Harvest mature &5Amethyst Clusters&r."
+		"*   Accelerate the growth of nearby &dBudding Amethyst&r."
+		"*   Pick up dropped &5Amethyst Shards&r."
+		""
+		"&lStorage:&r If its home is set to an &ainventory&r, the Golem will store collected &5Amethyst Shards&r there. Otherwise, it ignores items on the ground."
+	]
+	quest.13737689B01AC7BA.quest_subtitle: "&8Crystal Harvester&r"
+	quest.13737689B01AC7BA.title: "Amethyst Automation: The &5Amethyst Golem&r"
+	quest.13D5D110682EC7A5.quest_desc: [
+		"School: &eAir&r"
+		"Launches the target entity in the direction they are currently looking."
+		""
+		"Augment with &eAmplify&r to increase the distance traveled."
+	]
+	quest.13D5D110682EC7A5.quest_subtitle: "&8Propelling Forward&r"
+	quest.13D5D110682EC7A5.title: "Forward Dash: The &eLeap&r &bGlyph&r"
+	quest.145DC910A86A809D.quest_desc: [
+		"Created through infusion in an &eImbuement Chamber&r, this essence represents the grounding and resilient power of &aearth&r."
+		""
+		"Used in recipes focused on defense, growth, and physical manipulation. Can also be used directly on &7Dirt&r blocks to encourage &agrass&r growth."
+	]
+	quest.145DC910A86A809D.quest_subtitle: "&8Foundation of Stability&r"
+	quest.145DC910A86A809D.title: "Stone's Soul: &aEarth Essence&r"
+	quest.15390B5B9B989C32.quest_desc: [
+		"Use this &5Form&r glyph to target the spell effects onto the &ablock directly beneath your feet&r."
+		""
+		"Useful for creating effects centered on your current position on the ground, like summoning blocks or affecting the terrain below."
+	]
+	quest.15390B5B9B989C32.quest_subtitle: "&8Targeting Below You&r"
+	quest.15390B5B9B989C32.title: "Ground Zero: The &5Underfoot&r &bGlyph&r"
+	quest.1667B5E065256F60.quest_desc: [
+		"Utilize the power of &eApplied Energistics 2's P2P (Point-to-Point) Tunnels&r specifically attuned for magical &bSource&r transport."
+		""
+		"Link two of these Source P2P Tunnels together using an &eAE2 Memory Card&r. Once linked, any &bSource&r input into one tunnel can be instantly accessed or output from the other linked tunnel anywhere on your &eME Network&r, regardless of cable distance. Essential for routing Source energy throughout complex AE2 setups."
+	]
+	quest.1667B5E065256F60.quest_subtitle: "&8Source Across the Network&r"
+	quest.1667B5E065256F60.title: "Tunneling Source Energy: The &dME Source P2P Tunnel&r"
+	quest.1685A005D2E7F950.quest_desc: [
+		"To perform a &dritual&r, you need two key components: a &eRitual Brazier&r placed in the world and the corresponding &dRitual Tablet&r."
+		""
+		"Use the desired &dTablet&r on the placed &eBrazier&r. The Brazier will ignite, signifying it's ready but not yet active. At this stage, you can toss specific &aaugmentation items&r onto the Brazier to enhance the ritual's effects (check individual ritual descriptions)."
+		""
+		"Once ready and augmented (if desired), activate the ritual permanently by interacting with the Brazier with an &aempty hand&r. Note: Activation consumes the Tablet and prevents further augmentation. Rituals requiring &bSource&r will draw from &eSource Jars&r within a &a6-block radius&r."
+	]
+	quest.1685A005D2E7F950.quest_subtitle: "&8Performing Arcane Rites&r"
+	quest.1685A005D2E7F950.title: "Initiating Rituals: The &eRitual Brazier&r"
+	quest.16C9D5A708F8F306.quest_desc: [
+		"Constantly repels all mobs within a &a15-block radius&r, pushing them away from the brazier. Does not affect players or bosses. Does not require &bSource&r."
+		""
+		"&lAugmentations:&r"
+		"*   &fBone:&r Augmenting with a Bone causes the ritual to &lonly&r repel &8undead mobs&r."
+	]
+	quest.16C9D5A708F8F306.quest_subtitle: "&8Keeping Mobs at Bay&r"
+	quest.16C9D5A708F8F306.title: "Forceful Push: The &aRepulsion&r &dTablet&r"
+	quest.171BAC56CB6F7B00.quest_desc: [
+		"Prevents &chostile mobs&r from naturally spawning within a default &a32-block radius&r around the brazier."
+		""
+		"Consumes &bSource&r periodically (&aonce a minute&r) &lif&r a spawn attempt is successfully denied."
+		"&lAugmentations:&r"
+		"*   &8Rotten Flesh:&r Each piece of Rotten Flesh tossed onto the brazier before activation increases the radius by &a+1 block&r, up to a maximum of &a128 blocks&r."
+	]
+	quest.171BAC56CB6F7B00.quest_subtitle: "&8Denying Hostile Spawns&r"
+	quest.171BAC56CB6F7B00.title: "Safe Haven: The &dSanctuary&r &dTablet&r"
+	quest.1784DB8105E0A294.quest_desc: [
+		"School: &6Manipulation&r"
+		"Obliterates foes with immense arcane force, dealing significant damage."
+	]
+	quest.1784DB8105E0A294.quest_subtitle: "&8Sheer Destructive Force&r"
+	quest.1784DB8105E0A294.title: "Arcane Hammer: The &6Obliterate&r &bGlyph&r"
+	quest.183E159262A206B4.quest_desc: [
+		"This charm summons a &aWhirlisprig&r, curious nature sprites found exclusively in &aforested areas&r. Wild Whirlisprigs can sometimes be befriended and may drop &eWhirlisprig Tokens&r if a tree grows near them."
+		""
+		"&lSummoning \\& Setup:&r"
+		"*   Use the &dCharm&r on any &aflower&r to summon a Whirlisprig. The flower becomes its \"home base\" (Blossom)."
+		"*   Whirlisprigs consider their home a &a10-block radius&r (expanding 30 blocks up, 1 block down) from the Blossom."
+		"*   They require &bSource&r nearby to operate."
+		"*   They &lonly&r produce items if a &eChest&r is placed next to their Blossom."
+		""
+		"{@pagebreak}"
+		"&lFunctionality \\& Happiness:&r"
+		"*   Whirlisprigs produce natural materials (&awood, crops, seeds, flowers&r) based on the blocks within their home radius. Production rates depend on their &ahappiness&r."
+		"*   Happiness is determined by the &anumber&r and &adiversity&r of unique \"liked\" or \"loved\" natural blocks in their home (check by right-clicking with a block). Too much of one block type reduces happiness. Right-click a Whirlisprig with an empty hand for happiness details."
+		"*   Multiple Whirlisprigs can work from the same Blossom, increasing production speed."
+		"*   Use an &eItem Scroll: Deny&r on a Whirlisprig to filter unwanted output items (filter applies to all Sprigs at that Blossom)."
+		""
+		"Whirlisprigs follow entities, occasionally grow grass, and can be dyed Orange, Yellow, White, or Green. You can retrieve the charm by using &dDispel&r on a summoned Whirlisprig."
+	]
+	quest.183E159262A206B4.quest_subtitle: "&8Nature's Gatherers&r"
+	quest.183E159262A206B4.title: "Forest Sprites: The &aWhirlisprig Charm&r"
+	quest.1878FFA58C5C8A7E.quest_desc: [
+		"The &eEnchanting Apparatus&r is a sophisticated crafting station utilizing &bSource&r and items placed on nearby &eArcane Pedestals&r."
+		""
+		"To use it, place 8 &eArcane Pedestals&r within &a3 blocks&r of the Apparatus base and place your recipe ingredients onto them. Place the central recipe item directly onto the Apparatus block itself to initiate crafting. "
+		""
+		"&lImportant:&r The Enchanting Apparatus &lrequires&r an &eArcane Core&r block placed adjacent to its base to function."
+		""
+		"&lBe aware that if there are any other pedestal (eg. from a imbuement chamber) within the 3 blocks radio will detect them as part of the ritual and will not work &r"
+	]
+	quest.1878FFA58C5C8A7E.quest_subtitle: "&8Pedestal-Based Crafting&r"
+	quest.1878FFA58C5C8A7E.title: "Advanced Crafting Core: The &eEnchanting Apparatus&r"
+	quest.18BB31D86DABF2A7.quest_desc: [
+		"Using these shades on a &dStarbuncle&r significantly increases its coolness factor."
+		""
+		"However, it also &ldisables&r their ability to automatically pick up items from the ground or harvest &dSource Berries&r. A purely aesthetic choice with a functional trade-off. Using the &eDominion Wand&r on the Starbuncle will drop the glasses."
+	]
+	quest.18BB31D86DABF2A7.quest_subtitle: "&8Stylish Limitations&r"
+	quest.18BB31D86DABF2A7.title: "Cool Factor: &8Starbuncle Shades&r"
+	quest.1A39A3FB70DA9E5A.quest_desc: [
+		"School: &cFire&r"
+		"When used on an entity or block that is already &con fire&r or afflicted with &cBlasting&r or &cCinders&r, this spell causes an explosion around the target, dealing damage and creating short-lived, non-spreading &cMage Fire&r nearby. Entities afflicted with &cBlasting&r will immediately explode with extra force."
+	]
+	quest.1A39A3FB70DA9E5A.quest_subtitle: "&8Exploiting Burning Targets&r"
+	quest.1A39A3FB70DA9E5A.title: "Ignition Chain Reaction: The &cFlare&r &bGlyph&r"
+	quest.1AAC56C53E1871AD.quest_desc: [
+		"Schools: &6Manipulation&r, &eAir&r"
+		"Simulates using &aShears&r on shearable entities and blocks. Damages non-shearable entities for a small amount. Costs nothing."
+		""
+		"Augment with &eAmplify&r to simulate using an &aAxe&r instead (likely for stripping logs or breaking wooden items faster). For simulating breaking with shears (like cobwebs), see &aBreak&r + &eSensitive&r."
+	]
+	quest.1AAC56C53E1871AD.quest_subtitle: "&8Simulated Shears/Axe&r"
+	quest.1AAC56C53E1871AD.title: "Shearing Touch: The &eCut&r &bGlyph&r"
+	quest.1AE3FDBDF8C11BD4.quest_desc: [
+		"Forms a circular island of &esand&r and &esandstone&r with a default radius of &a7 blocks&r, transforming the surrounding area into a &eDesert&r biome. Requires &bSource&r."
+		""
+		"&lAugmentations:&r"
+		"*   &dSource Gem:&r Increases the radius by &a+1&r for each gem tossed onto the brazier before activation."
+		"*   &6Terracotta:&r Using Terracotta as an augment will create a rugged &6Badlands&r biome instead of a standard Desert."
+	]
+	quest.1AE3FDBDF8C11BD4.quest_subtitle: "&8Summoning Sandy Dunes&r"
+	quest.1AE3FDBDF8C11BD4.title: "Arid Expanse: &eConjure Island: Desert&r &dTablet&r"
+	quest.1B036E0DFB311899.quest_desc: ["Stops the spell sequence from resolving &lunless&r the target is a &cfire-immune or fiery creature&r."]
+	quest.1B036E0DFB311899.quest_subtitle: "&8Targeting Fire-Types&r"
+	quest.1B036E0DFB311899.title: "Affecting the Flammable: &cFilter: Not Fiery&r &bGlyph&r"
+	quest.1B8FAD9212AA9DB8.quest_desc: [
+		"School: None"
+		"Summons three orbiting projectiles around the target. These projectiles cast subsequent spell effects on any entities they collide with."
+		"*   Additional projectiles, their speed, radius, and duration can be augmented."
+		"*   &eSensitive:&r Causes the orbiting projectiles to hit blocks as well."
+	]
+	quest.1B8FAD9212AA9DB8.quest_subtitle: "&8Defensive / Offensive Orbiter&r"
+	quest.1B8FAD9212AA9DB8.title: "Guarded Projectiles: The &dOrbit&r &bGlyph&r"
+	quest.1C06CF2456E6C8EA.quest_desc: [
+		"This device takes &a3 doses&r of potion from &atwo linked input Potion Jars&r and combines their effects into a &asingle output potion&r dose, sent to a &athird linked Potion Jar&r."
+		""
+		"Use a &eDominion Wand&r to link the input jars, then the output jar. Requires &bSource&r per combination. Perfect for creating complex, multi-effect concoctions."
+	]
+	quest.1C06CF2456E6C8EA.quest_subtitle: "&8Combining Effects&r"
+	quest.1C06CF2456E6C8EA.title: "Synergistic Brews: The &dPotion Melder&r"
+	quest.1D2E4BA12A13A593.quest_desc: [
+		"School: &0Anima&r"
+		"Creates a link between your life force and the target's. Any damage dealt &ato you&r is shared with the target, and any healing the target receives is shared &awith you&r equally."
+		""
+		"Augment with &eSensitive&r to reverse the direction (your healing goes to them, their damage comes to you). The &eCut&r glyph can sever the link."
+	]
+	quest.1D2E4BA12A13A593.quest_subtitle: "&8Sharing Vital Force&r"
+	quest.1D2E4BA12A13A593.title: "Symbiotic Link: The &0Life Link&r &bGlyph&r"
+	quest.1D81E31B2717BD5A.quest_desc: [
+		"School: &6Manipulation&r"
+		"Takes item entities floating in the world within a medium radius of the spell's activation point and inserts them into nearby containers (chests, barrels, etc.)."
+	]
+	quest.1D81E31B2717BD5A.quest_subtitle: "&8Depositing into Inventories&r"
+	quest.1D81E31B2717BD5A.title: "Store Items: The &6Insert&r &bGlyph&r"
+	quest.1D88A86FD552F7BE.quest_desc: [
+		"Manifested in an &eImbuement Chamber&r, this essence embodies the power to bring forth entities and objects (&dconjuration&r)."
+		""
+		"Necessary for crafting spells and items related to summoning creatures, creating blocks, and other acts of magical materialization."
+	]
+	quest.1D88A86FD552F7BE.quest_subtitle: "&8Summoner's Will&r"
+	quest.1D88A86FD552F7BE.title: "Spark of Creation: &dConjuration Essence&r"
+	quest.1E3D028CF56F740B.quest_desc: [
+		"School: &6Manipulation&r"
+		"Teleports the caster to the target location."
+		"*   &lOn Entity (with Warp Scroll):&r If cast on an entity while holding an inscribed &eWarp Scroll&r in the off-hand, teleports the &atarget entity&r to the scroll's location."
+		"*   &lOn Self:&r Teleports the caster a short distance forward."
+		"*   &lSpell Turrets/Runes:&r Can use Warp Scrolls from adjacent inventories &awithout consuming the scroll&r."
+	]
+	quest.1E3D028CF56F740B.quest_subtitle: "&8Instantaneous Movement&r"
+	quest.1E3D028CF56F740B.title: "Short-Range Teleport: The &6Blink&r &bGlyph&r"
+	quest.1F70FA8231DF1D0A.quest_desc: [
+		"A powerful &5Form&r that allows you to cast spells on a target stored within a &dReliquary&r (from Ars Additions)."
+		""
+		"This allows you to affect a specific entity from potentially anywhere, provided you have captured its essence within a Reliquary first. Opens up possibilities for remote support, buffs, or even attacks on pre-designated targets."
+	]
+	quest.1F70FA8231DF1D0A.quest_subtitle: "&8Striking from Anywhere&r"
+	quest.1F70FA8231DF1D0A.title: "Remote Targeting: The &5Recall&r &bGlyph&r"
+	quest.1F88EA91A89162D8.quest_desc: [
+		"School: &bWater&r"
+		"Captures mobs and entities it touches, causing them to float gently upwards within the bubble."
+		""
+		"If the bubble has existed for at least one tick, damaging the trapped entity pops the bubble, dealing significant bonus damage. Augment with &eExtend Time&r and &eAmplify&r to increase the bubble's duration and damage potential."
+	]
+	quest.1F88EA91A89162D8.quest_subtitle: "&8Floating Entrapment&r"
+	quest.1F88EA91A89162D8.title: "Capture Sphere: The &bBubble&r &bGlyph&r"
+	quest.1F958841367409B9.quest_desc: [
+		"When applied to a projectile-based Form (&eProjectile&r, &eArc Projectile&r, &eHoming Projectile&r), this augment causes multiple projectiles to be cast simultaneously in a spread pattern."
+		""
+		"Each projectile carries the full set of subsequent effects. Excellent for hitting multiple targets or increasing the chance of hitting a single target at close range. Can also be used after &aSummon Undead&r to increase the number summoned."
+	]
+	quest.1F958841367409B9.quest_subtitle: "&8Shotgun Blast Magic&r"
+	quest.1F958841367409B9.title: "Multiply Projectiles: The &eSplit&r &bGlyph&r"
+	quest.1FF455DE37BEC241.quest_desc: [
+		"Utilize the power of rituals to reshape the environment around you. These tablets allow you to cultivate vibrant ecosystems or quickly establish forests."
+		""
+		"Grow fields of &aflowers&r and grass instantly, plant groves of mundane &atrees&r like Oak and Birch, or even cultivate mystical &dArchwood Trees&r. Augment these rituals to expand their reach or even alter the types of resources they generate, transforming the very biome around the brazier."
+	]
+	quest.1FF455DE37BEC241.quest_subtitle: "&8Shaping Nature with Magic&r"
+	quest.1FF455DE37BEC241.title: "&l&aRitualistic Landscaping&r"
+	quest.20D534F25A84CFE7.quest_desc: [
+		"School: &6Manipulation&r"
+		"Places a temporary block that emits a &credstone signal&r with configurable power and duration."
+		""
+		"Augment with &eAmplify&r to adjust power (base 10). Augment with &eSensitive&r to make the targeted block itself become a power source for itself and adjacent blocks."
+	]
+	quest.20D534F25A84CFE7.quest_subtitle: "&8Temporary Power Source&r"
+	quest.20D534F25A84CFE7.title: "Emit Signal: The &6Redstone Signal&r &bGlyph&r"
+	quest.210D0ECD156F6E34.quest_desc: [
+		"This ritual creates a circular island of &agrass&r and &adirt&r with a default radius of &a7 blocks&r, converting the area into a mystical &dArchwood Forest&r biome. Requires &bSource&r."
+		""
+		"&lAugmentations:&r"
+		"*   &dSource Gem:&r Increases the radius by &a+1&r for each gem tossed onto the brazier before activation."
+		"*   &dElemental Archfruit&r (e.g., &cBombegranate&r, &bFrostaya&r): Converts the resulting forest into a biome thematically matching the fruit (&cBlazing&r, &bCascading&r, etc.)."
+	]
+	quest.210D0ECD156F6E34.quest_subtitle: "&8Creating a Magical Grove&r"
+	quest.210D0ECD156F6E34.title: "Floating Sanctuary: &dConjure Island: Archwood Forest&r &dTablet&r"
+	quest.2184E4618DFD1A1E.quest_desc: [
+		"Another spell form you know from the start. Using &5Self&r as the first glyph applies all subsequent spell effects directly onto &ayou, the caster&r."
+		""
+		"Essential for buffs, personal healing, or other self-targeted magical effects."
+	]
+	quest.2184E4618DFD1A1E.quest_subtitle: "&8Applying Effects Inward&r"
+	quest.2184E4618DFD1A1E.title: "Personal Magic: The &5Self&r &bGlyph&r"
+	quest.229B231F3B8953FB.quest_desc: [
+		"Calls down &elightning strikes&r on entities that enter the ritual's area of effect (&a11x7x11 cube&r centered on the brazier). Does not require &bSource&r."
+		""
+		"&lAugmentations:&r"
+		"*   &eAir Essence:&r If augmented with Air Essence, the ritual &lwill&r target players. Use with caution!"
+	]
+	quest.229B231F3B8953FB.quest_subtitle: "&8Shocking Intruders&r"
+	quest.229B231F3B8953FB.title: "Lightning Trap: The &eZapping&r &dTablet&r"
+	quest.2312636EE022F2FC.quest_desc: [
+		"Unlock the power of &dRituals&r to automate tasks and create persistent magical effects in the world. Rituals are initiated using a &eRitual Brazier&r activated by a specific &dRitual Tablet&r."
+		""
+		"This collection focuses on practical applications: boosting your &dfamiliars&r, &amining&r resources, managing &acrops&r and &aanimals&r, or manipulating entities. Many rituals require a continuous supply of &bSource&r and can often be enhanced with specific &aaugmentation items&r tossed onto the brazier before activation. Explore these tablets to streamline your magical operations!"
+	]
+	quest.2312636EE022F2FC.quest_subtitle: "&8Streamlining Magical Tasks&r"
+	quest.2312636EE022F2FC.title: "&l&6Rituals of Utility \\& Automation&r"
+	quest.2383E631B4F25EA2.quest_desc: [
+		"School: &6Manipulation&r"
+		"Causes targeted blocks to temporarily turn into non-solid air, allowing passage."
+		"*   &eAmplify:&r Required to affect blocks of higher hardness."
+		"*   &eAoE, Duration Down, Extend Time:&r Modify the area, duration."
+	]
+	quest.2383E631B4F25EA2.quest_subtitle: "&8Temporary Non-Solidity&r"
+	quest.2383E631B4F25EA2.title: "Phasing Blocks: The &6Intangible&r &bGlyph&r"
+	quest.23C198F151A9CBEF.quest_desc: [
+		"Safeguard your precious &eSpellbook&r from untimely destruction! This powerful upgrade, crafted with rare materials, makes your spellbook immune to most forms of damage, including &cfire&r, &clava&r, and &acactus&r damage (Void protection not guaranteed!)."
+		""
+		"Applying this upgrade changes the book's gold trim to a Netherite-black color (this visual change can be toggled off in client configs if preferred). Protect your repository of magical knowledge!"
+		""
+		"Check the in-game documentation to see the recipe."
+	]
+	quest.23C198F151A9CBEF.quest_subtitle: "&8Elemental Hardening&r"
+	quest.2474D242695E0090.quest_desc: [
+		"These belt-worn Curios allow you to remotely access the inventory managed by a linked &eStorage Lectern&r. Bind one by &aLeft Shift + Right Clicking&r on the target Lectern. Access the remote inventory by pressing &e[CTRL + E]&r (configurable)."
+		""
+		"*   &eWarp Index:&r Allows access anywhere within the &lsame dimension&r as the linked Lectern."
+		"*   &eStabilized Warp Index:&r Allows access from &lany dimension&r."
+		""
+		"&lImportant:&r For either Index to function, the linked &eStorage Lectern&r must remain in a &achunk-loaded&r area."
+	]
+	quest.2474D242695E0090.quest_subtitle: "&8Accessing Your Lectern Anywhere&r"
+	quest.2474D242695E0090.title: "Remote Storage Access: &eWarp Index \\& Stabilized Warp Index&r"
+	quest.255BF9D2A49D8CFC.quest_desc: [
+		"The &dDominion Wand&r is an essential tool for configuring &bSource Relays&r and various automation setups within Ars Nouveau."
+		""
+		"&lBasic Use:&r"
+		"*   &lLink Transfer Path:&r Right-click the &asource&r block (where you want to take Source from, e.g., Jar, Relay) and then right-click the &atarget&r block (where you want to send Source to, e.g., Relay, Jar)."
+		"*   &lClear Connections:&r Sneak + Right-click on a &eSource Relay&r to clear its connections."
+		"*   &lStrict Mode:&r Use the &eradial menu&r (check keybinds) to toggle Strict mode, allowing you to specify the exact &aside&r of blocks to interact with for more precise connections."
+		""
+		"&lAdvanced Dominion Wand:&r"
+		"An upgraded version that adds a crucial feature: &llocking positions&r. The Advanced wand allows you to lock either the &afirst position/entity&r (source) or the &asecond position/entity&r (target) you click."
+		"*   &lExample:&r To link many chests to one &eStorage Lectern&r efficiently, right-click the Lectern first, then set the wand to &alock the second position&r (the Lectern). Now you can simply right-click all your chests one after another to link them all to the stored Lectern position without having to re-click the Lectern each time."
+		""
+		"You can also employ magical entities like &eStarbuncles&r, &eWixies&r, and &eDrygmys&r (summoned with Charms) for various automated tasks. Explore these options to build efficient magical systems!"
+	]
+	quest.255BF9D2A49D8CFC.quest_subtitle: "&8The Tool for Linking Magic&r"
+	quest.255BF9D2A49D8CFC.title: "Configuring Connections: The &dDominion Wand \\& Advanced Dominion Wand&r"
+	quest.25934C14208986B0.quest_desc: [
+		"School: &dAbjuration&r"
+		"Applies the &eMagic Find&r effect to the target. This causes magical mobs within 75 blocks of the target to glow. Also reveals spells inscribed on placed &eRunes&r."
+	]
+	quest.25934C14208986B0.quest_subtitle: "&8Revealing the Unseen&r"
+	quest.25934C14208986B0.title: "Detect Magic: The &dSense Magic&r &bGlyph&r"
+	quest.26601CFF8CC43709.quest_desc: [
+		"School: &bWater&r"
+		"Freezes &bWater&r or &cLava&r in a small area, or slows a target entity for a short time."
+		""
+		"Using Freeze on &bIce&r turns it into &bPacked Ice&r, and on &bPacked Ice&r turns it into &bBlue Ice&r. Augmenting with &eSensitive&r turns water into temporary &bFrosted Ice&r instead."
+	]
+	quest.26601CFF8CC43709.quest_subtitle: "&8Chilling Effect&r"
+	quest.26601CFF8CC43709.title: "Solidify Fluids: The &bFreeze&r &bGlyph&r"
+	quest.26E57BDB39194D5E.quest_desc: ["Stops the spell sequence from resolving if the target is an &8undead creature&r."]
+	quest.26E57BDB39194D5E.quest_subtitle: "&8Ignoring the Risen Dead&r"
+	quest.26E57BDB39194D5E.title: "Selective Harm: &cFilter: Undead&r &bGlyph&r"
+	quest.273BBA77F6FE4B45.quest_desc: [
+		"A unique caster tool designed for remote &bspell&r delivery through the &5Scrying&r system."
+		""
+		"Bind the &eEye&r directly to a &5Scry Crystal&r by using it on the crystal, or hold a bound &eScryer's Scroll&r in your off-hand. When you cast using the &eEye&r, the inscribed &bspell&r originates from the bound &5Scry Crystal's&r location, functioning like a remote &eSpell Turret&r."
+		""
+		"&lImportant:&r You are still considered the caster for all spell effects (targeting, permissions, etc.). Extremely useful for remote &5teleportation&r, item manipulation, or long-distance interactions."
+	]
+	quest.273BBA77F6FE4B45.quest_subtitle: "&8Arcane Reach&r"
+	quest.273BBA77F6FE4B45.title: "Remote Spellcasting: The &dEnchanter's Eye&r"
+	quest.27F9DA49D6DD9F35.quest_desc: [
+		"School: &eAir&r"
+		"Discharges an entity affected by &eStatic Charge&r or &eShocked&r, damaging it and shocking surrounding enemies. If triggered by Static Charge, the damage is empowered. If the target has energy-based armor, some energy may be absorbed to boost damage."
+	]
+	quest.27F9DA49D6DD9F35.quest_subtitle: "&8Releasing Stored Energy&r"
+	quest.27F9DA49D6DD9F35.title: "Overload: The &eDischarge&r &bGlyph&r"
+	quest.28A4DC57A502DE00.quest_desc: [
+		"This powerful ritual tablet, when used on a &eRitual Brazier&r, helps you locate a specific type of generated &estructure&r nearby. The tablet is consumed upon activation. Does not require &bSource&r."
+		""
+		"Crucially, the type of structure located depends entirely on the specific &aaugmentation item&r tossed onto the brazier &lbefore&r activation. Consult your notes (or JEI) for the required augment for each structure (Examples: &fIce&r for Igloo, &aMossy Cobblestone&r for Jungle Temple, &aEmerald&r for Pillager Outpost, &5Eye of Ender&r for Stronghold, etc.)."
+	]
+	quest.28A4DC57A502DE00.quest_subtitle: "&8Pinpointing Structures&r"
+	quest.28A4DC57A502DE00.title: "Finding Landmarks: The &dTablet of Locate Structure&r"
+	quest.28DFFC98A9098DD4.quest_desc: [
+		"This ritual summons dangerous entities from the Wilden realm. Does not require &bSource&r."
+		""
+		"*   &lStandard Use:&r Summons a random assortment of basic &5Wilden monsters&r for a short duration."
+		"*   &lAugmented Use:&r Tossing a &5Wilden Spike&r, &5Wilden Horn&r, and &5Wilden Wing&r onto the brazier before activation summons the mighty &5Wilden Chimera&r, a challenging and destructive boss monster."
+		"    &lWarning:&r Summoning the Chimera &cwill destroy blocks&r around the brazier upon activation."
+	]
+	quest.28DFFC98A9098DD4.quest_subtitle: "&8Beckoning the Beast&r"
+	quest.28DFFC98A9098DD4.title: "Call of the Wilden: The &5Summon Wilden&r &dTablet&r"
+	quest.28F7161560B3783E.quest_desc: [
+		"School: &cFire&r"
+		"Smelts targeted blocks and item entities in the world instantly."
+		"*   &eAoE:&r Increase the number of items/radius of blocks smelted at once."
+		"*   &ePierce:&r Increase the number of items of blocks smelted at once."
+		"*   &eAmplify:&r Allow Smelt to affect blocks of higher hardness and use Blasting recipes instead of Smelting recipes."
+		"*   &eSensitive:&r Makes Smelt only affect item entities, not blocks."
+		"*   &eDampen:&r Causes Smelt to use Smoking recipes instead of Smelting recipes."
+	]
+	quest.28F7161560B3783E.quest_subtitle: "&8Magical Heat Processing&r"
+	quest.28F7161560B3783E.title: "Incinerate/Cook: The &cSmelt&r &bGlyph&r"
+	quest.290D2400BC44893B.quest_desc: [
+		"Apply these &elenses&r to an &eAdvanced Spell Prism&r to alter how it redirects &bspell projectiles&r:"
+		"*   &eArc/Homing:&r Changes trajectory to an arc or makes it home in."
+		"*   &eRainbow:&r Randomizes the projectile's color."
+		"*   &eAcceleration/Deceleration:&r Adjusts projectile speed."
+		"*   &ePiercing/Chaining:&r Requires &bSource&r. Piercing adds projectile piercing for a fixed cost. Chaining appends inscribed glyphs to the projectile if valid, scaling cost with the new spell complexity."
+	]
+	quest.290D2400BC44893B.quest_subtitle: "&8Customizing Redirection&r"
+	quest.290D2400BC44893B.title: "Modifying Trajectories: &dPrism Lenses&r"
+	quest.290E981CEE382DD8.quest_desc: [
+		"This powerful ritual &5warps&r all nearby entities (excluding players) to the location designated on an inscribed &eWarp Scroll&r. Does not require &bSource&r."
+		""
+		"&lImportant:&r You &lmust&r augment the ritual by tossing an inscribed &eWarp Scroll&r onto the &eRitual Brazier&r &lbefore&r activation to set the destination. The scroll is consumed upon activation."
+	]
+	quest.290E981CEE382DD8.quest_subtitle: "&8Entity Teleportation&r"
+	quest.290E981CEE382DD8.title: "Forced Relocation: The &5Warping&r &dTablet&r"
+	quest.29E8AD788B913D26.quest_desc: [
+		"Peer beyond the mundane veil and uncover hidden locations or specific resources using these insightful rituals. Whether you seek forgotten ruins or veins of rare ore, these tablets guide your search."
+		""
+		"Pinpoint the location of nearby generated &estructures&r by augmenting the ritual with specific items, or gain temporary &ex-ray vision&r for a chosen block type to aid your mining expeditions. Let magic guide your exploration!"
+	]
+	quest.29E8AD788B913D26.quest_subtitle: "&8Unveiling the Hidden&r"
+	quest.29E8AD788B913D26.title: "&l&5Rituals of Divination \\& Location&r"
+	quest.2A66D2300DFD8C18.quest_desc: [
+		"This ritual grants a significant &aspeed boost&r to all &dStarbuncles&r within a &a15-block radius&r."
+		""
+		"The buff refreshes every &a30 seconds&r. The effect radius can be augmented to &a30 blocks&r by tossing a &6Gold Block&r onto the brazier before activation. Keep your little helpers zooming!"
+	]
+	quest.2A66D2300DFD8C18.quest_subtitle: "&8Boosting Starbuncles&r"
+	quest.2A66D2300DFD8C18.title: "Speedy Companions: The &eFast Squirrels&r &dTablet&r"
+	quest.2AC4AC35A7403CC1.quest_desc: [
+		"Once summoned via a &eDrygmy Henge&r (using a &dDrygmy Charm&r on Mossy Cobblestone), Drygmys will passively generate items from nearby mobs and animals &las if they were slain&r, but &lwithout harming them&r! They also produce &aExperience Gems&r."
+		""
+		"&lSetup:&r"
+		"*   Place a &eChest&r adjacent to the Henge for item output."
+		"*   Place a &bSource Jar&r nearby to power the production."
+		"*   Summon more Drygmys by using additional &dCharms&r on the Henge."
+		""
+		"&lEfficiency:&r"
+		"*   A Drygmy's \"home\" is a &a10-block radius&r around the Henge."
+		"*   Production speed and quantity depend on Drygmy &ahappiness&r, which increases with the &anumber and variety&r of unique entities (mobs, animals, even &eContainment Jars&r) within their home radius. More Drygmys working at one Henge also increase production progress speed."
+	]
+	quest.2AC4AC35A7403CC1.quest_subtitle: "&8Automated Mob Drops&r"
+	quest.2AC4AC35A7403CC1.title: "Passive Gathering: &aDrygmy Farming&r"
+	quest.2B6C07F6080E7C3F.quest_desc: [
+		"School: &6Manipulation&r"
+		"Pauses the spell chain for a few moments before resolving effects placed to its right."
+		""
+		"Augment with &eExtend Time&r to increase the delay, or &eDuration Down&r (Tier 2) to decrease it. Useful for timing effects or avoiding invincibility frames."
+	]
+	quest.2B6C07F6080E7C3F.quest_subtitle: "&8Pausing the Sequence&r"
+	quest.2B6C07F6080E7C3F.title: "Delayed Action: The &6Delay&r &bGlyph&r"
+	quest.2BCE76DDF4E72EEA.quest_desc: [
+		"Similar to the standard Forestation ritual, this version specifically places fully grown &dArchwood Trees&r in a &a7x7 circular area&r and applies a bonemeal effect. Does not require &bSource&r."
+		""
+		"&lAugmentations:&r"
+		"*   &dSource Gem:&r Increases the radius by &a+1&r for each gem tossed onto the brazier before activation."
+		"*   &dSpecific Archwood Sapling:&r Augmenting with a sapling of a particular Archwood type (e.g., &cBlazing&r, &bCascading&r) will cause the ritual to spawn resources tied to that specific Archwood's \"biome\" theme within the area."
+	]
+	quest.2BCE76DDF4E72EEA.quest_subtitle: "&8Cultivating Magic Wood&r"
+	quest.2BCE76DDF4E72EEA.title: "Arcane Groves: &dForestation - Archwood Trees&r &dTablet&r"
+	quest.2BD3111832897C24.quest_desc: [
+		"You stand at the threshold of a world brimming with &duntapped magical potential&r."
+		""
+		"&eArs Nouveau&r invites you to become a powerful &dmage&r, mastering the art of &bspellcrafting&r, harnessing the flow of &bmana&r, performing intricate &drituals&r, and commanding loyal &dfamiliars&r."
+		""
+		"Your primary tool will be the &eWorn Notebook&r, your first step towards a customizable &eSpellbook&r. With it, and tools like the &eScribe's Table&r and &eEnchanting Apparatus&r, you will unlock the secrets of glyphs, combine them into potent &bspells&r, and shape reality to your will."
+		""
+		"Embrace the arcane, explore its depths, and let your magical adventure unfold!"
+	]
+	quest.2BD3111832897C24.quest_subtitle: "&8Your Magical Journey Begins&r"
+	quest.2BD3111832897C24.title: "&l&5Welcome to Ars Nouveau&r"
+	quest.2BF2606F80DF4B26.quest_desc: [
+		"This ritual instantly places fully grown &aOak&r and &aBirch trees&r in a &a7x7 circular area&r around the brazier, also applying a bonemeal effect to the ground. Does not require &bSource&r."
+		""
+		"&lAugmentations:&r"
+		"*   &dSource Gem:&r Increases the radius by &a+1&r for each gem tossed onto the brazier before activation."
+		"*   &8Brown Mushroom:&r Converts the area to &8Podzol&r and spawns &aTaiga&r resources."
+		"*   &eGlow Berries:&r Spawns &aJungle&r resources within the area."
+	]
+	quest.2BF2606F80DF4B26.quest_subtitle: "&8Populating with Trees&r"
+	quest.2BF2606F80DF4B26.title: "Instant Woods: The &aForestation&r &dTablet&r"
+	quest.2C00EC269714B583.quest_desc: [
+		"School: &6Manipulation&r"
+		"Creates a lingering field at the target location that applies subsequent spell effects to entities within it for a short time."
+		"*   &eSensitive:&r Makes the spell target blocks instead of creating a cloud."
+		"*   &eAoE:&r Expands the effective range/size of the cloud."
+		"*   &eAccelerate:&r Casts the lingering effects faster."
+		"*   &eDampen:&r Makes the cloud ignore gravity."
+		"*   &eExtend Time:&r Increases the duration the cloud persists."
+	]
+	quest.2C00EC269714B583.quest_subtitle: "&8Creating Effect Clouds&r"
+	quest.2C00EC269714B583.title: "Lingering Effects: The &6Linger&r &bGlyph&r"
+	quest.2D1F7D1E91D2209A.quest_desc: [
+		"Set up a &dWixie&r to automate &eStonecutter&r recipes (Wixie Charm used on Stonecutter)."
+		""
+		"The Wixie pulls required input blocks from nearby (or bound) inventories, processes them via the stonecutter logic, and deposits the output, consuming &bSource&r per cut."
+		""
+		"&lMulti-Cutting:&r Place up to 8 &eArcane Pedestals&r adjacent to the Wixie Stonecutter block with desired input blocks. The Wixie will process these items round-robin. Powering a pedestal disables its item."
+	]
+	quest.2D1F7D1E91D2209A.quest_subtitle: "&8Automated Stonecutting&r"
+	quest.2D1F7D1E91D2209A.title: "Precise Cuts: &dWixie \\& the Stonecutter&r"
+	quest.2DF3A749BABDFC7E.quest_desc: [
+		"Harness the power of &bSource&r to bring forth creatures on demand with this spawner from &eArs Additions&r."
+		""
+		"Unlike traditional spawners, the &bSource Spawner&r allows you to choose what it spawns. Place a &eContainment Jar&r containing the desired mob directly &abelow&r the spawner block."
+		""
+		"When supplied with &bSource&r from nearby &eSource Jars&r, the spawner will periodically consume energy to spawn a copy of the mob held within the Containment Jar below it. Perfect for controlled mob farming or specific creature generation!"
+	]
+	quest.2DF3A749BABDFC7E.quest_subtitle: "&8Magically Spawning Mobs&r"
+	quest.2DF3A749BABDFC7E.title: "Controlled Conjuration: The &bSource Spawner&r"
+	quest.2E6940208F4D7C78.quest_desc: [
+		"School: &6Manipulation&r"
+		"Shapes identical item entities (dropped items) by effectively crafting them into &astairs&r using the corresponding block recipe."
+	]
+	quest.2E6940208F4D7C78.quest_subtitle: "&8Detailed Construction&r"
+	quest.2E6940208F4D7C78.title: "Shape Blocks: The &6Carve&r &bGlyph&r"
+	quest.2ECA663BB50C4EE2.quest_desc: [
+		"Schools: &dConjuration&r, &0Anima&r"
+		"Summons a number of allied &8Skeletons&r that attack nearby hostile enemies. They last a short time before taking damage, extendable with &eExtend Time&r."
+		"*   &eAmplify:&r Gives them a better sword."
+		"*   &ePierce:&r Gives them a bow."
+		"*   Adding &eSplit&r (Tier 3) after the effect increases the number of skeletons summoned."
+	]
+	quest.2ECA663BB50C4EE2.quest_subtitle: "&8Necromantic Minions&r"
+	quest.2ECA663BB50C4EE2.title: "Raise Skeleton Crew: The &dSummon Undead&r &bGlyph&r"
+	quest.2EF23B21977CEBFB.quest_desc: [
+		"This specialized jar from &eArs Energistique&r acts as a bridge between Ars Nouveau's &bSource&r network and an &eApplied Energistics 2&r system."
+		""
+		"Allows you to store and retrieve &bSource&r digitally within your &eME Network&r, treating magical energy like any other item or fluid. Functions as both an input and output interface."
+	]
+	quest.2EF23B21977CEBFB.quest_subtitle: "&8Integrating with AE2&r"
+	quest.2EF23B21977CEBFB.title: "Digital Magic: The &dME Source Jar&r"
+	quest.2EF9AC6104049F4C.quest_desc: [
+		"School: &dConjuration&r"
+		"Summons a decoy of yourself at the target location. Upon summoning, the decoy immediately attracts the aggression of nearby hostile mobs, drawing attacks away from you."
+	]
+	quest.2EF9AC6104049F4C.quest_subtitle: "&8Creating a Fake Target&r"
+	quest.2EF9AC6104049F4C.title: "Illusory Distraction: The &dSummon Decoy&r &bGlyph&r"
+	quest.2F55605322E1491A.quest_desc: [
+		"School: &cFire&r"
+		"Causes an explosion at the target location."
+		""
+		"Augment with &eAmplify&r to slightly increase damage and size. Augment with &eAoE&r to greatly increase the explosion size (but not damage)."
+	]
+	quest.2F55605322E1491A.quest_subtitle: "&8Creating Detonations&r"
+	quest.2F55605322E1491A.title: "Boom!: The &cExplosion&r &bGlyph&r"
+	quest.2FBD9B35639D1BE6.quest_desc: [
+		"Obtained by performing the &eRitual of Binding&r near a &dWhirlisprig&r."
+		""
+		"Binding a Whirlisprig familiar provides these passive benefits:"
+		"*   Reduces the &bmana cost&r of &aElemental Earth glyphs&r by half."
+		"*   Grants bonus &asaturation&r when consuming food."
+	]
+	quest.2FBD9B35639D1BE6.quest_subtitle: "&8Earthen Efficiency Familiar&r"
+	quest.2FBD9B35639D1BE6.title: "Forest Sprite: &aBound Script: Whirlisprig&r"
+	quest.2FE5C6141B479036.quest_desc: [
+		"A unique essence produced in an &eImbuement Chamber&r, focused on altering magical constructs."
+		""
+		"Its primary use is to be scribed onto a &eSpell Parchment&r or &ecaster tool&r (like a wand or bow) via a &eScribe's Table&r to permanently &8hide the spell's glyph list&r from view. Keep your secrets safe!"
+	]
+	quest.2FE5C6141B479036.quest_subtitle: "&8Shaping the Arcane Flow&r"
+	quest.2FE5C6141B479036.title: "Essence of Control: &6Manipulation Essence&r"
+	quest.2FEE89793044CF5B.quest_desc: [
+		"Not all rituals bring peace or utility. Use these potent tablets to purposefully invoke dangerous events and summon powerful adversaries."
+		""
+		"Challenge nearby &aVillages&r with intensified &cIllager Raids&r to test your defenses and acquire rare loot, or summon forth fearsome &5Wilden&r creatures, culminating in a battle against the destructive &5Wilden Chimera&r. Prepare yourself, as these rituals invite conflict!"
+	]
+	quest.2FEE89793044CF5B.quest_subtitle: "&8Invoking Perilous Encounters&r"
+	quest.2FEE89793044CF5B.title: "&l&cRituals of Conflict&r"
+	quest.30A579B5A133BC26.quest_desc: [
+		"A special jar available only in after obtaining the &6&lATM Star&r."
+		""
+		"Provides an &aunlimited&r, constantly full supply of &bSource&r for testing, building, or powering demanding setups without needing generation."
+	]
+	quest.30A579B5A133BC26.quest_subtitle: "&8Boundless Energy&r"
+	quest.30A579B5A133BC26.title: "Infinite Power: The &dCreative Source Jar&r"
+	quest.30C4A05C8B690E2A.quest_desc: [
+		"School: None"
+		"Changes the color of a target entity (like sheep) or compatible block (like wool, concrete) to match the &acolor of the spell&r itself (set in the spellbook). A purely cosmetic effect!"
+	]
+	quest.30C4A05C8B690E2A.quest_subtitle: "&8Dyeing Magic&r"
+	quest.30C4A05C8B690E2A.title: "Color Change: The &dWololo&r &bGlyph&r"
+	quest.30DCED5962FE0993.quest_desc: [
+		"School: &6Manipulation&r"
+		"Opens your personal &5Ender Chest inventory&r directly, allowing access from anywhere without needing the physical chest. Usually cast with &eSelf&r form."
+	]
+	quest.30DCED5962FE0993.quest_subtitle: "&8Opening Your Ender Chest&r"
+	quest.30DCED5962FE0993.title: "Pocket Dimension Access: The &6Access Ender Inventory&r &bGlyph&r"
+	quest.32A0C15506C3EC11.quest_desc: [
+		"When summoned using a &eCauldron&r, a &dWixie&r specializes in automating standard &eCrafting Table&r recipes &land&r basic &dPotion Brewing&r."
+		""
+		"The Wixie pulls ingredients from nearby (or bound) inventories, crafts the item, and deposits it (likely into an adjacent inventory), consuming &bSource&r."
+		""
+		"&lPotion Crafting:&r Can autocraft potions using nearby &ePotion Jars&r (supplies water automatically, takes base potions from Jars). Set recipe by using an &eAwkward Potion&r on the Cauldron (needs Nether Wart supplied). Outputs 3 doses to a nearby Jar."
+		""
+		"&lMulti-Crafting:&r Place up to 8 &eArcane Pedestals&r adjacent to the Cauldron with desired items on them. The Wixie will craft these items round-robin (powering a pedestal disables its item)."
+	]
+	quest.32A0C15506C3EC11.quest_subtitle: "&8Standard \\& Potion Automation&r"
+	quest.32A0C15506C3EC11.title: "Cauldron Crafting: &dWixie \\& the Cauldron&r"
+	quest.32EAFE3A7E9F759B.quest_desc: [
+		"&dSource Gems&r are fundamental components used in countless Ars Nouveau recipes. They are the crystallized essence of raw &bSource&r, the magical energy that fuels this mod."
+		""
+		"To create them, you'll primarily use an &eImbuement Chamber&r. Placing &5Amethyst Shards&r or &9Lapis Lazuli&r inside this chamber allows it to slowly infuse them with &bSource&r, transforming them into valuable &dSource Gems&r."
+		""
+		"Finding &5Amethyst Geodes&r early on can be tricky; consider crafting a &eDowsing Rod&r to help locate them."
+	]
+	quest.32EAFE3A7E9F759B.quest_subtitle: "&8The Core of Magic Crafting&r"
+	quest.32EAFE3A7E9F759B.title: "Gems of Power: &dObtaining Source Gems&r"
+	quest.3335377479A3D7E2.quest_desc: [
+		"Casts the &aHarvest&r effect on nearby mature &acrops&r, instantly gathering them."
+		""
+		"Consumes &bSource&r each time crops are harvested. If an inventory (like a chest) is adjacent to the &eBrazier&r, harvested items will be deposited there instead of dropping on the ground."
+	]
+	quest.3335377479A3D7E2.quest_subtitle: "&8Automated Crop Collection&r"
+	quest.3335377479A3D7E2.title: "Effortless Gathering: The &aHarvest&r &dTablet&r"
+	quest.34F5881B2F9E67AD.quest_desc: ["Stops the spell sequence from resolving &lunless&r the target is an &baquatic creature&r."]
+	quest.34F5881B2F9E67AD.quest_subtitle: "&8Water-Only Magic&r"
+	quest.34F5881B2F9E67AD.title: "Oceanic Targeting: &cFilter: Not Aquatic&r &bGlyph&r"
+	quest.3508D39196A403E0.quest_desc: [
+		"School: &aEarth&r"
+		"Poisons the target, dealing damage over time. If the target is &lalready poisoned&r, the effect upgrades to a more deadly &aVenom&r. Envenomed targets take increased damage from &aPoison Spores&r."
+	]
+	quest.3508D39196A403E0.quest_subtitle: "&8Applying Potent Poison&r"
+	quest.3508D39196A403E0.title: "Toxic Affliction: The &aEnvenom&r &bGlyph&r"
+	quest.359C1DB8FFCD4D82.quest_desc: [
+		"School: &aEarth&r"
+		"Causes targeted plants to accelerate in growth, similar to the effect of Bone Meal."
+	]
+	quest.359C1DB8FFCD4D82.quest_subtitle: "&8Magical Fertilizer&r"
+	quest.359C1DB8FFCD4D82.title: "Accelerate Nature: The &aGrow&r &bGlyph&r"
+	quest.35B9913B5A069C34.quest_desc: ["Stops the spell sequence from resolving if the target is an &aarthropod creature&r (e.g., Spiders, Cave Spiders, Bees, Silverfish, Endermites)."]
+	quest.35B9913B5A069C34.quest_subtitle: "&8No Bugs Allowed&r"
+	quest.35B9913B5A069C34.title: "Ignoring Insects: &cFilter: Insect&r &bGlyph&r"
+	quest.3657AF919A7833C7.quest_desc: [
+		"This block can monitor the quantity of a specific item in a linked inventory and output a &credstone signal&r when a configured threshold is met."
+		""
+		"Set the item by using it on the case. Right-click to increase the threshold, punch to decrease. Link to an inventory using a &eDominion Wand&r. Sneak-wand to invert the signal logic. Add a &eFilter Scroll&r to count all matching items."
+	]
+	quest.3657AF919A7833C7.quest_subtitle: "&8Redstone Logic Gate&r"
+	quest.3657AF919A7833C7.title: "Inventory Monitor: The &7Display Case&r"
+	quest.37A0A83CD6369AA4.quest_desc: [
+		"The &eStorage Lectern&r is a powerful block that allows you to view, manage, and even &acraft from&r the contents of multiple connected inventories simultaneously."
+		""
+		"Link inventories (like chests, barrels, etc.) within a &a30-block radius&r to the Lectern using a &eDominion Wand&r (use wand on inventory, then on Lectern). The number of inventories you can connect is determined by the number of &dBookwyrms&r bound to the Lectern. Add more Bookwyrms using a &dBookwyrm Charm&r."
+		""
+		"&lAutomation \\& Expansion:&r"
+		"*   Items can be automatically inserted by placing an &aunbound inventory&r adjacent to the Lectern."
+		"*   Link other Lecterns together (within 30 blocks) to extend the view and access indefinitely. Once linked to another Lectern, it can no longer connect directly to inventories or accept Bookwyrms."
+		"*   &lNamed inventories&r will create separate &atabs&r in the interface, grouping all inventories with the same name."
+		""
+		"For very large or frequently accessed systems, consider using &eRepository Catalogs&r bound to the Lectern for improved performance."
+	]
+	quest.37A0A83CD6369AA4.quest_subtitle: "&8Unified Inventory Management&r"
+	quest.37A0A83CD6369AA4.title: "Centralized Storage Hub: The &eStorage Lectern&r"
+	quest.382D91C813D9AA13.quest_desc: [
+		"Build permanent, one-way teleportation points using &eWarp Portals&r."
+		""
+		"1.  &lBuild the Frame:&r Construct a rectangular frame (horizontal or vertical, 1x1 up to 21x21 internal size) using &5Sourcestone&r or its variants."
+		"2.  &lProvide Power:&r Place a &afull Source Jar&r nearby the frame."
+		"3.  &lActivate:&r Throw an inscribed &eWarp Scroll&r (for same-dimension travel) or a &eStabilized Warp Scroll&r (for cross-dimension travel, consumes scroll) into the lit frame. If enough &bSource&r is available, the portal will activate."
+		""
+		"Warping through an active portal &ldoes not cost Source&r. Use a &eDominion Wand&r on the portal block to change its texture."
+	]
+	quest.382D91C813D9AA13.quest_subtitle: "&8Permanent Teleportation Links&r"
+	quest.382D91C813D9AA13.title: "Constructing Gateways: &5Creating a Warp Portal&r"
+	quest.387130D1C473A96B.quest_desc: [
+		"Changes a &dStarbuncle's&r job to &amine specific blocks&r at designated locations (set via Dominion Wand links)."
+		""
+		"You can give it a tool to use (defaults to Iron Pickaxe)."
+	]
+	quest.387130D1C473A96B.quest_subtitle: "&8Block Breaking Buddy&r"
+	quest.387130D1C473A96B.title: "Automated Mining: The &7Starminer&r"
+	quest.3887555F585FF529.quest_desc: [
+		"This ritual periodically encourages nearby &aanimals&r to breed, provided they are able to."
+		""
+		"Requires &bSource&r to operate and will cease functioning if there are &a20 or more&r animals already nearby. A helpful tool for passive animal farming."
+	]
+	quest.3887555F585FF529.quest_subtitle: "&8Encouraging Breeding&r"
+	quest.3887555F585FF529.title: "Automated Husbandry: The &aFertility&r &dTablet&r"
+	quest.38B07206B6A92096.quest_desc: ["Stops the spell sequence from resolving &lunless&r the target is a &dsummoned creature&r (e.g., from Summon Wolves, familiars)."]
+	quest.38B07206B6A92096.quest_subtitle: "&8Non-Summon Targeting&r"
+	quest.38B07206B6A92096.title: "Excluding Summons: &cFilter: Not Summon&r &bGlyph&r"
+	quest.390E670B0909BBBA.quest_desc: [
+		"Infused with Allthemodium, this upgraded book (learned content transfers) pushes past standard limits."
+		""
+		"The &6Allthemodium Spell Book&r allows &bTier 4 glyphs or lower&r and increases complexity to &612 glyphs&r. Boosts &bMana&r/regen. Quick access: &e'V'&r / &e'C'&r."
+		""
+		"&lNotice that in the down left corner of the spellbook there an arrow to see the new slots.&r"
+	]
+	quest.390E670B0909BBBA.quest_subtitle: "&8Beyond Archmagery&r"
+	quest.390E670B0909BBBA.title: "&6Allthemodium Spell Book"
+	quest.3967F4EF19B62390.quest_desc: [
+		"Beyond spells and rituals, the world resonates with unique magical music. Seek out rare &eMusic Discs&r created by Ars Nouveau, Ars Technica, and potentially other magical sources."
+		""
+		"These discs, such as &e\"Aria Biblio\"&r, &e\"Thistle - The Sound of Glass\"&r, &e\"Firel - The Wild Hunt\"&r, and &e\"zeroregard - pocket factory\"&r, can often be found as rare loot in structures. Collect them all to experience the full auditory tapestry of the arcane!"
+	]
+	quest.3967F4EF19B62390.quest_subtitle: "&8Collecting the Sounds of Magic&r"
+	quest.3967F4EF19B62390.title: "&l&dArcane Melodies&r"
+	quest.39BDC76FBC4F58D4.quest_desc: [
+		"School: &aEarth&r"
+		"When used on fully grown crops, this spell harvests the product &awithout destroying the plant itself&r."
+		""
+		"Perfect for automating farms without replanting."
+	]
+	quest.39BDC76FBC4F58D4.quest_subtitle: "&8Magical Farming&r"
+	quest.39BDC76FBC4F58D4.title: "Gather Crops: The &aHarvest&r &bGlyph&r"
+	quest.3A69C4669AB27DBD.quest_desc: [
+		"Use this chalk to place &apermanent Runes&r on the ground. These runes trigger when an entity walks over them, casting an inscribed &bspell&r."
+		""
+		"To give a rune a spell, first inscribe the desired &bspell&r onto a &eSpell Parchment&r using a &eScribe's Table&r. Then, use the inscribed parchment on the placed Rune. Once the Rune casts its spell, it becomes uncharged. Uncharged Runes will slowly recharge themselves by drawing &bSource&r from nearby &eSource Jars&r. Using Runic Chalk on a temporary rune (created by a spell) will make it permanent."
+	]
+	quest.3A69C4669AB27DBD.quest_subtitle: "&8Inscribing Spell Runes&r"
+	quest.3A69C4669AB27DBD.title: "Magical Traps: The &dRunic Chalk&r"
+	quest.3B4C99F621DB213A.quest_desc: [
+		"Causes all &cmonsters&r within a large &a128-block radius&r to &aglow&r (similar to the Spectral effect) for &a10 minutes&r. Does not require &bSource&r."
+		""
+		"An excellent way to scout for danger or locate hidden mobs."
+	]
+	quest.3B4C99F621DB213A.quest_subtitle: "&8Revealing Nearby Threats&r"
+	quest.3B4C99F621DB213A.title: "Monster Radar: The &dDetection&r &dTablet&r"
+	quest.3B7C90DAF4FDE742.quest_desc: ["Extends the &aduration&r of time-based spell effects, including potion buffs/debuffs, summoned creatures/blocks, and channeled effects."]
+	quest.3B7C90DAF4FDE742.quest_subtitle: "&8Increasing Duration&r"
+	quest.3B7C90DAF4FDE742.title: "Lasting Magic: The &eExtend Time&r &bGlyph&r"
+	quest.3B8A47C79A781F90.quest_desc: [
+		"School: None"
+		"This utility glyph resets the spell chain's target back to the &aoriginal target&r determined by the initial Form glyph, if it was changed by a preceding effect (like Burst)."
+		""
+		"Allows bypassing combination limits or applying different effects sequentially to the original location/target. Example: Burst -> Place Block -> Reset -> Break would cause Burst to place blocks, but Break would apply only to the original central target."
+	]
+	quest.3B8A47C79A781F90.quest_subtitle: "&8Restoring Spell Target&r"
+	quest.3B8A47C79A781F90.title: "Return to Origin: The &dReset&r &bGlyph&r"
+	quest.3BA4782EAB4C5F99.quest_desc: [
+		"A dedicated storage block capable of holding the equivalent of a &adouble chest's worth of items&r."
+		""
+		"Repositories can be &anamed&r (which displays as a tooltip and is kept when the block is broken), making them ideal for creating organized &atabs&r within a &eStorage Lectern&r system. They can be chained together, and filters can be applied using &eFilter Scrolls&r in &eItem Frames&r."
+	]
+	quest.3BA4782EAB4C5F99.quest_subtitle: "&8High-Capacity \\& Nameable Storage&r"
+	quest.3BA4782EAB4C5F99.title: "Optimized Storage Block: The &7Repository&r"
+	quest.3C315714EC7952E9.quest_desc: [
+		"School: &aEarth&r (Despite icon, often considered neutral/physical damage)"
+		"One of the spells you start with. Deals direct damage to the target entity."
+		""
+		"Can be augmented with &eAmplify&r for more damage. Using &eExtend Time&r applies the &aPoison&r debuff instead of direct damage. Note: Rapidly casting multiple Harms without Delay may not register due to invincibility frames."
+	]
+	quest.3C315714EC7952E9.quest_subtitle: "&8Damaging Touch&r"
+	quest.3C315714EC7952E9.title: "Inflict Wounds: The &aHarm&r &bGlyph&r"
+	quest.3C57D6A3F06E8917.quest_desc: [
+		"This specialized augment is used in combination with the &eFuse&r glyph."
+		""
+		"When &eSuperheat&r modifies &eFuse&r, it drastically increases the heat of the reaction, enabling specific \"super-heated\" crafting recipes or interactions (chek &6Create&r recipes). Likely requires significant &bSource&r."
+	]
+	quest.3C57D6A3F06E8917.quest_subtitle: "&8High-Temperature Reactions&r"
+	quest.3C57D6A3F06E8917.title: "Intense Fusion: The &cSuperheat&r &bGlyph&r"
+	quest.3C5ADD8A44677DD0.quest_desc: [
+		"An &eEnchanted Spell Turret&r infused with the power of a &6Manipulation Focus&r."
+		""
+		"Spells cast by this turret trigger &6Manipulation Focus&r abilities and combos, enhancing control over summoned entities or other magical effects."
+	]
+	quest.3C5ADD8A44677DD0.quest_subtitle: "&8Imbued with Influence&r"
+	quest.3C5ADD8A44677DD0.title: "Controlling Automation: &6Manipulation Infused Turret&r"
+	quest.3CBB865B313F7BA8.quest_desc: [
+		"Schools: &dAbjuration&r, &0Anima&r"
+		"Heals a small amount of health on a living target, consuming hunger from the caster. When used on &8Undead&r entities, it deals an equal amount of &dmagic damage&r instead."
+	]
+	quest.3CBB865B313F7BA8.quest_subtitle: "&8Restoring Life / Harming Undead&r"
+	quest.3CBB865B313F7BA8.title: "Mending Touch / Withering Touch: The &0Heal&r &bGlyph&r"
+	quest.3CFECED3C5CDEEC9.quest_desc: [
+		"Use this charm to summon a &cFlarecannon&r, a loyal, wandering sentry akin to a Weald Walker."
+		""
+		"The Flarecannon patrols an area assigned using the &eDominion Wand&r, automatically shooting &choming flare projectiles&r at hostile enemies it encounters. You can change its appearance using &8Soul Sand&r or &cMagma Blocks&r. If defeated, it can be reactivated by using &eBlaze Powder&r or &cMagma Cream&r on it. Friends call him Firenando!"
+	]
+	quest.3CFECED3C5CDEEC9.quest_subtitle: "&8Summoning Firenando&r"
+	quest.3CFECED3C5CDEEC9.title: "Fiery Sentry: The &cFlarecannon Charm&r"
+	quest.3E95898013BCDC66.quest_desc: [
+		"School: &0Anima&r"
+		"*   &lOn Undead:&r Heals a small amount of health."
+		"*   &lOn Living:&r Deals an equal amount of &dmagic damage&r and &8exhaustion damage&r (depleting saturation/hunger)."
+	]
+	quest.3E95898013BCDC66.quest_subtitle: "&8Duality of Life Force&r"
+	quest.3E95898013BCDC66.title: "Unholy Restoration / Withering Touch: The &0Phantom Grasp&r &bGlyph&r"
+	quest.3EF01252768AF0DE.quest_desc: [
+		"Generates &bSource&r from the natural growth of &acrops&r and &atrees&r within a &a15-block radius&r."
+		""
+		"Yields bonus &bSource&r for &dmagical plants&r (like &dMageblooms&r, &dSource Berry Bushes&r) and &dArchwood Saplings&r. Note: Using &fBone Meal&r does &lnot&r grant &bSource&r. Outputs to nearby &eSource Jars&r."
+	]
+	quest.3EF01252768AF0DE.quest_subtitle: "&8Harvesting Growth Energy&r"
+	quest.3EF01252768AF0DE.title: "Nature's Bounty: The &aAgronomic Sourcelink&r"
+	quest.3F3B385D22281A4B.quest_desc: [
+		"As you advance, you'll unlock &bTier II Glyphs&r, offering more complex and potent effects than Tier I. These include advanced &5Forms&r like &eArc Projectile&r, stronger &aEffects&r like &eDischarge&r, utility like &cSmelt&r or &aGrow&r, and impactful &eAugments&r like &eExtend Time&r or &ePierce&r."
+		""
+		"Learn these at the &eScribe's Table&r (often needing rarer materials and more &aXP&r). Crucially, to cast spells incorporating Tier II glyphs, you need at least a &dMage's Spell Book&r. Elevate your spellcasting!"
+		""
+		"To see examples of spells go to the next page!"
+		""
+		"{@pagebreak}"
+		"&lSpell Examples (Mixing Tier I \\& II):&r"
+		"*   &eProjectile -> Pierce -> Harm -> Amplify&r"
+		"    &8Use Case:&r A basic piercing attack that damages multiple enemies in a line with boosted power."
+		"*   &eTouch -> Fell -> Amplify -> AoE&r"
+		"    &8Use Case:&r Instantly chop down a larger section of a forest or giant mushroom cluster, capable of breaking harder wood types."
+		"*   &eSelf -> Slowfall -> Extend Time&r"
+		"    &8Use Case:&r Apply a long-lasting Slow Falling effect to yourself for safe descents from great heights."
+		"*   &eArc Projectile -> Freeze -> AoE&r"
+		"    &8Use Case:&r Lob a freezing effect over a wall or obstacle to freeze a patch of water/lava or slow multiple enemies in an area."
+		""
+		"{@pagebreak}"
+		"*   &ePantomime -> Crush -> Sensitive&r"
+		"    &8Use Case:&r Remotely crush a flower in your line of sight into dye, or potentially process other items targeted via Pantomime (needs Sensitive for item targeting)."
+		"*   &eProjectile -> Filter: Fiery -> Conjure Water -> Sensitive -> Cold Snap -> Amplify&r"
+		"    &8Use Case:&r Fire a projectile at a target that is &lnot&r fire-immune or fiery. If it hits a valid target, the spell first makes them &bWet&r with `Conjure Water`, then immediately triggers an amplified `Cold Snap` eruption, dealing significant damage."
+		"*   &eProjectile -> Conjure Water -> Sensitive -> AoE -> Delay -> Watery Grave -> Extend Time -> Reset -> Pull&r"
+		"    &8Use Case:&r Creates a pool of water at the target location, waits briefly, applies a long-lasting Watery Grave effect (drowning debuff + pull down) to the original target, then pulls that target towards the impact point (likely into the water). A nasty trap spell."
+		"*   &eProjectile -> Pierce -> Pierce -> Gravity -> Extend Time -> AoE&r"
+		"    &8Use Case:&r Fire a projectile that passes through two targets, then applies a widened, long-lasting Gravity effect to pull down entities and blocks in the area beyond the second target. Useful for area denial or pulling down flying mobs."
+		"*   &eSelf -> Bubble Shield -> Extend Time -> Amplify -> Delay -> Invisibility -> Extend Time&r"
+		"    &8Use Case:&r Apply a long-lasting, amplified Bubble Shield for strong defense, wait briefly, then apply long-lasting Invisibility for a stealthy escape or repositioning while protected."
+	]
+	quest.3F3B385D22281A4B.quest_subtitle: "&8Expanding Your Capabilities&r"
+	quest.3F3B385D22281A4B.title: "Intermediate Arcana: &bTier II Glyphs&r"
+	quest.3F49EC771921D53D.quest_desc: [
+		"Operates like a standard &eSource Relay&r but with an added function: it will automatically pull &bSource&r from any &aunlinked&r &eSource Jars&r within a &a5-block radius&r."
+		""
+		"Useful for consolidating &bSource&r from multiple nearby jars without needing individual links. Still requires manual links for outputting Source or pulling from specific/distant sources. Transfers up to &a1000 Source&r per operation."
+	]
+	quest.3F49EC771921D53D.quest_subtitle: "&8Gathering Nearby Source&r"
+	quest.3F49EC771921D53D.title: "Automatic Gathering: The &bSource Relay: Collector&r"
+	quest.3F762E09DAB5DA11.quest_desc: [
+		"This ritual allows you to instantly change the current &fweather&r. Its default effect is to set the weather to &eclear&r. Does not require &bSource&r."
+		""
+		"&lAugmentations:&r"
+		"*   &7Gunpowder:&r Augmenting with Gunpowder before activation will cause the ritual to summon &brain&r instead."
+		"*   &9Lapis Block:&r Using a Lapis Block as an augment will summon a powerful &cThunderstorm&r."
+	]
+	quest.3F762E09DAB5DA11.quest_subtitle: "&8Manipulating the Skies&r"
+	quest.3F762E09DAB5DA11.title: "Weather Weaving: The &fCloudshaping&r &dTablet&r"
+	quest.411E85A836307BD4.quest_desc: [
+		"Activate this ritual to gain temporary vision of a specific &ablock type&r through all other obstructions for a set duration. Does not require &bSource&r."
+		""
+		"Particles indicate distance: &fWhite&r (very close), &aGreen&r (semi-far), &9Blue&r (very far)."
+		"&lImportant:&r You &lmust&r throw an example of the &ablock you wish to find&r onto the &eRitual Brazier&r &lbefore&r activating the ritual to set the target."
+		""
+		"&lAugmentations:&r"
+		"*   &5Manipulation Essence:&r Increases the duration of the scrying effect to &a15 minutes&r."
+	]
+	quest.411E85A836307BD4.quest_subtitle: "&8Seeing Through Stone&r"
+	quest.411E85A836307BD4.title: "Remote Viewing: The &dScrying&r &dTablet&r"
+	quest.4125C51D5DC11134.quest_desc: [
+		"Command the very forces that govern movement with these specialized rituals. Grant temporary &eflight&r to yourself and allies, or forcibly &8ground&r those within the ritual's influence."
+		""
+		"These potent effects require a continuous supply of &bSource&r to maintain, offering unique tactical advantages or conveniences around your base or points of interest."
+	]
+	quest.4125C51D5DC11134.quest_subtitle: "&8Altering Player Movement&r"
+	quest.4125C51D5DC11134.title: "&l&eRituals of Motion Control&r"
+	quest.41EDCCEDF51C2F83.quest_desc: [
+		"This &5Form&r glyph applies the spell's effects directly to the &ablock or entity&r you are targeting within melee reach."
+		""
+		"A straightforward way to interact magically with the world immediately in front of you."
+	]
+	quest.41EDCCEDF51C2F83.quest_subtitle: "&8Applying Magic Up Close&r"
+	quest.41EDCCEDF51C2F83.title: "Direct Interaction: The &5Touch&r &bGlyph&r"
+	quest.4269D5047AAC58EE.quest_desc: [
+		"School: &6Manipulation&r"
+		"Picks up nearby dropped item entities within a medium radius where the spell is activated."
+		""
+		"The pickup range can be expanded using the &eAoE&r augment."
+	]
+	quest.4269D5047AAC58EE.quest_subtitle: "&8Collecting Dropped Loot&r"
+	quest.4269D5047AAC58EE.title: "Gather Items: The &6Item Pickup&r &bGlyph&r"
+	quest.42D8272FA2529800.quest_desc: [
+		"Plant these magically infused seeds to grow &dMageblooms&r. These flowers provide a source of &dMagebloom Fiber&r and enhance nearby &aAgronomic Sourcelinks&r as they grow, boosting &bSource&r generation."
+		""
+		"&dMageblooms&r themselves can also be used as an ingredient for brewing &dPotions of Spell Damage&r, directly increasing the power of your spells. Cultivate them to support your magical endeavors!"
+	]
+	quest.42D8272FA2529800.quest_subtitle: "&8Cultivating Arcane Energy&r"
+	quest.42D8272FA2529800.title: "Magical Flora: &dMagebloom Seed&r"
+	quest.4301CE32D6C5BB34.quest_desc: [
+		"School: &6Manipulation&r"
+		"Rotates a target block or entity clockwise."
+		""
+		"Augment with &eSensitive&r to change the block's axis of rotation (if possible) or force an entity to turn its look direction. Augment with &eDampen&r to rotate counter-clockwise instead."
+	]
+	quest.4301CE32D6C5BB34.quest_subtitle: "&8Turning Blocks \\& Entities&r"
+	quest.4301CE32D6C5BB34.title: "Adjust Orientation: The &6Rotate&r &bGlyph&r"
+	quest.439B9BA648A8D9BA.quest_desc: [
+		"This mysterious item from &eArs Additions&r allows you to store a reference to a specific &aentity&r or &alocation&r, enabling remote targeting for your spells. Each Reliquary holds &aone reference&r at a time."
+		""
+		"&lStoring a Target:&r"
+		"1.  Hold the &dReliquary&r in your &aoff-hand&r."
+		"2.  Cast a spell using the &eMark&r glyph (Tier 3 Effect), likely starting with &eTouch -> Mark&r, targeting the desired entity or location. The reference is now stored in the Reliquary."
+		"    *   &lPlayer Mark Duration:&r Note that Marks placed on &aplayers&r are temporary and only last for &a5 minutes&r. After this time, the Recall glyph will fail even if the Reliquary has durability. Marks on non-player entities and locations do not expire."
+		""
+		"&lRecalling a Target:&r"
+		"1.  Hold the &dReliquary&r containing the stored reference in your &aoff-hand&r."
+		"2.  Cast a spell using the &eRecall&r glyph (Tier 3 Form). The spell effects following &eRecall&r will be applied to the entity or location stored in the Reliquary (if the mark is still valid)."
+		""
+		"{@pagebreak}"
+		"&lImportant Limitations:&r"
+		"*   &eSame Dimension:&r You must be in the &lsame dimension&r as the stored target for the &eRecall&r spell to function."
+		"*   &eDurability:&r Reliquaries have limited uses. By default, recalling a target consumes durability:"
+		"    *   Targeting a &ablock location&r: &a100&r casts per Reliquary."
+		"    *   Targeting an &aentity&r (non-player): &a10&r casts per Reliquary."
+		"    *   Targeting a &aplayer&r (within 5 min mark): &a1&r cast per Reliquary."
+		""
+		"&lAutomation:&r"
+		"*   &eSpell Turrets&r can utilize Reliquaries placed in adjacent chests for their Recall spells, consuming durability as normal."
+	]
+	quest.439B9BA648A8D9BA.quest_subtitle: "&8Binding Locations \\& Entities&r"
+	quest.439B9BA648A8D9BA.title: "Storing Targets: The &dReliquary&r"
+	quest.43D8A03AA47B99FA.quest_desc: [
+		"School: &dAbjuration&r"
+		"Removes potion effects from the target entity."
+		""
+		"&lSpecial Uses:&r"
+		"*   Using it on a &cWitch&r below half health causes her to vanish, dropping a &eWixie Token&r."
+		"*   Casting it on a summoned &dfamiliar&r returns it to its charm form."
+	]
+	quest.43D8A03AA47B99FA.quest_subtitle: "&8Removing Effects \\& Returning Familiars&r"
+	quest.43D8A03AA47B99FA.title: "Cleansing Magic: The &dDispel&r &bGlyph&r"
+	quest.44CFA7D1FB6EC03C.quest_desc: [
+		"Crafted from &bCascading Archwood&r, this tank holds up to &a16 buckets&r (16,000 mB) of any fluid, including liquid &bSource&r."
+		""
+		"If used to store &dpotion fluid&r, placing a &ePotion Jar&r above it enables interactions for filling &eflasks&r or &emelding&r."
+	]
+	quest.44CFA7D1FB6EC03C.quest_subtitle: "&8Arcane Tank&r"
+	quest.44CFA7D1FB6EC03C.title: "Liquid Storage: The &bFluid Containment Jar&r"
+	quest.457790CECEB41FCA.quest_desc: [
+		"Use this rod to reveal hidden things! Grants temporary &eMagic Find&r and &eScrying&r effects, causing &dmagical creatures&r to glow and revealing nearby &5Amethyst&r clusters through blocks."
+		""
+		"Can also be used on an &eImbuement Chamber&r or &eEnchanting Apparatus&r to highlight linked pedestals."
+	]
+	quest.457790CECEB41FCA.quest_subtitle: "&8Arcane Detection&r"
+	quest.457790CECEB41FCA.title: "Revealing Secrets: The &dDowsing Rod&r"
+	quest.46413AD20D0D5990.quest_desc: [
+		"Generates &bSource&r by consuming &afood items&r placed on adjacent &ePedestals&r or dropped nearby."
+		""
+		"More &anourishing&r food (higher hunger/saturation) yields more &bSource&r. &dMagical food&r (like &dSource Berry&r items) provides significant bonuses. Passively converts &7Dirt/Grass&r into &5Mycelium&r below and can grow &cmushrooms&r nearby."
+	]
+	quest.46413AD20D0D5990.quest_subtitle: "&8Digesting for Source&r"
+	quest.46413AD20D0D5990.title: "Fungal Feast: The &5Mycelial Sourcelink&r"
+	quest.46B58BFB1483B2F2.quest_desc: [
+		"This is arguably the most crucial table for any aspiring mage, serving two primary functions:"
+		""
+		"1.  &lGlyph Crafting:&r Use a &eSpellbook&r on the table to open the codex. Select a &bglyph&r to learn its crafting requirements (items and &aexperience points&r). Throw the required items onto the table (or let it auto-pull from nearby inventories - disable auto-pull with a &eDominion Wand&r) to scribe the new &bglyph&r into your knowledge."
+		"2.  &lScribing Spells:&r Transfer a configured &bspell&r from your &eSpellbook&r onto &eSpell Parchment&r or compatible &eEnchanter's Items&r. Place the target item on the table, hold your &eSpellbook&r (set to the desired spell), and sneak-use the book on the table. Use &5Manipulation Essence&r during this process to permanently &8hide&r the spell's recipe on the item."
+	]
+	quest.46B58BFB1483B2F2.quest_subtitle: "&8Glyph Crafting \\& Spell Scribing&r"
+	quest.46B58BFB1483B2F2.title: "The Heart of Spellcraft: The &eScribe's Table&r"
+	quest.46BF0FB9244DD235.quest_desc: [
+		"Occasionally applies a bone meal effect to growing &aplants&r and &ablocks&r in the area around the Brazier. Requires &bSource&r."
+		""
+		"If augmented with a &fBone Block&r tossed onto the brazier before activation, this ritual will also significantly accelerate the growth rate of nearby &ababy animals&r."
+	]
+	quest.46BF0FB9244DD235.quest_subtitle: "&8Speeding Up Nature&r"
+	quest.46BF0FB9244DD235.title: "Accelerated Growth: The &aOvergrowth&r &dTablet&r"
+	quest.46C065C278AC1251.quest_desc: [
+		"Increases the area affected by the modified spell effect, typically centered around the target block or impact point."
+		""
+		"Affects range for item/fluid pickup/insertion, radius for effects like Explosion or Smelt, number of blocks broken by Fell, etc. Combine with Pierce to add depth to the effect area."
+	]
+	quest.46C065C278AC1251.quest_subtitle: "&8Area of Effect&r"
+	quest.46C065C278AC1251.title: "Expand Influence: The &eAOE&r &bGlyph&r"
+	quest.46F7E8885BA2AC0A.quest_desc: [
+		"Decreases the power, range, or intensity of most spell effects it modifies."
+		""
+		"Useful for fine-tuning effects, reducing mana cost slightly, or enabling specific interactions (like causing Smelt to use smoking recipes). Acts as the opposite of Amplify."
+	]
+	quest.46F7E8885BA2AC0A.quest_subtitle: "&8Decreasing Magnitude&r"
+	quest.46F7E8885BA2AC0A.title: "Reduce Potency: The &eDampen&r &bGlyph&r"
+	quest.471CF8B2515255CC.quest_desc: ["Stops the spell sequence from resolving if the target is a &cfire-immune or fiery creature&r (e.g., Blazes, Magma Cubes, Striders)."]
+	quest.471CF8B2515255CC.quest_subtitle: "&8Non-Incendiary Targeting&r"
+	quest.471CF8B2515255CC.title: "Bypassing the Blaze: &cFilter: Fiery&r &bGlyph&r"
+	quest.47DEF5983DCAC878.quest_desc: [
+		"Store your crafted &bspells&r for later use or sharing with these parchments:"
+		"*   &dSpell Parchment:&r Inscribe a &bspell&r onto this using a &eScribe's Table&r and your &eSpellbook&r. Allows casting the inscribed spell directly from the scroll (consumes mana). Can be used multiple times."
+		"*   &dImbued Spell Parchment:&r Created by placing a standard &eSpell Parchment&r into an &eImbuement Chamber&r. This scroll provides a &asingle-use cast&r of the inscribed spell, consuming the scroll in the process. Useful for powerful spells you don't cast often or for sharing specific effects."
+	]
+	quest.47DEF5983DCAC878.quest_subtitle: "&8Storing and Casting Spells&r"
+	quest.47DEF5983DCAC878.title: "Scrolls of Power: &dSpell Parchment \\& Imbued Spell Parchment&r"
+	quest.4827F0944DFF01E0.quest_desc: [
+		"School: &eAir&r"
+		"Summons a lightning bolt at the target location. Entities struck are given the &eShocked&r effect (increases lightning damage taken, stacks up to III). Lightning deals bonus damage to &bwet&r entities or those wearing RF-powered items. Can be modified with &eAmplify&r, &eDampen&r, and &eExtend Time&r."
+	]
+	quest.4827F0944DFF01E0.quest_subtitle: "&8Summoning Thunderbolts&r"
+	quest.4827F0944DFF01E0.title: "Call the Storm: The &eLightning&r &bGlyph&r"
+	quest.483FA537CCEBCB82.quest_desc: [
+		"Ars Nouveau offers powerful automation possibilities using &bspells&r cast via &eSpell Turrets&r."
+		""
+		"Set up auto-harvesters, tree farms, quarries, item transport, resource generation, and much more by combining turrets with carefully crafted spells. "
+	]
+	quest.483FA537CCEBCB82.quest_subtitle: "&8Spells at Your Command&r"
+	quest.484325362CD18CC7.quest_desc: [
+		"Bridge the gap between Ars Nouveau's magic and Create's engineering with this motor from &eArs Technica&r."
+		""
+		"The &bSource Motor&r converts magical &bSource&r directly into &erotational force&r (Stress Units - SU), allowing you to power your Create contraptions using your Source network. It must be supplied with &bSource&r from an adjacent &eSource Jar&r."
+		""
+		"&lConfiguration:&r"
+		"*   Adjust the target &aRPM&r (speed) by right-clicking the &asides&r of the motor block."
+		"*   Adjust the &aSU-to-RPM ratio&r (Stress capacity vs speed tradeoff) by right-clicking &aelsewhere&r on the motor block. Increasing this ratio provides more Stress Capacity (SU) per rotation but increases &bSource&r consumption, while decreasing it lowers SU but makes it more Source-efficient."
+	]
+	quest.484325362CD18CC7.quest_subtitle: "&8Powering Create with Magic&r"
+	quest.484325362CD18CC7.title: "Arcane Rotation: The &bSource Motor&r"
+	quest.488514B8DF6EF982.quest_desc: [
+		"This versatile ritual awakens different entities depending on its target and augmentations:"
+		""
+		"*   &lWeald Walkers:&r Perform near the base of an &dArchwood Tree&r to awaken it into a &aWeald Walker&r. These guardians protect against hostile mobs, heal over time, and become Weald Waddlers upon death. Assign them a guard position."
+		"*   &lAmethyst Golem Charm:&r Perform near &dBudding Amethyst&r blocks to obtain an &dAmethyst Golem Charm&r, used to summon the golem."
+		"*   &lBookwyrm Charm:&r Augment the ritual with a &eBook&r and &eQuills&r (click onto the brazier before activation) to create &dBookwyrm Charms&r, used to upgrade Storage Lecterns."
+	]
+	quest.488514B8DF6EF982.quest_subtitle: "&8Animating Nature \\& Objects&r"
+	quest.488514B8DF6EF982.title: "Bringing Things to Life: The &aRitual of Awakening&r &dTablet&r"
+	quest.48B1BC0C976B47AE.quest_desc: [
+		"Enhance your &dStarbuncles&r' capabilities by giving them specific accessories. Each accessory assigns a unique job, changing their function from basic item transport to specialized tasks like moving fluids, potions, energy, mining, building, or even voiding items."
+		""
+		"Note: Many job accessories can be applied purely for &ecosmetics&r by &asneaking&r while giving the item to the Starbuncle, keeping its default behavior but changing its look. Explore the different accessories to fully automate your base!"
+	]
+	quest.48B1BC0C976B47AE.quest_subtitle: "&8Equipping for Different Roles&r"
+	quest.48B1BC0C976B47AE.title: "Specialized Tasks: &dStarbuncle Job Accessories&r"
+	quest.48D305D0FB72324B.quest_desc: [
+		"Generates &bSource&r by consuming compatible &bfluids&r from tanks placed directly &abelow&r it."
+		""
+		"Can consume various fluids like &fMilk&r, &6Honey&r, &eChocolate&r, or even &cLava&r, each yielding different amounts of &bSource&r per bucket. Check JEI for specific rates."
+	]
+	quest.48D305D0FB72324B.quest_subtitle: "&8Tapping Fluid Power&r"
+	quest.48D305D0FB72324B.title: "Liquid Conversion: The &bFluid Sourcelink&r"
+	quest.4911FE19EA0A1466.quest_desc: [
+		"An enhanced &eSource Relay&r capable of handling multiple input and output connections simultaneously."
+		""
+		"It boasts a significantly higher throughput than the basic relay (&a2500 Source&r per operation), splitting the transferred &bSource&r amongst all its linked outputs. Recommended for general use and managing high-production Sourcelinks due to its flexibility."
+	]
+	quest.4911FE19EA0A1466.quest_subtitle: "&8Efficient Source Routing&r"
+	quest.4911FE19EA0A1466.title: "High-Volume Transfer: The &bSource Relay: Splitter&r"
+	quest.495AAFB51B57AA93.quest_desc: [
+		"This essence, likely created via an &eImbuement Chamber&r process, captures the dualistic nature of &alife&r and &8death&r (&aanima&r)."
+		""
+		"Used in crafting recipes focused on healing, decay, summoning spirits, and manipulating life energies."
+	]
+	quest.495AAFB51B57AA93.quest_subtitle: "&8Cycle of Existence&r"
+	quest.495AAFB51B57AA93.title: "Life and Undeath: &8Anima Essence&r"
+	quest.495B7592B0DF6F35.quest_desc: [
+		"This charm summons an &dAlakarinos&r, a creature skilled in archaeology. Alakarinos can sometimes be found naturally on &ebeaches&r; giving one a &ePottery Sherd&r will cause it to give you a &etoken&r in return."
+		""
+		"&lSummoning \\& Setup:&r"
+		"*   Use the &dCharm&r on any block to summon the Alakarinos."
+		"*   Use the &eDominion Wand&r to bind it to a &eChest&r or other inventory, setting its home."
+		""
+		"&lFunctionality:&r"
+		"*   The Alakarinos will seek out &eSand&r or &eGravel&r blocks placed within its work area (&a3 blocks horizontal, 1 block vertical&r around its home chest)."
+		"*   If &bSource&r is supplied near the chest, the Alakarinos will periodically perform \"magic tricks,\" destroying the Sand/Gravel and depositing any found items (like archaeology loot) into its bound inventory."
+		"*   They also love to &adance&r near active &eJukeboxes&r!"
+	]
+	quest.495B7592B0DF6F35.quest_subtitle: "&8Sifting for Treasures&r"
+	quest.495B7592B0DF6F35.title: "Archaeological Assistant: The &dAlakarinos Charm&r"
+	quest.4A242446A9547B51.quest_desc: [
+		"School: &6Manipulation&r"
+		"Deletes source blocks of fluids in an area."
+		""
+		"Can be expanded with the &eAoE&r augment to clear larger areas of liquid."
+	]
+	quest.4A242446A9547B51.quest_subtitle: "&8Deleting Liquids&r"
+	quest.4A242446A9547B51.title: "Fluid Removal: The &6Evaporate&r &bGlyph&r"
+	quest.4ABAF74935A0776F.quest_desc: [
+		"School: &aEarth&r"
+		"Places &aDirt&r or other terrain blocks. Can be heavily modified:"
+		"*   &eAoE / Pierce:&r Place multiple blocks."
+		"*   &eAmplify (x1):&r Place &7Cobblestone&r."
+		"*   &eAmplify (x2):&r Place &7Cobbled Deepslate&r."
+		"*   Followed by &eConjure Water:&r Place &aMud&r."
+		"*   Augmented with &eAmplify(s)&r + followed by &eSmelt:&r Place &7Stone&r or &7Deepslate&r."
+		"*   Followed by &eCrush:&r Place &eSand&r or, if amplified, &eSandstone&r."
+	]
+	quest.4ABAF74935A0776F.quest_subtitle: "&8Shaping the Land&r"
+	quest.4ABAF74935A0776F.title: "Terraform: The &aConjure Terrain&r &bGlyph&r"
+	quest.4AF0600BFE6C3558.quest_desc: [
+		"School: &bWater&r"
+		"Places a source block of &bWater&r at the target location or extinguishes entities on fire. Augment with &eExtend Time&r to keep entities &bWet&r for a longer period."
+	]
+	quest.4AF0600BFE6C3558.quest_subtitle: "&8Summoning Water&r"
+	quest.4AF0600BFE6C3558.title: "Create Water Source: The &bConjure Water&r &bGlyph&r"
+	quest.4BE64747526EE07E.quest_desc: [
+		"Capture and store most entities within these magical jars using the &eRitual of Containment&r. Use the &dDispel&r spell on a jar to release the captured mob. Place blocks above the jar to play ambient sounds of the mob inside."
+		""
+		"Beyond storage and decoration, many mobs exhibit unique behaviors while inside the jar, allowing for compact and interesting farms or mechanics:"
+		"*   &fChicken:&r Occasionally lays &feggs&r."
+		"*   &fSheep:&r Can be &asheared&r; eats grass below the jar."
+		"*   &fCow / Mooshroom:&r Can be &amilked&r / harvested for &cstew&r. Mooshrooms can be sheared into normal cows."
+		"*   &bAllay:&r Picks up items within 5 blocks and deposits into adjacent inventories (respects filters). Give an item to filter pickups; give a scroll for scroll filtering."
+		"*   &eVillager:&r Can be &atraded&r with; trades reset periodically."
+		"{@pagebreak}"
+		"*   &6Piglin:&r Can be &atraded&r with by throwing &6gold ingots&r at the jar."
+		"*   &8Ender Dragon:&r Use a &fBottle&r to obtain &5Dragon's Breath&r."
+		"*   &7Armadillo:&r Occasionally sheds &7scutes&r."
+		"*   &aSniffer:&r Occasionally digs up &aancient seeds&r."
+		"*   &bPufferfish:&r Inflates near mobs, producing a &credstone signal&r while inflated."
+		"*   &aFrog:&r Eats nearby &aslimes&r."
+		"*   &fPanda:&r Baby pandas occasionally sneeze &aslimeballs&r (more often if sick)."
+		"*   &8Cat:&r Gives gifts if owner sleeps nearby; produces &credstone signal&r if owner is online."
+		"*   &eBreeze / Snow Golem:&r Shoots projectile when powered with &credstone&r."
+		"*   &dDummy:&r Attracts nearby mobs."
+		"*   &cBlaze:&r Jar acts as a &elight source&r."
+		""
+		"&dDrygmys&r also treat occupied Containment Jars as unique entities for their happiness calculation. Experiment to discover more!"
+	]
+	quest.4BE64747526EE07E.quest_subtitle: "&8Preserving \\& Utilizing Entities&r"
+	quest.4BE64747526EE07E.title: "Mobs in a Bottle: The &eContainment Jar&r"
+	quest.4C4821C2EB8A5AFC.quest_desc: [
+		"Take your automation further by infusing &dEnchanted Spell Turrets&r with the power of an &dElemental&r or &dManipulation&r Focus using an &eImbuement Chamber&r (place Turret in center, Focus + related Essences on Pedestals)."
+		""
+		"Infused turrets gain unique benefits:"
+		"*   Spells cast by the turret will trigger any special &acombos or effects&r associated with the corresponding Focus (e.g., Fire Focus's Magic Burn, Earth Focus's Gravity Well augmentation)."
+		"*   Spells containing glyphs matching the turret's infused &delemental school&r receive a massive &a65% Source cost discount&r!"
+	]
+	quest.4C4821C2EB8A5AFC.quest_subtitle: "&8Granting Turrets Focus Abilities&r"
+	quest.4C4821C2EB8A5AFC.title: "Infusing Turrets: &dElemental \\& Manipulation Focus Power&r"
+	quest.4D74C41E3E2F32F9.quest_desc: [
+		"This elegant pedestal serves primarily as a way to &edisplay items&r proudly. However, its utility extends far beyond mere aesthetics in various Ars Nouveau processes:"
+		""
+		"*   &eImbuement Chamber:&r Place required catalyst items on adjacent pedestals; they facilitate the crafting process &awithout being consumed&r."
+		"*   &eSourcelink Fueling:&r Holds items (like fuel for &cVolcanic&r or food for &5Mycelial&r Sourcelinks) to be automatically consumed by the nearby device."
+		"*   &eWixie Autocrafting:&r Can hold ingredients or reagents for automated crafting setups involving &eWixies&r."
+		"*   &eArcane Core:&r Plays a role in certain multi-block structures centered around the &eArcane Core&r."
+	]
+	quest.4D74C41E3E2F32F9.quest_subtitle: "&8Multipurpose Magical Stand&r"
+	quest.4D74C41E3E2F32F9.title: "Display and Utility: The &dArcane Pedestal&r"
+	quest.4E36A768D5C284B9.quest_desc: [
+		"An &eEnchanted Spell Turret&r infused with the power of an &eAir Focus&r."
+		""
+		"Spells cast by this turret trigger &eAir Focus&r abilities and combos. &eAir school spells&r benefit from a &a65% Source cost reduction&r."
+	]
+	quest.4E36A768D5C284B9.quest_subtitle: "&8Imbued with Tempest&r"
+	quest.4E36A768D5C284B9.title: "Aerial Automation: &eAir Infused Turret&r"
+	quest.4E4FAE462DCFC16A.quest_desc: [
+		"This charm allows you to summon a &dStarbuncle&r, a helpful creature adept at item management. &dStarbuncles&r naturally appear in wooded areas, searching for &6gold nuggets&r. While normally shy, holding a nugget allows you to approach. When a wild Starbuncle picks up a nugget, it vanishes, leaving behind a &eStarbuncle Token&r."
+		""
+		"Craft the &eStarbuncle Charm&r. Use the charm on the ground to summon your own loyal Starbuncle! Wild Starbuncles cannot be tamed directly."
+		""
+		"Using &dDispel&r on a Starbuncle or killing it drops its charm. They can be dyed any color."
+	]
+	quest.4E4FAE462DCFC16A.quest_subtitle: "&8Summoning Your First Helper&r"
+	quest.4E4FAE462DCFC16A.title: "Celestial Critter: The &eStarbuncle Charm&r"
+	quest.4E6C3F8B6189C5C2.quest_desc: [
+		"School: &eAir&r"
+		"Activates a wind charge effect at the target location, knocking nearby entities back."
+		""
+		"Augment with &eSensitive&r to make the caster ignore the knockback effect (useful for Self-cast AOE)."
+	]
+	quest.4E6C3F8B6189C5C2.quest_subtitle: "&8Repelling with Wind&r"
+	quest.4E6C3F8B6189C5C2.title: "Gust of Air: The &eWind Burst&r &bGlyph&r"
+	quest.4E7514D37F39E88A.quest_desc: [
+		"This ritual empowers nearby players. When a player within range jumps, they are granted the &eFlight&r effect, allowing temporary creative-style flight."
+		""
+		"The ritual will refresh the flight buff as long as the player remains nearby. Each time the flight effect is granted or refreshed, the ritual consumes &bSource&r from nearby &eSource Jars&r."
+	]
+	quest.4E7514D37F39E88A.quest_subtitle: "&8Temporary Aerial Freedom&r"
+	quest.4E7514D37F39E88A.title: "Take to the Skies: The &eFlight&r &dTablet&r"
+	quest.4F55F1A29030CE72.quest_desc: [
+		"School: &eAir&r"
+		"Causes targeted blocks and entities to fall as if affected by gravity."
+		""
+		"Augment with &eExtend Time&r to disable flight for players and apply the &8Gravity&r status effect. Entities afflicted with Gravity fall rapidly and take double falling damage."
+	]
+	quest.4F55F1A29030CE72.quest_subtitle: "&8Applying Downward Force&r"
+	quest.4F55F1A29030CE72.title: "Weight of the World: The &eGravity&r &bGlyph&r"
+	quest.4F58C04CCC025A5F.quest_desc: [
+		"Schools: &dConjuration&r, &6Manipulation&r"
+		"Animates a targeted block, turning it into a temporary ally that fights for you. The animated block converts to a falling block entity when it dies. Costs a large amount of &bmana&r but does &lnot&r inflict &dSummoning Sickness&r."
+	]
+	quest.4F58C04CCC025A5F.quest_subtitle: "&8Block Golem Creation&r"
+	quest.4F58C04CCC025A5F.title: "Living Blocks: The &dAnimate Block&r &bGlyph&r"
+	quest.4F8E1E50345B9AA3.quest_desc: [
+		"Exert your magical will over the very fabric of the environment. These rituals allow you to manipulate the weather and the cycle of day and night."
+		""
+		"Bring forth &8rain&r or &cstorms&r, banish clouds for &eclear skies&r, hasten the arrival of &8night&r, or call forth the &esun&r. Control the world around your ritual site to suit your needs or whims. These rituals typically do not require &bSource&r."
+	]
+	quest.4F8E1E50345B9AA3.quest_subtitle: "&8Commanding Time \\& Sky&r"
+	quest.4F8E1E50345B9AA3.title: "&l&bRituals of Environment Control&r"
+	quest.500E316599029E60.quest_desc: [
+		"This advanced projectile &5Form&r automatically seeks out the nearest valid entity target and attempts to follow it."
+		""
+		"If no valid targets are nearby, it behaves like a standard &eProjectile&r. By default, it will &lnot&r target players; augment with &eSensitive&r to enable player targeting. Ensure your spells reach their intended recipient!"
+	]
+	quest.500E316599029E60.quest_subtitle: "&8Magic That Finds Its Mark&r"
+	quest.500E316599029E60.title: "Seeking Missile: The &5Homing Projectile&r &bGlyph&r"
+	quest.503F362365064003.quest_desc: [
+		"This is your essential starting point. Craft it so it becomes your personal Spell Book, allowing you to create, store, and cast spells using &bMana&r."
+		""
+		"&lSpell Structure:&r To craft your first spell, open the book (&e'C'&r key) and select glyphs. Spells follow a structure: Form -> Effect(s) -> Augment(s). (See Spell Casting entry for details)."
+		""
+		"&lCasting \\& Mana:&r Casting spells consumes &bMana&r. Your max mana and regeneration increase as you &aunlock more glyphs&r, scaling with book tier. Increase mana further with &dMage Armor&r or enchantments."
+		""
+		"The &dNovice Spell Book&r casts &bTier 1 glyphs or lower&r, up to &a10 glyphs&r total. Higher tier glyphs require book upgrades. Use &e'V'&r to quick-select spells. Can be dyed by crafting with dye."
+	]
+	quest.503F362365064003.quest_subtitle: "&8Beginning Spellcraft&r"
+	quest.503F362365064003.title: "Your First Grimoire: The &dNovice Spell Book&r"
+	quest.50640E1DCA73C8CF.quest_desc: [
+		"This specialized sensor outputs a &credstone signal&r whenever a &bspell&r is cast nearby."
+		""
+		"The strength of the output signal is determined by the &alength&r (number of glyphs) of the detected spell cast."
+		"&lConfiguration:&r"
+		"*   &eDominion Wand:&r Use the wand on the sensor to toggle its trigger between detecting when a spell is &acast&r versus when a spell &aresolves&r (hits/finishes)."
+		"*   &eSpell Parchment:&r Use an inscribed Spell Parchment on the sensor to make it &lonly&r output a signal when that &aexact spell&r is detected."
+	]
+	quest.50640E1DCA73C8CF.quest_subtitle: "&8Arcane Activity Monitor&r"
+	quest.50640E1DCA73C8CF.title: "Detecting Magic: The &dSpell Sensor&r"
+	quest.50F88133518296C1.quest_desc: [
+		"School: &6Manipulation&r"
+		"Simulates a player interacting (right-clicking by default) with blocks or entities. Useful for levers, buttons, chests, or interacting with animals."
+		""
+		"Augment with &eSensitive&r to use your &aoff-hand item&r for the interaction. Augment with &eAmplify&r to simulate a &aleft-click&r instead (on blocks)."
+	]
+	quest.50F88133518296C1.quest_subtitle: "&8Remote Right/Left Click&r"
+	quest.50F88133518296C1.title: "Use Item/Block: The &6Interact&r &bGlyph&r"
+	quest.50FDDC9DA449CAA7.quest_desc: [
+		"The &eRepository Catalog&r acts as a high-performance interface for inserting and extracting items from adjacent and connected &eRepositories&r. It's particularly efficient when used with &eStorage Lecterns&r for large-scale systems."
+		""
+		"It respects filters placed on individual &eRepositories&r when inserting items and prioritizes filling existing stacks. You can also apply a &eFilter Scroll&r directly to the Catalog to manage filters for all connected Repositories simultaneously. Note: Filter behaviour differs slightly with external automation like hoppers."
+	]
+	quest.50FDDC9DA449CAA7.quest_subtitle: "&8Efficient Item Handling&r"
+	quest.50FDDC9DA449CAA7.title: "Performance Interface: The &7Repository Catalog&r"
+	quest.5158E6381D90DB75.quest_desc: [
+		"An upgraded Source Jar from &eAllthemodium&r, crafted using &5Unobtainium&r. Significantly increases storage capacity, holding up to &a100,000&r units of &bSource&r."
+		""
+		"Ideal for large-scale magical operations requiring substantial power reserves."
+	]
+	quest.5158E6381D90DB75.quest_subtitle: "&8Vast Reserves&r"
+	quest.5158E6381D90DB75.title: "High-Capacity Storage: The &5Unobtainium Source Jar&r"
+	quest.51647757B74EAB96.quest_desc: [
+		"School: &cFire&r"
+		"Sets target blocks and mobs on &cfire&r for a short duration."
+		""
+		"Augment with &eSensitive&r to summon &cMage Fire&r instead – a shorter-lived fire that does not spread or destroy blocks."
+	]
+	quest.51647757B74EAB96.quest_subtitle: "&8Conjuring Flames&r"
+	quest.51647757B74EAB96.title: "Set Ablaze: The &cIgnite&r &bGlyph&r"
+	quest.5183DD04F9DD1A63.quest_desc: [
+		"Allows a &dStarbuncle&r to transport &dpotions&r between &ePotion Jars&r."
+		""
+		"Give the hat to your Starbuncle, then use the &eDominion Wand&r to link it between the desired Potion Jars for automated potion handling, perfect for brewing setups."
+	]
+	quest.5183DD04F9DD1A63.quest_subtitle: "&8Alchemical Assistant&r"
+	quest.5183DD04F9DD1A63.title: "Potion Courier: The &dWixie Hat&r"
+	quest.51C9990A1DE44A28.quest_desc: [
+		"Initiates a ritual that summons a random variety of passive, wild &aanimals&r native to the biome where the &eRitual Brazier&r is placed. Does not require &bSource&r."
+		""
+		"A simple way to introduce wildlife to an area or start a small farm."
+	]
+	quest.51C9990A1DE44A28.quest_subtitle: "&8Populating the Fauna&r"
+	quest.51C9990A1DE44A28.title: "Call of the Wild: The &aSummon Animals&r &dTablet&r"
+	quest.521DB9CD25BDB7F1.quest_desc: [
+		"School: &eAir&r"
+		"Grants the target the &dGlide&r effect, allowing them to fly as if they were wearing an Elytra for a duration."
+	]
+	quest.521DB9CD25BDB7F1.quest_subtitle: "&8Simulated Gliding&r"
+	quest.521DB9CD25BDB7F1.title: "Elytra Flight: The &eGlide&r &bGlyph&r"
+	quest.526185B5DED59B77.quest_desc: [
+		"School: &dConjuration&r"
+		"Summons Evoker Fangs that erupt from the ground in the direction the spell was targeted. Using &eSelf&r form summons them in an area around you."
+	]
+	quest.526185B5DED59B77.quest_subtitle: "&8Summoning Vexing Jaws&r"
+	quest.526185B5DED59B77.title: "Evoker's Bite: The &dFangs&r &bGlyph&r"
+	quest.529063CF4D42AF02.quest_desc: [
+		"School: None"
+		"Resolves the subsequent spell effects in a spherical area around the target point."
+		"*   &eSensitive:&r Targets blocks instead of entities within the sphere."
+		"*   &eDampen:&r Creates an empty sphere (affects only the shell)."
+		"*   &eAoE:&r Increases the radius of the sphere."
+	]
+	quest.529063CF4D42AF02.quest_subtitle: "&8Spherical Area Effect&r"
+	quest.529063CF4D42AF02.title: "Expanding Sphere: The &dBurst&r &bGlyph&r"
+	quest.53D4F695075C9B57.quest_desc: [
+		"School: &dConjuration&r"
+		"Creates a source of light."
+		"*   &lOn Block:&r Creates a &apermanent, invisible light source&r. Augment with &eAmplify&r for Glowstone brightness, or &eDampen&r for lower light levels."
+		"*   &lOn Self:&r Grants temporary &dNight Vision&r."
+		"*   &lOn Other Entity (with Sensitive):&r Grants temporary &dNight Vision&r and &dGlowing&r (uses spell color)."
+	]
+	quest.53D4F695075C9B57.quest_subtitle: "&8Illuminating Presence&r"
+	quest.53D4F695075C9B57.title: "Create Light: The &dConjure Magelight&r &bGlyph&r"
+	quest.5487FDCBDDDEDC7B.quest_desc: ["Increases the travel &aspeed&r of projectile-based spells (&eProjectile&r, &eArc Projectile&r, &eHoming Projectile&r). Multiple Accelerate glyphs can stack for higher speeds."]
+	quest.5487FDCBDDDEDC7B.quest_subtitle: "&8Increasing Velocity&r"
+	quest.5487FDCBDDDEDC7B.title: "Swift Projectiles: The &eAccelerate&r &bGlyph&r"
+	quest.5569865DFFA705EF.quest_desc: [
+		"School: &6Manipulation&r"
+		"Places a &atemporary rune&r on the ground. When an entity touches the rune, it casts the spell effects that follow this glyph in the sequence."
+		""
+		"Unlike runes from &eRunic Chalk&r, these are temporary and cannot be recharged. If used with &eItem Pickup&r, items are deposited into adjacent inventories (augment with &eSensitive&r to target owner's inventory instead). Players with &eMagic Find&r can see the inscribed spell."
+	]
+	quest.5569865DFFA705EF.quest_subtitle: "&8Temporary Spell Trigger&r"
+	quest.5569865DFFA705EF.title: "Magical Trap: The &6Rune&r &bGlyph&r"
+	quest.559114E7EFFDCF0A.quest_desc: [
+		"School: &6Manipulation&r"
+		"Creates a lingering wall that applies subsequent spell effects to nearby entities for a short time. Functionally similar to &eLinger&r but in a wall formation."
+		"*   &eSensitive:&r Makes the spell target blocks instead."
+		"*   &eAoE:&r Expands the effective range/size of the wall."
+		"*   &eAccelerate:&r Casts the lingering effects faster."
+		"*   &eDampen:&r Makes the wall ignore gravity."
+		"*   &eExtend Time:&r Increases the duration the wall persists."
+	]
+	quest.559114E7EFFDCF0A.quest_subtitle: "&8Creating Effect Barriers&r"
+	quest.559114E7EFFDCF0A.title: "Lingering Wall: The &6Wall&r &bGlyph&r"
+	quest.5606C52B1656977B.quest_desc: [
+		"A magical essence created within an &eImbuement Chamber&r, embodying the destructive and energetic nature of &cfire&r."
+		""
+		"Primarily used in various crafting recipes, it can also serve as a potent &cfuel source&r in furnaces."
+	]
+	quest.5606C52B1656977B.quest_subtitle: "&8Concentrated Combustion&r"
+	quest.5606C52B1656977B.title: "Heart of the Inferno: &cFire Essence&r"
+	quest.56104BCCBB877C7C.quest_desc: [
+		"This magical urn consumes &bSource&r to generate &bWater&r."
+		""
+		"Link a &eCauldron&r or an &eApothecary&r to the urn using a &eDominion Wand&r, and it will automatically keep the linked container filled with &bwater&r for a small &bSource&r cost."
+	]
+	quest.56104BCCBB877C7C.quest_subtitle: "&8Source-to-Water Converter&r"
+	quest.56104BCCBB877C7C.title: "Infinite Hydration: The &bUrn of Endless Waters&r"
+	quest.56352F51643728D4.quest_desc: [
+		"Representing the peak of standard Ars Nouveau spell components, &bTier III Glyphs&r unlock powerful and specialized abilities. Expect highly advanced &aEffects&r, unique &5Forms&r like &eHoming Projectile&r, game-changing &eAugments&r like &eSplit&r, and complex interactions like &6Rewind&r or &6Linger&r."
+		""
+		"Learning these glyphs at the &eScribe's Table&r typically involves significant &aXP&r investment and potentially rare ingredients. To wield spells containing these advanced glyphs, you &lmust&r possess an &dArchmage Spell Book&r or better. These glyphs define high-level spellcraft. Higher tier spellbooks unlock even greater complexity, allowing for more glyphs per spell!"
+		""
+		"Explore the examples on the following pages to see the potential!"
+		""
+		"{@pagebreak}"
+		"&lAdept Spells (Up to 10 Glyphs):&r"
+		"*   &eHoming Projectile -> Amplify -> Lightning -> Extend Time&r"
+		"    &8Use Case:&r Fires a seeking projectile that calls down a lightning strike on impact, applying an extended duration &eShocked&r effect. Great for reliably hitting mobile targets and applying a potent debuff."
+		"*   &eProjoectile -> Split -> Fangs -> Amplify&r"
+		"    &8Use Case:&r Summon multiple rows of amplified Evoker Fangs directly in front of you for significant close-range burst damage or area denial."
+		"*   &eSelf -> Filter: Undead -> Hex -> Extend Time -> Delay -> Heal&r"
+		"    &8Use Case:&r Apply a long-duration Hex to yourself (reducing mana regen/healing) &lonly if you are not undead&r, wait briefly, then apply a standard Heal. Perhaps useful in specific niche scenarios or PvP? (Careful with Hex!)"
+		""
+		"{@pagebreak}"
+		"*   &eProjectile -> Pierce -> Pierce -> Propagate Homing -> Pierce -> Explosion -> Amplify&r"
+		"    &8Use Case:&r Fire a projectile that pierces two targets. Upon hitting the third target (or wall), it launches a new &eHoming Projectile&r from that point, which pierces one more target before causing an amplified explosion on the next impact. Complex multi-stage attack."
+		"*   &eSelf -> Summon Decoy -> Delay -> Blink -> Reset -> Intangible -> Extend Time&r"
+		"    &8Use Case:&r Summon a decoy to draw aggro, wait a moment, blink a short distance forward, then make nearby blocks intangible for an extended period, potentially allowing escape through terrain after blinking away from the decoy."
+		""
+		"{@pagebreak}"
+		"&lMaster Spells (Up to 20 Glyphs):&r"
+		"*   &eHoming Projectile -> Filter: Fiery -> Conjure Water -> Amplify -> Cold Snap -> Amplify -> Reset -> Ignite -> Sensitive -> Flare -> Amplify&r"
+		"    &8Use Case:&r A complex combo spell. Fires a homing projectile. If it hits a non-fiery target, it makes them wet, triggers a doubly-amplified Cold Snap, then ignites Mage Fire on the original target location, and finally triggers an amplified Flare explosion on that fire. High damage potential with multiple damage types. (Requires &6Allthemodium Spell Book&r)"
+		"*   &eSelf -> Summon Undead -> Split -> Extend Time -> Amplify -> Reset -> Life Link -> Sensitive -> Delay -> Heal -> Amplify&r"
+		"    &8Use Case:&r Summon multiple, stronger Skeletons that last longer. Then, establish a reverse Life Link with your most recent summon (or target if aimed). After a delay, cast an amplified Heal on yourself, transferring some healing to the linked Skeleton. (Requires &6Allthemodium Spell Book&r)"
+		""
+		"{@pagebreak}"
+		"*   &eArc Projectile -> Pierce -> Pierce -> Propagate Homing -> Filter:Non-Undead -> Phantom Grasp -> Extend Time  -> Extend Time -> Reset -> Linger -> Wither -> Extend Time  -> Extend Time&r"
+		"    &8Use Case:&r Lob a projectile that bounces twice. From the final impact point, launch a homing projectile. If the homing projectile hits an Undead target, apply Phantom Grasp (healing it) for a long duration. Then, create a lingering cloud at the original target location that applies a long-duration Wither effect. Area control and conditional effects. (Requires &3Vibranium Spell Book&r)"
+		"*   &eSelf -> Orbit -> AOE -> AOE -> Extend Time -> Pierce -> Lightning -> Delay -> Orbit -> AOE -> Extend Time -> Pierce -> Spark -> Delay -> Orbit -> Extend Time -> Pierce -> Discharge&r"
+		"    &8Use Case:&r Creates a powerful, long-lasting defensive/offensive field. Summons multiple amplified orbiting projectiles that pierce targets and inflict Lightning. After a delay, summons more amplified orbiters that pierce and Spark. Finally, summons more long-lasting orbiters that pierce and Discharge targets previously hit by Spark/Lightning. A chaotic storm of electrical energy! (Requires &5Unobtainium Spell Book&r)"
+	]
+	quest.56352F51643728D4.quest_subtitle: "&8Mastering Complex Magic&r"
+	quest.56352F51643728D4.title: "Adept Energies: &bTier III Glyphs&r"
+	quest.56F5256005EC18D9.quest_desc: [
+		"Channel benevolent magic through rituals focused on healing, restoration, and the natural world."
+		""
+		"Use these tablets to mend wounds, cure afflictions, and even summon creatures native to the surrounding environment. Bring life and companionship to the area around your &eRitual Brazier&r."
+	]
+	quest.56F5256005EC18D9.quest_subtitle: "&8Nurturing and Beckoning&r"
+	quest.56F5256005EC18D9.title: "&l&aRituals of Life \\& Summoning&r"
+	quest.5726DC77DC159D7D.quest_desc: [
+		"One of the spells you start with. This fundamental &5Form&r glyph launches your spell effects as a &eprojectile&r."
+		""
+		"The subsequent effects in the spell chain will trigger when the projectile hits a target entity or block. Augmenting with &eSensitive&r allows projectiles to break non-solid blocks like grass or flowers."
+	]
+	quest.5726DC77DC159D7D.quest_subtitle: "&8Delivering Spells from Afar&r"
+	quest.5726DC77DC159D7D.title: "Ranged Magic: The &5Projectile&r &bGlyph&r"
+	quest.574478EF8C9C2FAC.quest_desc: [
+		"The world is old, and echoes of past &dmagic&r linger in forgotten corners. Not all knowledge of &bglyphs&r is simply crafted; some can be rediscovered through &eexploration&r."
+		""
+		"Venture forth into ancient ruins, hidden groves, or anywhere traces of old magic might remain. Search for chests containing &dforgotten lore&r or items imbued with residual power left behind by mages of yore."
+		""
+		"Sometimes, these explorations yield tangible fragments of knowledge: &eCodex Entries&r. These rare items, when used, impart the knowledge of a random &aTier 1 glyph&r directly into your &eSpellbook&r, expanding your foundational spellcrafting abilities."
+		""
+		"Find and use a &eCodex Entry&r obtained through your adventures to prove you have begun uncovering these lost arts."
+	]
+	quest.574478EF8C9C2FAC.quest_subtitle: "&8Echoes of Forgotten Magic&r"
+	quest.574478EF8C9C2FAC.title: "&l&5Whispers of Ancient Glyphs&r"
+	quest.57FBFBA5AC49709F.quest_desc: [
+		"Unlock the ability to summon loyal &dfamiliars&r, magical creatures that offer passive benefits and assistance. The first step is obtaining a &dBound Script&r specific to the creature you wish to summon."
+		""
+		"These scripts are acquired by performing the &eRitual of Binding&r near the relevant entity (e.g., perform it near a Starbuncle to get the Starbuncle script). Once you have a &dBound Script&r, use it (right-click) to permanently learn that familiar."
+		""
+		"Learned familiars can be summoned via your &eSpellbook's&r crafting menu (Familiars section). Summoning a familiar costs &bSource&r and inflicts temporary &dFamiliar Sickness&r, preventing you from summoning another immediately. Familiars are bound to &lyou&r and cannot be transferred between Spellbooks."
+	]
+	quest.57FBFBA5AC49709F.quest_subtitle: "&8Binding Allies to Your Side&r"
+	quest.57FBFBA5AC49709F.title: "Magical Companionship: &dTablet of Binding&r"
+	quest.5846AAF6076028C6.quest_desc: [
+		"This advanced turret automatically casts its inscribed &bspell&r on a configurable timer, without needing a redstone signal."
+		""
+		"&lConfiguration:&r"
+		"*   Defaults to firing every &a1 second&r."
+		"*   &aRight-click&r the block to increase the delay."
+		"*   &aPunch&r the block to decrease the delay."
+		"*   &aSneak + Right-click&r to adjust the interval in larger (10-second) increments."
+		"*   Lock/Unlock the timer configuration using the &eDominion Wand&r."
+		"*   Setting the timer to &a0 seconds&r or providing a &credstone signal&r will &ldisable&r the turret."
+		""
+		"&lUnique Benefit:&r Casts &eProjectile&r, &eTouch&r, and &eRedstone&r spells for &lFREE&r (no Source cost)!"
+	]
+	quest.5846AAF6076028C6.quest_subtitle: "&8Automatic Repetition&r"
+	quest.5846AAF6076028C6.title: "Timed Magic: The &dTimer Spell Turret&r"
+	quest.58C39C199573D345.quest_desc: [
+		"School: None"
+		"Infuses a target with a potion or flask effect directly from the caster's inventory. Caster blocks (like Turrets) may pull from adjacent &ePotion Jars&r."
+		""
+		"Augment with &eAoE&r to create a splash potion effect at the location. Augment with &eExtend Time&r to create a lingering potion cloud at the location."
+	]
+	quest.58C39C199573D345.quest_subtitle: "&8Delivering Alchemical Effects&r"
+	quest.58C39C199573D345.title: "Apply Potion Effect: The &dInfuse&r &bGlyph&r"
+	quest.59D774FDC27B4F93.quest_desc: [
+		"The final tier through standard Ars Nouveau progression, upgraded from the Mage's book. All learned content transfers upon upgrading."
+		""
+		"The &dArchmage Spell Book&r is necessary for casting spells using &bTier 3 glyphs or lower&r (still capped at &a10 glyphs&r). Your &bMana&r/regen scaling reaches its standard peak. Can be dyed. Quick access: &e'V'&r / &e'C'&r."
+	]
+	quest.59D774FDC27B4F93.quest_subtitle: "&8Adept Spellcasting&r"
+	quest.59D774FDC27B4F93.title: "Mastering the Basics: The &dArchmage Spell Book&r"
+	quest.5A47A94E0DD6718F.quest_desc: [
+		"This ritual instantly sets the current time to the beginning of &eday&r. Does not require &bSource&r."
+		""
+		"Banish the night and welcome the morning light with this convenient ritual."
+	]
+	quest.5A47A94E0DD6718F.quest_subtitle: "&8Heralding the Dawn&r"
+	quest.5A47A94E0DD6718F.title: "Day's Return: The &eSunrise&r &dTablet&r"
+	quest.5BCE3ECD68C35073.quest_desc: [
+		"An upgrade to the &7Spell Prism&r. This advanced prism can be aimed at a specific block using a &eDominion Wand&r, precisely directing &bspell projectiles&r."
+		""
+		"It cannot be pushed by pistons. Shift-right-click to remove equipped &eLenses&r. Can be equipped with various &ePrism Lenses&r to modify redirected projectiles. Some lenses require &bSource&r to function and their limits can be configured."
+	]
+	quest.5BCE3ECD68C35073.quest_subtitle: "&8Targeted Spell Control&r"
+	quest.5BCE3ECD68C35073.title: "Advanced Redirection: The &eAdvanced Spell Prism&r"
+	quest.5C42B1F7D6950A32.quest_desc: [
+		"Using this tablet on a &eRitual Brazier&r &linside a Village&r will immediately summon an &cIllager Raid&r. Does not require &bSource&r."
+		""
+		"&lAugmentations:&r"
+		"*   &aEmerald:&r Tossing an Emerald onto the brazier before activation increases the raid's difficulty to the &amaximum level&r (if not already on Hard difficulty). This makes acquiring &eTotems of Undying&r easier on lower difficulties but has no effect on Hard."
+	]
+	quest.5C42B1F7D6950A32.quest_subtitle: "&8Inciting an Illager Raid&r"
+	quest.5C42B1F7D6950A32.title: "Village Under Siege: The &cChallenge&r &dTablet&r"
+	quest.5CACECC96F4E8EAC.quest_desc: [
+		"A versatile grate made from &dSourcestone&r, &dGold&r or &dArchwood&r. Liquids placed on top will pass through, attempting to waterlog the block below. Interacting with the grate acts as if you are interacting with the block below it (e.g., allowing you to bucket liquids)."
+		""
+		"&aItems&r and &aprojectiles&r pass through freely. Can be placed in any orientation."
+	]
+	quest.5CACECC96F4E8EAC.quest_subtitle: "&8Filtered Flow&r"
+	quest.5CACECC96F4E8EAC.title: "Permeable Barrier: The &7Archwood Grate&r"
+	quest.5D13A9057CA3C64A.quest_desc: [
+		"School: &eAir&r"
+		"Deals damage to targets currently in the air. The damage increases based on how high the target is off the ground (up to 10 blocks). Targets on the ground take no damage."
+	]
+	quest.5D13A9057CA3C64A.quest_subtitle: "&8Damaging Airborne Targets&r"
+	quest.5D13A9057CA3C64A.title: "Aerial Assault: The &eWind Shear&r &bGlyph&r"
+	quest.5D8255CA0C1E332E.quest_desc: [
+		"Causes the &eRitual Brazier&r to act as a powerful &amagnet&r, pulling nearby entities (excluding players and bosses) towards it within an &a8-block radius&r."
+		""
+		"Useful for mob farms or gathering creatures. Does not require &bSource&r."
+	]
+	quest.5D8255CA0C1E332E.quest_subtitle: "&8Drawing Mobs In&r"
+	quest.5D8255CA0C1E332E.title: "Creature Magnet: The &aAttraction&r &dTablet&r"
+	quest.5D8DE36CDAAA4414.quest_desc: [
+		"Generates &bSource&r by consuming &cburnable items&r supplied via adjacent &ePedestals&r or dropped nearby."
+		""
+		"Gains bonus &bSource&r from &dArchwood logs&r, especially &cBlazing Archwood&r. Also generates &cHeat&r, which slowly converts &7Stone&r to &cMagma Block&r, and then &cMagma Block&r to &cLava&r in the area below. Automatically outputs &bSource&r to nearby &eSource Jars&r."
+	]
+	quest.5D8DE36CDAAA4414.quest_subtitle: "&8Fueling the Arcane Forge&r"
+	quest.5D8DE36CDAAA4414.title: "Infernal Power: The &cVolcanic Sourcelink&r"
+	quest.5E3A38694FB526CF.quest_desc: ["Stops the spell sequence from resolving &lunless&r the target is an &eaerial creature&r."]
+	quest.5E3A38694FB526CF.quest_subtitle: "&8Sky-Exclusive Effects&r"
+	quest.5E3A38694FB526CF.title: "Affecting Only Flyers: &cFilter: Not Aerial&r &bGlyph&r"
+	quest.5E5CBD6E2B9FB7BF.quest_desc: [
+		"Forged within an &eImbuement Chamber&r, this essence resonates with protective and defensive magic (&dabjuration&r)."
+		""
+		"A vital component for crafting items, spells, and rituals designed to shield, ward off harm, and negate hostile effects."
+	]
+	quest.5E5CBD6E2B9FB7BF.quest_subtitle: "&8Warding Energy&r"
+	quest.5E5CBD6E2B9FB7BF.title: "Guardian's Spirit: &dAbjuration Essence&r"
+	quest.5ECA9ACDAA266100.quest_desc: [
+		"Functions similarly to a standard &eSource Relay&r, but automatically deposits &bSource&r into any &aunlinked&r &eSource Jars&r within a &a5-block radius&r."
+		""
+		"Convenient for automatically filling multiple nearby jars from a central Source line or generator without individual output links. Still requires manual links for input or specific/distant outputs. Transfers up to &a1000 Source&r per operation."
+	]
+	quest.5ECA9ACDAA266100.quest_subtitle: "&8Filling Nearby Jars&r"
+	quest.5ECA9ACDAA266100.title: "Automatic Distribution: The &bSource Relay: Depositor&r"
+	quest.5FA6994C26ABC327.quest_desc: [
+		"Summoned &dWixies&r (bound to a &eCauldron&r or other specialized blocks) automatically craft items using materials from nearby inventories."
+		""
+		"&lCore Mechanics:&r"
+		"*   &lIngredient Sourcing:&r The Wixie automatically pulls required ingredients from &anearby inventories&r (chests, etc.). It intelligently mixes and matches valid items (e.g., uses any type of plank to craft sticks)."
+		"*   &lSource Cost:&r Each craft requires a small amount of &bSource&r, drained from nearby &eSource Jars&r."
+		"*   &lRedstone Control:&r A &credstone signal&r applied to the Wixie's block will pause crafting."
+		"*   &lInventory Binding:&r Use the &eDominion Wand&r (click inventory, then Wixie block) to link specific inventories. If any inventories are bound, the Wixie will &lonly&r pull ingredients from those."
+		"*   &lMulti-Item Crafting:&r Place &ePedestals&r adjacent to the Wixie block and place items on them. The Wixie will attempt to craft the items on the pedestals in a round-robin fashion. Powering a pedestal disables crafting for the item on it."
+		"*   &lPotion Crafting:&r Wixies can autocraft potions using nearby &ePotion Jars&r and items. Water is supplied automatically. Base potions are taken from nearby Jars. Output is 3 doses to a nearby empty/matching Potion Jar. Start by placing an empty Jar, then right-click the Cauldron with an &eAwkward Potion&r and supply &eNether Wart&r. Lock output Jars for specific potions if using multiple Wixies."
+	]
+	quest.5FA6994C26ABC327.quest_subtitle: "&8Your Personal Magical Crafter&r"
+	quest.5FA6994C26ABC327.title: "Wixie Automation Basics: &dAutomated Crafting&r"
+	quest.5FB99C632BAA0EB9.quest_desc: [
+		"Schools: &dAbjuration&r, &0Anima&r"
+		"Applies the damaging &8Wither&r debuff to the target entity."
+	]
+	quest.5FB99C632BAA0EB9.quest_subtitle: "&8Inflicting Decay&r"
+	quest.5FB99C632BAA0EB9.title: "Decaying Touch: The &0Wither&r &bGlyph&r"
+	quest.60355EB5520E5B15.quest_desc: [
+		"School: &eAir&r"
+		"Pulls the target entity closer to the caster."
+		""
+		"When used on blocks, turns them into falling block entities with motion towards the side of the block that was hit. Augment with &eSensitive&r to prevent this spell from pulling blocks."
+	]
+	quest.60355EB5520E5B15.quest_subtitle: "&8Drawing Targets Closer&r"
+	quest.60355EB5520E5B15.title: "Attraction Force: The &ePull&r &bGlyph&r"
+	quest.60C964031A4501BC.quest_desc: [
+		"An advanced version of the Warp Scroll. Using this scroll on a block creates a &atemporary Warp Portal&r linked to the scroll's recorded location, allowing travel &lbetween dimensions&r. This temporary portal use &ldoes not consume&r the scroll."
+		""
+		"However, using a Stabilized Warp Scroll during the creation of a permanent &eWarp Portal&r frame &lwill consume&r the scroll but creates a permanent portal capable of &across-dimension travel&r. Each Stabilized scroll can only be bound to a &asingle location&r."
+	]
+	quest.60C964031A4501BC.quest_subtitle: "&8Reusable \\& Cross-Dimension Travel&r"
+	quest.60C964031A4501BC.title: "Stable Connections: The &5Stabilized Warp Scroll&r"
+	quest.60DF7DD8C5859847.quest_desc: [
+		"Initiates a ritual that instantly digs &afour adjacent 1x1 holes&r straight down to &8bedrock&r."
+		""
+		"Any blocks excavated are dropped as items. A quick way to clear shafts or gather basic resources in bulk. Does not require &bSource&r."
+	]
+	quest.60DF7DD8C5859847.quest_subtitle: "&8Mining Made Easy&r"
+	quest.60DF7DD8C5859847.title: "Instant Excavation: The &7Burrowing&r &dTablet&r"
+	quest.612FEEC423B2D0F0.quest_desc: [
+		"School: &aEarth&r"
+		"Breaks targeted blocks of average hardness, dropping their items."
+		""
+		"Augmenting with &eAmplify&r increases the effective harvest level, allowing it to break harder blocks. Using &eSensitive&r simulates using Shears instead of a Pickaxe (e.g., for leaves or wool)."
+	]
+	quest.612FEEC423B2D0F0.quest_subtitle: "&8Magical Mining&r"
+	quest.612FEEC423B2D0F0.title: "Shatter: The &aBreak&r &bGlyph&r"
+	quest.61828C823A463316.quest_desc: [
+		"School: &bWater&r"
+		"Causes entities currently afflicted with &bWet&r, &bSlowed&r, or &bFreezing&r effects to take a burst of damage and erupt into falling ice blocks, which slow and damage nearby entities. Can also erupt a block of ice directly. Falling blocks can be manipulated with &eFocus of Block Shaping&r. Immediately sets entities with Freezing to the maximum freeze level."
+	]
+	quest.61828C823A463316.quest_subtitle: "&8Shattering Frost&r"
+	quest.61828C823A463316.title: "Icy Eruption: The &bCold Snap&r &bGlyph&r"
+	quest.61CFD03867FCC9D2.quest_desc: [
+		"Obtained by performing the &eRitual of Binding&r near an &dAmethyst Golem&r."
+		""
+		"Binding an Amethyst Golem familiar provides these passive benefits:"
+		"*   Reduces &aknockback&r taken by half."
+		"*   Knocks back any entities that &aattack you&r."
+		"*   Feeding the golem an &5Amethyst Shard&r grants you &a3 minutes&r of the &dShielding&r effect."
+	]
+	quest.61CFD03867FCC9D2.quest_subtitle: "&8Crystal Protector Familiar&r"
+	quest.61CFD03867FCC9D2.title: "Resonant Guardian: &5Bound Script: Amethyst Golem&r"
+	quest.61E2386BFF64E0D0.quest_desc: ["Stops the spell sequence from resolving &lunless&r the target is an &aarthropod creature&r."]
+	quest.61E2386BFF64E0D0.quest_subtitle: "&8Bug-Specific Spells&r"
+	quest.61E2386BFF64E0D0.title: "Arthropod Hunter: &cFilter: Not Insect&r &bGlyph&r"
+	quest.624FFF4307E30ABC.quest_desc: [
+		"Bind this magical &ebag&r to a container (like a chest). Once bound, right-clicking items onto the &eHaversack&r will instantly deposit them into the linked container, no matter how far away you are!"
+		""
+		"Configure &afilters&r using the off-hand or a &eScribe's Table&r to automate depositing specific items. If the linked container is unloaded, the Haversack won't accept items."
+	]
+	quest.624FFF4307E30ABC.quest_subtitle: "&8Pocket Dimension Link&r"
+	quest.624FFF4307E30ABC.title: "Remote Deposits: The &dHandy Haversack&r"
+	quest.6253867705333CBB.quest_desc: [
+		"The fundamental container for storing raw magical energy, &bSource&r. A standard &bSource Jar&r holds up to &a10,000&r Source units."
+		""
+		"It gathers &bSource&r generated by nearby &eSourcelinks&r (or received via &eSource Relays&r) and automatically provides power to adjacent Ars Nouveau devices like the &eImbuement Chamber&r and &eEnchanting Apparatus&r. Can be picked up and moved without losing stored Source. Outputs a &credstone signal&r via a &eComparator&r based on its fill level."
+	]
+	quest.6253867705333CBB.quest_subtitle: "&8Basic Magical Battery&r"
+	quest.6253867705333CBB.title: "Containing the Flow: The &bSource Jar&r"
+	quest.62E21D8DF5DCAC97.quest_desc: [
+		"Use this charm to bring forth a benevolent &bSiren&r. Sirens are usually found near &bcoral reefs&r, occasionally following boats. You might befriend a wild one by offering a &aSea Pickle&r; they may jump and leave behind tokens."
+		""
+		"&lSummoning \\& Shrine:&r"
+		"*   Use the &dCharm&r on a block to summon a Siren."
+		"*   Using the &dCharm&r specifically on &bPrismarine&r will transform it into a &bSiren Shrine&r, summoning a Siren bound to it."
+		""
+		"&lShrine Functionality:&r"
+		"*   The Shrine slowly generates &afishing loot&r over time, consuming &bSource&r per cycle."
+		"*   Loot quantity and treasure chance increase based on the &adiversity of water animals and plants&r nearby. Build a nice aquarium around the Shrine!"
+		""
+		"Tamed Sirens can change color if given &aKelp&r or &bCorals&r."
+	]
+	quest.62E21D8DF5DCAC97.quest_subtitle: "&8Summoning Aquatic Allies&r"
+	quest.62E21D8DF5DCAC97.title: "Ocean's Call: The &bSiren Charm&r"
+	quest.631C89BF008325D8.quest_desc: [
+		"Upgraded from the Allthemodium tier using Vibranium (learned content transfers)."
+		""
+		"The &3Vibranium Spell Book&r grants access to &bTier 5 glyphs or lower&r and increases complexity to &315 glyphs&r. Further boosts &bMana&r/regen. Quick access: &e'V'&r / &e'C'&r."
+		""
+		"&lNotice that in the down left corner of the spellbook there an arrow to see the new slots.&r"
+	]
+	quest.631C89BF008325D8.quest_subtitle: "&8Echoes of Greater Magic&r"
+	quest.631C89BF008325D8.title: "&3Vibranium Spell Book"
+	quest.633CFBFF9BE1A143.quest_desc: [
+		"School: &dConjuration&r"
+		"Creates a &atemporary block&r that disappears after a short time. Useful for quick platforms or barriers."
+		""
+		"Augment with &eAmplify&r to make the conjured block &apermanent&r. Using &dDispel&r destroys the block instantly. Casting on an entity creates blocks around them upwards."
+	]
+	quest.633CFBFF9BE1A143.quest_subtitle: "&8Solidifying Air&r"
+	quest.633CFBFF9BE1A143.title: "Temporary Platform: The &dConjure Mageblock&r &bGlyph&r"
+	quest.63435562AB51AD57.quest_desc: [
+		"School: &aEarth&r"
+		"A fog of poison spores erupts from the target, damaging it and causing &aPoison&r and &aHunger&r to spread to nearby entities. It can &lonly damage&r mobs that are already poisoned or afflicted by hunger."
+	]
+	quest.63435562AB51AD57.quest_subtitle: "&8Spreading Affliction&r"
+	quest.63435562AB51AD57.title: "Noxious Cloud: The &aPoison Spores&r &bGlyph&r"
+	quest.6344B1D59E2E7E7D.quest_desc: [
+		"This augment additively &aincreases the power or magnitude&r of most spell effects it modifies (placed directly to the right of an Effect or Form)."
+		""
+		"Examples include increasing the &4damage&r of spells like &aHarm&r, raising the &aharvest level&r of the &aBreak&r glyph, or increasing the distance of &eLeap&r. Experiment to see how it empowers different effects!"
+	]
+	quest.6344B1D59E2E7E7D.quest_subtitle: "&8Boosting Effects&r"
+	quest.6344B1D59E2E7E7D.title: "Increase Potency: The &eAmplify&r &bGlyph&r"
+	quest.63C5B4FBD6C4AEDA.quest_desc: [
+		"Schools: &dConjuration&r, &0Anima&r"
+		"Summons three allied &8Vexes&r that attack nearby hostile enemies. They last a short time before taking damage, extendable with &eExtend Time&r."
+	]
+	quest.63C5B4FBD6C4AEDA.quest_subtitle: "&8Conjuring Annoying Allies&r"
+	quest.63C5B4FBD6C4AEDA.title: "Summon Phantoms: The &dSummon Vex&r &bGlyph&r"
+	quest.6429C5DCE7B8D4D6.quest_desc: [
+		"Equip a &dStarbuncle&r with this accessory to enable the transport of &6Forge Energy (FE)&r."
+		""
+		"Use the &eDominion Wand&r to link the Starbattery-equipped Starbuncle between FE-compatible blocks (energy sources and consumers)."
+	]
+	quest.6429C5DCE7B8D4D6.quest_subtitle: "&8Mobile Power Conduit&r"
+	quest.6429C5DCE7B8D4D6.title: "Energy Transfer: The &6Starbattery&r"
+	quest.64707DD75E823A38.quest_desc: [
+		"This projectile &5Form&r behaves differently from the standard one: it is affected by &agravity&r, causing it to travel in an arc."
+		""
+		"Useful for lobbing spells over obstacles or hitting targets at different elevations. Interestingly, each application of the &ePierce&r augment (Tier 2) will cause the arc projectile to &abounce once&r when it hits the ground, potentially extending its reach or creating unique trajectories. Requires a &dMage's Spell Book&r or better to cast."
+	]
+	quest.64707DD75E823A38.quest_subtitle: "&8Gravity-Affected Casting&r"
+	quest.64707DD75E823A38.title: "Lobbing Magic: The &5Arc Projectile&r &bGlyph&r"
+	quest.648439041AEE9D53.quest_desc: [
+		"Establish dominance over your domain with rituals designed to protect, repel, detect, and even displace unwanted entities."
+		""
+		"Create safe havens free from &chostile spawns&r, automatically strike down intruders with &elightning&r, disintegrate monsters into pure &aexperience&r, push creatures away, reveal hidden threats, or forcibly &5teleport&r beings to predetermined locations. Secure your territory and manage its inhabitants through powerful ritual magic."
+		"{@pagebreak}"
+	]
+	quest.648439041AEE9D53.quest_subtitle: "&8Controlling Your Surroundings&r"
+	quest.648439041AEE9D53.title: "&l&dRituals of Warding \\& Influence&r"
+	quest.64A6B40A1FDCF0C4.quest_desc: [
+		"Deep within certain biomes lie the lairs of the formidable &5Wilden&r: the stoic &aGuardian&r, the agile &cHunter&r, and the elusive &eStalker&r. Each den presents a unique challenge."
+		""
+		"Brave these dangerous locales, defeat the &5Wilden&r inhabitants, and claim the &atreasures&r they guard. These dens often contain valuable resources, magical components, and perhaps even unique items dropped by the Wilden themselves."
+	]
+	quest.64A6B40A1FDCF0C4.quest_subtitle: "&8Facing the Fey Beasts&r"
+	quest.64A6B40A1FDCF0C4.title: "Hunting Grounds: The &5Wilden Dens&r"
+	quest.659FE490DCA273C6.quest_desc: [
+		"School: &6Manipulation&r"
+		"Targets dropped item entities and refines them into their corresponding \"polished\" variants where applicable (e.g., Andesite -> Polished Andesite)."
+	]
+	quest.659FE490DCA273C6.quest_subtitle: "&8Smoothing Item Entities&r"
+	quest.659FE490DCA273C6.title: "Refining Surfaces: The &6Polish&r &bGlyph&r"
+	quest.65E29442C1E59124.quest_desc: [
+		"This unique &aEffect&r glyph fundamentally alters spell flow. When placed in a spell sequence, it takes all subsequent glyphs to its right, packages them into a new &eArc Projectile&r, and launches that projectile from the location where the spell effect resolved just before this glyph."
+		""
+		"Think of it as a way to \"bounce\" or \"chain\" the remainder of your spell from one impact point to another, using the gravity-affected arc trajectory. Requires a &dMage's Spell Book&r or better to cast."
+	]
+	quest.65E29442C1E59124.quest_subtitle: "&8Ricocheting Spell Effects&r"
+	quest.65E29442C1E59124.title: "Chaining Arcs: The &aPropagate Arc&r &bGlyph&r"
+	quest.66664F0D2792D8FB.quest_desc: [
+		"Obtained only after achieving monumental feats (available only in after obtaining the &6&lATM Star&r), this book represents ultimate magical freedom."
+		""
+		"The &dCreative Spell Book&r casts virtually &lany glyph tier&r (&bTier 99 or lower&r) with a maximum complexity of &a20 glyphs&r. Mana is likely maximized or irrelevant. Can be dyed. Quick access: &e'V'&r / &e'C'&r."
+	]
+	quest.66664F0D2792D8FB.quest_subtitle: "&8Infinite Magical Expression&r"
+	quest.66664F0D2792D8FB.title: "&dCreative Spell Book"
+	quest.686CB499CFB8FBCF.quest_desc: [
+		"Injects an element of randomness into the behavior of certain glyphs it modifies."
+		""
+		"For instance, when used with &ePlace Block&r or &eExchange&r (Tier 2), it will randomly select the block to be placed from available blocks in your hotbar. It can also affect the selection from inventories for &eToss&r. Embrace the unpredictable!"
+	]
+	quest.686CB499CFB8FBCF.quest_subtitle: "&8Unpredictable Outcomes&r"
+	quest.686CB499CFB8FBCF.title: "Introduce Chaos: The &eRandomize&r &bGlyph&r"
+	quest.6911075637C7F246.quest_desc: [
+		"School: &6Manipulation&r"
+		"Targets dropped item entities and flattens them into their corresponding \"pressed\" variants (check &6Create&r press recipes for see the crafts)."
+	]
+	quest.6911075637C7F246.quest_subtitle: "&8Compacting Item Entities&r"
+	quest.6911075637C7F246.title: "Flattening Items: The &6Press&r &bGlyph&r"
+	quest.69562F731D782665.quest_desc: ["Increases the drop chance or amount from mobs killed by damaging effects or blocks destroyed by the &aBreak&r glyph, similar to the &aFortune&r enchantment. Cannot be combined with &eExtract&r."]
+	quest.69562F731D782665.quest_subtitle: "&8Simulating Fortune \\& Looting&r"
+	quest.69562F731D782665.title: "Bountiful Harvest: The &eLuck&r &bGlyph&r"
+	quest.69A565C1801CC333.quest_desc: [
+		"School: &dAbjuration&r"
+		"Causes the target entity to turn invisible for a short time."
+	]
+	quest.69A565C1801CC333.quest_subtitle: "&8Vanishing from Sight&r"
+	quest.69A565C1801CC333.title: "Cloaking Magic: The &dInvisibility&r &bGlyph&r"
+	quest.6A001729A3EB763A.quest_desc: [
+		"This unique &5Form&r automatically applies the spell's effects to the &llast entity that dealt damage to you&r, provided the damage occurred within the last &a5 seconds&r."
+		""
+		"An excellent way to automatically counter-attack foes or apply debuffs immediately after being hit. Be mindful of what effects you link to this form!"
+	]
+	quest.6A001729A3EB763A.quest_subtitle: "&8Counter-Attacking with Spells&r"
+	quest.6A001729A3EB763A.title: "Vengeful Magic: The &5Retaliate&r &bGlyph&r"
+	quest.6A05B084E18D0A3F.quest_desc: [
+		"The &eImbuement Chamber&r is a key device for creating many Ars Nouveau items by imbuing base materials with raw magical energy (&bSource&r). Its most common use is transforming &5Amethyst&r or &9Lapis&r into &dSource Gems&r."
+		""
+		"The Chamber passively accumulates &bSource&r over time, but this process can be significantly sped up by placing filled &bSource Jars&r nearby (within 2 blocks). More complex recipes require additional ingredients placed on &ePedestals&r adjacent to the Chamber (within 1 block). Items on pedestals act as catalysts or modifiers and are &anot consumed&r in the process."
+	]
+	quest.6A05B084E18D0A3F.quest_subtitle: "&8Crafting with Source&r"
+	quest.6A05B084E18D0A3F.title: "Arcane Infusion: The &eImbuement Chamber&r"
+	quest.6A128DA6553AAB6F.quest_desc: [
+		"The different types of &dArchwood Trees&r occasionally bear unique &dmagical fruits&r, each imbued with distinct properties:"
+		"*   &cBombegranate:&r From &cBlazing Archwood&r. Brews into a &dPotion of Blasting&r, causing the target to &cexplode&r when the &cBlasting&r effect ends."
+		"*   &bFrostaya:&r From &bCascading Archwood&r. Brews into a &dPotion of Freezing&r, inflicting the damaging &bFreezing&r effect over time."
+		"*   &aMendosteen:&r From &aFlourishing Archwood&r. Brews into a &dPotion of Recovery&r, granting the &aRecovery&r effect which increases healing received from all sources."
+		"*   &eFlashpine Pod:&r From &eFlashing Archwood&r. Brews into a &dPotion of Static Charge&r, inflicting &eStatic Charged&r which causes lightning to strike or energy to discharge. Eating it may cause shocking side effects!"
+		"*   &5Bastion Fruit:&r From &5Vexing Archwood&r. Brews into a &dPotion of Shielding&r, granting the &5Shielding&r effect which reduces damage taken."
+		""
+		"Consume these fruits directly for minor, temporary effects, or use them as key ingredients in &ebrewing&r potent Ars Nouveau potions at a &eBrewing Stand&r."
+	]
+	quest.6A128DA6553AAB6F.quest_subtitle: "&8Nature's Potent Produce&r"
+	quest.6A128DA6553AAB6F.title: "Arcane Harvest: &dMagical Fruits&r"
+	quest.6A5EDE8A6F1B4AA0.quest_desc: [
+		"Discover the remnants of ancient &5Warp Portals&r, now shattered and inactive. While the portal itself may be broken, signs of past travels often remain."
+		""
+		"Search the vicinity carefully, especially for any intact &echests&r left behind. These chests sometimes contain a pre-inscribed &eWarp Scroll&r, which, when used, might just teleport you to &aanother interesting structure&r, continuing your journey of discovery!"
+	]
+	quest.6A5EDE8A6F1B4AA0.quest_subtitle: "&8A Link to Elsewhere?&r"
+	quest.6A5EDE8A6F1B4AA0.title: "Broken Gateway: The &5Ruined Portal&r"
+	quest.6A8C3A6A39D30C44.quest_desc: [
+		"School: &bWater&r"
+		"Picks up fluid source blocks from the world and attempts to fill a compatible tank in the caster's hotbar or adjacent to the turret that cast the spell."
+	]
+	quest.6A8C3A6A39D30C44.quest_subtitle: "&8Collecting Fluids Magically&r"
+	quest.6A8C3A6A39D30C44.title: "Gather Liquid: The &bPickup Fluid&r &bGlyph&r"
+	quest.6B003D83CEF8FF44.quest_desc: [
+		"School: &6Manipulation&r"
+		"Rewinds a target entity back in time to its previous location and health state. Can revert blocks moved by spells back into solid blocks. Glyphs placed after Rewind in the sequence are cast at the &aend&r of the rewind effect, as if delayed."
+	]
+	quest.6B003D83CEF8FF44.quest_subtitle: "&8Turning Back Time&r"
+	quest.6B003D83CEF8FF44.title: "Temporal Reversal: The &6Rewind&r &bGlyph&r"
+	quest.6B284ADE4643072D.quest_desc: [
+		"School: &aEarth&r"
+		"Harvests entire trees, large mushrooms, cactus, and other multi-block vegetation at once."
+		""
+		"Augment with &eAmplify&r to break harder materials. &eAoE&r increases the number of connected blocks broken simultaneously."
+	]
+	quest.6B284ADE4643072D.quest_subtitle: "&8Chopping Down Vegetation&r"
+	quest.6B284ADE4643072D.title: "Timber!: The &aFell&r &bGlyph&r"
+	quest.6BBF5A425D46C17D.quest_desc: [
+		"Creates a circular island composed of &agrass&r and &adirt&r, converting the area into a standard &aPlains&r biome. Default radius is &a7 blocks&r. Requires &bSource&r."
+		""
+		"&lAugmentations:&r"
+		"*   &dSource Gem:&r Increases the radius by &a+1&r for each gem tossed onto the brazier before activation."
+		"*   &bFrostaya:&r Augmenting with this fruit will convert the generated area into a chilly &fSnow Plains&r biome instead."
+	]
+	quest.6BBF5A425D46C17D.quest_subtitle: "&8Raising Grassy Fields&r"
+	quest.6BBF5A425D46C17D.title: "Verdant Ground: &aConjure Island: Plains&r &dTablet&r"
+	quest.6C0AE82B249C1F19.quest_desc: [
+		"Your expanding &dApplied Energistics 2&r system requires power to function, but conventional generators may not be readily available. Fear not, for the magic of Ars Nouveau provides a solution!"
+		""
+		"The &eME Source Converter&r, an ingenious device from &eArs Energistique&r, directly transforms magical &bSource&r into usable &dAE Energy&r."
+		""
+		"Place the &eConverter&r adjacent to an AE machine or network component that needs power, such as an &eME Controller&r, or &eCharger&r. Supply the Converter with &bSource&r, either by linking a &eSource Relay&r to it or placing a charged &eSource Jar&r next to it. It will then automatically generate &dAE Energy&r, seamlessly powering your digital storage and automation with arcane energy. This is the &lonly&r way to energize your AE system!"
+	]
+	quest.6C0AE82B249C1F19.quest_subtitle: "&8Bridging Magic and Digital Power&r"
+	quest.6C0AE82B249C1F19.title: "Powering Logistics: The &dME Source Converter&r"
+	quest.6CBF53F93A81E9AA.quest_desc: [
+		"Schools: &dAbjuration&r, &0Anima&r"
+		"Applies the &8Hex&r effect to the target. Hex increases damage taken by a small amount while the target is also afflicted by &aPoison&r, &8Wither&r, &cFire&r, or &bFreezing&r. Additionally, Hex cuts the target's &bMana Regeneration&r and &ahealing received&r in half."
+	]
+	quest.6CBF53F93A81E9AA.quest_subtitle: "&8Applying Weakness&r"
+	quest.6CBF53F93A81E9AA.title: "Curse of Vulnerability: The &0Hex&r &bGlyph&r"
+	quest.6CEDA8BC18CD2D1B.quest_desc: [
+		"Obtained by performing the &eRitual of Binding&r near a &dBookwyrm&r."
+		""
+		"Binding a Bookwyrm familiar provides this passive benefit:"
+		"*   Automatically picks up nearby &aitems&r and &aexperience orbs&r within &a5 blocks&r of you (does not pick up items you throw). Use the &efamiliar hotkey&r (check controls) to toggle this magnet effect on/off."
+	]
+	quest.6CEDA8BC18CD2D1B.quest_subtitle: "&8Item \\& XP Collector Familiar&r"
+	quest.6CEDA8BC18CD2D1B.title: "Arcane Attendant: &dBound Script: Bookwyrm&r"
+	quest.6D31E98DFC1C0A28.quest_desc: [
+		"Discover powerful off-hand items known as &dCaster Tomes&r. Each tome mimics the passive abilities of a corresponding &bSchool Focus&r (like the Focus of Fire, Water, etc.) and provides a unique casting mechanic: using the tome allows you to cast a spell at &ahalf its mana cost&r OR consume your &aentire mana bar&r, whichever cost is &lsmaller&r."
+		""
+		"These potent tools likely require advanced crafting or may be found as rewards for overcoming significant challenges. Your goal is to acquire at least one of each known type:"
+		"*   &dCaster Tome&r (Base)"
+		"*   &cCaster Tome of Fire&r"
+		"*   &bCaster Tome of Water&r"
+		"*   &eCaster Tome of Air&r"
+		"*   &aCaster Tome of Earth&r"
+		"*   &aCaster Tome of Anima&r"
+		"*   &5Caster Tome of Manipulation&r"
+		""
+		"Mastering these tomes offers significant flexibility and power in your spellcasting."
+	]
+	quest.6D31E98DFC1C0A28.quest_subtitle: "&8Channeling Specific Magic&r"
+	quest.6D31E98DFC1C0A28.title: "&l&dFocus Without Focus: Caster Tomes&r"
+	quest.6D7292B450718B8B.quest_desc: [
+		"Obtained by performing the &eRitual of Binding&r near a &dStarbuncle&r."
+		""
+		"Binding a Starbuncle familiar provides this passive benefit:"
+		"*   Grants you &dSpeed II&r."
+		""
+		"Additionally:"
+		"*   Using a &6Golden Nugget&r on the Starbuncle consumes it and grants you a short duration of &dScrying for Gold Ore&r effect."
+	]
+	quest.6D7292B450718B8B.quest_subtitle: "&8Speedy \\& Resourceful Familiar&r"
+	quest.6D7292B450718B8B.title: "Starlight Companion: The &eBound Script: Starbuncle&r"
+	quest.6D962434C315125F.quest_desc: ["Stops the spell sequence from resolving if the target is an &baquatic creature&r (e.g., Fish, Squids, Dolphins, Guardians)."]
+	quest.6D962434C315125F.quest_subtitle: "&8Land-Locked Spells&r"
+	quest.6D962434C315125F.title: "Avoiding Water Dwellers: &cFilter: Aquatic&r &bGlyph&r"
+	quest.6F369C3CF5B79DA5.quest_desc: ["Decreases the travel &aspeed&r of projectile-based spells (&eProjectile&r, &eArc Projectile&r, &eHoming Projectile&r). The opposite of Accelerate."]
+	quest.6F369C3CF5B79DA5.quest_subtitle: "&8Reducing Velocity&r"
+	quest.6F369C3CF5B79DA5.title: "Slow Projectiles: The &eDecelerate&r &bGlyph&r"
+	quest.6F4255A31A9F7FEE.quest_desc: [
+		"School: &eAir&r"
+		"Creates a whirlwind in an area, causing nearby item entities to be centrifuged (used for specific processing recipes like washing, smoking, blasting, or haunting items when combined with appropriate effects like Water, Flare, Smelt, or Hex. Check &6Create&r encased fan for the recipes)."
+	]
+	quest.6F4255A31A9F7FEE.quest_subtitle: "&8Spinning Item Processing&r"
+	quest.6F4255A31A9F7FEE.title: "Centrifugal Force: The &eWhirl&r &bGlyph&r"
+	quest.6F8748CE3380B7EF.quest_desc: [
+		"The foundation of spell-based automation! This turret casts an inscribed &bspell&r when it receives a &credstone signal&r, similar to a dispenser."
+		""
+		"&lSetup:&r"
+		"*   Set the desired &bspell&r by using an inscribed &eSpell Parchment&r on the turret, or by Shift + Right-clicking with your &eSpellbook&r (set to the desired spell)."
+		"*   Turrets accept spells using &eTouch&r and &eProjectile&r forms."
+		"*   Provide &bSource&r via nearby &eSource Jars&r; casting consumes Source."
+		"*   Can utilize &aItem Pickup&r and &aPlace Block&r glyphs if an inventory is placed adjacent to the turret block."
+		""
+		"Use these for auto-harvesters, mob defenses, automated crafting steps, and much more!"
+	]
+	quest.6F8748CE3380B7EF.quest_subtitle: "&8Redstone-Triggered Magic&r"
+	quest.6F8748CE3380B7EF.title: "Automated Spellcasting: The &dBasic Spell Turret&r"
+	quest.6F8D55385CE93A12.quest_desc: [
+		"This essence, formed in an &eImbuement Chamber&r, captures the ephemeral and mobile qualities of &eair&r."
+		""
+		"A key ingredient for crafting items and spells related to movement, deflection, and electricity."
+	]
+	quest.6F8D55385CE93A12.quest_subtitle: "&8Weightless Whispers&r"
+	quest.6F8D55385CE93A12.title: "Breath of the Sky: &eAir Essence&r"
+	quest.6FA651BBDF9C2918.quest_desc: [
+		"Enable the transport of &bSource&r between &eSource Jars&r and other &eSource Relays&r."
+		""
+		"Use the &eDominion Wand&r: Right-click the source (Jar/Relay), then right-click the target (Jar/Relay) to establish a link. Links have a maximum range of &a30 blocks&r. To clear connections, sneak-right-click the Relay with the wand. This basic relay transfers up to &a1000 Source&r per operation."
+	]
+	quest.6FA651BBDF9C2918.quest_subtitle: "&8Basic Source Transport&r"
+	quest.6FA651BBDF9C2918.title: "Moving the Magic: The &bSource Relay&r"
+	quest.70A03F19477D2688.quest_desc: [
+		"This ritual tablet is used to capture nearby entities and place them into available &eContainment Jars&r."
+		""
+		"Place empty &eContainment Jars&r within &a3 blocks&r of the &eRitual Brazier&r. Activate the ritual using this tablet. The ritual will capture one nearby entity and place it into a jar. After the first capture, the ritual requires additional &bSource&r to continue capturing more entities into the remaining jars."
+	]
+	quest.70A03F19477D2688.quest_subtitle: "&8Ritualistic Entity Storage&r"
+	quest.70A03F19477D2688.title: "Capturing Life: The &dTablet of Containment&r"
+	quest.70AF624557EEA2C9.quest_desc: [
+		"Summoned &dStarbuncles&r are invaluable for automation and item handling:"
+		"*   &lItem Pickup:&r They automatically pick up nearby dropped items (unless given &eStarbuncle Shades&r)."
+		"*   &lItem Transport:&r Use the &eDominion Wand&r to link a Starbuncle between inventories (Click Starbuncle -> Click Target Chest for deposit; Click Source Chest -> Click Starbuncle for pickup). They can move items between multiple linked inventories. Sneak-clicking a Starbuncle with the wand resets its links."
+		"*   &lSource Berry Harvest:&r They automatically harvest fully grown &dSource Berry Bushes&r."
+		"*   &lFiltering:&r Control what items they pick up or deposit using &eItem Scrolls&r (Allow/Deny) given directly to them, or placed in an &eItem Frame&r on a linked inventory. They also respect &eMimic Scrolls&r on inventories. (See &dAutomation Control: Filter \\& Direction Scrolls&r quest)."
+		"*   &lPathing:&r Use a block on a Starbuncle to make it prefer pathing over that block type (they naturally prefer grass paths)."
+		"*   &lResting:&r Bind a Starbuncle to a &dMagebloom Bed&r using the &eDominion Wand&r. It will rest there when idle. Providing a &credstone signal&r to the bed disables it, sending resting Starbuncles back to work."
+		"*   &lStacking:&r Use another &eStarbuncle Charm&r on an existing Starbuncle to stack them. Stacked Starbuncles transport multiple item stacks at once, depositing them sequentially. Wanding interacts with the main (bottom) Starbuncle."
+	]
+	quest.70AF624557EEA2C9.quest_subtitle: "&8Your Little Logistician&r"
+	quest.70AF624557EEA2C9.title: "Starbuncle Basics: &dFunctionality \\& Control&r"
+	quest.70EF89242AE8DAA0.quest_desc: [
+		"This block utilizes a &dStarbuncle&r to generate &erotational force&r compatible with the &eCreate&r mod."
+		""
+		"Placing a &6Gold Block&r in front of the wheel increases the generated RPM (Revolutions Per Minute)."
+	]
+	quest.70EF89242AE8DAA0.quest_subtitle: "&8Create Integration&r"
+	quest.70EF89242AE8DAA0.title: "Rotational Power: The &6Starbuncle Wheel&r"
+	quest.7129FF3EB8850E7C.quest_desc: [
+		"This advanced relay enables &bSource&r transfer over &aunlimited distances&r, but only &lbetween other Warper Relays&r."
+		""
+		"Establish a network of Warpers to move &bSource&r across vast distances or even dimensions. Note: Transfers exceeding &a30 blocks&r have a chance to lose some &bSource&r in transit. Has a high throughput of &a2500 Source&r per operation."
+	]
+	quest.7129FF3EB8850E7C.quest_subtitle: "&8Teleporting Source&r"
+	quest.7129FF3EB8850E7C.title: "Unlimited Range Transfer: The &5Source Relay: Warper&r"
+	quest.7141A3112970DF86.quest_desc: [
+		"This charm is essential for expanding the capabilities of your &eStorage Lectern&r. Each charm used on a Lectern increases the number of inventories you can link to it."
+		""
+		"Obtain &dBookwyrm Charms&r by performing the &eRitual of Awakening&r augmented with a &eBook&r and &eQuills&r. Bookwyrms themselves can be dyed various colors. If a Bookwyrm familiar dies or is dispelled, it will drop its charm."
+	]
+	quest.7141A3112970DF86.quest_subtitle: "&8Lectern Capacity Upgrade&r"
+	quest.7141A3112970DF86.title: "Expanding Connections: The &dBookwyrm Charm&r"
+	quest.72EECE7A1047CE4F.quest_desc: [
+		"Populates the area around the brazier with various &aflowers&r and &agrass&r. Does not require &bSource&r."
+		""
+		"&lAugmentations:&r"
+		"*   &dSource Gem:&r Increases the radius by &a+1&r for each gem tossed onto the brazier before activation."
+		"*   &eSand:&r Replaces the standard flowers with desert flora like &aCactus&r and &eDead Bushes&r."
+	]
+	quest.72EECE7A1047CE4F.quest_subtitle: "&8A Splash of Color&r"
+	quest.72EECE7A1047CE4F.title: "Blooming Ritual: The &aFlowering&r &dTablet&r"
+	quest.738143CC913CD6A1.quest_desc: ["Stops the spell sequence from resolving if the target is an &eaerial creature&r (e.g., Phantoms, Bats, Bees, Allays)."]
+	quest.738143CC913CD6A1.quest_subtitle: "&8Grounding Your Magic&r"
+	quest.738143CC913CD6A1.title: "Targeting the Skies: &cFilter: Aerial&r &bGlyph&r"
+	quest.73F6D8096B574A7D.quest_desc: [
+		"School: &eAir&r"
+		"Applies the &dSlow Falling&r status effect to the target, allowing them to drift gently downwards."
+	]
+	quest.73F6D8096B574A7D.quest_subtitle: "&8Negating Fall Damage&r"
+	quest.73F6D8096B574A7D.title: "Gentle Descent: The &eSlowfall&r &bGlyph&r"
+	quest.7450C0F03FFDDAAE.quest_desc: [
+		"This scroll stores the precise location of a specific &5Scry Crystal&r. Create one by using a &fBlank Parchment&r on a placed &5Scry Crystal&r."
+		""
+		"Once inscribed, placing this scroll on a &ePedestal&r near a &eScryer's Oculus&r allows you to remotely view through the linked Crystal. Consider &aNaming&r the scroll using an Anvil for easy identification in the Oculus interface."
+	]
+	quest.7450C0F03FFDDAAE.quest_subtitle: "&8Storing Viewpoints&r"
+	quest.7450C0F03FFDDAAE.title: "Location Link: The &eScryer's Scroll&r"
+	quest.7466AEF84EB38E44.quest_desc: [
+		"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. "
+		""
+		"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. "
+		""
+		"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+	]
+	quest.746CFAE431D7E728.quest_desc: ["Stops the spell sequence from resolving if the target is a &dsummoned creature&r."]
+	quest.746CFAE431D7E728.quest_subtitle: "&8Conjuration Control&r"
+	quest.746CFAE431D7E728.title: "Ignoring Natural Life: &cFilter: Summon&r &bGlyph&r"
+	quest.752DD908C61E2B18.quest_desc: [
+		"Generates &bSource&r by consuming &dpotions&r from adjacent &ePotion Jars&r."
+		""
+		"The amount of &bSource&r produced depends heavily on the potion's &acomplexity&r (&anumber of effects&r), &aduration&r, and &apotency&r (&alevel&r). Ideal for complex, automated brewing setups using &eWixies&r and &ePotion Melders&r."
+	]
+	quest.752DD908C61E2B18.quest_subtitle: "&8Distilling Potions into Power&r"
+	quest.752DD908C61E2B18.title: "Alchemical Catalyst: The &dAlchemical Sourcelink&r"
+	quest.753F9E3F48AA68DA.quest_desc: [
+		"Similar to a &7Spell Prism&r, this &emirror&r interacts with &bspell projectiles&r. However, instead of redirecting based on facing, it &areflects&r incoming projectiles at a mirrored angle."
+		""
+		"Unlike prisms, Spell Mirrors can be conveniently placed on &awalls, floors, and ceilings&r, allowing for more complex reflection setups."
+	]
+	quest.753F9E3F48AA68DA.quest_subtitle: "&8Angled Spell Deflection&r"
+	quest.753F9E3F48AA68DA.title: "Reflecting Magic: The &dSpell Mirror&r"
+	quest.75EB1D955512D32D.quest_desc: [
+		"A &dWixie&r can automate recipes performed at the &eEnchanting Apparatus&r (requires Wixie Charm used on Apparatus)."
+		""
+		"The Wixie pulls ingredients from nearby (or bound) inventories and starts the craft. Once complete, the craft proceeds, consuming &bSource&r."
+		""
+		"&lMulti-Crafting:&r Place up to 8 &eArcane Pedestals&r adjacent to the Apparatus with desired output items. The Wixie will attempt to craft these items round-robin, managing ingredients on the necessary pedestals for each recipe. Powering a pedestal disables its item."
+	]
+	quest.75EB1D955512D32D.quest_subtitle: "&8Automating Magical Crafting&r"
+	quest.75EB1D955512D32D.title: "Arcane Assembly: &dWixie \\& the Enchanting Apparatus&r"
+	quest.76884314E3097E9B.quest_desc: [
+		"School: &bWater&r"
+		"Creates a protective coating around the target that consumes the target's &bmana&r to reduce incoming damage. May also prevent debuffs while active. Dissipates if mana runs out. Also shields against &cmagical fire&r damage."
+	]
+	quest.76884314E3097E9B.quest_subtitle: "&8Mana-Fueled Defense&r"
+	quest.76884314E3097E9B.title: "Protective Barrier: The &bBubble Shield&r &bGlyph&r"
+	quest.76DB7DED79D14DA2.quest_desc: [
+		"A rare and valuable magical artifact obtained only by &cdefeating the formidable Wilden Chimera&r, summoned via the augmented &eRitual of Summon Wilden&r."
+		""
+		"This tribute holds significant power and is used in advanced Ars Nouveau crafting or rituals. Guard it well."
+	]
+	quest.76DB7DED79D14DA2.quest_subtitle: "&8Proof of Victory&r"
+	quest.76DB7DED79D14DA2.title: "Spoils of the Chimera: &5Wilden Tribute&r"
+	quest.76DE5736C4FE735D.quest_desc: [
+		"School: &dConjuration&r"
+		"Summons a saddled &ahorse&r that can be ridden but will vanish after a few minutes."
+		""
+		"Augment with &eAoE&r to summon multiple steeds. Use &eExtend Time&r to increase the summon duration. Applies &dSummoning Sickness&r to the caster, preventing further summoning spells for a short time. Cannot be cast while afflicted with Summoning Sickness."
+	]
+	quest.76DE5736C4FE735D.quest_subtitle: "&8Conjuring a Temporary Horse&r"
+	quest.76DE5736C4FE735D.title: "Swift Mount: The &dSummon Steed&r &bGlyph&r"
+	quest.7734D17D95F6D50E.quest_desc: [
+		"This &5Form&r glyph applies the spell effects to the &anearest block in your line of sight&r within range."
+		""
+		"Augmenting with &eDampen&r reduces the targeting distance, while &eAmplify&r increases it. Using &eSensitive&r will visually highlight the block being targeted."
+	]
+	quest.7734D17D95F6D50E.quest_subtitle: "&8Reaching for Blocks&r"
+	quest.7734D17D95F6D50E.title: "Targeted Block: The &5Pantomime&r &bGlyph&r"
+	quest.78374E26A398B472.quest_desc: [
+		"This device allows you to remotely access the viewpoints of multiple &5Scry Crystals&r."
+		""
+		"To use it, place inscribed &eScryer's Scrolls&r onto nearby &eArcane Pedestals&r. Then, interact with the &eOculus&r block itself to open an interface where you can select which linked &5Scry Crystal&r you wish to look through. Note: The target &5Scry Crystal&r must be in a &achunk-loaded&r area to be accessible."
+	]
+	quest.78374E26A398B472.quest_subtitle: "&8The All-Seeing Hub&r"
+	quest.78374E26A398B472.title: "Centralized Scrying: The &5Scryer's Oculus&r"
+	quest.7858AFFAB65169D7.quest_desc: [
+		"This charm is the key to gaining the service of &aDrygmys&r, helpful nature spirits often found tending to animals."
+		""
+		"Wild Drygmys (found rarely anywhere) can be befriended by throwing a &5Wilden Horn&r near them. However, the primary way to get a working Drygmy is to summon one. Craft this &aCharm&r and use it on a block of &aMossy Cobblestone&r to begin the summoning process, creating a &eDrygmy Henge&r which serves as their home and production center. You can dye Drygmys Cyan, Orange, or Brown for a bit of personalization!"
+	]
+	quest.7858AFFAB65169D7.quest_subtitle: "&8Inviting Nature's Helpers&r"
+	quest.7858AFFAB65169D7.title: "Befriending the Fey: The &aDrygmy Charm&r"
+	quest.78591DB5C860FF14.quest_desc: [
+		"When a &bprojectile spell&r hits this block, it is redirected in the direction the prism is facing."
+		""
+		"Useful for simple spell routing. Will also send a signal to nearby &eObservers&r when it redirects a spell."
+	]
+	quest.78591DB5C860FF14.quest_subtitle: "&8Simple Spell Bouncing&r"
+	quest.78591DB5C860FF14.title: "Basic Redirection: The &7Spell Prism&r"
+	quest.786F05CCAA7A11B1.quest_desc: [
+		"Allows &dStarbuncles&r to transport &aplayers&r."
+		""
+		"When wearing this accessory, the Starbuncle becomes large enough to be &arideable&r. Functionality may be incomplete or \"a bit wonky.\""
+	]
+	quest.786F05CCAA7A11B1.quest_subtitle: "&8Familiar Mount&r"
+	quest.786F05CCAA7A11B1.title: "Player Transport: The &6Starddle&r"
+	quest.78A8E67954D8BE0D.quest_desc: [
+		"An upgrade (likely crafted from a Basic or Enchanted Turret) that allows precise aiming."
+		""
+		"Unlike standard turrets that fire straight forward, the Adjustable Spell Turret can be &arotated&r to face &lany direction&r. Use a &eDominion Wand&r first on the turret, and then on the target block/location you wish the turret to aim at. Perfect for complex automation or targeted effects."
+	]
+	quest.78A8E67954D8BE0D.quest_subtitle: "&8Precise Aiming&r"
+	quest.78A8E67954D8BE0D.title: "Directional Casting: The &dAdjustable Spell Turret&r"
+	quest.78E0341873F30C36.quest_desc: [
+		"Similar to the Source P2P Tunnel, this version is specifically attuned to transport &bArs Nouveau Spells&r across your &eAE2 network&r."
+		""
+		"Link two Spell P2P Tunnels with an &eAE2 Memory Card&r. Input spells into one tunnel, and they can be extracted from the linked tunnel elsewhere on the network. Useful for centralizing spell storage, automating inscription processes, or remotely accessing specific spells stored within your AE system."
+	]
+	quest.78E0341873F30C36.quest_subtitle: "&8Spells Through the Network&r"
+	quest.78E0341873F30C36.title: "Transporting Spells: The &dME Spell P2P Tunnel&r"
+	quest.791D07DFF75B6567.quest_desc: [
+		"School: None"
+		"This specialized glyph allows you to \"mark\" a target entity. When successfully cast, it stores the essence or identity of that target within a &dReliquary&r item (from Ars Additions) held in your inventory."
+		""
+		"This stored mark is then used by the &eRecall&r Form glyph to remotely target the marked entity with subsequent spell effects. Essential for setting up remote interactions via the Recall system. Requires an &dArchmage Spell Book&r or better."
+	]
+	quest.791D07DFF75B6567.quest_subtitle: "&8Storing Targets in Reliquaries&r"
+	quest.791D07DFF75B6567.title: "Binding Essence: The &dGlyph of Mark&r"
+	quest.796CF58CC5220809.quest_desc: ["Stops the spell sequence from resolving &lunless&r the target is an &8undead creature&r (e.g., Zombies, Skeletons, Phantoms, Zombified Piglins)."]
+	quest.796CF58CC5220809.quest_subtitle: "&8Targeting the Unliving&r"
+	quest.796CF58CC5220809.title: "Holy Magic: &cFilter: Not Undead&r &bGlyph&r"
+	quest.79E06649B56B7119.quest_desc: [
+		"School: &6Manipulation&r"
+		"*   &lOn Blocks:&r Swaps the targeted block with a block from the player's hotbar, as if mined with Silk Touch. Augment with &eAoE&r to affect multiple blocks. &eAmplify&r is required to swap blocks of higher hardness."
+		"*   &lOn Entities:&r Swaps the location of the caster and the target entity."
+	]
+	quest.79E06649B56B7119.quest_subtitle: "&8Trading Places&r"
+	quest.79E06649B56B7119.title: "Block Position Swap: The &6Exchange&r &bGlyph&r"
+	quest.7A534485C62FBE91.quest_desc: [
+		"Give this accessory to a &dStarbuncle&r to enable it to transport &bfluids&r."
+		""
+		"Once equipped, use the &eDominion Wand&r to link the Starbuncle between fluid tanks (Link Tank -> Starbuncle for pickup, Starbuncle -> Tank for deposit)."
+	]
+	quest.7A534485C62FBE91.quest_subtitle: "&8Liquid Logistics&r"
+	quest.7A534485C62FBE91.title: "Fluid Handling: The &bStarbucket&r"
+	quest.7AB2DF18175D6CEA.quest_desc: [
+		"School: &aEarth&r"
+		"Turns &7Stone&r into &7Gravel&r, and &7Gravel&r into &eSand&r. Also crushes &aflowers&r into their corresponding &adye&r. Needs &eSensitive&r to work on items. Harms entities, dealing bonus damage to those that are &bswimming&r. Check JEI for full recipe support."
+	]
+	quest.7AB2DF18175D6CEA.quest_subtitle: "&8Grinding Materials \\& Foes&r"
+	quest.7AB2DF18175D6CEA.title: "Pulverize: The &aCrush&r &bGlyph&r"
+	quest.7AE063CD2B5EED7E.quest_desc: [
+		"School: &6Manipulation&r"
+		"Causes the caster to place an item from their inventory at a location. If used on an inventory block, attempts to insert the item."
+		""
+		"Defaults to tossing &a64 items&r. Augment with &eDampen&r to halve the amount each time; &eAmplify&r doubles the amount. &eRandomize&r selects a random stack from the inventory."
+	]
+	quest.7AE063CD2B5EED7E.quest_subtitle: "&8Throwing Items from Inventory&r"
+	quest.7AE063CD2B5EED7E.title: "Item Ejection: The &6Toss&r &bGlyph&r"
+	quest.7C3F4770B480B842.quest_desc: [
+		"An &eEnchanted Spell Turret&r infused with the power of an &aEarth Focus&r."
+		""
+		"Spells cast by this turret trigger &aEarth Focus&r abilities and combos. &aEarth school spells&r benefit from a &a65% Source cost reduction&r."
+	]
+	quest.7C3F4770B480B842.quest_subtitle: "&8Imbued with Stone&r"
+	quest.7C3F4770B480B842.title: "Earthen Automation: &aEarth Infused Turret&r"
+	quest.7C5EF4A5CF05C9EA.quest_desc: [
+		"This advanced propagation &aEffect&r takes the remainder of your spell sequence (all glyphs to its right) and converts it into a new &eHoming Projectile&r."
+		""
+		"This new seeking projectile is launched from the location where the effect just before Propagate Homing resolved, initially oriented towards the &acaster's look direction&r before it starts homing. Allows for complex, multi-stage homing attacks or effects. Requires an &dArchmage Spell Book&r or better to cast."
+	]
+	quest.7C5EF4A5CF05C9EA.quest_subtitle: "&8Redirecting Seeking Magic&r"
+	quest.7C5EF4A5CF05C9EA.title: "Chaining Homing Missiles: The &aPropagate Homing&r &bGlyph&r"
+	quest.7C74432D75D49B3D.quest_desc: [
+		"Seek out the mystical &dArchwood Trees&r, a vital component in many Ars Nouveau recipes. They have a small chance to spawn in most biomes but flourish abundantly in the rare &dArchwood Forest&r biome."
+		""
+		"These trees come in five variants, each attuned to a different essence:"
+		"*   &cBlazing Archwood&r (&cFire&r)"
+		"*   &bCascading Archwood&r (&bWater&r)"
+		"*   &aFlourishing Archwood&r (&aEarth&r)"
+		"*   &eFlashing Archwood&r (&eAir&r)"
+		"*   &5Vexing Archwood&r (&5Abjuration&r)"
+		""
+		"Harvest their wood and leaves for decoration, crafting components (like &dWands&r), and materials needed for powerful &drituals&r. Keep an eye out, as they also bear unique &dMagical Fruits&r!"
+	]
+	quest.7C74432D75D49B3D.quest_subtitle: "&8A Foundational Resource&r"
+	quest.7C74432D75D49B3D.title: "The Heartwood of Magic: &dArchwood Trees&r"
+	quest.7CE3F7CC15FC41A6.quest_desc: [
+		"Seek out the vast and ancient &dArcane Library&r, the largest known structure built by mages of old. Its towering shelves and winding corridors hold immense knowledge, but also countless &asecrets&r."
+		""
+		"Explore its depths thoroughly, for hidden passages and concealed rooms are rumoured to contain rare &bglyphs&r, valuable resources, and perhaps even forgotten &bspells&r. True discovery requires a keen eye and a patient search."
+	]
+	quest.7CE3F7CC15FC41A6.quest_subtitle: "&8Secrets Within Secrets&r"
+	quest.7CE3F7CC15FC41A6.title: "Labyrinth of Lore: The &dArcane Library&r"
+	quest.7D025DCBD6FD04FA.quest_desc: [
+		"School: &6Manipulation&r"
+		"Consumes the first edible item, potion, or a portion of liquid found within the container or tank this spell was cast on."
+	]
+	quest.7D025DCBD6FD04FA.quest_subtitle: "&8Eating or Drinking from Afar&r"
+	quest.7D025DCBD6FD04FA.title: "Remote Consumption: The &6Telefeast&r &bGlyph&r"
+	quest.7D0B640E681AB0EF.quest_desc: [
+		"School: &eAir&r"
+		"Damages the target with a spark of static energy and applies the &eShocked&r status effect."
+		""
+		"Deals bonus damage to &bwet entities&r."
+	]
+	quest.7D0B640E681AB0EF.quest_subtitle: "&8Electric Jolt&r"
+	quest.7D0B640E681AB0EF.title: "Static Discharge: The &eSpark&r &bGlyph&r"
+	quest.7D21086FCC41CC4B.quest_desc: [
+		"Tap into a shared, interdimensional reserve of &bSource&r. Any &bSource&r deposited into one &5Ender Source Jar&r becomes instantly accessible from &lany other&r &5Ender Source Jar&r linked to the same network (owner-specific), regardless of distance or dimension."
+		""
+		"Place multiple jars to access your global &bSource&r pool from anywhere."
+	]
+	quest.7D21086FCC41CC4B.quest_subtitle: "&8Shared Source Pool&r"
+	quest.7D21086FCC41CC4B.title: "Interdimensional Power: The &5Ender Source Jar&r"
+	quest.7D32920E2567DCAE.quest_desc: [
+		"An enhanced version of the Basic Spell Turret, crafted using the &eEnchanting Apparatus&r."
+		""
+		"Its primary advantage is efficiency: Enchanted Spell Turrets cast their inscribed &bspells&r at &ahalf the Source cost&r compared to the basic version. A worthwhile upgrade for frequently used automation. It can also be &aInfused&r with elemental powers."
+	]
+	quest.7D32920E2567DCAE.quest_subtitle: "&8Upgraded Automation&r"
+	quest.7D32920E2567DCAE.title: "Efficient Casting: The &dEnchanted Spell Turret&r"
+	quest.7E98CD222C4C7A67.quest_desc: [
+		"Craft this scroll and then use it at a desired location to record its coordinates. Once recorded, using the scroll again provides a &asingle-use teleport&r back to that recorded spot."
+		""
+		"&lImportant:&r Standard Warp Scrolls &lcannot&r teleport you across &edimensions&r. They are also the key component used to activate standard, same-dimension &eWarp Portals&r. You can also warp &aother entities&r by holding an inscribed scroll in your off-hand and casting the &eBlink&r spell on them."
+	]
+	quest.7E98CD222C4C7A67.quest_subtitle: "&8Recorded Location Jump&r"
+	quest.7E98CD222C4C7A67.title: "Single-Use Teleport: The &5Warp Scroll&r"
+	quest.7F6F8777C776979A.quest_desc: [
+		"School: &cFire&r"
+		"When this spell hits a target already &con fire&r, it causes a powerful detonation, dealing damage to all entities in range. The explosion might spread explosive powder onto them, causing a delayed secondary explosion."
+	]
+	quest.7F6F8777C776979A.quest_subtitle: "&8Igniting Combustions&r"
+	quest.7F6F8777C776979A.title: "Fiery Chain Reaction: The &cConflagrate&r &bGlyph&r"
+	quest.7F84E97582E78008.quest_desc: [
+		"&5Sourcetone&r is more than just a decorative block; it's a fundamental building material infused with magical potential. While it forms the basis for a wide variety of &ddecorative blocks&r (viewable by placing Sourcetone in a &eStonecutter&r), its true importance lies in its role as a key ingredient."
+		""
+		"You'll find &5Sourcetone&r required in the crafting recipes for numerous essential Ars Nouveau devices, structures, and components. Stock up on this versatile material!"
+	]
+	quest.7F84E97582E78008.quest_subtitle: "&8Magical Building Blocks&r"
+	quest.7F84E97582E78008.title: "Foundation Stone: &5Sourcestone&r"
+	quest.7F9B0DEBFBD1BC6C.quest_desc: [
+		"Functions similarly to a copper bulb, emitting light and a &ccomparator signal&r."
+		""
+		"However, the &elight level&r and &ccomparator output&r of this magical lamp can be precisely adjusted by casting the &eLight&r spell (potentially augmented with &eDampen&r) upon it."
+	]
+	quest.7F9B0DEBFBD1BC6C.quest_subtitle: "&8Adjustable Light&r"
+	quest.7F9B0DEBFBD1BC6C.title: "Arcane Illumination: The &dSource Gem Lamp&r"
+	task.00144FA5EEB91DE4.title: "Starbuncle Automation"
+	task.015F72D710FDCDEA.title: "Automate things!"
+	task.06884DCC6A0A39EC.title: "Tier 2 Glyphs"
+	task.0C77454CCAF91D5F.title: "Defend your home!"
+	task.0D011FEC050C3CA8.title: "Infusing Turrets"
+	task.0E42AC3EEF289530.title: "Tier 4 Glyphs"
+	task.1AABC207C56F3949.title: "AllRightsReserved"
+	task.1BF35B2EF4BD4964.title: "Did you get enough wood?"
+	task.1DA70F4C8200AC79.title: "Wixie Automation"
+	task.1E14DDCCBD2DD6A2.title: "Summon Beds"
+	task.270FA096DE50BAB1.title: "Protecting Your Tome: &dSpellbook Protection Upgrade&r"
+	task.271C1942DFCB9174.title: "Ready for a fight?"
+	task.2BAA5C1278DEFCAB.title: "Others"
+	task.2C8D3FDB23B7657D.title: "Tier 1 Glyphs"
+	task.5436DAA4730F4F60.title: "Control your world!"
+	task.5A0302ED5FB29635.title: "Flight or not?"
+	task.6596A539284006A3.title: "Get Archwood"
+	task.690BF4419AE54C72.title: "Finding what you need"
+	task.6D92AE7C8E6A7AF2.title: "Automating with Magic: &dStarting Automation&r"
+	task.712D72E9949F43AF.title: "Any #ars_nouveau:spell_prism_lens"
+	task.7E0E51CD25CE5781.title: "AllRightsReserved"
+	task.7E937FA5B98B63B5.title: "Floating Islands!"
+}

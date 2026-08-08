@@ -1,0 +1,1090 @@
+{
+	quest.0235340D67BA4A71.quest_desc: [
+		"A specialized focus to empower your &dsummoned creatures&r (from &bspells&r)."
+		""
+		"It grants them increased &aduration&r, &astrength&r, and &aspeed&r."
+		""
+		"Enemies that kill your &dsummons&r take &4damage&r (like &e&oThorns&r&r)."
+		""
+		"&bSpells&r cast on yourself (e.g., using &e&oSelf&r&r or &e&oOrbit&r&r) are duplicated onto your nearby &dsummons&r."
+	]
+	quest.0235340D67BA4A71.quest_subtitle: "&8Bolstering the Magical Legion&r"
+	quest.0235340D67BA4A71.title: "Commanding Minions: The &dFocus of Summoning&r"
+	quest.03A1B77056DA4BDB.quest_desc: [
+		"Increases your &astep height&r by &a+1&r block for each effective level from the slot tier."
+		""
+		"Walk up slopes without jumping!"
+	]
+	quest.03A1B77056DA4BDB.quest_subtitle: "&8Climbing Ease&r"
+	quest.03A1B77056DA4BDB.title: "Effortless Steps: &eThread of High Step&r"
+	quest.04C4F00B17CC8E25.quest_desc: [
+		"A foundational magical tool attuned to the element of &bWater&r."
+		""
+		"While equipped, it amplifies and reduces the &bmana&r cost of &bspells&r belonging to the &bWater&r school of magic."
+		""
+		"However, this basic form carries a &4*drawback*&r: it slightly &4weakens&r the effectiveness of &bspells&r from the opposing elemental schools of &cFire&r, &aEarth&r, and &eAir&r."
+	]
+	quest.04C4F00B17CC8E25.quest_subtitle: "&8Budding Flow&r"
+	quest.04C4F00B17CC8E25.title: "Initial Attunement: The &bLesser Focus of Water&r"
+	quest.067105E59D3F24E9.quest_desc: [
+		"A base &ebangle&r essential for crafting specialized &delemental&r and themed &ebangles&r."
+		""
+		"Provides a subtle overall boost to your &bspellcasting&r abilities."
+	]
+	quest.067105E59D3F24E9.quest_subtitle: "&8A Foundation of Enchantment&r"
+	quest.067105E59D3F24E9.title: "Crafting with Magic: The &6Enchanter's Bangle&r"
+	quest.0692017287B63C7B.quest_desc: [
+		"A foundational magical tool attuned to the element of &eAir&r."
+		""
+		"While equipped, it amplifies and reduces the &bmana&r cost of &bspells&r belonging to the &eAir&r school of magic."
+		""
+		"However, this basic form carries a &4*drawback*&r: it slightly &4weakens&r the effectiveness of &bspells&r from the opposing elemental schools of &cFire&r, &bWater&r, and &aEarth&r."
+	]
+	quest.0692017287B63C7B.quest_subtitle: "&8Gentle Breeze&r"
+	quest.0692017287B63C7B.title: "Initial Attunement: The &eLesser Focus of Air&r"
+	quest.0696C154ED11EF6B.quest_desc: [
+		"Grants enhanced vision capabilities based on slot tier:"
+		"*   Tier 1: &dNightvision&r"
+		"*   Tier 2: Immunity to &8Blindness&r"
+		"*   Tier 3: Immunity to &8Darkness&r"
+		"*   Tier 4: &cLava Vision&r"
+	]
+	quest.0696C154ED11EF6B.quest_subtitle: "&8Clarity Beyond Sight&r"
+	quest.0696C154ED11EF6B.title: "Unveiled Perception: &eThread of True Sight&r"
+	quest.07580709C4C959FC.quest_desc: ["A &ering&r that reduces the &bmana cost&r of all your &bspells&r by a noticeable amount while also slightly increasing your maximum &bmana&r and &bmana regeneration&r."]
+	quest.07580709C4C959FC.quest_subtitle: "&8Thrifty Casting&r"
+	quest.07580709C4C959FC.title: "Conserving Power: The &aRing of Lesser Discount&r"
+	quest.07D3353D42297902.quest_desc: ["Wear these &apetals&r on your head to gain a gentle lift by holding the jump key, and automatically be granted &dSlow Falling&r when descending."]
+	quest.07D3353D42297902.quest_subtitle: "&8Gentle Ascent&r"
+	quest.07D3353D42297902.title: "Soaring with Petals: The &aWhirlisprig Petals&r"
+	quest.0882B36CBF33ADDF.quest_desc: [
+		"Summons &a2&r &ainvulnerable&r &dWolves&r that fight alongside you."
+		""
+		"Each wolf deals up to an additional &a15&r &4damage&r per hit."
+	]
+	quest.0882B36CBF33ADDF.quest_subtitle: "&8Call of the Pack&r"
+	quest.0882B36CBF33ADDF.title: "Summoning the Hunt: The &dHorn of the Wild Hunter&r"
+	quest.0B5F0B6B7635DD30.quest_desc: [
+		"An elemental upgrade from Tier 3 armor, attuned to the School of &eAir&r."
+		""
+		"Each piece amplifies &eAir glyphs&r, reduces their &bmana cost&r, and lessens &4damage&r from &efalling&r, &ecollisions&r while flying, and &elightning&r."
+		""
+		"Wearing the full set converts the reduced &4damage&r into &bmana&r and completely negates &efall damage&r. Provides high-tier &dThread Slots&r."
+	]
+	quest.0B5F0B6B7635DD30.quest_subtitle: "&8Aerial Attunement&r"
+	quest.0B5F0B6B7635DD30.title: "Riding the Winds: The &eAethermancer's Set&r"
+	quest.0C0C576AB1A8C4C4.quest_desc: [
+		"Allows the wearer to instantly consume &dpotion effects&r from &epotions&r and &eflasks&r stored anywhere in their inventory."
+		""
+		"No more fumbling in the heat of battle!"
+	]
+	quest.0C0C576AB1A8C4C4.quest_subtitle: "&8Swift Consumption&r"
+	quest.0C0C576AB1A8C4C4.title: "Instant Alchemy: The &6Alchemist's Crown&r"
+	quest.0C3DFCFDDC0BF90E.quest_desc: ["A &ering&r that grants a chance for your &bspells&r to be cast without consuming any of your precious &bmana reserves&r."]
+	quest.0C3DFCFDDC0BF90E.quest_subtitle: "&8Frugal Magic&r"
+	quest.0C3DFCFDDC0BF90E.title: "Economical Casting: The &aRing of Thrift&r"
+	quest.0D62365A10F4259C.quest_desc: [
+		"Grants an additional stack of the &aLooting&r effect per level (effectively Looting I, II, III, etc.)."
+		""
+		"Get more drops from your foes!"
+	]
+	quest.0D62365A10F4259C.quest_subtitle: "&8Fey Fortune&r"
+	quest.0D62365A10F4259C.title: "Lucky Finds: &aThread of The Drygmy&r"
+	quest.111F23E22D76EC78.quest_desc: [
+		"Upon taking fatal damage, this ring &aprotects you from death&r by rewinding time &a3 seconds&r."
+		""
+		"It then goes on cooldown."
+	]
+	quest.111F23E22D76EC78.quest_subtitle: "&8Borrowed Time&r"
+	quest.111F23E22D76EC78.title: "A Final Stand: The &dRing of Last Will&r"
+	quest.12A9B2DC20BCC000.quest_desc: ["Equip Ars Nouveau-related &ebelts&r in the *&eBelt slot&r* for effects such as magical &elevitation&r or access to remote &estorage&r."]
+	quest.12A9B2DC20BCC000.quest_subtitle: "&8Cinches of Convenience and Levitation&r"
+	quest.12A9B2DC20BCC000.title: "&l&6Secure Your Waist: The Belt Slot&r"
+	quest.14A94B96F9A1AF46.quest_desc: [
+		"A &echarm&r imbued with &cfire-negating&r &bmagic&r."
+		""
+		"While it has charges, it allows you to walk through &cfire&r and swim in &clava&r without taking &4damage&r."
+	]
+	quest.14A94B96F9A1AF46.quest_subtitle: "&8Protected by Embers&r"
+	quest.14A94B96F9A1AF46.title: "Deflecting Flames: The &cCharm of Emberward&r"
+	quest.15236B597D6A8479.quest_desc: [
+		"An upgrade to the standard &eCreate Wrench&r."
+		""
+		"Infused with magic, this &bspanner&r allows you to instantly pick up and retrieve placed &dArs Nouveau blocks&r, such as &eSpell Turrets&r, just like you would with &eCreate machines&r."
+		""
+		"A must-have for rearranging your &dmagical contraptions&r!"
+	]
+	quest.15236B597D6A8479.quest_subtitle: "&8Magical Machinery Manipulation&r"
+	quest.15236B597D6A8479.title: "Arcane Tinkering: The &bRunic Spanner&r"
+	quest.17945988AC40E259.quest_desc: [
+		"Similar to the Enchanter's Bow, this &ecrossbow&r can be inscribed with a &bspell&r."
+		""
+		"Loading the crossbow consumes &bmana&r (if available) to prepare a &bSpell Bolt&r."
+		""
+		"Can utilize &eAugment Arrows&r (yes, arrows!) to empower its shots."
+	]
+	quest.17945988AC40E259.quest_subtitle: "&8Bolts of Power&r"
+	quest.17945988AC40E259.title: "Mechanized Magic: The &dEnchanter's Crossbow&r"
+	quest.1830734210D72A3C.quest_desc: [
+		"Grants &a15% knockback resistance&r per effective level."
+		""
+		"Stand your ground against forceful blows."
+	]
+	quest.1830734210D72A3C.quest_subtitle: "&8Resonant Stability&r"
+	quest.1830734210D72A3C.title: "Immovable Object: &5Thread of The Amethyst Golem&r"
+	quest.1936E472EC9C1E8E.quest_desc: [
+		"Damaging effects inflict &bFreezing&r on the target before the spell resolves."
+		""
+		"Duration increases per level (&a10s/lvl&r). Reaches &dFreezing II&r if placed in a Tier 3 or higher slot."
+	]
+	quest.1936E472EC9C1E8E.quest_subtitle: "&8Frigid Infusion&r"
+	quest.1936E472EC9C1E8E.title: "Icy Touch: &bThread of Chilling&r"
+	quest.1A0C187DE49BE620.quest_desc: [
+		"A &ebracelet&r that significantly enhances &dSummoning&r &bspell&r &4damage&r and &apower&r."
+		""
+		"Your &dsummoned creatures&r will follow your arm movements, aggressively targeting what you strike with increased force."
+	]
+	quest.1A0C187DE49BE620.quest_subtitle: "&8The Shepherd's Command&r"
+	quest.1A0C187DE49BE620.title: "Guiding Your Allies: The &dBangle of Summoning&r"
+	quest.1A6E83739B73B76A.quest_desc: ["Fill your *&eCharm slots&r* with helpful Ars Nouveau-related &etrinkets&r offering various &aprotective&r and &autility effects&r."]
+	quest.1A6E83739B73B76A.quest_subtitle: "&8Trinkets of Protection and Utility&r"
+	quest.1A6E83739B73B76A.title: "&l&6Pocket Your Charms: The Charm Slot&r"
+	quest.1AD2F05F5C899163.quest_desc: [
+		"Greatly increases underwater &bbreathing&r time by reducing air consumption chance."
+		""
+		"Stacks with Respiration. If in a Tier 3 or higher slot, grants infinite air and significantly boosts &aswim speed&r."
+	]
+	quest.1AD2F05F5C899163.quest_subtitle: "&8Aquatic Adaptation&r"
+	quest.1AD2F05F5C899163.title: "Ocean Dweller: &bThread of Depths&r"
+	quest.1B6BEBDE5338EE20.quest_desc: [
+		"Don these purely &ecosmetic&r ears to resemble the adorable &eStarbuncle&r familiar."
+		""
+		"A cute Curio for players wanting a starry touch."
+	]
+	quest.1B6BEBDE5338EE20.quest_subtitle: "&8Celestial Hearing&r"
+	quest.1B6BEBDE5338EE20.title: "Starlight Listener: The &eStarby Ears&r"
+	quest.1E10F8F42A1DE3A3.quest_desc: [
+		"Dealing &4damage&r with &bspells&r &aheals&r you for &a20%&r of the damage dealt, per effective level."
+		""
+		"Turn your offense into sustenance."
+	]
+	quest.1E10F8F42A1DE3A3.quest_subtitle: "&8Siphoning Strikes&r"
+	quest.1E10F8F42A1DE3A3.title: "Vampiric Magic: &aThread of Life Drain&r"
+	quest.1F31BECCF0A81AAB.quest_desc: [
+		"Inscribe with a &bspell&r (without a form) using a &eScribe's Table&r."
+		""
+		"Using the &emirror&r applies the inscribed &bspell&r (as if it were &eSelf&r form) to you."
+		""
+		"&bSpells&r cast with this mirror have a reduced &bmana cost&r and gain bonus &aduration&r to all &bglyphs&r."
+	]
+	quest.1F31BECCF0A81AAB.quest_subtitle: "&8Self-Infusion&r"
+	quest.1F31BECCF0A81AAB.title: "Reflected Spells: The &dEnchanter's Mirror&r"
+	quest.20C6E97FD24453A4.quest_desc: [
+		"An optical device from &eArs Technica&r worn in the &eHead slot&r."
+		""
+		"Allows you to &azoom in&r on distant objects or points of interest, much like a spyglass, but hands-free!"
+		""
+		"Press the &e'-'&r key (default, configurable) while wearing it to activate the zoom."
+	]
+	quest.20C6E97FD24453A4.quest_subtitle: "&8Distant Details&r"
+	quest.20C6E97FD24453A4.title: "Distant Observation: The &6Spy Monocle&r"
+	quest.21207CCD7B832053.quest_desc: [
+		"These bracers consume &epotions&r from &ebottles&r and &eflasks&r in your inventory, converting them into throwable &dSplash&r or &dLingering&r potions."
+		""
+		"Use the &eRadial Menu&r to select the desired potion and fire away!"
+	]
+	quest.21207CCD7B832053.quest_subtitle: "&8Alchemical Artillery&r"
+	quest.21207CCD7B832053.title: "Projectile Potions: The &6Flask Cannons&r"
+	quest.21545807E0CE3D3D.quest_desc: ["Upgraded &6Sorcerer&r robes. Features slightly improved &aprotection&r (but still low), enhanced &bMana Regeneration&r, and unlocks more numerous/larger &dThread Slots&r (Tier II), allowing for more potent magical augmentations."]
+	quest.21545807E0CE3D3D.quest_subtitle: "&8Developing Magical Might&r"
+	quest.21545807E0CE3D3D.title: "&6Sorcerer Robes - Tier II&r"
+	quest.21B858C0564C4594.quest_desc: [
+		"An upgraded version of the &eTrinkets Pouch&r, offering more &estorage space&r for your magical components and tools."
+		""
+		"Can be &ddyed&r to match your style! Access its inventory with the &e'J'&r key (default) while it's in your hotbar or equipped in the &eBundle&r slot."
+	]
+	quest.21B858C0564C4594.quest_subtitle: "&8A Mage's Carry-All&r"
+	quest.21B858C0564C4594.title: "Expanded Storage: The &dSpellcaster Bag&r"
+	quest.2289E17F0D09A6AD.quest_desc: [
+		"A &ebracelet&r that significantly enhances &eAir&r &bspell&r &4damage&r."
+		""
+		"Causes your arms to &ecrackle with energy&r, granting a *&apassive boost&r* to movement speed and attack knockback."
+	]
+	quest.2289E17F0D09A6AD.quest_subtitle: "&8Zephyr's Grace&r"
+	quest.2289E17F0D09A6AD.title: "Dancing with the Wind: The &eBangle of Air&r"
+	quest.22DC7E5886B0605E.quest_desc: [
+		"Grants creative-style &eflight&r."
+		""
+		"&lMust&r be equipped in a &dThread Slot&r of at least &6Tier IV&r. Soar freely!"
+	]
+	quest.22DC7E5886B0605E.quest_subtitle: "&8Unbound Skies&r"
+	quest.22DC7E5886B0605E.title: "True Ascension: &eThread of Flight&r"
+	quest.241A745F01C02CFB.quest_desc: ["A &echarm&r that protects you from the devastating &3sonic boom&r attack of the &3Warden&r."]
+	quest.241A745F01C02CFB.quest_subtitle: "&8Echoing Defense&r"
+	quest.241A745F01C02CFB.title: "Sonic Barrier: The &3Resonant Shield&r"
+	quest.24978BBAD2B4DCFB.quest_desc: [
+		"Increases your maximum &bmana&r by &a10%&r per effective level."
+		""
+		"Fuel more powerful spells"
+	]
+	quest.24978BBAD2B4DCFB.quest_subtitle: "&8Deeper Wellspring&r"
+	quest.24978BBAD2B4DCFB.title: "Expanded Reserves: &bThread of Magic Capacity&r"
+	quest.24A053A4D250E124.quest_desc: ["A &echarm&r with limited charges that grants you the &dSlow Falling&r effect when you fall from a significant height, preventing &efall damage&r."]
+	quest.24A053A4D250E124.quest_subtitle: "&8Light as a Feather&r"
+	quest.24A053A4D250E124.title: "Graceful Descent: The &eCharm of Featherlight&r"
+	quest.262F0435542841D6.quest_desc: ["A &ebelt-worn device&r that allows you to remotely access the inventory of a linked &eStorage Lectern&r, provided both are within the same dimension."]
+	quest.262F0435542841D6.quest_subtitle: "&8Linked Dimensions (Same)&r"
+	quest.262F0435542841D6.title: "Distant Storage: The &eWarp Index&r"
+	quest.2633DE6ADF6E4AF7.quest_desc: [
+		"Inscribe these &dThreads&r to navigate the world with greater ease."
+		""
+		"&eJump higher&r, &estep up blocks&r effortlessly, &eglide&r through the air like wearing an Elytra, reduce &efall damage&r, gain immunity to &8void&r falls, or even achieve true &ecreative flight&r!"
+	]
+	quest.2633DE6ADF6E4AF7.quest_subtitle: "&8Enhanced Mobility&r"
+	quest.2633DE6ADF6E4AF7.title: "&l&eMoving Around&r"
+	quest.26FD3A91955307D7.quest_desc: ["Carry specific Ars Nouveau-related &ejars&r within your inventory to gain *&apassive benefits&r*."]
+	quest.26FD3A91955307D7.quest_subtitle: "&8Held Power&r"
+	quest.26FD3A91955307D7.title: "&l&6Thematic Inventory: Jars of Utility&r"
+	quest.275C8C12FBF4E27B.quest_desc: [
+		"Decreases &efall damage&r taken by a percentage based on slot tier."
+		""
+		"Stacks with the Feather Falling enchantment."
+	]
+	quest.275C8C12FBF4E27B.quest_subtitle: "&8Light as a...&r"
+	quest.275C8C12FBF4E27B.title: "Gentle Landing: &eThread of Feather&r"
+	quest.285E2861EBBAAF3A.quest_desc: ["A &echarm&r with limited charges that prevents &5Endermen&r from becoming aggressive towards you when you look at them."]
+	quest.285E2861EBBAAF3A.quest_subtitle: "&8Peaceful Gaze&r"
+	quest.285E2861EBBAAF3A.title: "Avoiding Hostility: The &5Charm of Ender Serenity&r"
+	quest.291F7400C19CAAFB.quest_desc: [
+		"Usually changes a &dStarbuncle's&r job to &7mine blocks&r."
+		""
+		"For a purely &ecosmetic&r miner appearance (complete with helmet!), apply this item while &asneaking&r."
+	]
+	quest.291F7400C19CAAFB.quest_subtitle: "&8Hard Hat Helper&r"
+	quest.291F7400C19CAAFB.title: "Mining Motif: The &7Starminer&r"
+	quest.2938F466FB62F9C9.quest_desc: [
+		"Accepts a single inscribed &bspell&r (without a form) via a &eScribe's Table&r."
+		""
+		"Automatically adds &eProjectile -> Accelerate&r before your inscribed sequence, allowing you to cast &bspells&r beyond the normal glyph cap."
+		""
+		"Ideal for direct-impact spell delivery."
+	]
+	quest.2938F466FB62F9C9.quest_subtitle: "&8Focused Casting&r"
+	quest.2938F466FB62F9C9.title: "Targeted Hex: The &dEnchanter's Wand&r"
+	quest.2A725333ED1C8945.quest_desc: [
+		"A purely &ecosmetic&r Curio for players, granting you the appearance of having small, &aDrygmy-like horns&r."
+		""
+		"Adds a touch of fey nature to your look."
+	]
+	quest.2A725333ED1C8945.quest_subtitle: "&8Woodland Look&r"
+	quest.2A725333ED1C8945.title: "Fey Horns: The &aDrygmy Horns&r"
+	quest.2B1F3351D036C372.quest_desc: [
+		"A standard &ePotion Flask&r stores &a8 charges&r of a single &dpotion&r."
+		""
+		"Fill it using a &ePotion Jar&r or by crafting with another potion. Empty it by sneaking while using it on a &ePotion Jar&r."
+		""
+		"Enhance your flasks:"
+		"*   &ePotion Flask: Extend Time&r: Increases the &aduration&r of the stored potion's effects by &a50%&r."
+		"*   &ePotion Flask: Amplify&r: Increases the &apower&r (level) of the stored potion's effects by &a+1&r, but reduces their &4duration&r by &4half&r."
+	]
+	quest.2B1F3351D036C372.quest_subtitle: "&8Portable Potency&r"
+	quest.2B1F3351D036C372.title: "Storing Sips: The &dPotion Flask&r &a(And Variants)&r"
+	quest.2B872F10B046AA4D.quest_desc: ["A magical &ering&r that allows you to perform additional &ejumps&r while airborne by consuming &bmana&r, granting greater vertical maneuverability."]
+	quest.2B872F10B046AA4D.quest_subtitle: "&8Leaping Through the Air&r"
+	quest.2B872F10B046AA4D.title: "Aerial Acrobatics: The &eRing of Jumping&r"
+	quest.2CBBAE35F747AFDA.quest_desc: [
+		"If you are on &cfire&r, casting a &bspell&r extinguishes the flames and grants the &dImmolation&r potion effect."
+		""
+		"&cFire spells&r cast while under this effect deal additional &4damage&r and last &alonger&r per level."
+	]
+	quest.2CBBAE35F747AFDA.quest_subtitle: "&8Fiery Vengeance&r"
+	quest.2CBBAE35F747AFDA.title: "Burning Retort: &cThread of Immolation&r"
+	quest.2CD5096EF6AD52B5.quest_desc: ["Damaging effects cause the target to be &apoisoned&r or afflicted with &ahunger&r for a short duration before the effect resolves."]
+	quest.2CD5096EF6AD52B5.quest_subtitle: "&8Toxic Infusion&r"
+	quest.2CD5096EF6AD52B5.title: "Noxious Touch: &aThread of Spores&r"
+	quest.2DFF92AA4D33E1BE.quest_desc: [
+		"Customize your appearance with a variety of purely &ecosmetic&r items designed for your &eHead slot&r."
+		""
+		"These offer no gameplay benefits, just pure style!"
+	]
+	quest.2DFF92AA4D33E1BE.quest_subtitle: "&8Player Vanity&r"
+	quest.2DFF92AA4D33E1BE.title: "&l&6Adorn Yourself&r"
+	quest.2E1E43F8C2FD8786.quest_desc: [
+		"Grants &espectral sight&r, allowing you to see creatures through walls."
+		""
+		"Sight radius is &a8 blocks&r per effective level. Nowhere to hide!"
+	]
+	quest.2E1E43F8C2FD8786.quest_subtitle: "&8Piercing Gaze&r"
+	quest.2E1E43F8C2FD8786.title: "Wallhacks: &eThread of Spectral Sight&r"
+	quest.2E1EF4D3C24FC69E.quest_desc: ["Allows you to &ejump higher&r and increases the distance you can fall before taking &efall damage&r."]
+	quest.2E1EF4D3C24FC69E.quest_subtitle: "&8Vertical Leap&r"
+	quest.2E1EF4D3C24FC69E.title: "Springy Legs: &eThread of Heights&r"
+	quest.2E93963EFCDC8720.quest_desc: [
+		"There are multiple items that can fit in the different &eCurios slots&r."
+		""
+		"Learn how to access your slots using the &e'G'&r key (default) and expand your gear options."
+		""
+		"Choose wisely what you wear, as slots are limited! Maybe you want to be a powerful &4Pyromancer&r? Try wearing all &cfire-related&r items!"
+		""
+		"Some item effects are &astackable&r, so mess around to discover potent &dcombinations&r!"
+	]
+	quest.2E93963EFCDC8720.quest_subtitle: "&8Beyond the Basics&r"
+	quest.2E93963EFCDC8720.title: "&l&6Unlock Your Potential: Curios Slots&r"
+	quest.2EA79428734C548C.quest_desc: ["Equip Ars Nouveau-related items in the *&eBack slot&r* to gain magical &eflight&r or &adefensive capabilities&r, aiding your exploration and survival."]
+	quest.2EA79428734C548C.quest_subtitle: "&8Wings, Wards, and Wonders&r"
+	quest.2EA79428734C548C.title: "&l&6Drape Your Back: The Back Slot&r"
+	quest.2F855AAE9F5D2DA4.quest_desc: [
+		"Normally sets a &dStarbuncle's&r task to transport &bfluids&r."
+		""
+		"Apply while &asneaking&r to use it just as a &ecosmetic&r bucket look, ignoring its usual function."
+	]
+	quest.2F855AAE9F5D2DA4.quest_subtitle: "&8Bucket Companion&r"
+	quest.2F855AAE9F5D2DA4.title: "Liquid Look: The &bStarbucket&r"
+	quest.3050AEF06F05B537.quest_desc: [
+		"A &ebracelet&r that significantly enhances &aEarth&r &bspell&r &4damage&r."
+		""
+		"Causes &aplants&r to bloom on your arms, &asnaring&r enemies on hit, and grants immunity to &acactus/berry bush&r &4damage&r along with &dknockback resistance&r."
+	]
+	quest.3050AEF06F05B537.quest_subtitle: "&8Terrestrial Might&r"
+	quest.3050AEF06F05B537.title: "Rooted in Stone: The &aBangle of Earth&r"
+	quest.31B53B8DAD2547CA.quest_desc: [
+		"Once every time you sleep, you will nullify death a single time, as if holding a &eTotem of Undying&r."
+		""
+		"Requires a &dThread Slot&r of at least &6Tier III&r."
+	]
+	quest.31B53B8DAD2547CA.quest_subtitle: "&8Cheating Death&r"
+	quest.31B53B8DAD2547CA.title: "Borrowed Life: &aThread of Undying&r"
+	quest.337B4011A6D54143.quest_desc: ["Equip Ars Nouveau-related handwear in this *&eHands slot&r* for effects such as a chance to cast &bspells&r repeatedly without consuming &bmana&r."]
+	quest.337B4011A6D54143.quest_subtitle: "&8Gripping the Arcane&r"
+	quest.337B4011A6D54143.title: "&l&6Hold in Your Hands: The Hands Slot&r"
+	quest.353B1BB6DCF7596F.quest_desc: [
+		"A foundational magical tool attuned to the element of &cFire&r."
+		""
+		"While equipped, it amplifies and reduces the &bmana&r cost of &bspells&r belonging to the &cFire&r school of magic."
+		""
+		"However, this basic form carries a &4*drawback*&r: it slightly &4weakens&r the effectiveness of &bspells&r from the opposing elemental schools of &bWater&r, &aEarth&r, and &eAir&r."
+	]
+	quest.353B1BB6DCF7596F.quest_subtitle: "&8Nascent Flame&r"
+	quest.353B1BB6DCF7596F.title: "Initial Attunement: The &cLesser Focus of Fire&r"
+	quest.37066719047F3CAA.quest_desc: ["The initial tier of &6Sorcerer&r vestments. Offers minimal &aprotection&r but grants good base &bMana Regeneration&r and provides foundational &dThread Slots&r (Tier I) to begin customizing your magical abilities. Prioritizes magic over defense."]
+	quest.37066719047F3CAA.quest_subtitle: "&8Nascent Arcane Power&r"
+	quest.37066719047F3CAA.title: "&6Sorcerer Robes - Tier I&r"
+	quest.37615D36A062B758.quest_desc: [
+		"Summons up to &a13&r floating &dBows&r behind you."
+		""
+		"When you fire a ranged weapon, each bow has an &a80%&r chance to fire, dealing &a10&r &4damage&r."
+		""
+		"Each bow has &a1 health&r; if destroyed, it respawns after &a15&r seconds."
+	]
+	quest.37615D36A062B758.quest_subtitle: "&8Floating Arsenal&r"
+	quest.37615D36A062B758.title: "Ranged Volley: The &bBallistarian Bracer&r"
+	quest.37685F733466B838.quest_desc: [
+		"Increases the wearer's movement &aspeed&r by &a20%&r per effective level."
+		""
+		"Zoom around like a Starbuncle!"
+	]
+	quest.37685F733466B838.quest_subtitle: "&8Celestial Celerity&r"
+	quest.37685F733466B838.title: "Starry Speed: &eThread of The Starbuncle&r"
+	quest.38574439EBEABB78.quest_desc: ["An advanced version of the &eWarp Index&r, this &ebelt&r allows you to remotely access a linked &eStorage Lectern&r even if it resides in a different dimension."]
+	quest.38574439EBEABB78.quest_subtitle: "&8Linked Dimensions (Cross)&r"
+	quest.38574439EBEABB78.title: "Across Dimensions: The &eStabilized Warp Index&r"
+	quest.38EFAECC74C9DF88.quest_desc: ["A &ebracer&r that grants you immunity to &dmagical fire damage&r and provides a chance to unleash extra bursts of &cfire&r when you strike a &cburning&r target in melee combat."]
+	quest.38EFAECC74C9DF88.quest_subtitle: "&8Branded by Flame&r"
+	quest.38EFAECC74C9DF88.title: "Infused with Magic Fire: The &cFlaming Bracer&r"
+	quest.39C5EBE7DE43F679.quest_desc: [
+		"Augments &6item processing&r and &6enhancement glyphs&r."
+		""
+		"Provides 2x &aspeed&r for &e&oPress&r&r, &e&oPolish&r&r, and &e&oWhirl&r&r; 2x &aitems processed&r for &e&oPress&r&r and &e&oPolish&r&r; 2x chance-based &aoutputs&r for &e&oObliterate&r&r and &e&oWhirl&r&r; and 2x &4damage&r for &e&oObliterate&r&r."
+		""
+		"Also generally enhances &bspells&r with the &dLuck&r effect."
+	]
+	quest.39C5EBE7DE43F679.quest_subtitle: "&8Secrets of Substance&r"
+	quest.39C5EBE7DE43F679.title: "Transmuting Matter: The &6Focus of Transmutation&r"
+	quest.3A489D5827DFB67F.quest_desc: ["A &ebelt&r that periodically bestows random temporary &dpotion effects&r upon the wearer, offering unpredictable but potentially beneficial magical assistance."]
+	quest.3A489D5827DFB67F.quest_subtitle: "&8Fortuitous Potions&r"
+	quest.3A489D5827DFB67F.title: "Unpredictable Aid: The &dBelt of Unstable Gifts&r"
+	quest.3A893EA144D57774.quest_desc: [
+		"Enhance your mining efficiency with this jar. It automatically &8destroys&r specified block types when you mine them, granting &aExperience Points&r in return."
+		""
+		"Functions similarly to the &8Jar of Voiding&r, but targets mined blocks and rewards &aXP&r instead of &bmana&r. Toggle on/off by using the jar while sneaking. Configure target blocks via the off-hand or a &eScribe's Table&r. Must be in your &ahotbar&r to operate."
+	]
+	quest.3A893EA144D57774.quest_subtitle: "&8Rewarding Excavation&r"
+	quest.3A893EA144D57774.title: "Subterranean Riches: The &aJar of Miner's Wisdom&r"
+	quest.3AEBF4385E19AF96.quest_desc: [
+		"This jar destroys specified items upon pickup, granting a small amount of &bmana&r in return."
+		""
+		"Toggle on/off by using the jar while sneaking. Configure which items to destroy via the off-hand or a &eScribe's Table&r."
+		""
+		"Must be in your &ahotbar&r to function."
+	]
+	quest.3AEBF4385E19AF96.quest_subtitle: "&8Unwanted Items Begone&r"
+	quest.3AEBF4385E19AF96.title: "Consuming Emptiness: The &8Jar of Voiding&r"
+	quest.3B537FA0A5B944A7.quest_desc: [
+		"Strengthen your defenses with this selection of &dThreads&r."
+		""
+		"Boost your &aMaximum Health&r, gain potent &aknockback resistance&r, reduce incoming &dmagic damage&r, or even cheat &8death&r itself. Become a more durable mage."
+	]
+	quest.3B537FA0A5B944A7.quest_subtitle: "&8Magical Resilience&r"
+	quest.3B537FA0A5B944A7.title: "&l&aBeing Tankier&r"
+	quest.3D2EB4A8938DDEC9.quest_desc: [
+		"Accepts a single inscribed &bspell&r (without a form) via a &eScribe's Table&r."
+		""
+		"Casting with the &egauntlet&r applies the &bspell&r (as if &eTouch&r form) with a reduced &bmana cost&r."
+	]
+	quest.3D2EB4A8938DDEC9.quest_subtitle: "&8Empowered Grasp&r"
+	quest.3D2EB4A8938DDEC9.title: "Charged Touch: The &dEnchanter's Gauntlet&r"
+	quest.3D3739A2BF4D130C.quest_desc: ["The final tier of &7Arcanist&r equipment. Represents a solid compromise, offering substantial &aprotection&r, significant &bMana Regeneration&r, and capable &dThread Slots&r (Tier III) suitable for a wide range of magical applications."]
+	quest.3D3739A2BF4D130C.quest_subtitle: "&8Adept of Both Worlds&r"
+	quest.3D3739A2BF4D130C.title: "&7Arcanist Armor - Tier III&r"
+	quest.3D408539B9C5875C.quest_desc: ["Equip this &ebroom&r on your back to summon a controllable &eflying mount&r, allowing for sustained aerial travel."]
+	quest.3D408539B9C5875C.quest_subtitle: "&8A Witch's Ally&r"
+	quest.3D408539B9C5875C.title: "Riding the Magical Winds: The &dWhirlisprig Broom&r"
+	quest.3E7CCA957469739D.quest_desc: [
+		"An adorable, purely &ecosmetic&r Curio for players that resembles a &bSea Bunny&r."
+		""
+		"Bring a bit of the ocean's charm wherever you go."
+	]
+	quest.3E7CCA957469739D.quest_subtitle: "&8Aquatic Cuteness&r"
+	quest.3E7CCA957469739D.title: "Oceanic Friend: The &bSea Bunny&r"
+	quest.4115637B02F0DDA2.quest_desc: [
+		"Summons one &dorbital sphere&r with a linked &bspell&r every &a10 seconds&r (up to a maximum of &a8&r spheres)."
+		""
+		"Spheres cast their inscribed &bspell&r on a target upon collision."
+		""
+		"Requires inscription via a &eScribe's Table&r with a &bspell&r of no more than &a10&r components, beginning with the &e'Touch'&r form."
+	]
+	quest.4115637B02F0DDA2.quest_subtitle: "&8Orbital Spellcasting&r"
+	quest.4115637B02F0DDA2.title: "Dedicated Magic: The &6Emblem of Devotion&r"
+	quest.412278692568AE9A.quest_desc: [
+		"Inscribe with a single &bspell&r (without a form) using a &eScribe's Table&r."
+		""
+		"Functions as a normal &efishing rod&r. However, if you hook an entity, you can continuously cast the inscribed &bspell&r (as if &eTouch&r form) on the hooked target until the line breaks."
+	]
+	quest.412278692568AE9A.quest_subtitle: "&8Aquatic Arcana&r"
+	quest.412278692568AE9A.title: "Hooked Magic: The &dEnchanter's Fishing Rod&r"
+	quest.4125240905B014D1.quest_desc: [
+		"The absolute pinnacle of magical armor, this &6Tier 7&r set is upgraded from Vibranium Arcanist Robes."
+		""
+		"Completely &aunbreakable&r, it offers unparalleled levels of &aArmor&r, &aArmor Toughness&r, &bMax Mana&r, &bMana Regen&r, and &dSpell Power&r. Unlocks the ultimate &dTier VI&r Thread Slots, alongside the Tier IV and V slots, for god-tier enhancement potential."
+		""
+		"&lFull Set Bonuses:&r"
+		"*   &eHelmet:&r Resupplies &bair&r underwater and clears the &8Darkness&r effect."
+		"*   &cChestplate:&r Clears &cFire&r effect."
+		"*   &aLeggings:&r Clears the &8Wither&r effect and grants &bDolphin's Grace&r in water."
+		"*   &cBoots:&r Pushes you to the surface of &clava&r and clears &cFire&r effect."
+	]
+	quest.4125240905B014D1.quest_subtitle: "&8Beyond Mortal Limits&r"
+	quest.4125240905B014D1.title: "Ultimate Arcana: &5Unobtainium Arcanist Robes&r"
+	quest.417725295C6D7C20.quest_desc: ["The first tier of &7Arcanist&r armor. Provides a moderate balance between physical &aprotection&r and &bMana Regeneration&r. Features basic &dThread Slots&r (Tier I) for initial enhancements. A versatile starting point."]
+	quest.417725295C6D7C20.quest_subtitle: "&8Balanced Beginnings&r"
+	quest.417725295C6D7C20.title: "&7Arcanist Armor - Tier I&r"
+	quest.440F9F5309A0A6D2.quest_desc: [
+		"A foundational magical tool attuned to the element of &aEarth&r."
+		""
+		"While equipped, it amplifies and reduces the &bmana&r cost of &bspells&r belonging to the &aEarth&r school of magic."
+		""
+		"However, this basic form carries a &4*drawback*&r: it slightly &4weakens&r the effectiveness of &bspells&r from the opposing elemental schools of &cFire&r, &bWater&r, and &eAir&r."
+	]
+	quest.440F9F5309A0A6D2.quest_subtitle: "&8Grounded Beginnings&r"
+	quest.440F9F5309A0A6D2.title: "Initial Attunement: The &aLesser Focus of Earth&r"
+	quest.470CED0C93343CEA.quest_desc: ["A powerful, single-use &echarm&r that prevents &8death&r upon receiving a fatal blow, granting you a precious &asecond chance&r."]
+	quest.470CED0C93343CEA.quest_subtitle: "&8Not Today, Fate&r"
+	quest.470CED0C93343CEA.title: "A Second Chance: The &aCharm of Second Wind&r"
+	quest.47ACCBC8AE737D0A.quest_desc: [
+		"An advanced &6Tier 4&r armor set from &eArs Technica&r, upgradeable from any Tier 3 magical armor."
+		""
+		"Augments your &eHUD&r with info about placed &eCreate components&r. Reduces &4damage&r from &eCreate machinery&r and increases the &aspeed&r of nearby &eschematic cannons&r."
+		""
+		"Offers substantial &aarmor&r, &atoughness&r, bonus &bMax Mana&r, and &bMana Regen&r, along with high-tier &dThread Slots&r."
+	]
+	quest.47ACCBC8AE737D0A.quest_subtitle: "&8Arcane Engineering&r"
+	quest.47ACCBC8AE737D0A.title: "Mastery of Machines: The &7Technomancer's Set&r"
+	quest.483AFA247AE0A5C5.quest_desc: [
+		"Grants an extra &aheart&r (&a+2 Max Health&r) for each effective level."
+		""
+		"Become tougher and harder to kill."
+	]
+	quest.483AFA247AE0A5C5.quest_subtitle: "&8More Health&r"
+	quest.483AFA247AE0A5C5.title: "Hearty Constitution: &aThread of Vitality&r"
+	quest.4854195FF9BD4956.quest_desc: ["A &echarm&r with ample charges that automatically activates when your air supply runs out &bunderwater&r, allowing you to &bbreathe freely&r."]
+	quest.4854195FF9BD4956.quest_subtitle: "&8Lungs of the Deep&r"
+	quest.4854195FF9BD4956.title: "Breathing Deep: The &bCharm of Ocean's Breath&r"
+	quest.4B0C440EFD156EB5.quest_desc: [
+		"Don specialized &dmagical armor&r to bolster your defenses and enhance your arcane abilities. All sets improve &bMana Regeneration&r and feature unique &dThread Slots&r for powerful upgrades via the &eAlteration Table&r."
+		""
+		"Choose your path: &6Sorcerer&r robes offer the most potent &dThread&r potential but little &aprotection&r. &bBattlemage&r gear provides maximum &adefense&r at the cost of magical enhancement slots. &7Arcanist&r armor strikes a balance between the two."
+		""
+		"Each set has &6three tiers&r (I, II, III), upgradeable via the &eEnchanting Apparatus&r. Higher tiers grant increased &bMana Regen&r, better &aprotection&r, and more/larger &dThread Slots&r."
+	]
+	quest.4B0C440EFD156EB5.quest_subtitle: "&8Arcane Protection and Enhancement&r"
+	quest.4B0C440EFD156EB5.title: "&l&dMagical Vestments&r"
+	quest.4B6594D2F7796480.quest_desc: [
+		"While normally changing a &dStarbuncle's&r job to &8void items&r, you can apply this purely as a &ecosmetic&r by &asneaking&r during application."
+		""
+		"Let your Starbuncle look like a walking void!"
+	]
+	quest.4B6594D2F7796480.quest_subtitle: "&8Trash Can Chic&r"
+	quest.4B6594D2F7796480.title: "Void Appearance: The &8Starbin&r"
+	quest.4BB86FA3FB5BAF2D.quest_desc: ["An &eamulet&r that enhances your natural &bmana regeneration&r rate, allowing you to recover &bmagical energy&r more quickly between &bspellcasts&r."]
+	quest.4BB86FA3FB5BAF2D.quest_subtitle: "&8Everlasting Flow&r"
+	quest.4BB86FA3FB5BAF2D.title: "Replenishing Your Strength: The &bAmulet of Mana Regen&r"
+	quest.4BD55925E27B8BCE.quest_desc: [
+		"Imbue specialized &dtools&r and &dweapons&r with Ars Nouveau &bspells&r using a &eScribe's Table&r."
+		""
+		"Each item channels magic uniquely: launch &bSpell Arrows&r, strike with &bmagical effects&r, block for &abuffs&r, or unleash &bspell bursts&r."
+		""
+		"Requires inscription with &bspells&r lacking standard forms (like Projectile/Touch) and consumes &bmana&r, blending magic seamlessly with conventional gear."
+	]
+	quest.4BD55925E27B8BCE.quest_subtitle: "&8Wielding Inscribed Magic&r"
+	quest.4BD55925E27B8BCE.title: "&l&dSpell-Infused Gear&r"
+	quest.4BE0EA16EC2DDF4E.quest_desc: [
+		"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. "
+		""
+		"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. "
+		""
+		"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+	]
+	quest.4C9F86BD1C14A10F.quest_desc: [
+		"Typically assigns a &dStarbuncle&r (or &dDrygmy&r, &dWixie&r) the job of transporting &eMekanism chemicals&r but we are on a magic pack..."
+		""
+		"However, by &asneaking&r when applying, you can use it solely as a &ecosmetic&r balloon appearance, which can be &ddyed&r!"
+	]
+	quest.4C9F86BD1C14A10F.quest_subtitle: "&8Floating Friend Style&r"
+	quest.4C9F86BD1C14A10F.title: "Balloon Buddy: The &dStarballoon&r"
+	quest.4D8CCFA97BB6275B.quest_desc: [
+		"Inscribe this &ebow&r with a &bspell&r using a &eScribe's Table&r."
+		""
+		"If you have enough &bmana&r, firing the bow consumes mana to launch a &bSpell Arrow&r, applying the spell's effect on impact."
+		""
+		"Without arrows, it fires a 0-damage &bSpell Arrow&r. Without mana, it fires regular arrows. Can use special &eAugment Arrows&r to enhance the inscribed spell."
+	]
+	quest.4D8CCFA97BB6275B.quest_subtitle: "&8Arcane Archery&r"
+	quest.4D8CCFA97BB6275B.title: "Spell-Slinging Bow: The &dEnchanter's Bow&r"
+	quest.4DA9F2CAF7F63C6A.quest_desc: [
+		"A &ebracelet&r that significantly enhances &aAnima&r &bspell&r &4damage&r."
+		""
+		"Represents the balance of &alife&r and &8death&r, randomly &ahealing&r or &8withering&r enemies you strike, and grants a small increase to your maximum &ahealth&r."
+	]
+	quest.4DA9F2CAF7F63C6A.quest_subtitle: "&8Life and Death in Harmony&r"
+	quest.4DA9F2CAF7F63C6A.title: "The Cycle of Magic: The &aBangle of Anima&r"
+	quest.4DAB757F2FFBB28E.quest_desc: [
+		"Beyond powerful enchantments and practical tools, the world offers many ways to express yourself visually!"
+		""
+		"Find &ecosmetic Curios&r to wear, unique items to give your &dfamiliars&r, or even repurpose functional items for a purely aesthetic touch. Show off your unique magical flair!"
+	]
+	quest.4DAB757F2FFBB28E.quest_subtitle: "&8Style Over Substance (Mostly)&r"
+	quest.4DAB757F2FFBB28E.title: "&l&dAccessorize Your Adventure&r"
+	quest.4E5FAE7719A67388.quest_desc: [
+		"An elemental upgrade from Tier 3 armor, attuned to the School of &bWater&r."
+		""
+		"Each piece amplifies &bWater glyphs&r, reduces their &bmana cost&r, and mitigates &4damage&r related to &bwater&r, such as &bdrowning&r and &bfreezing&r."
+		""
+		"Wearing the full set converts the reduced &4damage&r into &bmana&r and automatically refills your &bair supply&r if you are about to drown. Provides high-tier &dThread Slots&r."
+	]
+	quest.4E5FAE7719A67388.quest_subtitle: "&8Oceanic Embrace&r"
+	quest.4E5FAE7719A67388.title: "Flowing Power: The &bAquamancer's Set&r"
+	quest.4ECC299C833D6BFB.quest_desc: [
+		"Upon successfully &ablocking damage&r, gain a short burst of &bMana Regeneration&r and &dSpell Damage&r."
+		""
+		"This magical &eshield&r also slowly &arepairs&r itself over time by consuming the wearer's &bmana&r."
+	]
+	quest.4ECC299C833D6BFB.quest_subtitle: "&8Arcane Defense&r"
+	quest.4ECC299C833D6BFB.title: "Warding Magic: The &dEnchanter's Shield&r"
+	quest.4F3A3DAE0A255868.quest_desc: [
+		"An upgraded &bSpell Focus&r attuned to the element of &cFire&r."
+		""
+		"While equipped, it significantly strengthens &cFire&r &bspells&r and reduces their &bmana&r cost."
+		""
+		"Additionally, it grants &dSpell Damage II&r while the wearer is &con fire&r or in &clava&r."
+		""
+		"It empowers &cFire&r &bglyphs&r to inflict &d\"Magic Burn,\"&r allows the &c*Flare*&r &bspell&r to &4damage&r/spread even on &cfire-resistant&r mobs, allows &dmagic damage&r to partially pierce armor, makes &aEarth&r &4damage&r less effective against the target, and summons a rideable &eStrider&r instead of a horse."
+		""
+		"It can also sublimate &bIce blocks&r when &c*Ignite*&r is used after &b*Evaporate*&r."
+	]
+	quest.4F3A3DAE0A255868.quest_subtitle: "&8Burning Potential&r"
+	quest.4F3A3DAE0A255868.title: "Enhanced Power: The &cFocus of Fire&r"
+	quest.4F45FBC6FAA3E902.quest_desc: [
+		"An elemental upgrade from Tier 3 armor, attuned to the School of &aEarth&r."
+		""
+		"Each piece amplifies &aEarth glyphs&r, reduces their &bmana cost&r, and lessens &4damage&r related to the &aearth&r, like &astarvation&r, &acactus/berry bushes&r, and &acrushing&r."
+		""
+		"Wearing the full set converts the reduced &4damage&r into &bmana&r and provides &afood&r deep underground if you are about to starve. Provides high-tier &dThread Slots&r."
+	]
+	quest.4F45FBC6FAA3E902.quest_subtitle: "&8Terrestrial Fortitude&r"
+	quest.4F45FBC6FAA3E902.title: "Earthen Might: The &aGeomancer's Set&r"
+	quest.504CBD056A314EFF.quest_desc: ["Wear this &eglove&r to gain a chance for your &bspells&r to cast multiple times in quick succession without consuming additional &bmana&r."]
+	quest.504CBD056A314EFF.quest_subtitle: "&8Echoing Incantations&r"
+	quest.504CBD056A314EFF.title: "Unleashing Repeated Spells: The &dArchmage Glove&r"
+	quest.506ACE4438638EFE.quest_desc: [
+		"Ordinarily sets a &dStarbuncle's&r job to &aplace blocks&r."
+		""
+		"Apply while &asneaking&r to give your Starbuncle a &ecosmetic&r builder appearance, bypassing the block-placing behavior."
+	]
+	quest.506ACE4438638EFE.quest_subtitle: "&8Construction Companion Style&r"
+	quest.506ACE4438638EFE.title: "Building Buddy: The &aStarbuilder&r"
+	quest.50884318EA5B2290.quest_desc: [
+		"A purely &ecosmetic&r Curio, this hat gives you the look of the elusive Alakakrinos."
+		""
+		"Perfect for the enigmatic spellcaster."
+	]
+	quest.50884318EA5B2290.quest_subtitle: "&8Mysterious Mage&r"
+	quest.50884318EA5B2290.title: "Shadowy Headwear: The &5Alakakrinos Hat&r"
+	quest.50F44049CA23B7BC.quest_desc: [
+		"Tired of a cluttered inventory? Craft this magical &epouch&r using &dMagebloom Fiber&r to store your various &etrinkets&r and items."
+		""
+		"Can be opened with the &e'J'&r key (default) while in your hotbar or equipped in the &eBundle&r slot."
+		""
+		"Upgradeable into the larger &eSpellcaster Bag&r."
+	]
+	quest.50F44049CA23B7BC.quest_subtitle: "&8Clutter Control&r"
+	quest.50F44049CA23B7BC.title: "Tidy Trinkets: The &dTrinkets Pouch&r"
+	quest.52B1BDEF1F613B52.quest_desc: [
+		"A &echarm&r that, when you attack a target, will automatically cast a linked &e\"Touch\"&r &bspell&r (up to 10 components, starting with &e'Touch'&r) on the attacked enemy."
+		""
+		"It then goes on a short cooldown and requires a &bspell&r to be inscribed using a &eScribe's Table&r."
+	]
+	quest.52B1BDEF1F613B52.quest_subtitle: "&8Offensive Trigger&r"
+	quest.52B1BDEF1F613B52.title: "Empowered Strikes: The &cEmblem of Assault&r"
+	quest.52ECAF9FB9C9166E.quest_desc: ["A &ering&r that enhances your connection to the arcane, increasing both your maximum &bmana capacity&r and your &bmana regeneration&r rate."]
+	quest.52ECAF9FB9C9166E.quest_subtitle: "&8Concentrated Energy&r"
+	quest.52ECAF9FB9C9166E.title: "Focused Mana: The &bMana Ring&r"
+	quest.53FC8D9939681022.quest_desc: [
+		"An upgraded &bSpell Focus&r attuned to the element of &bWater&r."
+		""
+		"While equipped, it significantly strengthens &bWater&r &bspells&r and reduces their &bmana&r cost."
+		""
+		"Additionally, it grants &dMana Regen I&r while the wearer is wet, OR &dMana Regen II&r and the &dDolphin's Grace&r effect while swimming."
+		""
+		"It empowers &bWater&r &bglyphs&r to apply stacking &d\"Freezing\"&r buildup eventually leading to the &d\"Frozen\"&r status, turn conjured water into &bIce blocks&r, summon a rideable &eDolphin&r instead of a horse, and convert drowning &4damage&r dealt to water creatures into &dMagic damage&r."
+	]
+	quest.53FC8D9939681022.quest_subtitle: "&8Liquid Empowerment&r"
+	quest.53FC8D9939681022.title: "Enhanced Power: The &bFocus of Water&r"
+	quest.545EC79245690EEB.quest_desc: [
+		"This collection of &dThreads&r provides various helpful, non-combat abilities."
+		""
+		"Enhance your &areach&r, gain &espectral sight&r through walls, make your gear &arepair itself&r using mana, gain better &aloot&r, improve &apotion durations&r or breathe &bunderwater&r indefinitely. Convenience woven into fabric."
+	]
+	quest.545EC79245690EEB.quest_subtitle: "&8Practical Magic Weaving&r"
+	quest.545EC79245690EEB.title: "&l&6Utility Threads&r"
+	quest.546B1C1154A3EFCB.quest_desc: [
+		"A &ecloak&r worn on the back that generates a barrier of &bmana&r to absorb incoming &4damage&r, providing a layer of &dmagical defense&r."
+		""
+		"It has a cooldown after the &bmana barrier&r is depleted."
+	]
+	quest.546B1C1154A3EFCB.quest_subtitle: "&8Ethereal Barrier&r"
+	quest.546B1C1154A3EFCB.title: "Shrouded in Mana: The &bCloak of Concealment&r"
+	quest.55E10730FCD8D3DC.quest_desc: [
+		"An upgraded &bSpell Focus&r attuned to the element of &aEarth&r."
+		""
+		"While equipped, it significantly strengthens &aEarth&r &bspells&r and reduces their &bmana&r cost."
+		""
+		"Additionally, it provides &dMana Regen I&r while the wearer is deep underground (below Y=0) and empowers &aEarth&r &bglyphs&r to deal bonus &4damage&r to &8Undead&r mobs, potentially spawn &eSpore Blossoms&r with Poison Spores/Grow, create gravity wells with &a*Gravity*&r (augmented with &a*Sensitive*&r), passively grants &dKnockback Resistance&r, and boosts natural and instant healing effects received by 1.5x."
+	]
+	quest.55E10730FCD8D3DC.quest_subtitle: "&8Grounded in Power&r"
+	quest.55E10730FCD8D3DC.title: "Enhanced Power: The &aFocus of Earth&r"
+	quest.566686E4F01C4D3E.quest_desc: ["Utilize the *&eRing slots&r* for Ars Nouveau-related &erings&r that can enhance magical mobility, reduce &bmana costs&r, or improve &bmana management&r."]
+	quest.566686E4F01C4D3E.quest_subtitle: "&8Bands of Utility and Power&r"
+	quest.566686E4F01C4D3E.title: "&l&6Encircle Your Fingers: The Ring Slot&r"
+	quest.56AE722BF821F7C8.quest_desc: ["Entry-level &bBattlemage&r armor. Focuses primarily on physical &aprotection&r, offering the best defense among Tier I sets. Provides modest &bMana Regeneration&r and basic, less potent &dThread Slots&r (Tier I). Built for durability."]
+	quest.56AE722BF821F7C8.quest_subtitle: "&8First Line of Defense&r"
+	quest.56AE722BF821F7C8.title: "&bBattlemage Gear - Tier I&r"
+	quest.574D5F140964F7CE.quest_desc: [
+		"A &ecloak&r worn on the back that automatically fires &4damaging spikes&r when you take significant &4damage&r."
+		""
+		"Repeated triggers can also lead to bonus &4damage&r."
+	]
+	quest.574D5F140964F7CE.quest_subtitle: "&8Thorny Retaliation&r"
+	quest.574D5F140964F7CE.title: "Reactive Defense: The &4Spiked Cloak&r"
+	quest.57AC9D2F3AF169C0.quest_desc: ["Enhance your &bmagical reserves&r by equipping Ars Nouveau-related &eamulets&r in the *&eNecklace slot&r*, providing a larger &bmana pool&r and/or faster &brecovery&r for your &bspells&r."]
+	quest.57AC9D2F3AF169C0.quest_subtitle: "&8Amulets of Power and Flow&r"
+	quest.57AC9D2F3AF169C0.title: "&l&6Embellish Your Neck: The Necklace Slot&r"
+	quest.5829C5D1C8974986.quest_desc: [
+		"Special arrows used with the &eEnchanter's Bow&r or &eEnchanter's Crossbow&r to modify their inscribed &bspells&r:"
+		"*   &eAugment Arrow: Amplify&r: Increases &bspell&r effect power (&ax2&r)."
+		"*   &eAugment Arrow: Pierce&r: Allows the &bspell&r projectile to pass through multiple targets (&ax2&r pierce)."
+		"*   &eAugment Arrow: Split&r: Causes the &bspell&r projectile to split into multiple shots (&ax2&r split)."
+	]
+	quest.5829C5D1C8974986.quest_subtitle: "&8Spell Enhancement&r"
+	quest.5829C5D1C8974986.title: "Empowered Ammunition: &eAugment Arrows&r"
+	quest.59010D7A3D4CB6D4.quest_desc: [
+		"True mastery of Ars Nouveau extends beyond the &bspellbook&r. Explore the diverse world of &dmagical equipment&r to unlock your full potential!"
+		""
+		"Don powerful &dMagical Armor&r, choosing between sets that prioritize &amight&r, &bmagic&r, or &7balance&r, and customize them further with potent &dThreads&r via the &eAlteration Table&r."
+		""
+		"Delve into the versatile &eCurios&r system, equipping specialized &drings&r, &damulets&r, &dcharms&r, &dfocus&r, and other accessories in dedicated slots for unique passive and active abilities."
+		""
+		"Infuse &dWeapons and Tools&r like swords, bows, and shields with &bspells&r at the &eScribe's Table&r, blending martial prowess seamlessly with arcane might."
+		""
+		"Finally, express your individuality! Adorn yourself or your loyal &dfamiliars&r with a range of purely &ecosmetic&r items to showcase your unique style."
+		""
+		"Discover the synergies between these systems, craft your perfect loadout, and become a truly formidable mage!"
+	]
+	quest.59010D7A3D4CB6D4.quest_subtitle: "&8Mastering Magical Equipment&r"
+	quest.59010D7A3D4CB6D4.title: "&l&5The Archmage's Arsenal&r"
+	quest.59EBD6D75B15A9B1.quest_desc: [
+		"Reduces &dSummon Sickness&r duration by &a10%&r per tier."
+		""
+		"Starting from Tier 2 slots, it also slightly increases the &4damage&r dealt by your &dsummoned creatures&r."
+	]
+	quest.59EBD6D75B15A9B1.quest_subtitle: "&8Bolstered Allies&r"
+	quest.59EBD6D75B15A9B1.title: "Minion Master: &dThread of Summoning&r"
+	quest.5A07931184925C37.quest_desc: [
+		"Allows you to &eglide&r as if wearing an Elytra."
+		""
+		"&lMust&r be equipped in a &dThread Slot&r of at least &6Tier III&r."
+	]
+	quest.5A07931184925C37.quest_subtitle: "&8Makeshift Wings&r"
+	quest.5A07931184925C37.title: "Controlled Descent: &eThread of Gliding&r"
+	quest.5A5CE509F00A3C29.quest_desc: ["Improved &7Arcanist&r armor. Offers increased &aprotection&r and better &bMana Regeneration&r compared to Tier I. Unlocks more effective &dThread Slots&r (Tier II) for greater customization while maintaining a balance."]
+	quest.5A5CE509F00A3C29.quest_subtitle: "&8Versatile Enhancement&r"
+	quest.5A5CE509F00A3C29.title: "&7Arcanist Armor - Tier II&r"
+	quest.5B1A9C74D59BB7CE.quest_desc: [
+		"Summons a helpful &elight source&r that follows you around, illuminating your path."
+		""
+		"Can be summoned and dismissed at will. Keep the darkness at bay!"
+	]
+	quest.5B1A9C74D59BB7CE.quest_subtitle: "&8Banishing Shadows&r"
+	quest.5B1A9C74D59BB7CE.title: "Portable Illumination: The &eJar of Light&r"
+	quest.5B92BB41FB6E6CBC.quest_desc: [
+		"A &ebracelet&r that significantly enhances &bWater&r &bspell&r &4damage&r."
+		""
+		"Chills the air around your arms, &bfreezing&r enemies upon contact, and grants a &aswim speed bonus&r in &bwater&r and rain."
+	]
+	quest.5B92BB41FB6E6CBC.quest_subtitle: "&8Icy Embrace&r"
+	quest.5B92BB41FB6E6CBC.title: "Embracing the Chill: The &bBangle of Water&r"
+	quest.5D22773963D2CC39.quest_desc: [
+		"A simple &ecosmetic&r hat for your companions."
+		""
+		"Supported familiars include &dStarbuncle&r, &dWixie&r, &dDrygmy&r, and &dBookwyrm&r."
+	]
+	quest.5D22773963D2CC39.quest_subtitle: "&8Familiar Headwear&r"
+	quest.5D22773963D2CC39.title: "Simple Style: The &eBlues Hat&r"
+	quest.5D2C96C847DFA50C.quest_desc: ["A &echarm&r with limited charges that protects you from having beneficial &dpotion effects&r dispelled by &4hostile magic&r."]
+	quest.5D2C96C847DFA50C.quest_subtitle: "&8Steadfast Enchantments&r"
+	quest.5D2C96C847DFA50C.title: "Resisting Disruption: The &dCharm of Unyielding Magic&r"
+	quest.5D381B2637E6B7AA.quest_desc: [
+		"An upgraded &bSpell Focus&r attuned to the element of &eAir&r."
+		""
+		"While equipped, it significantly strengthens &eAir&r &bspells&r and reduces their &bmana&r cost."
+		""
+		"Additionally, it grants &dMana Regen I&r while the wearer is above Y=200 or while under the &d\"Shocked\"&r effect."
+		""
+		"It empowers &eAir&r &bglyphs&r to apply the &dLevitate&r effect instead of just launching with &e*Launch*&r (augmented with &e*Extend Time*&r), and gives a chance to drop a mob's head or skull if the &e*Cut*&r &bspell&r deals the killing blow."
+	]
+	quest.5D381B2637E6B7AA.quest_subtitle: "&8Aerial Supremacy&r"
+	quest.5D381B2637E6B7AA.title: "Enhanced Power: The &eFocus of Air&r"
+	quest.5E97C885694434B6.quest_desc: [
+		"Reduces the amount of &dmagic damage&r taken by a flat amount per effective level."
+		""
+		"Resist hostile spells more effectively."
+	]
+	quest.5E97C885694434B6.quest_subtitle: "&8Arcane Resilience&r"
+	quest.5E97C885694434B6.title: "Magical Bulwark: &dThread of Warding&r"
+	quest.5EB6B9A7B0633FF2.quest_desc: [
+		"Increases the &asaturation&r gained from consumed food by &a30%&r per effective level."
+		""
+		"Stay full for longer."
+	]
+	quest.5EB6B9A7B0633FF2.quest_subtitle: "&8Lasting Sustenance&r"
+	quest.5EB6B9A7B0633FF2.title: "Efficient Eater: &aThread of The Whirlisprig&r"
+	quest.607CA0E3279A9088.quest_desc: [
+		"A &ebracelet&r that significantly enhances &cFire&r &bspell&r &4damage&r."
+		""
+		"Causes your arms to &cignite&r, setting enemies &cablaze&r on hit, and grants a &aspeed boost&r in hot environments."
+	]
+	quest.607CA0E3279A9088.quest_subtitle: "&8Arms Ablaze&r"
+	quest.607CA0E3279A9088.title: "Wielding Fire's Fury: The &cBangle of Fire&r"
+	quest.60B6033B60A66B4D.quest_desc: ["Utilize the *&eHead slot&r* for various Ars Nouveau-related accessories that can offer utility such as enhanced vision or limited &eflight&r capabilities."]
+	quest.60B6033B60A66B4D.quest_subtitle: "&8Thinking Caps and Visionary Aids&r"
+	quest.60B6033B60A66B4D.title: "&l&6Adorn Your Brow: The Head Slot&r"
+	quest.611297CF66020FE7.quest_desc: [
+		"Grants an increasing amount of bonus &dSpell Damage&r based on the effective level."
+		""
+		"Make your spells hit harder!"
+	]
+	quest.611297CF66020FE7.quest_subtitle: "&8Amplified Arcana&r"
+	quest.611297CF66020FE7.title: "Raw Power: &dThread of Spell Power&r"
+	quest.61F28F9CA4DEC227.quest_desc: [
+		"Enhances your &8necromantic summons&r without standard elemental drawbacks."
+		""
+		"Summoned &8&oWolves&r&r, &8&oUndead&r&r, and &8&oVexes&r&r will revive once with &c\"blood lust\"&r upon &8death&r if you wear this focus."
+		""
+		"Your summoned &8Undead&r cast &e&oHoming&r&r &bspells&r alongside you and &aheal&r you when they kill enemies."
+	]
+	quest.61F28F9CA4DEC227.quest_subtitle: "&8Echoes of Undeath&r"
+	quest.61F28F9CA4DEC227.title: "Embracing the Shadow: The &8Focus of Necromancy&r"
+	quest.6319F1BF264D6DC4.quest_desc: ["Utilize the *&eBody slot&r* for unique Ars Nouveau-related attire that can offer specialized &dmagical benefits&r or interactions."]
+	quest.6319F1BF264D6DC4.quest_subtitle: "&8Wearing the Elements&r"
+	quest.6319F1BF264D6DC4.title: "&l&6Adorn Your Torso: The Body Slot&r"
+	quest.6383EB4E7CFCA1F3.quest_desc: [
+		"A powerful &6Tier 5&r upgrade crafted from any of the Tier 4 elemental sets (&eAethermancer&r, &bAquamancer&r, &aGeomancer&r, &cPyromancer&r)."
+		""
+		"This &aunbreakable&r armor offers significant increases to &aArmor&r, &aArmor Toughness&r, &bMax Mana&r, &bMana Regen&r, and &dSpell Power&r. Unlocks potent &dTier IV&r Thread Slots alongside the existing Tier II and III slots."
+		""
+		"&lFull Set Bonuses:&r"
+		"*   &eHelmet:&r Resupplies &bair&r underwater and clears the &8Darkness&r effect."
+		"*   &cChestplate:&r Clears &cFire&r effect."
+		"*   &aLeggings:&r Clears the &8Wither&r effect and grants &bDolphin's Grace&r in water."
+		"*   &cBoots:&r Pushes you to the surface of &clava&r and clears &cFire&r effect."
+	]
+	quest.6383EB4E7CFCA1F3.quest_subtitle: "&8Transcending the Elements&r"
+	quest.6383EB4E7CFCA1F3.title: "Infused with Allthemodium: &6Allthemodium Arcanist Robes&r"
+	quest.638CA21707EB690B.quest_desc: [
+		"Increases your entity and block interaction distance by &a+1 block&r for each effective level."
+		""
+		"Manipulate the world from further away."
+	]
+	quest.638CA21707EB690B.quest_subtitle: "&8Longer Arms&r"
+	quest.638CA21707EB690B.title: "Extended Interaction: &aThread of Reach&r"
+	quest.6404044465441AA5.quest_desc: [
+		"This specialized table is used to inscribe &dThreads&r onto &dmagical armors&r (and regular armor enchanted with &aSpellweave&r)."
+		""
+		"Place armor onto the stand to see its available &dThread Slots&r. Use a &dThread&r on the table to add or remove it from a slot. Removing the armor applies the changes. To clear a slot, place the armor back and interact with the thread display using an empty hand."
+	]
+	quest.6404044465441AA5.quest_subtitle: "&8Weaving Enhancements&r"
+	quest.6404044465441AA5.title: "Armor Augmentation: The &dAlteration Table&r"
+	quest.6556C8FE05593D27.quest_desc: [
+		"Discover the power of Ars Nouveau's specialized &ebracelets&r in the *&eBracelet slots&r*."
+		""
+		"These items can amplify specific &bspell schools&r and grant unique *&apassive&r* or *&areactive magical effects&r*."
+	]
+	quest.6556C8FE05593D27.quest_subtitle: "&8Bands of Elemental Force&r"
+	quest.6556C8FE05593D27.title: "&l&6Clasp Your Wrists: The Bracelet Slot&r"
+	quest.664F1B4ECFD8706D.quest_desc: [
+		"Weave these &dThreads&r into your armor to add extra effects to your damaging &bspells&r or actions."
+		""
+		"Inflict &cburning&r, &bchilling&r, &eshocking&r, or &apoisonous&r effects onto your foes automatically."
+	]
+	quest.664F1B4ECFD8706D.quest_subtitle: "&8Infusing Attacks with Power&r"
+	quest.664F1B4ECFD8706D.title: "&l&cApplying Effects&r"
+	quest.6660229C55EE32D4.quest_desc: [
+		"Damaging effects cause the target to &cburn&r for a short duration before the effect resolves."
+		""
+		"Burn time increases by &a5 seconds&r per level."
+	]
+	quest.6660229C55EE32D4.quest_subtitle: "&8Incendiary Magic&r"
+	quest.6660229C55EE32D4.title: "Fiery Touch: &cThread of Kindling&r"
+	quest.6731D511FDF98DE8.quest_desc: [
+		"Has a durability of &a8&r, regenerating &a1 point&r every &a7.5 seconds&r."
+		""
+		"Hold right-click on a block (point 1), then release on another block (point 2) to create a &7temporary bridge&r (max length &a120 blocks&r) for &a1 minute&r, consuming &a1 durability&r."
+	]
+	quest.6731D511FDF98DE8.quest_subtitle: "&8Instant Bridges&r"
+	quest.6731D511FDF98DE8.title: "Magical Construction: The &bArchitect's Staff&r"
+	quest.6737400FAB622BFA.quest_desc: ["A &echarm&r with ample charges that allows you to walk on &fpowdered snow&r without sinking into it, granting safe passage across treacherous terrain."]
+	quest.6737400FAB622BFA.quest_subtitle: "&8Light Steps on Powder&r"
+	quest.6737400FAB622BFA.title: "Walking on Snow: The &fCharm of Snowstride&r"
+	quest.67554791B1434CA0.quest_desc: [
+		"Empowers &bspells&r that manipulate &7blocks&r."
+		""
+		"&7Blocks&r moved by &bspells&r (&e&oLaunch&r&r, &e&oGravity&r&r, etc.) now deal &4impact damage&r based on &dSpell Damage&r, &7block hardness&r, and &aspeed&r."
+		""
+		"&bSpells&r targeting a &7block&r that gets moved or transformed will continue their sequence targeting the new or moving &7block&r, allowing for complex chained effects (e.g., &e&oConjure&r&r -> &e&oLaunch&r&r -> &e&oIgnite&r&r)."
+	]
+	quest.67554791B1434CA0.quest_subtitle: "&8Reshaping Reality, Block by Block&r"
+	quest.67554791B1434CA0.title: "Shaping the World: The &6Focus of Block Shaping&r"
+	quest.685DB0BCD4941880.quest_desc: [
+		"This unique &denchantment&r allows non-magical armor pieces to accept a single, basic &dThread&r."
+		""
+		"Apply it like any other enchantment. While not as versatile as true &dmagical armor&r, it offers a way to add a small magical boost to conventional gear via the &eAlteration Table&r."
+	]
+	quest.685DB0BCD4941880.quest_subtitle: "&8A Touch of Magic&r"
+	quest.685DB0BCD4941880.title: "Basic Weaving: The &aSpellweave&r &dEnchantment&r"
+	quest.6A2E8A1ADA036926.quest_desc: [
+		"Allows the wearer to &arepair&r ANY &dmagical armor&r or &dEnchanter's item&r by consuming &bMana&r over time."
+		""
+		"Higher levels increase repair speed. When placed in a &dslot of Tier III or higher&r, makes &lall&r equipped magical armor &aunbreakable&r!"
+	]
+	quest.6A2E8A1ADA036926.quest_subtitle: "&8Self-Mending Gear&r"
+	quest.6A2E8A1ADA036926.title: "Magical Maintenance: &aThread of Repairing&r"
+	quest.6A4CFF268E572F37.quest_desc: [
+		"A fun, &ecosmetic&r propeller hat Curio for players."
+		""
+		"It spins! Adds a whimsical touch to your magical attire."
+	]
+	quest.6A4CFF268E572F37.quest_subtitle: "&8Head Copter&r"
+	quest.6A4CFF268E572F37.title: "Spinning Style: The &eWhirli Propeller&r"
+	quest.6B46083AD8EAD1FC.quest_desc: [
+		"An elemental upgrade from Tier 3 armor, attuned to the School of &cFire&r."
+		""
+		"Each piece amplifies &cFire glyphs&r, reduces their &bmana cost&r, and decreases &4damage&r related to &cfire&r, including &clava&r, &cdragon breath&r, and &cmagma&r."
+		""
+		"Wearing the full set converts the reduced &4damage&r into &bmana&r and instantly extinguishes &cfire&r affecting you. Provides high-tier &dThread Slots&r."
+	]
+	quest.6B46083AD8EAD1FC.quest_subtitle: "&8Fiery Heart&r"
+	quest.6B46083AD8EAD1FC.title: "Infernal Dominion: The &cPyromancer's Set&r"
+	quest.6DEE391E5FDFB121.quest_desc: ["The pinnacle of &6Sorcerer&r gear. While offering the least physical &aprotection&r among Tier III sets, it boasts the highest &bMana Regeneration&r and the most powerful &dThread Slot&r configuration (Tier III), maximizing magical customization potential."]
+	quest.6DEE391E5FDFB121.quest_subtitle: "&8Master of the Arcane Arts&r"
+	quest.6DEE391E5FDFB121.title: "&6Sorcerer Robes - Tier III&r"
+	quest.6FFE9FDBD6642BFB.quest_desc: ["A &echarm&r with limited charges that prevents you from being afflicted with the debilitating &8Wither&r effect."]
+	quest.6FFE9FDBD6642BFB.quest_subtitle: "&8Wither Immunity&r"
+	quest.6FFE9FDBD6642BFB.title: "Resisting Decay: The &8Charm of Decay's End&r"
+	quest.70460458FF2D98AC.quest_desc: ["A &echarm&r with ample charges that makes &6Piglins&r and &6Piglin Brutes&r neutral towards you, allowing safe passage and interaction in Bastion Remnants."]
+	quest.70460458FF2D98AC.quest_subtitle: "&8Piglin Peacekeeper&r"
+	quest.70460458FF2D98AC.title: "Making Friends: The &6Charm of Gilded Friendship&r"
+	quest.70490884D5162B54.quest_desc: ["Equip Ars Nouveau-related &epouch items&r in the *&eBundle slot&r* to gain convenient, portable &estorage&r for your magical components and tools."]
+	quest.70490884D5162B54.quest_subtitle: "&8Portable Storage Solutions&r"
+	quest.70490884D5162B54.title: "&l&6Organize Your Findings: The Bundle Slot&r"
+	quest.73B14F18D6E5787A.quest_desc: [
+		"Give your magical companions some personality! Use items like the scholarly &eWyrm Degree&r or the simple &eBlues Hat&r (Supported creatures: &dStarbuncles&r, &dBookwyrms&r, &dWixies&r, &dDrygmys&r)."
+		""
+		"Many &dStarbuncle&r job items (&eStarbin&r, &eStarballoon&r, &eStarbucket&r, &eStarminer&r, &eStarbattery&r, &eStarbuilder&r) can also be used purely for looks by &asneaking&r when applying them, overriding their function for fashion!"
+	]
+	quest.73B14F18D6E5787A.quest_subtitle: "&8Dressing Your Companions&r"
+	quest.73B14F18D6E5787A.title: "&l&dFamiliar Fashion&r"
+	quest.73E7FA901CCA341B.quest_desc: [
+		"An incredibly potent &6Tier 6&r upgrade from the Allthemodium Arcanist set."
+		""
+		"This &aunbreakable&r armor provides substantial boosts to &aArmor&r, &aArmor Toughness&r, &bMax Mana&r, &bMana Regen&r, and &dSpell Power&r. Unlocks top-tier &dTier V&r Thread Slots, adding to the existing Tier III and IV slots for maximum customization."
+		""
+		"&lFull Set Bonuses:&r"
+		"*   &eHelmet:&r Resupplies &bair&r underwater and clears the &8Darkness&r effect."
+		"*   &cChestplate:&r Clears &cFire&r effect."
+		"*   &aLeggings:&r Clears the &8Wither&r effect and grants &bDolphin's Grace&r in water."
+		"*   &cBoots:&r Pushes you to the surface of &clava&r and clears &cFire&r effect."
+	]
+	quest.73E7FA901CCA341B.quest_subtitle: "&8Echoes of Strength&r"
+	quest.73E7FA901CCA341B.title: "Resonant Power: &3Vibranium Arcanist Robes&r"
+	quest.74B7B997262F4909.quest_desc: ["A &echarm&r that, when activated by falling into the &8void&r, will &dteleport&r you back to the last safe surface you were standing on."]
+	quest.74B7B997262F4909.quest_subtitle: "&8Saved from the Abyss&r"
+	quest.74B7B997262F4909.title: "Escape from the Void: The &5Void's Salvation&r"
+	quest.76243A315ED9CD93.quest_desc: ["An &eamulet&r that directly increases your maximum &bmana capacity&r, allowing you to cast more powerful &bspells&r or sustain longer magical engagements."]
+	quest.76243A315ED9CD93.quest_subtitle: "&8Overflowing Energy&r"
+	quest.76243A315ED9CD93.title: "Expanding Your Reserves: The &bAmulet of Mana Boost&r"
+	quest.7677EC025FB2D7AD.quest_desc: [
+		"When taking damage from a living entity, has a &a30%&r chance to create a &5player illusion&r on the opposite side of the attacker, lasting &a20 seconds&r."
+		""
+		"If you take fatal damage while illusions are active, you are &aprotected from death&r and swapped with the farthest illusion."
+	]
+	quest.7677EC025FB2D7AD.quest_subtitle: "&8Deceptive Defense&r"
+	quest.7677EC025FB2D7AD.title: "Shadowy Evasion: The &5Illusionist's Mantle&r"
+	quest.7748180DBAD65904.quest_desc: [
+		"This category of &dThreads&r focuses on improving your core magical statistics."
+		""
+		"Increase your &bmana capacity&r, boost your &bmana regeneration&r, amplify your &dspell damage&r, or even gain benefits specifically for &dsummoning&r magic. Essential for dedicated spellcasters."
+		""
+		"Some threads, like &aLife Drain&r, can even turn your offense into defense."
+	]
+	quest.7748180DBAD65904.quest_subtitle: "&8Bolstering Your Arcane Might&r"
+	quest.7748180DBAD65904.title: "&l&bEnhancing Magic Power&r"
+	quest.775B9803E1A859E5.quest_desc: [
+		"Grants the wearer an internal supply of ultra-high-pressure &eair&r (used by create)."
+		""
+		"Air refills over time; higher levels increase capacity and refill rate."
+	]
+	quest.775B9803E1A859E5.quest_subtitle: "&8Internal Tank&r"
+	quest.775B9803E1A859E5.title: "Pressurized Potential: &eThread of Pressure&r"
+	quest.77E3CA4777CEFA6A.quest_desc: ["A more potent version of the &eRing of Lesser Discount&r, further reducing the &bmana cost&r of all your &bspells&r while providing the same modest bonuses to maximum &bmana&r and &bmana regeneration&r."]
+	quest.77E3CA4777CEFA6A.quest_subtitle: "&8Exceptional Economy&r"
+	quest.77E3CA4777CEFA6A.title: "Mastering Efficiency: The &aRing of Greater Discount&r"
+	quest.782B6AFF7E1BE129.quest_desc: [
+		"A &echarm&r that, when an enemy attacks you, will automatically cast a linked &e\"Touch\"&r &bspell&r (up to 10 components, starting with &e'Touch'&r) on the attacker."
+		""
+		"It then goes on a short cooldown and requires a &bspell&r to be inscribed using a &eScribe's Table&r."
+	]
+	quest.782B6AFF7E1BE129.quest_subtitle: "&8Reactive Ward&r"
+	quest.782B6AFF7E1BE129.title: "Automated Retaliation: The &aEmblem of Defense&r"
+	quest.78EF86CD05F39946.quest_desc: [
+		"Inscribe with a &bspell&r (without a form like Touch/Projectile) using a &eScribe's Table&r."
+		""
+		"Automatically applies the inscribed &bspell&r (as if it were &eTouch&r form) just before dealing melee &4damage&r."
+		""
+		"Additionally, all &bspells&r cast while holding gain bonus &dSpell Damage&r."
+	]
+	quest.78EF86CD05F39946.quest_subtitle: "&8Spellblade's Edge&r"
+	quest.78EF86CD05F39946.title: "Magical Blade: The &dEnchanter's Sword&r"
+	quest.79612A0DEAF3F9BD.quest_desc: ["The ultimate &bBattlemage&r armor. Provides exceptional physical &aprotection&r, comparable to high-end conventional armor. Offers decent &bMana Regeneration&r but has the most limited &dThread Slot&r potential (Tier III) among the magical sets, prioritizing survival above all."]
+	quest.79612A0DEAF3F9BD.quest_subtitle: "&8Unbreakable Magical Knight&r"
+	quest.79612A0DEAF3F9BD.title: "&bBattlemage Gear - Tier III&r"
+	quest.7C075338AC43C7CE.quest_desc: [
+		"Increases the &aduration&r of beneficial &dpotion effects&r by &a15%&r per effective level."
+		""
+		"Make those buffs last!"
+	]
+	quest.7C075338AC43C7CE.quest_subtitle: "&8Extended Effects&r"
+	quest.7C075338AC43C7CE.title: "Enduring Elixirs: &dThread of The Wixie&r"
+	quest.7C0A4B37E986D5FF.quest_desc: [
+		"&dThreads&r are magical essences that grant special abilities when woven into armor using an &eAlteration Table&r. Each armor piece has &dThread Slots&r of varying tiers (I, II, III, etc.)."
+		""
+		"Higher tier slots generally provide stronger effects from the applied &dThread&r. Some powerful &dThreads&r require a minimum slot tier to function. Mix and match to create your perfect magical armor build!"
+		""
+		""
+		"Only &4&lONE&r&r of each &dThread&r can be equipped."
+	]
+	quest.7C0A4B37E986D5FF.quest_subtitle: "&8Customizing Your Gear&r"
+	quest.7C0A4B37E986D5FF.title: "Empowering Threads: &dArmor Augments&r"
+	quest.7C1BED8F495417E1.quest_desc: ["A &echarm&r with limited charges that grants you the &dNight Vision&r effect in dimly lit environments, allowing you to see clearly in the &8dark&r."]
+	quest.7C1BED8F495417E1.quest_subtitle: "&8Eyes of the Night&r"
+	quest.7C1BED8F495417E1.title: "Seeing in Darkness: The &8Charm of Darkvision&r"
+	quest.7C1F4DF9DDDDB80B.quest_desc: [
+		"Performing a &edouble jump&r activates &eElytra flight&r mode."
+		""
+		"Pressing the &ejump key&r again triggers a forward &edash&r of &a8&r blocks."
+		""
+		"Up to &a10&r consecutive dashes can be performed before landing."
+	]
+	quest.7C1F4DF9DDDDB80B.quest_subtitle: "&8Aerial Maneuvers&r"
+	quest.7C1F4DF9DDDDB80B.title: "Soaring Strike: The &bWing of the Wild Stalker&r"
+	quest.7CB23C4D20664241.quest_desc: [
+		"Damaging effects cause the target to be &eshocked&r for a short duration before the effect resolves."
+		""
+		"Inflicts &dStatic Charged&r debuff if in a Tier 3 or higher slot."
+	]
+	quest.7CB23C4D20664241.quest_subtitle: "&8Static Discharge&r"
+	quest.7CB23C4D20664241.title: "Electric Touch: &eThread of Shocking&r"
+	quest.7DD377D361DE15EC.quest_desc: [
+		"Designed to make a &dStarbuncle&r transport &6Forge Energy&r."
+		""
+		"If you just want the battery look without the function, apply it while &asneaking&r for a &ecosmetic&r effect."
+	]
+	quest.7DD377D361DE15EC.quest_subtitle: "&8Energy Look&r"
+	quest.7DD377D361DE15EC.title: "Powered Pal: The &6Starbattery&r"
+	quest.7EAAF9EE72FAF7A1.quest_desc: ["Upgraded &bBattlemage&r gear. Significantly increases physical &aprotection&r while offering improved &bMana Regeneration&r over Tier I. Features more useful &dThread Slots&r (Tier II), though still fewer/weaker than other sets."]
+	quest.7EAAF9EE72FAF7A1.quest_subtitle: "&8Reinforced Resilience&r"
+	quest.7EAAF9EE72FAF7A1.title: "&bBattlemage Gear - Tier II&r"
+	quest.7F06FF858D3CE5D4.quest_desc: [
+		"Inscribe with a &bspell&r (without a form) using a &eScribe's Table&r."
+		""
+		"Holding the &ehorn&r charges it, increasing the &bspell's&r range. At max charge, releases the &bspell&r affecting you and nearby entities, also granting you a temporary &dSpell Damage&r boost."
+	]
+	quest.7F06FF858D3CE5D4.quest_subtitle: "&8Area of Effect Magic&r"
+	quest.7F06FF858D3CE5D4.title: "Sonic Spellcasting: The &dEnchanter's Horn&r"
+	quest.7F631C30178D04B2.quest_desc: ["A &ebelt&r that grants you the ability to &elevitate&r by sneaking while falling or jumping, providing a means of controlled ascent and descent."]
+	quest.7F631C30178D04B2.quest_subtitle: "&8Defying Gravity&r"
+	quest.7F631C30178D04B2.title: "Floating on a Whim: The &eBelt of Levitation&r"
+	quest.7F8213BB04E5CA64.quest_desc: [
+		"Equipping a &bSpell Focus&r provides *&apassive benefits&r* and enhances &bspells&r, often specializing in certain &dschools of magic&r."
+		""
+		"Think of it as a way to fine-tune your &dmagical abilities&r, making certain &bspells&r &astronger&r or &acheaper to cast&r, sometimes at the cost of &4weakening&r others."
+	]
+	quest.7F8213BB04E5CA64.quest_subtitle: "&8Directing the Arcane Current&r"
+	quest.7F8213BB04E5CA64.title: "&l&6Channeling Magic: The Spell Focus Slot&r"
+	quest.7F9C56714DE07B2A.quest_desc: ["A &echarm&r that generates a localized aura, trapping &4hostile projectiles&r that enter its vicinity, providing a form of &aranged defense&r."]
+	quest.7F9C56714DE07B2A.quest_subtitle: "&8Entropic Field&r"
+	quest.7F9C56714DE07B2A.title: "Projectile Prison: The &3Quantum Bubble&r"
+	task.0019812F27EC7874.title: "Become a tank!"
+	task.028FB13A83E69B10.title: "For you!"
+	task.052599C74A1FA6E9.title: "Inventory"
+	task.092303ED431DEDC4.title: "Head"
+	task.0C20058961295736.title: "Enhancing Magic Power"
+	task.0DF44BA7E334BE19.title: "Belt"
+	task.10B2B54525658C9B.title: "Back"
+	task.1A8380E522EF0A63.title: "AllRightsReserved"
+	task.1E304661DF5391D0.title: "Cosmetics!"
+	task.212593A31F2A6572.title: "Bundle"
+	task.26BD806F3D9C06C3.title: "Hands"
+	task.27A950EB0BB59F06.title: "Body"
+	task.3676C37829726A60.title: "Armor"
+	task.370716B287D861E7.title: "Ring"
+	task.38A5E5F1C71B72F5.title: "Move around easier"
+	task.3F7FC12D7A0C9608.title: "Necklace"
+	task.4A9B9244E9AF8415.title: "Tools"
+	task.4B8F3B05CA13649F.title: "Utility"
+	task.54508F8E58AA7028.title: "Curios Slots"
+	task.550FA53988D3FE57.title: "Bracelet"
+	task.56C7F6F7726C4C44.title: "AllRightsReserved"
+	task.5963BA609FC2B5AF.title: "Charm"
+	task.64BBABFCF5E6FD52.title: "Applying effects"
+	task.6B3BB87EAB2EBC66.title: "Weapons and Tools"
+	task.7419B8F86A7FBF4E.title: "Spell Focus"
+}
