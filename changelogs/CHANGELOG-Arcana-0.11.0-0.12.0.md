@@ -74,7 +74,7 @@ The quest book has had a large pass over it: chapters ported from other packs, a
 - evilcraft (1.2.89 > 1.2.93)
 - fragmentum (2.2.4 > 2.4.1)
 - ftblibrary (2101.1.34 > 2101.1.35)
-- ftbquests (2101.1.28 > 2101.1.31)
+- ftbquests (2101.1.28 > 2101.1.30)
 - ftbxmodcompat (21.1.10 > 21.1.11)
 - fusion (1.3.10 > 1.3.12)
 - gtbcs_spell_lib (1.5.0-1.21.1 > 2.0.0-1.21.1)
