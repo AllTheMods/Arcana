@@ -1,0 +1,9 @@
+{
+    "amount": 0.05,
+    "attribute": "aces_spell_utils:technomancy_spell_power",
+    "containerItem": {
+        "count": 1,
+        "id": "cataclysm_spellbooks:technomancy_upgrade_orb"
+    },
+    "operation": "add_multiplied_base"
+}
