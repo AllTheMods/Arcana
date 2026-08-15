@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomeswevegone"
+    }
+  ],
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:seeds",
+  "preset": "biomeswevegone:seeds",
+  "result": {
+    "item": "biomeswevegone:pale_pumpkin_seeds"
+  }
+}

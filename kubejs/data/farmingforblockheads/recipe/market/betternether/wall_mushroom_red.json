@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "betternether"
+    }
+  ],
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:other",
+  "preset": "betternether:mushrooms",
+  "result": {
+    "item": "betternether:wall_mushroom_red"
+  }
+}

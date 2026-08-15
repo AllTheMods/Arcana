@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "youkaishomecoming"
+    }
+  ],
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:seeds",
+  "preset": "youkaishomecoming:seeds",
+  "result": {
+    "item": "youkaishomecoming:coffee_beans"
+  }
+}

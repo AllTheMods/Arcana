@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "expandeddelight"
+    }
+  ],
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:seeds",
+  "preset": "expandeddelight:seeds",
+  "result": {
+    "item": "expandeddelight:chili_pepper_seeds"
+  }
+}

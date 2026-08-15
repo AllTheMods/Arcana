@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "trailandtales_delight"
+    }
+  ],
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:seeds",
+  "preset": "trailandtales_delight:seeds",
+  "result": {
+    "item": "trailandtales_delight:lantern_fruit_seeds"
+  }
+}

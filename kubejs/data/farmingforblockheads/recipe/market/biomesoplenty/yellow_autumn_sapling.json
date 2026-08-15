@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:item_exists",
+      "item": "biomesoplenty:yellow_autumn_sapling"
+    }
+  ],
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:saplings",
+  "preset": "biomesoplenty:saplings",
+  "result": {
+    "item": "biomesoplenty:yellow_autumn_sapling"
+  }
+}

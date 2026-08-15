@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomeswevegone"
+    }
+  ],
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:saplings",
+  "preset": "biomeswevegone:saplings",
+  "result": {
+    "item": "biomeswevegone:indigo_jacaranda_sapling"
+  }
+}

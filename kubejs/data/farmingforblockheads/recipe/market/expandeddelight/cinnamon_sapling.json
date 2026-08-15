@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "expandeddelight"
+    }
+  ],
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:saplings",
+  "preset": "expandeddelight:saplings",
+  "result": {
+    "item": "expandeddelight:cinnamon_sapling"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "buzzier_bees"
+    }
+  ],
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:flowers",
+  "preset": "buzzier_bees:bees",
+  "result": {
+    "item": "buzzier_bees:pink_clover"
+  }
+}

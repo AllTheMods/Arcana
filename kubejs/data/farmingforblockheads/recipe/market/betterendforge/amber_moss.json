@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "betterendforge"
+    }
+  ],
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:other",
+  "preset": "betterendforge:soil",
+  "result": {
+    "item": "betterendforge:amber_moss"
+  }
+}
