@@ -4,6 +4,9 @@
 In-depth changelog of the new versions of the pack.
 
 _Note: use some browser extension like [Markdown Viewer](https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk) if changelog is too big._
+## 📦 [0.12.0] - 🗓️ 2026-08-15
+
+[0.12.0]: ./changelogs/CHANGELOG-Arcana-0.11.0-0.12.0.md
 ## 📦 [0.11.0] - 🗓️ 2026-07-29
 
 [0.11.0]: ./changelogs/CHANGELOG-Arcana-0.10.0-0.11.0.md

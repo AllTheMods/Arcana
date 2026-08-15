@@ -1165,6 +1165,14 @@
     "curseForgeHash": 463793783,
     "modrinthHash": "06061863f24e1c0d9b2bb2646e96e07cbf0029f5"
   },
+  "ftbquestslangsplitter-1.0.6.jar": {
+    "jarName": "ftbquestslangsplitter-1.0.6.jar",
+    "modId": "ftbquestslangsplitter",
+    "name": "FTB Quests Lang Splitter",
+    "version": "1.0.6",
+    "curseForgeHash": 1716030245,
+    "modrinthHash": "5550a1a74716e91b2004702618d0bef963a34091"
+  },
   "fusion-1.3.12-neoforge-mc1.21.1.jar": {
     "jarName": "fusion-1.3.12-neoforge-mc1.21.1.jar",
     "modId": "fusion",
