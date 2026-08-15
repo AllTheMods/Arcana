@@ -28,12 +28,13 @@ The quest book has had a large pass over it: chapters ported from other packs, a
 - Quest book overhaul - a large batch of ported chapters, chapter fixes, and LangSplitter implementation (#204) (PrincessStellar)
 - Added a Neo Vitae quest (#208) (PrincessStellar)
 - The Create Enchantment Industry Infuser now has a crafting recipe, cross-ported from All the Mods 10 (#205, #209) (item4)
+- The Technomancy Upgrade Orb from Cataclysm Spellbooks can be crafted but the mod ships no upgrade definition for it, so it did nothing - the pack now supplies one (LobsterJonn)
 - Data'n'Essence to Halcyon migration - registry aliases and migration scripts so existing worlds keep their blocks and items (LobsterJonn)
 - Enabled ModernFix dynamic resources to cut client memory use (LobsterJonn)
 - Hid grindstone recipes in JEI, which the pack generates thousands of (LobsterJonn)
+- Silenced 1050 startup errors from Farming for Blockheads market recipes that point at mods the pack does not include (LobsterJonn)
 - Disabled the spark background profiler (LobsterJonn)
 - Crash Assistant reports now include the pack version (LobsterJonn)
-- Shrunk newly added quest images to their displayed size, cutting 4.4 MB from the pack (LobsterJonn)
 
 </blockquote>
 
