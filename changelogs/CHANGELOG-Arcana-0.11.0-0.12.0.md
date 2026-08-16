@@ -6,19 +6,21 @@
 
 **BACKUP FIRST**
 
-0.12.0 is a large pass - 45 mods updated, NeoForge moves to 21.1.248, the quest book gets a major overhaul, and a crash from 0.11.0 is fixed. Read the previous changelog if you're not on 0.11.0 yet.
+0.12.0 is a larger update with 45 mod updates, the quest book gets a major overhaul, and a crash from 0.11.0 is fixed. Read the previous changelogs if you're not on 0.11.0 yet.
+
+NeoForge version is 21.1.248
 
 > [!IMPORTANT]
 > **A crash from 0.11.0 is fixed.** 0.11.0 shipped Cataclysm Spellbooks 1.1.12, which crashes whenever a mob carrying the Shutdown effect takes damage. The mod is rolled back to 1.1.11, which does not contain the effect at all.
 
 > [!IMPORTANT]
-> **Data'n'Essence is now Halcyon.** The mod changed its id along with its name. Registry aliases and migration scripts ship with the pack, so existing worlds carry their blocks and items across without a reset.
+> **Halcyon changed its mod id.** The id changed from `datanessence` to `halcyon`. Registry aliases and migration scripts ship with the pack, so they carry across without a reset.
 
 **A batch of memory leaks is fixed.** Several of these stranded an entire world in memory every time you loaded a world or changed dimension, which is what pushed clients into running out of memory. AllTheLeaks moves to 1.1.12 with new fixes covering leaks in **GeckoLib, JEI, Primal Magick, Hexerei, Waves, ElementalCraft, Reactive, Modopedia and OctoLib**, and Uranus moves to a bugfix build that clears a leak of its own.
 
 **ModernFix's dynamic resources is now enabled**, which noticeably lowers client memory use on a pack this size. Better Foliage Renewed had to be removed to make that possible - the two crash together. Grindstone recipes are also hidden in JEI now; the pack generates thousands of them and they only ever added clutter and memory pressure.
 
-The quest book has had a large pass over it: chapters ported from other packs, a batch of chapter fixes, and LangSplitter wired up so quest text lives in its own lang tree.
+The quest book has had many changes: chapters ported from other packs, a batch of chapter fixes, and LangSplitter wired up so quest text lives in its own lang tree.
 
 
 <details open>
@@ -29,7 +31,7 @@ The quest book has had a large pass over it: chapters ported from other packs, a
 - Added a Neo Vitae quest (#208) (PrincessStellar)
 - The Create Enchantment Industry Infuser now has a crafting recipe, cross-ported from All the Mods 10 (#205, #209) (item4)
 - The Technomancy Upgrade Orb from Cataclysm Spellbooks can be crafted but the mod ships no upgrade definition for it, so it did nothing - the pack now supplies one (LobsterJonn)
-- Data'n'Essence to Halcyon migration - registry aliases and migration scripts so existing worlds keep their blocks and items (LobsterJonn)
+- Halcyon mod id migration - registry aliases and migration scripts so existing worlds keep their blocks and items (LobsterJonn)
 - Enabled ModernFix dynamic resources to cut client memory use (LobsterJonn)
 - Hid grindstone recipes in JEI, which the pack generates thousands of (LobsterJonn)
 - Silenced 1050 startup errors from Farming for Blockheads market recipes that point at mods the pack does not include (LobsterJonn)
@@ -116,7 +118,7 @@ The quest book has had a large pass over it: chapters ported from other packs, a
 
 - Better Foliage Renewed (6.0)
 - Right Click Harvest (4.6.1+1.21.1)
-- Scriptor (2.0.8-1.21.1)
+- Scriptor Magicae (2.0.8-1.21.1)
 - Unfocused (0.3.3-1.21.1)
 
 </details>
