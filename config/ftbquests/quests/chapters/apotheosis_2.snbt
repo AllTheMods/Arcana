@@ -292,7 +292,7 @@
 				item: { components: { "ftbfiltersystem:filter": "item(minecraft:enchanted_book)or(component(fuzzy:{\"minecraft:stored_enchantments\":{\"apothic_spawners:capturing\":1}})component(fuzzy:{\"minecraft:stored_enchantments\":{\"apothic_spawners:capturing\":2}})component(fuzzy:{\"minecraft:stored_enchantments\":{\"apothic_spawners:capturing\":3}})component(fuzzy:{\"minecraft:stored_enchantments\":{\"apothic_spawners:capturing\":4}})component(fuzzy:{\"minecraft:stored_enchantments\":{\"apothic_spawners:capturing\":5}})component(fuzzy:{\"minecraft:stored_enchantments\":{\"apothic_spawners:capturing\":6}})component(fuzzy:{\"minecraft:stored_enchantments\":{\"apothic_spawners:capturing\":7}}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -2.5d
+			x: -2.0d
 			y: 3.5d
 		}
 		{
@@ -311,7 +311,7 @@
 				item: { components: { "ftbfiltersystem:filter": "item(reliquary:mob_charm_fragment)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.5d
+			x: 0.0d
 			y: 4.0d
 		}
 		{
@@ -328,8 +328,8 @@
 				item: { count: 1, id: "evilcraft:spirit_reanimator" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: 4.0d
+			x: 1.0d
+			y: 3.5d
 		}
 		{
 			id: "0F0E227FC3EC0D90"
@@ -352,7 +352,7 @@
 				item: { count: 1, id: "ars_additions:source_spawner" }
 				type: "item"
 			}]
-			x: 0.5d
+			x: 0.0d
 			y: 7.0d
 		}
 		{
@@ -372,23 +372,8 @@
 				item: { count: 1, id: "mysticalagriculture:soulium_spawner" }
 				type: "item"
 			}]
-			x: -0.5d
+			x: -1.0d
 			y: 7.0d
-		}
-		{
-			dependencies: ["0F0E227FC3EC0D90"]
-			id: "21C2458FED19363C"
-			rewards: [{
-				id: "2F9C649B1E5EB36A"
-				type: "random"
-			}]
-			tasks: [{
-				id: "0B123D1F8C297D24"
-				item: { components: { "ftbquests:missing_item": "industrialforegoing:mob_duplicator" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: -0.5d
-			y: 9.0d
 		}
 		{
 			dependencies: ["78E94C386B1E7359"]
@@ -403,7 +388,7 @@
 				item: { count: 1, id: "apothic_enchanting:occult_ender_lead" }
 				type: "item"
 			}]
-			x: -1.5d
+			x: -1.0d
 			y: 4.0d
 		}
 		{
@@ -474,9 +459,9 @@
 			dependencies: ["17C87EB8ED8A27AB"]
 			id: "3F1430ADB648102F"
 			rewards: [{
-				id: "7D66827934F17D92"
-				type: "xp_levels"
-				xp_levels: 50
+				id: "67456CD9CFC26564"
+				type: "xp"
+				xp: 50
 			}]
 			tasks: [{
 				id: "36B1DF7B054D803A"
@@ -490,9 +475,9 @@
 			dependencies: ["17C87EB8ED8A27AB"]
 			id: "17410BE15A81DD96"
 			rewards: [{
-				id: "39962F3D8EB1C56B"
-				type: "xp_levels"
-				xp_levels: 100
+				id: "0AD69ACF9937FA80"
+				type: "xp"
+				xp: 100
 			}]
 			tasks: [{
 				id: "602E67E4865AF1C5"
