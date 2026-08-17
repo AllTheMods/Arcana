@@ -967,6 +967,7 @@
 		}
 		{
 			dependencies: ["097FDC136BC843A7"]
+			hide_dependent_lines: true
 			icon: {
 				id: "minecraft:netherite_sword"
 			}
@@ -1061,7 +1062,10 @@
 			y: 3.5d
 		}
 		{
-			dependencies: ["14E6E565B8B7C184"]
+			dependencies: [
+				"14E6E565B8B7C184"
+				"7EF873DCEB3B9D48"
+			]
 			icon: {
 				components: {
 					"gateways:gateway": "apotheosis:endless_invader"
