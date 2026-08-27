@@ -510,7 +510,7 @@
 			id: "45161821C221EF0B"
 			rewards: [
 				{
-					count: 4
+					count: 5
 					id: "5EA31425E6857271"
 					item: {
 						count: 1
@@ -608,7 +608,7 @@
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [{
-				count: 12L
+				count: 13L
 				id: "603467A3762BE456"
 				item: { count: 1, id: "apothic_enchanting:glowing_hellshelf" }
 				type: "item"
@@ -1644,7 +1644,10 @@
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			icon: {
-				id: "apotheosis:timeworn_fabric"
+				components: {
+					"gateways:gateway": "apotheosis:tiered/frontier"
+				}
+				id: "gateways:gate_pearl"
 			}
 			id: "37E556B4A730E5AA"
 			rewards: [{
@@ -1671,7 +1674,10 @@
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			icon: {
-				id: "apotheosis:luminous_crystal_shard"
+				components: {
+					"gateways:gateway": "apotheosis:tiered/ascent"
+				}
+				id: "gateways:gate_pearl"
 			}
 			id: "091957223C32B094"
 			rewards: [{
@@ -1734,7 +1740,10 @@
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			icon: {
-				id: "apotheosis:arcane_sands"
+				components: {
+					"gateways:gateway": "apotheosis:tiered/summit"
+				}
+				id: "gateways:gate_pearl"
 			}
 			id: "1113BF457DB7F1DE"
 			rewards: [{
@@ -1760,7 +1769,10 @@
 			]
 			hide_dependent_lines: true
 			icon: {
-				id: "apotheosis:godforged_pearl"
+				components: {
+					"gateways:gateway": "apotheosis:tiered/pinnacle"
+				}
+				id: "gateways:gate_pearl"
 			}
 			id: "73E09ED46A94B812"
 			rewards: [{
