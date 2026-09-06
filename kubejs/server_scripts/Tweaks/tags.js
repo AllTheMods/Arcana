@@ -137,6 +137,8 @@ ServerEvents.tags(`item`, ATM => {
     missingItems.forEach(id => {
         ATM.removeAllTagsFrom(id)
     })
+
+    ATM.remove("reliquified_artifacts:anglers_hat_valuables", ["#c:raw_materials"]);
 })
 
 ServerEvents.tags(`block`, ATM => {
